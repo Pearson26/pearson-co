@@ -20424,5 +20424,4017 @@
     "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
     "status": "not-started",
     "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": true,
+    "title": "Hospitality technology and Middle East market entry",
+    "url_slug": "hospitality-tech-market-entry",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "hospitality technology",
+    "primary_volume": 2010,
+    "primary_kd": 40,
+    "secondary_keywords": [
+      "market entry strategy",
+      "hotel technology",
+      "restaurant technology"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hospitality technology"
+      }
+    ],
+    "direct_answer": "Hospitality technology firms, in hotels, restaurants and travel, win when their product meets a real local market need. Lauren helps these companies enter and grow across the Middle East with a practical market-entry strategy, local insight and fractional commercial support, so they gain traction without the cost of a full regional team.",
+    "h2_outline": [
+      "The vertical and the opportunity",
+      "Why the Middle East, and how to approach it",
+      "How Lauren supports market entry",
+      "From plan to local traction",
+      "What an engagement includes"
+    ],
+    "word_count_target": 2300,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "Market entry strategy consulting",
+    "url_slug": "market-entry-strategy-service",
+    "target_market": "UAE",
+    "intent": "commercial",
+    "primary_keyword": "market entry strategy",
+    "primary_volume": 4260,
+    "primary_kd": 47,
+    "secondary_keywords": [
+      "market entry consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "market entry strategy"
+      }
+    ],
+    "direct_answer": "What Lauren's market entry strategy consulting covers, who it suits, how it runs and the outcomes to expect, with the Middle East as the focus.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Middle East expansion consulting",
+    "url_slug": "middle-east-expansion-consulting",
+    "target_market": "UAE",
+    "intent": "commercial",
+    "primary_keyword": "middle east expansion",
+    "primary_volume": 260,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "middle east market entry"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "middle east expansion"
+      }
+    ],
+    "direct_answer": "What Lauren's middle east expansion consulting covers, who it suits, how it runs and the outcomes to expect, with the Middle East as the focus.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "UAE market entry service",
+    "url_slug": "uae-market-entry-service",
+    "target_market": "UAE",
+    "intent": "commercial",
+    "primary_keyword": "uae market entry",
+    "primary_volume": 170,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "enter uae market"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "uae market entry"
+      }
+    ],
+    "direct_answer": "What Lauren's uae market entry service covers, who it suits, how it runs and the outcomes to expect, with the Middle East as the focus.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "GCC market entry service",
+    "url_slug": "gcc-market-entry-service",
+    "target_market": "UAE",
+    "intent": "commercial",
+    "primary_keyword": "gcc market entry",
+    "primary_volume": 110,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "gulf market entry"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "gcc market entry"
+      }
+    ],
+    "direct_answer": "What Lauren's gcc market entry service covers, who it suits, how it runs and the outcomes to expect, with the Middle East as the focus.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Hospitality tech market entry",
+    "url_slug": "hospitality-tech-market-entry-service",
+    "target_market": "UAE",
+    "intent": "commercial",
+    "primary_keyword": "hospitality technology market entry",
+    "primary_volume": 90,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "hospitality tech expansion"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "hospitality technology market entry"
+      }
+    ],
+    "direct_answer": "What Lauren's hospitality tech market entry covers, who it suits, how it runs and the outcomes to expect, with the Middle East as the focus.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Hotel technology consulting",
+    "url_slug": "hotel-tech-consulting",
+    "target_market": "UAE",
+    "intent": "commercial",
+    "primary_keyword": "hotel technology consulting",
+    "primary_volume": 110,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "hotel tech advisory"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "hotel technology consulting"
+      }
+    ],
+    "direct_answer": "What Lauren's hotel technology consulting covers, who it suits, how it runs and the outcomes to expect, with the Middle East as the focus.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Restaurant technology consulting",
+    "url_slug": "restaurant-tech-consulting",
+    "target_market": "UAE",
+    "intent": "commercial",
+    "primary_keyword": "restaurant technology consulting",
+    "primary_volume": 90,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "restaurant tech advisory"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "restaurant technology consulting"
+      }
+    ],
+    "direct_answer": "What Lauren's restaurant technology consulting covers, who it suits, how it runs and the outcomes to expect, with the Middle East as the focus.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Hospitality SaaS go-to-market",
+    "url_slug": "hospitality-saas-go-to-market",
+    "target_market": "UAE",
+    "intent": "commercial",
+    "primary_keyword": "hospitality saas go to market",
+    "primary_volume": 70,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "hospitality saas growth"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hospitality saas go to market"
+      }
+    ],
+    "direct_answer": "What Lauren's hospitality saas go-to-market covers, who it suits, how it runs and the outcomes to expect, with the Middle East as the focus.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Commercial partnerships for hospitality tech",
+    "url_slug": "hospitality-tech-sales-partnerships",
+    "target_market": "UAE",
+    "intent": "commercial",
+    "primary_keyword": "hospitality technology partnerships",
+    "primary_volume": 50,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "channel partnerships hospitality"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "hospitality technology partnerships"
+      }
+    ],
+    "direct_answer": "What Lauren's commercial partnerships for hospitality tech covers, who it suits, how it runs and the outcomes to expect, with the Middle East as the focus.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Hospitality technology consultant",
+    "url_slug": "hospitality-tech-consultant",
+    "target_market": "UAE",
+    "intent": "commercial",
+    "primary_keyword": "hospitality technology consultant",
+    "primary_volume": 90,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "hospitality tech consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "hospitality technology consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's hospitality technology consultant covers, who it suits, how it runs and the outcomes to expect, with the Middle East as the focus.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is hotel technology?",
+    "url_slug": "what-is-hotel-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hotel technology",
+    "primary_volume": 2850,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hotel technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hotel technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Hotel technology trends",
+    "url_slug": "hotel-technology-trends",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hotel technology trends",
+    "primary_volume": 880,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hotel technology trends"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hotel technology trends\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Types of hotel technology",
+    "url_slug": "types-of-hotel-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "types of hotel technology",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "types of hotel technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"types of hotel technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "A guide to hotel management software",
+    "url_slug": "hotel-management-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hotel management software",
+    "primary_volume": 1300,
+    "primary_kd": 38,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, hotel management software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hotel management software\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which fits and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Hotel PMS explained",
+    "url_slug": "hotel-pms-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hotel pms",
+    "primary_volume": 1900,
+    "primary_kd": 38,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hotel pms"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hotel pms\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best hotel technology",
+    "url_slug": "best-hotel-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best hotel technology",
+    "primary_volume": 260,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "best hotel technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best hotel technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which fits and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Building a hotel tech stack",
+    "url_slug": "hotel-tech-stack",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hotel tech stack",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "hotel tech stack"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hotel tech stack\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Contactless technology in hotels",
+    "url_slug": "contactless-hotel-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "contactless hotel technology",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "contactless hotel technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"contactless hotel technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Guest experience technology",
+    "url_slug": "hotel-guest-experience-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "guest experience technology",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "guest experience technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"guest experience technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Hotel revenue management technology",
+    "url_slug": "hotel-revenue-management-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hotel revenue management",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hotel revenue management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hotel revenue management\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How hotels choose technology",
+    "url_slug": "how-hotels-choose-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how hotels buy technology",
+    "primary_volume": 50,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how hotels buy technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how hotels buy technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The ROI of hotel technology",
+    "url_slug": "hotel-technology-roi",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hotel technology roi",
+    "primary_volume": 40,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "hotel technology roi"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hotel technology roi\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is restaurant technology?",
+    "url_slug": "what-is-restaurant-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant technology",
+    "primary_volume": 2800,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "restaurant technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Restaurant technology trends",
+    "url_slug": "restaurant-technology-trends",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant technology trends",
+    "primary_volume": 720,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "restaurant technology trends"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant technology trends\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Types of restaurant technology",
+    "url_slug": "types-of-restaurant-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "types of restaurant technology",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "types of restaurant technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"types of restaurant technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "A guide to restaurant POS systems",
+    "url_slug": "restaurant-pos-systems",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant pos system",
+    "primary_volume": 2400,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, restaurant pos system"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant pos system\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which fits and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "A guide to restaurant management software",
+    "url_slug": "restaurant-management-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant management software",
+    "primary_volume": 1000,
+    "primary_kd": 36,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the difference, restaurant management software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant management software\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which fits and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best restaurant technology",
+    "url_slug": "best-restaurant-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best restaurant technology",
+    "primary_volume": 170,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "best restaurant technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best restaurant technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which fits and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Building a restaurant tech stack",
+    "url_slug": "restaurant-tech-stack",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant tech stack",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "restaurant tech stack"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant tech stack\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Online ordering technology for restaurants",
+    "url_slug": "online-ordering-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "online ordering system",
+    "primary_volume": 1300,
+    "primary_kd": 38,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "online ordering system"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"online ordering system\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Restaurant automation",
+    "url_slug": "restaurant-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant automation",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "restaurant automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant automation\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Kitchen display systems explained",
+    "url_slug": "kitchen-display-systems",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "kitchen display system",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "kitchen display system"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"kitchen display system\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How restaurants choose technology",
+    "url_slug": "how-restaurants-choose-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how restaurants buy technology",
+    "primary_volume": 50,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how restaurants buy technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how restaurants buy technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The ROI of restaurant technology",
+    "url_slug": "restaurant-technology-roi",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant technology roi",
+    "primary_volume": 40,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "restaurant technology roi"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant technology roi\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Hospitality technology trends",
+    "url_slug": "hospitality-technology-trends",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality technology trends",
+    "primary_volume": 720,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hospitality technology trends"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality technology trends\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is hospitality SaaS?",
+    "url_slug": "what-is-hospitality-saas",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality saas",
+    "primary_volume": 150,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hospitality saas"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality saas\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-saas-go-to-market"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Types of hospitality technology",
+    "url_slug": "types-of-hospitality-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "types of hospitality technology",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "types of hospitality technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"types of hospitality technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "A guide to hospitality management software",
+    "url_slug": "hospitality-management-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality management software",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, hospitality management software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality management software\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which fits and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Building a hospitality tech stack",
+    "url_slug": "hospitality-tech-stack",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality tech stack",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hospitality tech stack"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality tech stack\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Guest experience technology in hospitality",
+    "url_slug": "hospitality-guest-experience-technology",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "guest experience technology hospitality",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "guest experience technology hospitality"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"guest experience technology hospitality\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Hospitality technology companies to know",
+    "url_slug": "hospitality-technology-companies",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality technology companies",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "hospitality technology companies"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality technology companies\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Hospitality technology trends for 2026",
+    "url_slug": "hospitality-technology-2026",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality technology 2026",
+    "primary_volume": 110,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "hospitality technology 2026"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality technology 2026\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How hospitality technology is sold",
+    "url_slug": "how-hospitality-tech-is-sold",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "selling hospitality technology",
+    "primary_volume": 40,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "selling hospitality technology"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"selling hospitality technology\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-saas-go-to-market"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Hospitality SaaS pricing models",
+    "url_slug": "hospitality-saas-pricing",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality saas pricing",
+    "primary_volume": 40,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hospitality saas pricing"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality saas pricing\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-saas-go-to-market"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Driving hospitality technology adoption",
+    "url_slug": "hospitality-technology-adoption",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality technology adoption",
+    "primary_volume": 40,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "hospitality technology adoption"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality technology adoption\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The hospitality technology buyer",
+    "url_slug": "hospitality-technology-buyer",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality technology buyer",
+    "primary_volume": 30,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "hospitality technology buyer"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality technology buyer\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a market entry strategy?",
+    "url_slug": "what-is-a-market-entry-strategy",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a market entry strategy",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is a market entry strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is a market entry strategy\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A market entry strategy framework",
+    "url_slug": "market-entry-strategy-framework",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "market entry strategy framework",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "market entry strategy framework"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"market entry strategy framework\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Types of market entry strategies",
+    "url_slug": "types-of-market-entry-strategies",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "types of market entry strategies",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "types of market entry strategies"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"types of market entry strategies\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Market entry strategy examples",
+    "url_slug": "market-entry-strategy-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "market entry strategy examples",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "market entry strategy examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"market entry strategy examples\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to create a market entry strategy",
+    "url_slug": "how-to-create-a-market-entry-strategy",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to create a market entry strategy",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how to create a market entry strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to create a market entry strategy\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Market entry modes explained",
+    "url_slug": "market-entry-modes",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "market entry modes",
+    "primary_volume": 260,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "market entry modes"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"market entry modes\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Market entry barriers",
+    "url_slug": "market-entry-barriers",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "market entry barriers",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "market entry barriers"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"market entry barriers\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Market entry risks",
+    "url_slug": "market-entry-risks",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "market entry risks",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "market entry risks"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"market entry risks\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Go-to-market vs market entry",
+    "url_slug": "go-to-market-vs-market-entry",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "go to market vs market entry",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the difference, go to market vs market entry"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"go to market vs market entry\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which fits and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A market entry strategy for SaaS",
+    "url_slug": "market-entry-strategy-saas",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "saas market entry strategy",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "saas market entry strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saas market entry strategy\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A market entry strategy for tech companies",
+    "url_slug": "market-entry-strategy-tech",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "market entry strategy tech",
+    "primary_volume": 70,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "market entry strategy tech"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"market entry strategy tech\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "An international expansion strategy",
+    "url_slug": "international-expansion-strategy",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "international expansion strategy",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "international expansion strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"international expansion strategy\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Market entry research",
+    "url_slug": "market-entry-research",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "market entry research",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "market entry research"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"market entry research\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "Market sizing for entry",
+    "url_slug": "market-sizing",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "market sizing",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I market sizing"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"market sizing\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A market entry checklist",
+    "url_slug": "market-entry-checklist",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "market entry checklist",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "market entry checklist"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"market entry checklist\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A market entry strategy template",
+    "url_slug": "market-entry-strategy-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "market entry strategy template",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "market entry strategy template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"market entry strategy template\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Expanding into the Middle East",
+    "url_slug": "expanding-into-the-middle-east",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "expanding into the middle east",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "expanding into the middle east"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"expanding into the middle east\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "middle-east-expansion-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Entering the UAE market",
+    "url_slug": "entering-the-uae-market",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "entering the uae market",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "entering the uae market"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"entering the uae market\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "uae-market-entry-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A GCC market entry guide",
+    "url_slug": "gcc-market-entry-guide",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "gcc market entry",
+    "primary_volume": 110,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "gcc market entry"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"gcc market entry\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "gcc-market-entry-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Doing business in the UAE",
+    "url_slug": "doing-business-in-the-uae",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "doing business in the uae",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "doing business in the uae"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"doing business in the uae\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "uae-market-entry-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Setting up a business in Dubai",
+    "url_slug": "setting-up-a-business-in-dubai",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "setting up a business in dubai",
+    "primary_volume": 1300,
+    "primary_kd": 36,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "setting up a business in dubai"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"setting up a business in dubai\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "uae-market-entry-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "UAE market entry for tech companies",
+    "url_slug": "uae-market-entry-tech",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "uae market entry tech",
+    "primary_volume": 50,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "uae market entry tech"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"uae market entry tech\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "uae-market-entry-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Selling SaaS in the Middle East",
+    "url_slug": "selling-saas-in-the-middle-east",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "selling saas middle east",
+    "primary_volume": 40,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "selling saas middle east"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"selling saas middle east\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "middle-east-expansion-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Hospitality technology in the Middle East",
+    "url_slug": "hospitality-tech-middle-east",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "hospitality technology middle east",
+    "primary_volume": 40,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "hospitality technology middle east"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality technology middle east\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-market-entry-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Hotel technology in the GCC",
+    "url_slug": "hotel-tech-gcc",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "hotel technology gcc",
+    "primary_volume": 30,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hotel technology gcc"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hotel technology gcc\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Restaurant technology in the UAE",
+    "url_slug": "restaurant-tech-uae",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "restaurant technology uae",
+    "primary_volume": 30,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "restaurant technology uae"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant technology uae\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Entering the Saudi Arabia market",
+    "url_slug": "entering-saudi-arabia-market",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "saudi arabia market entry",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "saudi arabia market entry"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saudi arabia market entry\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "gcc-market-entry-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Expanding into the Middle East without a local team",
+    "url_slug": "middle-east-expansion-no-local-team",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "middle east expansion without office",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "middle east expansion without office"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"middle east expansion without office\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "middle-east-expansion-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Finding distributors and partners in the Middle East",
+    "url_slug": "middle-east-distributors",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "middle east distributors",
+    "primary_volume": 40,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "middle east distributors"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"middle east distributors\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-sales-partnerships"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Cultural considerations for doing business in the Middle East",
+    "url_slug": "middle-east-business-culture",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "middle east business culture",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "middle east business culture"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"middle east business culture\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "middle-east-expansion-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The Middle East technology market",
+    "url_slug": "middle-east-tech-market",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "middle east tech market",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "middle east tech market"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"middle east tech market\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "middle-east-expansion-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The GCC hospitality market",
+    "url_slug": "gcc-hospitality-market",
+    "target_market": "UAE",
+    "intent": "informational",
+    "primary_keyword": "gcc hospitality market",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "gcc hospitality market"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"gcc hospitality market\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-market-entry-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A go-to-market strategy for hospitality tech",
+    "url_slug": "gtm-for-hospitality-tech",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality tech go to market",
+    "primary_volume": 50,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hospitality tech go to market"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality tech go to market\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-saas-go-to-market"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to sell to hotels",
+    "url_slug": "selling-to-hotels",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "selling to hotels",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "selling to hotels"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"selling to hotels\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hotel-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to sell to restaurants",
+    "url_slug": "selling-to-restaurants",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "selling to restaurants",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "selling to restaurants"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"selling to restaurants\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "restaurant-tech-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Partnerships for market entry",
+    "url_slug": "partnerships-for-market-entry",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "channel partnerships market entry",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "channel partnerships market entry"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"channel partnerships market entry\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "hospitality-tech-sales-partnerships"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A distribution strategy for new markets",
+    "url_slug": "distribution-strategy-new-markets",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "distribution strategy",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "distribution strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"distribution strategy\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 7,
+    "pillar": "Hospitality Tech & Middle East Expansion",
+    "pillar_id": "hospitality-expansion",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pricing for a new market",
+    "url_slug": "pricing-for-a-new-market",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pricing for new market",
+    "primary_volume": 70,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "pricing for new market"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pricing for new market\", written for hospitality technology firms, with the Middle East angle where it helps.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "hospitality-tech-market-entry",
+        "market-entry-strategy-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
   }
 ]

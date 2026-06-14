@@ -8798,6 +8798,3263 @@ window.PLAN_ROWS = [
     ],
     "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
     "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": true,
+    "title": "CRM implementation and selection",
+    "url_slug": "crm-implementation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm implementation",
+    "primary_volume": 2400,
+    "primary_kd": 32,
+    "secondary_keywords": [
+      "crm implementation services",
+      "crm implementation consultant",
+      "how to implement a crm"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm implementation"
+      }
+    ],
+    "direct_answer": "CRM implementation is the work of choosing, setting up and rolling out a CRM so a team actually uses it and leadership trusts the data. Most projects fail on adoption, not software. This is how Lauren leads selection and implementation for founder-led teams.",
+    "h2_outline": [
+      "What CRM implementation and selection involve",
+      "Why projects stall or fail",
+      "How Lauren runs an implementation",
+      "Choosing the right CRM",
+      "What an engagement includes"
+    ],
+    "word_count_target": 2200,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "CRM implementation services",
+    "url_slug": "crm-implementation-services",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm implementation services",
+    "primary_volume": 480,
+    "primary_kd": 20,
+    "secondary_keywords": [
+      "crm implementation company"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm implementation services"
+      }
+    ],
+    "direct_answer": "What Lauren's crm implementation services covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "CRM implementation consultant",
+    "url_slug": "crm-implementation-consultant",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm implementation consultant",
+    "primary_volume": 210,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "crm implementation consultancy"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm implementation consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's crm implementation consultant covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM implementation pricing",
+    "url_slug": "crm-implementation-cost",
+    "target_market": "UK",
+    "intent": "transactional",
+    "primary_keyword": "crm implementation cost",
+    "primary_volume": 90,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "crm implementation pricing"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm implementation cost"
+      }
+    ],
+    "direct_answer": "What Lauren's crm implementation pricing covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "CRM audit",
+    "url_slug": "crm-audit",
+    "target_market": "UK",
+    "intent": "transactional",
+    "primary_keyword": "crm audit",
+    "primary_volume": 50,
+    "primary_kd": 12,
+    "secondary_keywords": [
+      "crm health check"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm audit"
+      }
+    ],
+    "direct_answer": "What Lauren's crm audit covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "HubSpot implementation",
+    "url_slug": "hubspot-implementation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "hubspot crm implementation",
+    "primary_volume": 390,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "hubspot onboarding"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "hubspot crm implementation"
+      }
+    ],
+    "direct_answer": "What Lauren's hubspot implementation covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Salesforce implementation",
+    "url_slug": "salesforce-implementation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "salesforce crm implementation",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "salesforce setup"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "salesforce crm implementation"
+      }
+    ],
+    "direct_answer": "What Lauren's salesforce implementation covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Zoho CRM implementation",
+    "url_slug": "zoho-crm-implementation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "zoho crm implementation",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "zoho crm setup"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "zoho crm implementation"
+      }
+    ],
+    "direct_answer": "What Lauren's zoho crm implementation covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Microsoft Dynamics CRM implementation",
+    "url_slug": "dynamics-crm-implementation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "microsoft dynamics crm implementation",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "dynamics 365 implementation"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "microsoft dynamics crm implementation"
+      }
+    ],
+    "direct_answer": "What Lauren's microsoft dynamics crm implementation covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Pipedrive implementation",
+    "url_slug": "pipedrive-implementation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "pipedrive implementation",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "pipedrive setup"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "pipedrive implementation"
+      }
+    ],
+    "direct_answer": "What Lauren's pipedrive implementation covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM data migration service",
+    "url_slug": "crm-data-migration",
+    "target_market": "UK",
+    "intent": "transactional",
+    "primary_keyword": "crm data migration",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "crm migration service"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm data migration"
+      }
+    ],
+    "direct_answer": "What Lauren's crm data migration service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM setup for startups",
+    "url_slug": "crm-setup-for-startups",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm for startups",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [
+      "startup crm setup"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm for startups"
+      }
+    ],
+    "direct_answer": "What Lauren's crm setup for startups covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM implementation partner",
+    "url_slug": "crm-implementation-partner",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm implementation partner",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [
+      "crm implementation partners"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm implementation partner"
+      }
+    ],
+    "direct_answer": "What Lauren's crm implementation partner covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM selection service",
+    "url_slug": "crm-selection-service",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm selection",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "crm selection consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm selection"
+      }
+    ],
+    "direct_answer": "What Lauren's crm selection service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM onboarding and training",
+    "url_slug": "crm-onboarding",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm onboarding",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "crm training"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm onboarding"
+      }
+    ],
+    "direct_answer": "What Lauren's crm onboarding and training covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "The CRM implementation process",
+    "url_slug": "crm-implementation-process",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation process",
+    "primary_volume": 170,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I crm implementation process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation process\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "CRM implementation steps",
+    "url_slug": "crm-implementation-steps",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation steps",
+    "primary_volume": 170,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I crm implementation steps"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation steps\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to implement a CRM",
+    "url_slug": "how-to-implement-a-crm",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "how to implement a crm",
+    "primary_volume": 140,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how to implement a crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to implement a crm\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to write a CRM implementation plan",
+    "url_slug": "crm-implementation-plan",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation plan",
+    "primary_volume": 260,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm implementation plan"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation plan\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A CRM implementation plan template",
+    "url_slug": "crm-implementation-plan-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm implementation plan template",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm implementation plan template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation plan template\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1300,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A CRM implementation checklist",
+    "url_slug": "crm-implementation-checklist",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm implementation checklist",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm implementation checklist"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation checklist\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1300,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A realistic CRM implementation timeline",
+    "url_slug": "crm-implementation-timeline",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation timeline",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm implementation timeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation timeline\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Building a CRM implementation roadmap",
+    "url_slug": "crm-implementation-roadmap",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation roadmap",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm implementation roadmap"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation roadmap\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The phases of a CRM implementation",
+    "url_slug": "crm-implementation-phases",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation phases",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm implementation phases"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation phases\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "CRM implementation best practices",
+    "url_slug": "crm-implementation-best-practices",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation best practices",
+    "primary_volume": 140,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm implementation best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation best practices\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "CRM requirements gathering",
+    "url_slug": "crm-requirements-gathering",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm requirements",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I crm requirements"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm requirements\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-selection-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A CRM implementation project plan",
+    "url_slug": "crm-implementation-project-plan",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation project plan",
+    "primary_volume": 140,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm implementation project plan"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation project plan\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to plan a CRM rollout",
+    "url_slug": "crm-rollout-plan",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm rollout",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I crm rollout"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm rollout\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-onboarding"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A CRM go-live checklist",
+    "url_slug": "crm-go-live-checklist",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm go live checklist",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm go live checklist"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm go live checklist\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1300,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How much does a CRM cost?",
+    "url_slug": "how-much-does-a-crm-cost",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "how much does a crm cost",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how much does a crm cost"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how much does a crm cost\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-cost"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM pricing explained",
+    "url_slug": "crm-pricing-explained",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm pricing",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm pricing"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm pricing\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-cost"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The ROI of a CRM",
+    "url_slug": "crm-roi",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm roi",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm roi"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm roi\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The hidden costs of a CRM",
+    "url_slug": "hidden-costs-of-crm",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm costs",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm costs"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm costs\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-cost"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM total cost of ownership",
+    "url_slug": "crm-tco",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm total cost of ownership",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm total cost of ownership"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm total cost of ownership\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-cost"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM implementation cost factors",
+    "url_slug": "crm-implementation-cost-factors",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation cost breakdown",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm implementation cost breakdown"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation cost breakdown\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-cost"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Why CRM implementations fail",
+    "url_slug": "why-crm-implementations-fail",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "why crm implementations fail",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "why crm implementations fail"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"why crm implementations fail\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Common CRM implementation challenges",
+    "url_slug": "crm-implementation-challenges",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation challenges",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm implementation challenges"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation challenges\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "CRM implementation mistakes to avoid",
+    "url_slug": "crm-implementation-mistakes",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation mistakes",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm implementation mistakes"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation mistakes\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM implementation risks",
+    "url_slug": "crm-implementation-risks",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation risks",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm implementation risks"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation risks\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Barriers to CRM implementation",
+    "url_slug": "barriers-to-crm-implementation",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "barriers to crm implementation",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "barriers to crm implementation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"barriers to crm implementation\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "benchmark",
+    "is_ad_landing": false,
+    "title": "The CRM project failure rate",
+    "url_slug": "crm-implementation-failure-rate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm failure rate",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm failure rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm failure rate\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The headline numbers",
+      "How the figures break down",
+      "How to read your own data"
+    ],
+    "word_count_target": 1300,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to choose a CRM",
+    "url_slug": "how-to-choose-a-crm",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "how to choose a crm",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how to choose a crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to choose a crm\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-selection-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM selection criteria",
+    "url_slug": "crm-selection-criteria",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm selection criteria",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm selection criteria"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm selection criteria\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-selection-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A CRM requirements checklist",
+    "url_slug": "crm-requirements-checklist",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm requirements checklist",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm requirements checklist"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm requirements checklist\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1300,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-selection-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A CRM RFP template",
+    "url_slug": "crm-rfp-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm rfp template",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm rfp template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm rfp template\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1300,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-selection-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "How to compare CRMs",
+    "url_slug": "crm-comparison-guide",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm comparison",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "which is better, crm comparison"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm comparison\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-selection-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Signs you need a CRM",
+    "url_slug": "signs-you-need-a-crm",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "do i need a crm",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "do i need a crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"do i need a crm\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "When to implement a CRM",
+    "url_slug": "when-to-get-a-crm",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "when to implement crm",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "when to implement crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"when to implement crm\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A CRM buying guide",
+    "url_slug": "crm-buying-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm buying guide",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm buying guide"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm buying guide\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-selection-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Cloud CRM vs on-premise",
+    "url_slug": "cloud-vs-on-premise-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "cloud crm vs on premise",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "which is better, cloud crm vs on premise"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cloud crm vs on premise\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM features to look for",
+    "url_slug": "crm-features-to-look-for",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm features",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm features"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm features\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "CRM vs spreadsheets",
+    "url_slug": "crm-vs-spreadsheet",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm vs excel",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "which is better, crm vs excel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm vs excel\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Questions to ask in a CRM demo",
+    "url_slug": "crm-demo-questions",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm demo questions",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm demo questions"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm demo questions\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-selection-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to implement HubSpot CRM",
+    "url_slug": "how-to-implement-hubspot-crm",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "hubspot crm implementation",
+    "primary_volume": 390,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I hubspot crm implementation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot crm implementation\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "hubspot-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to implement Salesforce",
+    "url_slug": "how-to-implement-salesforce",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "salesforce crm implementation",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I salesforce crm implementation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"salesforce crm implementation\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "salesforce-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to set up Zoho CRM",
+    "url_slug": "how-to-set-up-zoho-crm",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "zoho crm setup",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I zoho crm setup"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"zoho crm setup\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "zoho-crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "A Dynamics 365 CRM implementation guide",
+    "url_slug": "dynamics-365-implementation-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "dynamics 365 crm implementation",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I dynamics 365 crm implementation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"dynamics 365 crm implementation\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "dynamics-crm-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "A Pipedrive setup guide",
+    "url_slug": "pipedrive-setup-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "pipedrive setup",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I pipedrive setup"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipedrive setup\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "pipedrive-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "A monday CRM setup guide",
+    "url_slug": "monday-crm-setup",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "monday crm setup",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I monday crm setup"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"monday crm setup\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "A NetSuite CRM implementation guide",
+    "url_slug": "netsuite-crm-implementation-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "netsuite crm implementation",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I netsuite crm implementation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"netsuite crm implementation\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A CRM integration guide",
+    "url_slug": "crm-integration-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm integration",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm integration"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm integration\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-data-migration"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to migrate CRM data",
+    "url_slug": "crm-data-migration-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm data migration",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I crm data migration"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm data migration\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-data-migration"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM data migration best practices",
+    "url_slug": "crm-data-migration-best-practices",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm migration best practices",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm migration best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm migration best practices\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-data-migration"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Who you need on a CRM implementation team",
+    "url_slug": "crm-implementation-team",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation team",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm implementation team"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation team\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM implementation examples",
+    "url_slug": "crm-implementation-examples",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation examples",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm implementation examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation examples\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM implementation KPIs",
+    "url_slug": "crm-implementation-kpis",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm implementation kpis",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm implementation kpis"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm implementation kpis\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Driving CRM adoption during rollout",
+    "url_slug": "crm-user-adoption-during-implementation",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm user adoption",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm user adoption"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm user adoption\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-onboarding"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Testing a CRM before launch",
+    "url_slug": "crm-testing-before-launch",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm testing",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm testing"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm testing\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "CRM customisation vs configuration",
+    "url_slug": "crm-customisation-vs-configuration",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm customisation",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "which is better, crm customisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm customisation\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-implementation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 3,
+    "pillar": "CRM Implementation & Selection",
+    "pillar_id": "crm-implementation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM implementation for small business",
+    "url_slug": "crm-implementation-for-small-business",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm for small business",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm for small business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm for small business\" for founder-led teams choosing or rolling out a CRM, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-implementation",
+        "crm-setup-for-startups"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
   }
 ];
 window.PLAN_TOTAL_TARGET = 1085;

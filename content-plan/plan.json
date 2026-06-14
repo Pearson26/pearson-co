@@ -4407,5 +4407,4396 @@
     ],
     "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
     "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": true,
+    "title": "Revenue operations (RevOps)",
+    "url_slug": "revenue-operations",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "revenue operations",
+    "primary_volume": 2400,
+    "primary_kd": 38,
+    "secondary_keywords": [
+      "revops",
+      "what is revops",
+      "revenue operations consulting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revenue operations"
+      }
+    ],
+    "direct_answer": "Revenue operations (RevOps) brings CRM, sales process, pipeline and reporting into one connected system so revenue becomes predictable. This is the umbrella for how Lauren helps founder-led and SaaS teams remove the friction between marketing, sales and customer success.",
+    "h2_outline": [
+      "What RevOps is and why it matters",
+      "The cost of disconnected revenue systems",
+      "How Lauren builds a RevOps system",
+      "What an engagement includes",
+      "What good looks like"
+    ],
+    "word_count_target": 2300,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "RevOps consultant",
+    "url_slug": "revops-consultant",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "revenue operations consultant",
+    "primary_volume": 390,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "revops consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revenue operations consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's revops consultant covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "RevOps consulting services",
+    "url_slug": "revops-consulting",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "revenue operations consulting",
+    "primary_volume": 720,
+    "primary_kd": 25,
+    "secondary_keywords": [
+      "revops consulting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revenue operations consulting"
+      }
+    ],
+    "direct_answer": "What Lauren's revops consulting services covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "RevOps as a service",
+    "url_slug": "revops-as-a-service",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "revops as a service",
+    "primary_volume": 260,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "managed revops"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revops as a service"
+      }
+    ],
+    "direct_answer": "What Lauren's revops as a service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "RevOps audit",
+    "url_slug": "revops-audit",
+    "target_market": "US",
+    "intent": "transactional",
+    "primary_keyword": "revops audit",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "revenue operations assessment"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revops audit"
+      }
+    ],
+    "direct_answer": "What Lauren's revops audit covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "RevOps implementation",
+    "url_slug": "revops-implementation",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "revops implementation",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "revenue operations implementation"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revops implementation"
+      }
+    ],
+    "direct_answer": "What Lauren's revops implementation covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Fractional RevOps leader",
+    "url_slug": "fractional-revops-leader",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "fractional revops",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "fractional revenue operations"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "fractional revops"
+      }
+    ],
+    "direct_answer": "What Lauren's fractional revops leader covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "B2B revenue operations",
+    "url_slug": "b2b-revenue-operations",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "b2b revenue operations",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [
+      "b2b revops"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "b2b revenue operations"
+      }
+    ],
+    "direct_answer": "What Lauren's b2b revenue operations covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "SaaS revenue operations",
+    "url_slug": "saas-revenue-operations",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "revenue operations saas",
+    "primary_volume": 140,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "saas revops"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revenue operations saas"
+      }
+    ],
+    "direct_answer": "What Lauren's saas revenue operations covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "RevOps strategy engagement",
+    "url_slug": "revops-strategy",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "revops strategy",
+    "primary_volume": 210,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "revenue operations strategy"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revops strategy"
+      }
+    ],
+    "direct_answer": "What Lauren's revops strategy engagement covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "RevOps for HubSpot",
+    "url_slug": "hubspot-revops",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "hubspot revenue operations",
+    "primary_volume": 110,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "hubspot revops"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "hubspot revenue operations"
+      }
+    ],
+    "direct_answer": "What Lauren's revops for hubspot covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is RevOps?",
+    "url_slug": "what-is-revops",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is revops",
+    "primary_volume": 880,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is revops"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is revops\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is revenue operations?",
+    "url_slug": "what-is-revenue-operations",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is revenue operations",
+    "primary_volume": 590,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is revenue operations"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is revenue operations\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "RevOps meaning, in plain English",
+    "url_slug": "revops-meaning",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revops meaning",
+    "primary_volume": 390,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revops meaning"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops meaning\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "RevOps definition and scope",
+    "url_slug": "revops-definition",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revops definition",
+    "primary_volume": 170,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revops definition"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops definition\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Revenue operations explained for founders",
+    "url_slug": "revenue-operations-explained",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations explained",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revenue operations explained"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations explained\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Why RevOps matters for growing businesses",
+    "url_slug": "why-revops-matters",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "why revops",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "why revops"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"why revops\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "RevOps vs sales ops",
+    "url_slug": "revops-vs-sales-ops",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revops vs sales ops",
+    "primary_volume": 260,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, revops vs sales ops"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops vs sales ops\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Revenue operations vs sales operations",
+    "url_slug": "revenue-operations-vs-sales-operations",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revenue operations vs sales operations",
+    "primary_volume": 260,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, revenue operations vs sales operations"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations vs sales operations\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "RevOps vs marketing ops",
+    "url_slug": "revops-vs-marketing-ops",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revops vs marketing ops",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the difference, revops vs marketing ops"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops vs marketing ops\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What does a RevOps function actually do?",
+    "url_slug": "what-does-revops-do",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what does revops do",
+    "primary_volume": 90,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what does revops do"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what does revops do\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A RevOps framework",
+    "url_slug": "revops-framework",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops framework",
+    "primary_volume": 210,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revops framework"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops framework\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A revenue operations framework",
+    "url_slug": "revenue-operations-framework",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations framework",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revenue operations framework"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations framework\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to build a RevOps strategy",
+    "url_slug": "revops-strategy-guide",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops strategy",
+    "primary_volume": 210,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revops strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops strategy\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-strategy"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A revenue operations strategy guide",
+    "url_slug": "revenue-operations-strategy-guide",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations strategy",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revenue operations strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations strategy\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-strategy"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The RevOps maturity model",
+    "url_slug": "revops-maturity-model",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops maturity model",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revops maturity model"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops maturity model\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to build a RevOps function",
+    "url_slug": "how-to-build-a-revops-function",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "build revops function",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I build revops function"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"build revops function\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "RevOps best practices",
+    "url_slug": "revops-best-practices",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations best practices",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revenue operations best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations best practices\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps for founders",
+    "url_slug": "revops-for-founders",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops for founders",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revops for founders"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops for founders\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps for startups",
+    "url_slug": "revops-for-startups",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops for startups",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revops for startups"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops for startups\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "When to hire for RevOps",
+    "url_slug": "when-to-hire-revops",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "when to hire revops",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "when to hire revops"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"when to hire revops\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "fractional-revops-leader"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The RevOps operating model",
+    "url_slug": "revops-operating-model",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations operating model",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revenue operations operating model"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations operating model\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Aligning sales, marketing and customer success",
+    "url_slug": "aligning-sales-marketing-cs",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "sales and marketing alignment",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales and marketing alignment"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales and marketing alignment\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Revenue operations team structure",
+    "url_slug": "revenue-operations-team-structure",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations team structure",
+    "primary_volume": 210,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revenue operations team structure"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations team structure\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The RevOps org chart",
+    "url_slug": "revops-org-chart",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations org chart",
+    "primary_volume": 140,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revenue operations org chart"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations org chart\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps roles explained",
+    "url_slug": "revops-roles-explained",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops roles",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revops roles"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops roles\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What does a RevOps manager do?",
+    "url_slug": "what-does-a-revops-manager-do",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revenue operations manager",
+    "primary_volume": 320,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revenue operations manager"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations manager\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The director of revenue operations role",
+    "url_slug": "director-of-revenue-operations-role",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "director of revenue operations",
+    "primary_volume": 140,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "director of revenue operations"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"director of revenue operations\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A RevOps job description template",
+    "url_slug": "revops-job-description",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops job description",
+    "primary_volume": 110,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revops job description"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops job description\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The RevOps analyst role",
+    "url_slug": "revops-analyst-role",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations analyst",
+    "primary_volume": 170,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revenue operations analyst"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations analyst\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How big should your RevOps team be?",
+    "url_slug": "revops-team-size",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops team",
+    "primary_volume": 170,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revops team"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops team\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "fractional-revops-leader"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Your first RevOps hire",
+    "url_slug": "first-revops-hire",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "first revops hire",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "first revops hire"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"first revops hire\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "fractional-revops-leader"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The skills a RevOps leader needs",
+    "url_slug": "revops-skills",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops skills",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revops skills"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops skills\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps and your CRM",
+    "url_slug": "revops-and-crm",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops crm",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revops crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops crm\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps data management",
+    "url_slug": "revops-data-management",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops data management",
+    "primary_volume": 40,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revops data management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops data management\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps and lead management",
+    "url_slug": "revops-lead-management",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops lead management",
+    "primary_volume": 40,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revops lead management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops lead management\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps and forecasting",
+    "url_slug": "revops-forecasting",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops forecasting",
+    "primary_volume": 40,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revops forecasting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops forecasting\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps and pipeline management",
+    "url_slug": "revops-pipeline-management",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops pipeline management",
+    "primary_volume": 40,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revops pipeline management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops pipeline management\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps and reporting",
+    "url_slug": "revops-reporting",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops reporting",
+    "primary_volume": 40,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revops reporting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops reporting\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps and process mapping",
+    "url_slug": "revops-process-mapping",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops process",
+    "primary_volume": 40,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revops process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops process\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Building a RevOps tech stack",
+    "url_slug": "revops-tech-stack",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops tech stack",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revops tech stack"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops tech stack\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A guide to RevOps automation",
+    "url_slug": "revops-automation-guide",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops automation",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revops automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops automation\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps data hygiene",
+    "url_slug": "revops-data-hygiene",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "crm data hygiene",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm data hygiene"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm data hygiene\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The RevOps metrics that matter",
+    "url_slug": "revops-metrics",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops metrics",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revops metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops metrics\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Revenue operations KPIs",
+    "url_slug": "revops-kpis",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations kpis",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revenue operations kpis"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations kpis\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps and the customer journey",
+    "url_slug": "revops-and-customer-journey",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops customer journey",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revops customer journey"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops customer journey\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Quote to cash, explained",
+    "url_slug": "quote-to-cash",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "quote to cash",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "quote to cash"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"quote to cash\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Lead to revenue: the full process",
+    "url_slug": "lead-to-revenue",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "lead to revenue",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "lead to revenue"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead to revenue\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps systems integration",
+    "url_slug": "revops-systems-integration",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops integration",
+    "primary_volume": 40,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revops integration"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops integration\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Revenue operations metrics",
+    "url_slug": "revenue-operations-metrics",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations metrics",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revenue operations metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations metrics\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is revenue leakage?",
+    "url_slug": "what-is-revenue-leakage",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revenue leakage",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revenue leakage"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue leakage\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Net revenue retention explained",
+    "url_slug": "net-revenue-retention",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "net revenue retention",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "net revenue retention"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"net revenue retention\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Pipeline coverage ratio explained",
+    "url_slug": "pipeline-coverage-ratio",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pipeline coverage ratio",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "pipeline coverage ratio"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipeline coverage ratio\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Sales velocity explained",
+    "url_slug": "sales-velocity",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales velocity",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales velocity"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales velocity\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "CAC and LTV explained",
+    "url_slug": "cac-and-ltv",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "cac ltv ratio",
+    "primary_volume": 260,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "cac ltv ratio"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cac ltv ratio\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "benchmark",
+    "is_ad_landing": false,
+    "title": "Win rate benchmarks",
+    "url_slug": "win-rate-benchmarks",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales win rate",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is a good sales win rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales win rate\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The headline numbers",
+      "How the figures break down",
+      "How to read your own data"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps dashboard metrics",
+    "url_slug": "revops-dashboard-metrics",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops dashboard",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revops dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops dashboard\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best RevOps tools",
+    "url_slug": "best-revops-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revops tools",
+    "primary_volume": 140,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the difference, revops tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops tools\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Revenue operations software compared",
+    "url_slug": "revenue-operations-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revenue operations software",
+    "primary_volume": 260,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the difference, revenue operations software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations software\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "RevOps platforms compared",
+    "url_slug": "revops-platforms-compared",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revops platform",
+    "primary_volume": 140,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, revops platform"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops platform\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Salesforce vs HubSpot for RevOps",
+    "url_slug": "salesforce-vs-hubspot-revops",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "salesforce vs hubspot",
+    "primary_volume": 2400,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, salesforce vs hubspot"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"salesforce vs hubspot\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "hubspot-revops"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "HubSpot for RevOps",
+    "url_slug": "hubspot-for-revops",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "hubspot revops",
+    "primary_volume": 140,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hubspot revops"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot revops\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "hubspot-revops"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "RevOps tools for startups",
+    "url_slug": "revops-tools-for-startups",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revops tools startups",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the difference, revops tools startups"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops tools startups\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "CPQ software explained",
+    "url_slug": "cpq-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "cpq software",
+    "primary_volume": 1600,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, cpq software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cpq software\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Revenue intelligence tools",
+    "url_slug": "revenue-intelligence-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revenue intelligence",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, revenue intelligence"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue intelligence\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Data enrichment tools for RevOps",
+    "url_slug": "data-enrichment-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "data enrichment tools",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the difference, data enrichment tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"data enrichment tools\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Free RevOps tools",
+    "url_slug": "free-revops-tools",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "free revops tools",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "free revops tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"free revops tools\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is sales operations?",
+    "url_slug": "what-is-sales-operations",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is sales operations",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is sales operations"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is sales operations\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales operations strategy",
+    "url_slug": "sales-operations-strategy",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "sales operations strategy",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales operations strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales operations strategy\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales operations team structure",
+    "url_slug": "sales-operations-team-structure",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "sales operations team structure",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales operations team structure"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales operations team structure\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales operations best practices",
+    "url_slug": "sales-operations-best-practices",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "sales operations best practices",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales operations best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales operations best practices\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Sales ops vs RevOps",
+    "url_slug": "sales-ops-vs-revops",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales ops vs revops",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, sales ops vs revops"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales ops vs revops\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Sales operations tools",
+    "url_slug": "sales-operations-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales operations tools",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, sales operations tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales operations tools\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales operations metrics",
+    "url_slug": "sales-operations-metrics",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "sales operations metrics",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales operations metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales operations metrics\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Marketing operations explained",
+    "url_slug": "marketing-operations-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "marketing operations",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "marketing operations"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"marketing operations\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Customer success operations explained",
+    "url_slug": "customer-success-operations",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer success operations",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "customer success operations"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer success operations\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Deal desk explained",
+    "url_slug": "deal-desk-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "deal desk",
+    "primary_volume": 260,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "deal desk"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"deal desk\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured or applied",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps for SaaS",
+    "url_slug": "revops-for-saas",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revenue operations saas",
+    "primary_volume": 140,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revenue operations saas"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue operations saas\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "saas-revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps for B2B businesses",
+    "url_slug": "revops-for-b2b",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "b2b revenue operations",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "b2b revenue operations"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b revenue operations\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "b2b-revenue-operations"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps for agencies",
+    "url_slug": "revops-for-agencies",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops for agencies",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revops for agencies"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops for agencies\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps for professional services",
+    "url_slug": "revops-for-professional-services",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops professional services",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revops professional services"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops professional services\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The ROI of RevOps",
+    "url_slug": "revops-roi",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops roi",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revops roi"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops roi\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Signs you need RevOps",
+    "url_slug": "signs-you-need-revops",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "signs you need revops",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "signs you need revops"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"signs you need revops\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "A RevOps implementation roadmap",
+    "url_slug": "revops-implementation-roadmap",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops implementation roadmap",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I revops implementation roadmap"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops implementation roadmap\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-implementation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 2,
+    "pillar": "Revenue Operations (RevOps)",
+    "pillar_id": "revops",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to approach a RevOps project",
+    "url_slug": "revops-project-approach",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "revops project",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revops project"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops project\" for founder-led and SaaS teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "revenue-operations",
+        "revops-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
   }
 ]

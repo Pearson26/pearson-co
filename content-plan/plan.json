@@ -14839,5 +14839,2770 @@
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
     "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": true,
+    "title": "Customer journey mapping",
+    "url_slug": "customer-journey-mapping",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "customer journey mapping",
+    "primary_volume": 5400,
+    "primary_kd": 43,
+    "secondary_keywords": [
+      "customer journey map",
+      "how to create a customer journey map",
+      "customer journey mapping tools"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "customer journey mapping"
+      }
+    ],
+    "direct_answer": "Customer journey mapping lays out every step a customer takes with a business, from first awareness to loyalty, so you can see where they get stuck and where revenue leaks. Done well, it turns scattered assumptions into a shared, evidence-based plan. This is how Lauren runs mapping and turns the map into action.",
+    "h2_outline": [
+      "What customer journey mapping is",
+      "Why it matters for revenue",
+      "How Lauren runs a mapping engagement",
+      "From map to action",
+      "What an engagement includes"
+    ],
+    "word_count_target": 2300,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Customer journey mapping service",
+    "url_slug": "customer-journey-mapping-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "customer journey mapping services",
+    "primary_volume": 140,
+    "primary_kd": 20,
+    "secondary_keywords": [
+      "customer journey mapping"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "customer journey mapping services"
+      }
+    ],
+    "direct_answer": "What Lauren's customer journey mapping service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1400,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Customer journey mapping workshop",
+    "url_slug": "customer-journey-mapping-workshop",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "customer journey mapping workshop",
+    "primary_volume": 90,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "journey mapping workshop"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "customer journey mapping workshop"
+      }
+    ],
+    "direct_answer": "What Lauren's customer journey mapping workshop covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1400,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Customer journey mapping consultant",
+    "url_slug": "customer-journey-mapping-consultant",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "customer journey mapping consultants",
+    "primary_volume": 170,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "customer journey consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "customer journey mapping consultants"
+      }
+    ],
+    "direct_answer": "What Lauren's customer journey mapping consultant covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1400,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Customer experience consulting",
+    "url_slug": "customer-experience-consulting",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "customer journey consulting",
+    "primary_volume": 390,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "cx consulting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "customer journey consulting"
+      }
+    ],
+    "direct_answer": "What Lauren's customer experience consulting covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1400,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a customer journey map?",
+    "url_slug": "what-is-a-customer-journey-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a customer journey map",
+    "primary_volume": 720,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is a customer journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is a customer journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is customer journey mapping?",
+    "url_slug": "what-is-customer-journey-mapping",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is customer journey mapping",
+    "primary_volume": 590,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is customer journey mapping"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is customer journey mapping\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Customer journey definition",
+    "url_slug": "customer-journey-definition",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey definition",
+    "primary_volume": 480,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "customer journey definition"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey definition\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a customer journey?",
+    "url_slug": "what-is-a-customer-journey",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a customer journey",
+    "primary_volume": 480,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is a customer journey"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is a customer journey\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Customer journey map vs customer experience map",
+    "url_slug": "customer-journey-vs-experience-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer experience map vs customer journey map",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, customer experience map vs customer journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer experience map vs customer journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Customer journey map vs user journey map",
+    "url_slug": "customer-journey-vs-user-journey",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "user journey vs customer journey",
+    "primary_volume": 90,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, user journey vs customer journey"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"user journey vs customer journey\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "The benefits of customer journey mapping",
+    "url_slug": "benefits-of-customer-journey-mapping",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "benefits of customer journey mapping",
+    "primary_volume": 110,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "benefits of customer journey mapping"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"benefits of customer journey mapping\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Why customer journey mapping matters",
+    "url_slug": "why-customer-journey-mapping-matters",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "why customer journey mapping",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "why customer journey mapping"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"why customer journey mapping\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Customer journey map vs sales funnel",
+    "url_slug": "customer-journey-vs-funnel",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey vs funnel",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, customer journey vs funnel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey vs funnel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Customer journey mapping explained",
+    "url_slug": "customer-journey-mapping-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey mapping explained",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "customer journey mapping explained"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey mapping explained\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to create a customer journey map",
+    "url_slug": "how-to-create-a-customer-journey-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to create a customer journey map",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how to create a customer journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to create a customer journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "The customer journey mapping process",
+    "url_slug": "customer-journey-mapping-process",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey mapping process",
+    "primary_volume": 140,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I customer journey mapping process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey mapping process\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to build a customer journey map",
+    "url_slug": "how-to-build-a-customer-journey-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to build a customer journey map",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how to build a customer journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to build a customer journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "Customer journey mapping steps",
+    "url_slug": "customer-journey-mapping-steps",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey mapping steps",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I customer journey mapping steps"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey mapping steps\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to run a customer journey mapping workshop",
+    "url_slug": "how-to-run-a-journey-mapping-workshop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey mapping workshop",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I customer journey mapping workshop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey mapping workshop\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-workshop"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to map the customer journey",
+    "url_slug": "how-to-map-the-customer-journey",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "mapping the customer journey",
+    "primary_volume": 390,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I mapping the customer journey"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"mapping the customer journey\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Customer journey mapping best practices",
+    "url_slug": "customer-journey-mapping-best-practices",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey mapping best practices",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "customer journey mapping best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey mapping best practices\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Customer journey mapping mistakes to avoid",
+    "url_slug": "customer-journey-mapping-mistakes",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey mapping mistakes",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "customer journey mapping mistakes"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey mapping mistakes\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "What data you need for journey mapping",
+    "url_slug": "customer-journey-data-sources",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey data",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "customer journey data"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey data\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to keep a customer journey map up to date",
+    "url_slug": "how-to-update-a-customer-journey-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "maintaining a customer journey map",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I maintaining a customer journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"maintaining a customer journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A customer journey map template",
+    "url_slug": "customer-journey-map-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey map template",
+    "primary_volume": 1900,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "customer journey map template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey map template\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A customer experience journey map template",
+    "url_slug": "customer-experience-journey-map-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer experience journey map template",
+    "primary_volume": 720,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "customer experience journey map template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer experience journey map template\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A free customer journey map template",
+    "url_slug": "free-customer-journey-map-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "free customer journey map template",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "free customer journey map template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"free customer journey map template\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A customer journey map template for Excel",
+    "url_slug": "customer-journey-map-template-excel",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey map excel",
+    "primary_volume": 90,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "customer journey map excel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey map excel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A customer journey map template for PowerPoint",
+    "url_slug": "customer-journey-map-template-powerpoint",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey map powerpoint",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "customer journey map powerpoint"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey map powerpoint\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A customer journey map template for Canva",
+    "url_slug": "customer-journey-map-canva",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey map canva",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "customer journey map canva"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey map canva\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A B2B customer journey map template",
+    "url_slug": "b2b-customer-journey-map-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "b2b customer journey map template",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "b2b customer journey map template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b customer journey map template\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A SaaS customer journey map template",
+    "url_slug": "saas-customer-journey-map-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "saas customer journey map template",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "saas customer journey map template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saas customer journey map template\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best customer journey mapping tools",
+    "url_slug": "best-customer-journey-mapping-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey mapping tools",
+    "primary_volume": 1000,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, customer journey mapping tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey mapping tools\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Customer journey mapping software compared",
+    "url_slug": "customer-journey-mapping-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey mapping software",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, customer journey mapping software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey mapping software\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Free customer journey mapping tools",
+    "url_slug": "free-customer-journey-mapping-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "free customer journey mapping tools",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the difference, free customer journey mapping tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"free customer journey mapping tools\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Customer journey mapping tools for small business",
+    "url_slug": "cjm-tools-for-small-business",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey mapping tools small business",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the difference, customer journey mapping tools small business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey mapping tools small business\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Mapping the customer journey in HubSpot",
+    "url_slug": "hubspot-customer-journey-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hubspot customer journey map",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "hubspot customer journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot customer journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Building a customer journey map in Figma",
+    "url_slug": "figma-customer-journey-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "figma journey map",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "figma journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"figma journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "AI for customer journey mapping",
+    "url_slug": "ai-customer-journey-mapping",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "ai customer journey map",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "ai customer journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"ai customer journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Customer journey analytics tools",
+    "url_slug": "customer-journey-analytics-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey analytics",
+    "primary_volume": 1000,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the difference, customer journey analytics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey analytics\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The customer journey stages",
+    "url_slug": "customer-journey-stages",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey stages",
+    "primary_volume": 1000,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "customer journey stages"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey stages\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Customer journey map stages explained",
+    "url_slug": "customer-journey-map-stages",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey map stages",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "customer journey map stages"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey map stages\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Customer journey touchpoints",
+    "url_slug": "customer-journey-touchpoints",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey touchpoints",
+    "primary_volume": 590,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "customer journey touchpoints"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey touchpoints\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Customer touchpoints explained",
+    "url_slug": "customer-touchpoints-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer touchpoints",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "customer touchpoints"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer touchpoints\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Using personas in journey mapping",
+    "url_slug": "customer-personas-for-journey-mapping",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer personas",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "customer personas"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer personas\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Finding pain points in the customer journey",
+    "url_slug": "customer-journey-pain-points",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey pain points",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "customer journey pain points"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey pain points\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Mapping customer emotions",
+    "url_slug": "mapping-customer-emotions",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer emotions journey",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "customer emotions journey"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer emotions journey\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Customer journey phases explained",
+    "url_slug": "customer-journey-phases",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey phases",
+    "primary_volume": 90,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "customer journey phases"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey phases\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Moments of truth in the customer journey",
+    "url_slug": "moments-of-truth",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "moments of truth customer experience",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "moments of truth customer experience"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"moments of truth customer experience\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Customer journey map examples",
+    "url_slug": "customer-journey-map-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer journey map examples",
+    "primary_volume": 880,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "customer journey map examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer journey map examples\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A B2B customer journey map guide",
+    "url_slug": "b2b-customer-journey-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "b2b customer journey map",
+    "primary_volume": 480,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "b2b customer journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b customer journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "B2B customer journey mapping",
+    "url_slug": "b2b-customer-journey-mapping",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "b2b customer journey mapping",
+    "primary_volume": 260,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "b2b customer journey mapping"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b customer journey mapping\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A SaaS customer journey map",
+    "url_slug": "saas-customer-journey-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "saas customer journey",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "saas customer journey"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saas customer journey\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "An ecommerce customer journey map",
+    "url_slug": "ecommerce-customer-journey-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "ecommerce customer journey map",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "ecommerce customer journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"ecommerce customer journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The ecommerce customer journey",
+    "url_slug": "ecommerce-customer-journey",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "ecommerce customer journey",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "ecommerce customer journey"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"ecommerce customer journey\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "A B2B customer journey map example",
+    "url_slug": "customer-journey-map-example-b2b",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "b2b customer journey example",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "b2b customer journey example"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b customer journey example\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A simple customer journey map",
+    "url_slug": "simple-customer-journey-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "simple customer journey map",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "simple customer journey map"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"simple customer journey map\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Digital customer journey mapping",
+    "url_slug": "digital-customer-journey-mapping",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "digital customer journey mapping",
+    "primary_volume": 480,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "digital customer journey mapping"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"digital customer journey mapping\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 5,
+    "pillar": "Customer Journey Mapping",
+    "pillar_id": "customer-journey",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "The customer decision journey",
+    "url_slug": "customer-decision-journey",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer decision journey",
+    "primary_volume": 480,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "customer decision journey"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer decision journey\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "customer-journey-mapping",
+        "customer-journey-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
   }
 ]

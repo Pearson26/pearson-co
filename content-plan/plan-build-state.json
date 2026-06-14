@@ -1,11 +1,11 @@
 {
   "mode": "plan-build",
-  "next_batch": 5,
-  "batches_done": 4,
+  "next_batch": 6,
+  "batches_done": 5,
   "total_batches": 14,
-  "records_built": 320,
+  "records_built": 380,
   "total_target": 1085,
-  "last_updated": "2026-06-14T19:30:00Z",
+  "last_updated": "2026-06-14T20:00:00Z",
   "note": "Say 'build next' to generate the next batch. Each batch researches keywords via Semrush, writes records into plan.json, then renders plan-rows.js + plan.md. After batch 14, a final sequencing pass assigns the 12-month publish order (front-loading pillar pages).",
   "batches": [
     {"n": 1,  "pillar": "Conversion & Funnel Optimisation",         "pillar_id": "conversion-funnel",   "records": 95,  "priority": "ad-landing (UK CRO, the paid standout)"},

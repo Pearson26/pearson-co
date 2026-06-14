@@ -43736,6 +43736,3028 @@ window.PLAN_ROWS = [
     "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
     "status": "not-started",
     "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": false,
+    "title": "CRM adoption",
+    "url_slug": "crm-adoption",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "crm adoption",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "crm user adoption",
+      "crm adoption strategy",
+      "why crm fails"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm adoption"
+      }
+    ],
+    "direct_answer": "CRM adoption is whether your team actually uses the CRM, day to day, the way it was meant to be used. Most CRM disappointment is an adoption problem, not a software one. This is Lauren's specialism: getting teams to use the CRM so the data, and the decisions built on it, can be trusted.",
+    "h2_outline": [
+      "What it is and why it matters",
+      "The real cost of getting it wrong",
+      "How Lauren approaches it",
+      "What good looks like",
+      "What an engagement includes"
+    ],
+    "word_count_target": 2100,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM adoption consulting",
+    "url_slug": "crm-adoption-consulting",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "crm adoption consulting",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "crm adoption services"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm adoption consulting"
+      }
+    ],
+    "direct_answer": "What Lauren's crm adoption consulting covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM training service",
+    "url_slug": "crm-training-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "crm training",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "crm team training"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm training"
+      }
+    ],
+    "direct_answer": "What Lauren's crm training service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is CRM adoption?",
+    "url_slug": "what-is-crm-adoption",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is crm adoption",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is crm adoption"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is crm adoption\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "CRM adoption rate explained",
+    "url_slug": "crm-adoption-rate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption rate",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm adoption rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to measure CRM adoption",
+    "url_slug": "how-to-measure-crm-adoption",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "measure crm adoption",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I measure crm adoption"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"measure crm adoption\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A CRM adoption strategy",
+    "url_slug": "crm-adoption-strategy",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption strategy",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm adoption strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption strategy\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "CRM adoption best practices",
+    "url_slug": "crm-adoption-best-practices",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption best practices",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm adoption best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption best practices\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Why CRM adoption fails",
+    "url_slug": "why-crm-adoption-fails",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "why crm adoption fails",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "why crm adoption fails"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"why crm adoption fails\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM user adoption explained",
+    "url_slug": "crm-user-adoption",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm user adoption",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm user adoption"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm user adoption\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM adoption challenges",
+    "url_slug": "crm-adoption-challenges",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption challenges",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm adoption challenges"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption challenges\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "The benefits of strong CRM adoption",
+    "url_slug": "benefits-of-crm-adoption",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "benefits of crm adoption",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "benefits of crm adoption"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"benefits of crm adoption\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM adoption metrics",
+    "url_slug": "crm-adoption-metrics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption metrics",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm adoption metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption metrics\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to improve CRM adoption",
+    "url_slug": "how-to-improve-crm-adoption",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to improve crm adoption",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how to improve crm adoption"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to improve crm adoption\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-adoption-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to get your team to use the CRM",
+    "url_slug": "get-your-team-to-use-the-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "get team to use crm",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I get team to use crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"get team to use crm\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-adoption-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A CRM adoption plan",
+    "url_slug": "crm-adoption-plan",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption plan",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm adoption plan"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption plan\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-adoption-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM change management",
+    "url_slug": "crm-change-management",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm change management",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm change management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm change management\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-adoption-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A CRM training plan",
+    "url_slug": "crm-training-plan",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm training plan",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm training plan"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm training plan\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-training-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "CRM training best practices",
+    "url_slug": "crm-training-best-practices",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm training best practices",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm training best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm training best practices\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-training-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM onboarding for teams",
+    "url_slug": "crm-onboarding-for-teams",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm onboarding",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm onboarding"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm onboarding\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-training-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM gamification",
+    "url_slug": "crm-gamification",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm gamification",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm gamification"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm gamification\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Incentivising CRM use",
+    "url_slug": "incentivising-crm-use",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm incentives",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm incentives"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm incentives\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM adoption for sales teams",
+    "url_slug": "crm-adoption-for-sales-teams",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption sales teams",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm adoption sales teams"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption sales teams\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-adoption-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Why CRM projects fail",
+    "url_slug": "why-crm-projects-fail",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "why crm fails",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "why crm fails"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"why crm fails\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-adoption-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Signs of poor CRM adoption",
+    "url_slug": "signs-of-poor-crm-adoption",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "poor crm adoption",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "poor crm adoption"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"poor crm adoption\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-adoption-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM data quality and adoption",
+    "url_slug": "crm-data-quality-and-adoption",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm data quality",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm data quality"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm data quality\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Making your CRM easier to use",
+    "url_slug": "making-crm-easier-to-use",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm ease of use",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm ease of use"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm ease of use\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM adoption after implementation",
+    "url_slug": "crm-adoption-after-implementation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption after launch",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm adoption after launch"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption after launch\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-adoption-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to revive a dead CRM",
+    "url_slug": "reviving-a-dead-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "unused crm",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "unused crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"unused crm\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-adoption-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "Running a CRM adoption survey",
+    "url_slug": "crm-adoption-survey",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption survey",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I crm adoption survey"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption survey\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Using CRM champions to drive adoption",
+    "url_slug": "crm-champions",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm champions",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm champions"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm champions\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Getting executive buy-in for the CRM",
+    "url_slug": "executive-buy-in-for-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm executive buy in",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm executive buy in"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm executive buy in\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to fix low CRM adoption",
+    "url_slug": "fix-low-crm-adoption",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "low crm adoption",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I low crm adoption"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"low crm adoption\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-adoption",
+        "crm-adoption-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM adoption for remote teams",
+    "url_slug": "crm-adoption-for-remote-teams",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption remote teams",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm adoption remote teams"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption remote teams\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "CRM Adoption",
+    "pillar_id": "crm-adoption",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM adoption KPIs",
+    "url_slug": "crm-adoption-kpis",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm adoption kpis",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm adoption kpis"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm adoption kpis\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-adoption"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": false,
+    "title": "Sales pipeline management",
+    "url_slug": "sales-pipeline-management",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "sales pipeline management",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "what is sales pipeline management",
+      "sales pipeline stages"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales pipeline management"
+      }
+    ],
+    "direct_answer": "Sales pipeline management is how you track and move deals from first contact to close, so you can see what is real, what is stuck and what is coming. It sits alongside your CRM and forecasting work, and it is where reliable forecasts begin.",
+    "h2_outline": [
+      "What it is and why it matters",
+      "The real cost of getting it wrong",
+      "How Lauren approaches it",
+      "What good looks like",
+      "What an engagement includes"
+    ],
+    "word_count_target": 2100,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is sales pipeline management?",
+    "url_slug": "what-is-sales-pipeline-management",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is sales pipeline management",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is sales pipeline management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is sales pipeline management\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a sales pipeline?",
+    "url_slug": "what-is-a-sales-pipeline",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a sales pipeline",
+    "primary_volume": 480,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is a sales pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is a sales pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales pipeline stages",
+    "url_slug": "sales-pipeline-stages",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline stages",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales pipeline stages"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline stages\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Sales pipeline vs sales funnel",
+    "url_slug": "sales-pipeline-vs-funnel",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline vs funnel",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the difference, sales pipeline vs funnel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline vs funnel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales pipeline management best practices",
+    "url_slug": "sales-pipeline-best-practices",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline management best practices",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales pipeline management best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline management best practices\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "The benefits of pipeline management",
+    "url_slug": "benefits-of-pipeline-management",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "benefits of sales pipeline management",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "benefits of sales pipeline management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"benefits of sales pipeline management\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to build a sales pipeline",
+    "url_slug": "how-to-build-a-sales-pipeline",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to build a sales pipeline",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how to build a sales pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to build a sales pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to manage a sales pipeline",
+    "url_slug": "how-to-manage-a-sales-pipeline",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to manage a sales pipeline",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how to manage a sales pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to manage a sales pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales pipeline examples",
+    "url_slug": "sales-pipeline-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline examples",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales pipeline examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline examples\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A sales pipeline template",
+    "url_slug": "sales-pipeline-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline template",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales pipeline template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline template\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Defining your pipeline stages",
+    "url_slug": "defining-pipeline-stages",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "define pipeline stages",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "define pipeline stages"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"define pipeline stages\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pipeline stage probabilities",
+    "url_slug": "pipeline-stage-probabilities",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pipeline stage probability",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "pipeline stage probability"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipeline stage probability\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management",
+        "sales-forecast-model-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to run a sales pipeline review",
+    "url_slug": "sales-pipeline-review",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline review",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I sales pipeline review"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline review\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pipeline hygiene",
+    "url_slug": "pipeline-hygiene",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pipeline hygiene",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "pipeline hygiene"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipeline hygiene\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management",
+        "crm-optimisation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Weighted pipeline explained",
+    "url_slug": "weighted-pipeline",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "weighted pipeline",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "weighted pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"weighted pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Moving deals through the pipeline",
+    "url_slug": "moving-deals-through-pipeline",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "move deals through pipeline",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "move deals through pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"move deals through pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "What a healthy sales pipeline looks like",
+    "url_slug": "healthy-sales-pipeline",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "healthy sales pipeline",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "healthy sales pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"healthy sales pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales pipeline mistakes to avoid",
+    "url_slug": "sales-pipeline-mistakes",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline mistakes",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales pipeline mistakes"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline mistakes\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to clean your sales pipeline",
+    "url_slug": "how-to-clean-your-pipeline",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "clean sales pipeline",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I clean sales pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"clean sales pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management",
+        "crm-optimisation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Managing multiple sales pipelines",
+    "url_slug": "managing-multiple-pipelines",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "multiple sales pipelines",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "multiple sales pipelines"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"multiple sales pipelines\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pipeline management in HubSpot",
+    "url_slug": "pipeline-management-in-hubspot",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hubspot pipeline",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hubspot pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management",
+        "hubspot-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pipeline management in Salesforce",
+    "url_slug": "pipeline-management-in-salesforce",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "salesforce pipeline",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "salesforce pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"salesforce pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management",
+        "salesforce-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pipeline management in Pipedrive",
+    "url_slug": "pipeline-management-in-pipedrive",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pipedrive pipeline",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "pipedrive pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipedrive pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management",
+        "pipedrive-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best sales pipeline software",
+    "url_slug": "sales-pipeline-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline software",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the difference, sales pipeline software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline software\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pipeline management for small business",
+    "url_slug": "pipeline-management-for-small-business",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pipeline management small business",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "pipeline management small business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipeline management small business\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The B2B sales pipeline",
+    "url_slug": "sales-pipeline-stages-b2b",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "b2b sales pipeline",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "b2b sales pipeline"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b sales pipeline\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Pipeline vs forecast",
+    "url_slug": "pipeline-vs-forecast",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pipeline vs forecast",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, pipeline vs forecast"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipeline vs forecast\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Deal management explained",
+    "url_slug": "deal-management",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "deal management",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "deal management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"deal management\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 13,
+    "pillar": "Sales Pipeline Management",
+    "pillar_id": "sales-pipeline",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales stage definitions",
+    "url_slug": "sales-stage-definitions",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales stages",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales stages"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales stages\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-pipeline-management"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
   }
 ];
 window.PLAN_TOTAL_TARGET = 1085;

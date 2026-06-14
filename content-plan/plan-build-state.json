@@ -1,0 +1,26 @@
+{
+  "mode": "plan-build",
+  "next_batch": 1,
+  "batches_done": 0,
+  "total_batches": 14,
+  "records_built": 0,
+  "total_target": 1085,
+  "last_updated": "2026-06-14T00:00:00Z",
+  "note": "Say 'build next' to generate the next batch. Each batch researches keywords via Semrush, writes records into plan.json, then renders plan-rows.js + plan.md. After batch 14, a final sequencing pass assigns the 12-month publish order (front-loading pillar pages).",
+  "batches": [
+    {"n": 1,  "pillar": "Conversion & Funnel Optimisation",         "pillar_id": "conversion-funnel",   "records": 95,  "priority": "ad-landing (UK CRO, the paid standout)"},
+    {"n": 2,  "pillar": "Revenue Operations (RevOps)",              "pillar_id": "revops",              "records": 95,  "priority": "ad-landing"},
+    {"n": 3,  "pillar": "CRM Implementation & Selection",          "pillar_id": "crm-implementation",  "records": 70,  "priority": "ad-landing (UK CRM Services)"},
+    {"n": 4,  "pillar": "Fractional Sales Leadership + Growth Consulting", "pillar_id": "fractional+growth", "records": 60, "priority": "ad-landing (both small priority pillars)"},
+    {"n": 5,  "pillar": "Customer Journey Mapping (part 1)",        "pillar_id": "customer-journey",    "records": 60,  "priority": "ad-landing"},
+    {"n": 6,  "pillar": "Customer Journey Mapping (part 2)",        "pillar_id": "customer-journey",    "records": 60,  "priority": "authority"},
+    {"n": 7,  "pillar": "Hospitality Tech & Middle East Expansion", "pillar_id": "hospitality-expansion", "records": 85, "priority": "ad-landing (moat)"},
+    {"n": 8,  "pillar": "Process Mapping & SOP Creation (part 1)",  "pillar_id": "process-sop",         "records": 75,  "priority": "largest demand"},
+    {"n": 9,  "pillar": "Process Mapping & SOP Creation (part 2)",  "pillar_id": "process-sop",         "records": 75,  "priority": "largest demand"},
+    {"n": 10, "pillar": "CRM Automation & Workflow",               "pillar_id": "crm-automation",      "records": 95,  "priority": "warmest CRM intent"},
+    {"n": 11, "pillar": "Sales Reporting, Dashboards & Forecasting", "pillar_id": "reporting-forecasting", "records": 95, "priority": "high value"},
+    {"n": 12, "pillar": "CRM Consulting & Selection",              "pillar_id": "crm-consulting",      "records": 70,  "priority": "high intent"},
+    {"n": 13, "pillar": "CRM Adoption + Sales Pipeline Management", "pillar_id": "adoption+pipeline",   "records": 65,  "priority": "authority (both small pillars)"},
+    {"n": 14, "pillar": "Go-to-Market Strategy",                   "pillar_id": "go-to-market",        "records": 85,  "priority": "bridge to expansion"}
+  ]
+}

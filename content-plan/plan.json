@@ -27929,5 +27929,3533 @@
     "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
     "status": "not-started",
     "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Hospitality SOP service",
+    "url_slug": "hospitality-sop-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "hotel sop",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "hospitality standard operating procedures"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hotel sop"
+      }
+    ],
+    "direct_answer": "What Lauren's hospitality sop service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Process optimisation consulting",
+    "url_slug": "process-optimisation-consulting",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "process optimisation",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [
+      "process optimization consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "process optimisation"
+      }
+    ],
+    "direct_answer": "What Lauren's process optimisation consulting covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "process-mapping"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Workflow automation service",
+    "url_slug": "workflow-automation-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "workflow automation",
+    "primary_volume": 2400,
+    "primary_kd": 40,
+    "secondary_keywords": [
+      "business process automation"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "workflow automation"
+      }
+    ],
+    "direct_answer": "What Lauren's workflow automation service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "process-mapping"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Business process management consulting",
+    "url_slug": "business-process-management-consulting",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "business process management",
+    "primary_volume": 4400,
+    "primary_kd": 44,
+    "secondary_keywords": [
+      "bpm consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "business process management"
+      }
+    ],
+    "direct_answer": "What Lauren's business process management consulting covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "process-mapping"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Operations manual service",
+    "url_slug": "operations-manual-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "operations manual",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "company operations manual"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "operations manual"
+      }
+    ],
+    "direct_answer": "What Lauren's operations manual service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Lean process consulting",
+    "url_slug": "lean-process-consulting",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "lean consulting",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "lean process improvement"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "lean consulting"
+      }
+    ],
+    "direct_answer": "What Lauren's lean process consulting covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "process-mapping"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Restaurant SOP examples",
+    "url_slug": "restaurant-sop-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant sop examples",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "restaurant sop examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant sop examples\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "restaurant-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A restaurant opening checklist",
+    "url_slug": "restaurant-opening-checklist",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant opening checklist",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "restaurant opening checklist"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant opening checklist\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "restaurant-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A restaurant closing checklist",
+    "url_slug": "restaurant-closing-checklist",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant closing checklist",
+    "primary_volume": 480,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "restaurant closing checklist"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant closing checklist\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "restaurant-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A kitchen SOP guide",
+    "url_slug": "kitchen-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "kitchen sop",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "kitchen sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"kitchen sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "restaurant-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A food safety SOP guide",
+    "url_slug": "food-safety-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "food safety sop",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "food safety sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"food safety sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "restaurant-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "A HACCP plan explained",
+    "url_slug": "haccp-plan",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "haccp plan",
+    "primary_volume": 1900,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "haccp plan"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"haccp plan\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "restaurant-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A restaurant cleaning checklist",
+    "url_slug": "restaurant-cleaning-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant cleaning checklist",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "restaurant cleaning checklist"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant cleaning checklist\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "restaurant-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A bar SOP guide",
+    "url_slug": "bar-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "bar standard operating procedures",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "bar standard operating procedures"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"bar standard operating procedures\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "hospitality-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A hotel SOP guide",
+    "url_slug": "hotel-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hotel sop",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "hotel sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hotel sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "hospitality-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A housekeeping SOP guide",
+    "url_slug": "housekeeping-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "housekeeping sop",
+    "primary_volume": 480,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "housekeeping sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"housekeeping sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "hospitality-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A front desk SOP guide",
+    "url_slug": "front-desk-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "front desk sop",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "front desk sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"front desk sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "hospitality-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A restaurant training manual",
+    "url_slug": "restaurant-training-manual",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant training manual",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "restaurant training manual"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant training manual\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "restaurant-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A cafe SOP guide",
+    "url_slug": "cafe-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "cafe sop",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "cafe sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cafe sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "restaurant-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A food truck SOP guide",
+    "url_slug": "food-truck-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "food truck sop",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "food truck sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"food truck sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "restaurant-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A restaurant operations manual",
+    "url_slug": "restaurant-operations-manual",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "restaurant operations manual",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "restaurant operations manual"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"restaurant operations manual\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "operations-manual-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Hospitality SOP examples",
+    "url_slug": "hospitality-sop-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hospitality sop",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "hospitality sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hospitality sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "hospitality-sop-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A manufacturing SOP guide",
+    "url_slug": "manufacturing-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "manufacturing sop",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "manufacturing sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"manufacturing sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A warehouse SOP guide",
+    "url_slug": "warehouse-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "warehouse sop",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "warehouse sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"warehouse sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A healthcare SOP guide",
+    "url_slug": "healthcare-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "healthcare sop",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "healthcare sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"healthcare sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A logistics SOP guide",
+    "url_slug": "logistics-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "logistics sop",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "logistics sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"logistics sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A retail SOP guide",
+    "url_slug": "retail-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "retail sop",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "retail sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"retail sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A cleaning SOP guide",
+    "url_slug": "cleaning-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "cleaning sop",
+    "primary_volume": 480,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "cleaning sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cleaning sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A construction SOP guide",
+    "url_slug": "construction-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "construction sop",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "construction sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"construction sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A laboratory SOP guide",
+    "url_slug": "laboratory-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "laboratory sop",
+    "primary_volume": 480,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "laboratory sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"laboratory sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A pharmacy SOP guide",
+    "url_slug": "pharmacy-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pharmacy sop",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "pharmacy sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pharmacy sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "IT SOP examples",
+    "url_slug": "it-sop-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "it sop examples",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "it sop examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"it sop examples\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "An ecommerce SOP guide",
+    "url_slug": "ecommerce-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "ecommerce sop",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "ecommerce sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"ecommerce sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "An agency SOP guide",
+    "url_slug": "agency-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "agency sop",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "agency sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"agency sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A property management SOP guide",
+    "url_slug": "property-management-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "property management sop",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "property management sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"property management sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The procurement process",
+    "url_slug": "procurement-process",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "procurement process",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "procurement process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"procurement process\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The accounts payable process",
+    "url_slug": "accounts-payable-process",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "accounts payable process",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "accounts payable process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"accounts payable process\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The order-to-cash process",
+    "url_slug": "order-to-cash-process",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "order to cash process",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "order to cash process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"order to cash process\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The procure-to-pay process",
+    "url_slug": "procure-to-pay-process",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "procure to pay",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "procure to pay"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"procure to pay\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The employee onboarding process",
+    "url_slug": "employee-onboarding-process",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "employee onboarding process",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "employee onboarding process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"employee onboarding process\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The invoice approval process",
+    "url_slug": "invoice-approval-process",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "invoice approval process",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "invoice approval process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"invoice approval process\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The expense approval process",
+    "url_slug": "expense-approval-process",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "expense approval process",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "expense approval process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"expense approval process\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales process steps",
+    "url_slug": "sales-process-steps",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales process steps",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales process steps"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales process steps\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The customer onboarding process",
+    "url_slug": "customer-onboarding-process-sop",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "customer onboarding process",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "customer onboarding process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer onboarding process\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The hiring process, mapped",
+    "url_slug": "hiring-process-map",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hiring process",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hiring process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hiring process\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Process improvement explained",
+    "url_slug": "process-improvement",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "process improvement",
+    "primary_volume": 1900,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "process improvement"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"process improvement\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-improvement-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Business process improvement",
+    "url_slug": "business-process-improvement",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "business process improvement",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "business process improvement"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"business process improvement\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-improvement-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Process optimisation explained",
+    "url_slug": "process-optimisation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "process optimization",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "process optimization"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"process optimization\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-optimisation-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Lean process improvement",
+    "url_slug": "lean-process-improvement",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "lean process improvement",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "lean process improvement"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lean process improvement\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "lean-process-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Six Sigma explained",
+    "url_slug": "six-sigma-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "six sigma",
+    "primary_volume": 9900,
+    "primary_kd": 46,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "six sigma"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"six sigma\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "lean-process-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "DMAIC explained",
+    "url_slug": "dmaic-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "dmaic",
+    "primary_volume": 1900,
+    "primary_kd": 36,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "dmaic"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"dmaic\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "lean-process-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Kaizen explained",
+    "url_slug": "kaizen-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "kaizen",
+    "primary_volume": 6600,
+    "primary_kd": 44,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "kaizen"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"kaizen\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "lean-process-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Business process management explained",
+    "url_slug": "business-process-management",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "business process management",
+    "primary_volume": 4400,
+    "primary_kd": 44,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "business process management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"business process management\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "business-process-management-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Business process reengineering explained",
+    "url_slug": "business-process-reengineering",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "business process reengineering",
+    "primary_volume": 2400,
+    "primary_kd": 38,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "business process reengineering"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"business process reengineering\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-improvement-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Continuous improvement explained",
+    "url_slug": "continuous-improvement",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "continuous improvement",
+    "primary_volume": 4400,
+    "primary_kd": 42,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "continuous improvement"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"continuous improvement\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-improvement-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Process standardisation",
+    "url_slug": "process-standardisation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "process standardization",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "process standardization"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"process standardization\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-optimisation-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Process efficiency",
+    "url_slug": "process-efficiency",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "process efficiency",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "process efficiency"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"process efficiency\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-optimisation-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Process improvement examples",
+    "url_slug": "process-improvement-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "process improvement examples",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "process improvement examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"process improvement examples\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-improvement-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A process improvement plan",
+    "url_slug": "process-improvement-plan",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "process improvement plan",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "process improvement plan"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"process improvement plan\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-improvement-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "The PDCA cycle explained",
+    "url_slug": "pdca-cycle",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pdca cycle",
+    "primary_volume": 2400,
+    "primary_kd": 36,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "pdca cycle"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pdca cycle\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "lean-process-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "The Gemba walk explained",
+    "url_slug": "gemba-walk",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "gemba walk",
+    "primary_volume": 1300,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "gemba walk"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"gemba walk\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "lean-process-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Workflow management explained",
+    "url_slug": "workflow-management",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "workflow management",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "workflow management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"workflow management\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "workflow-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A guide to workflow automation",
+    "url_slug": "workflow-automation-guide",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "workflow automation",
+    "primary_volume": 2400,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "workflow automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"workflow automation\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "workflow-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Business process automation explained",
+    "url_slug": "business-process-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "business process automation",
+    "primary_volume": 1900,
+    "primary_kd": 38,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "business process automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"business process automation\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "workflow-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to automate a process",
+    "url_slug": "how-to-automate-a-process",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to automate a process",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how to automate a process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to automate a process\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "workflow-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Workflow diagrams explained",
+    "url_slug": "workflow-diagram",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "workflow diagram",
+    "primary_volume": 1600,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "workflow diagram"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"workflow diagram\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Workflow examples",
+    "url_slug": "workflow-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "workflow examples",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "workflow examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"workflow examples\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-mapping-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Process mining explained",
+    "url_slug": "process-mining",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "process mining",
+    "primary_volume": 4400,
+    "primary_kd": 42,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "process mining"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"process mining\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "process-optimisation-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Robotic process automation explained",
+    "url_slug": "rpa-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "robotic process automation",
+    "primary_volume": 4400,
+    "primary_kd": 44,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "robotic process automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"robotic process automation\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "process-mapping",
+        "workflow-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best SOP software",
+    "url_slug": "sop-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sop software",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, sop software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sop software\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to manage SOPs",
+    "url_slug": "how-to-manage-sops",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sop management",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I sop management"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sop management\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to keep SOPs up to date",
+    "url_slug": "how-to-update-sops",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "updating sops",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I updating sops"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"updating sops\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to train your team on SOPs",
+    "url_slug": "sop-training",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sop training",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sop training"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sop training\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Digital SOPs explained",
+    "url_slug": "digital-sops",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "digital sop",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "digital sop"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"digital sop\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 9,
+    "pillar": "Process Mapping & SOP Creation",
+    "pillar_id": "process-sop",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "SOP compliance",
+    "url_slug": "sop-compliance",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sop compliance",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sop compliance"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sop compliance\" for founder-led teams documenting and improving how their business runs.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "standard-operating-procedures",
+        "sop-creation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
   }
 ]

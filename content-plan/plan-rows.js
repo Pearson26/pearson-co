@@ -40412,6 +40412,3330 @@ window.PLAN_ROWS = [
     "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
     "status": "not-started",
     "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": false,
+    "title": "CRM consulting and selection",
+    "url_slug": "crm-consulting",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm consulting",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [
+      "crm consultant",
+      "crm consultancy",
+      "best crm for small business"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm consulting"
+      }
+    ],
+    "direct_answer": "A CRM consultant helps you choose the right CRM and get real value from it, rather than buying software that no one uses. This is how Lauren advises on selection, fit and the work that turns a CRM into a system your team trusts.",
+    "h2_outline": [
+      "What CRM consulting and selection involve",
+      "Why the right CRM and adviser matter",
+      "How Lauren helps you choose and get value",
+      "What an engagement includes",
+      "How to start"
+    ],
+    "word_count_target": 2200,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM consultant",
+    "url_slug": "crm-consultant-service",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm consultant",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "crm consulting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's crm consultant covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM consultancy",
+    "url_slug": "crm-consultancy",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm consultancy",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "crm consulting firm"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm consultancy"
+      }
+    ],
+    "direct_answer": "What Lauren's crm consultancy covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "HubSpot consultant",
+    "url_slug": "hubspot-consultant",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "hubspot consultant",
+    "primary_volume": 880,
+    "primary_kd": 34,
+    "secondary_keywords": [
+      "hubspot consulting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hubspot consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's hubspot consultant covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Salesforce consultant",
+    "url_slug": "salesforce-consultant",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "salesforce consultant",
+    "primary_volume": 1900,
+    "primary_kd": 40,
+    "secondary_keywords": [
+      "salesforce consulting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "salesforce consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's salesforce consultant covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Zoho CRM consultant",
+    "url_slug": "zoho-crm-consultant",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "zoho crm consultant",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "zoho consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "zoho crm consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's zoho crm consultant covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Pipedrive consultant",
+    "url_slug": "pipedrive-consultant",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "pipedrive consultant",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "pipedrive expert"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "pipedrive consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's pipedrive consultant covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "monday CRM consultant",
+    "url_slug": "monday-crm-consultant",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "monday crm consultant",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "monday.com consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "monday crm consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's monday crm consultant covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM consultant for startups",
+    "url_slug": "crm-consultant-for-startups",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm consultant startups",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "startup crm consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm consultant startups"
+      }
+    ],
+    "direct_answer": "What Lauren's crm consultant for startups covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM consultant for small business",
+    "url_slug": "crm-consultant-for-small-business",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm consultant small business",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "small business crm consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm consultant small business"
+      }
+    ],
+    "direct_answer": "What Lauren's crm consultant for small business covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM for real estate",
+    "url_slug": "crm-consultant-real-estate",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm for real estate",
+    "primary_volume": 1300,
+    "primary_kd": 36,
+    "secondary_keywords": [
+      "real estate crm consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm for real estate"
+      }
+    ],
+    "direct_answer": "What Lauren's crm for real estate covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM for recruitment",
+    "url_slug": "crm-consultant-recruitment",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm for recruitment",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "recruitment crm consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm for recruitment"
+      }
+    ],
+    "direct_answer": "What Lauren's crm for recruitment covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM for professional services",
+    "url_slug": "crm-consultant-professional-services",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm for professional services",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "professional services crm"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm for professional services"
+      }
+    ],
+    "direct_answer": "What Lauren's crm for professional services covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM strategy consulting",
+    "url_slug": "crm-strategy-consulting",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm strategy",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "crm strategy consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm strategy"
+      }
+    ],
+    "direct_answer": "What Lauren's crm strategy consulting covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM optimisation service",
+    "url_slug": "crm-optimisation-service",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "crm optimisation",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "crm optimization"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm optimisation"
+      }
+    ],
+    "direct_answer": "What Lauren's crm optimisation service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Salesforce vs HubSpot",
+    "url_slug": "salesforce-vs-hubspot",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "salesforce vs hubspot",
+    "primary_volume": 2400,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "which is better, salesforce vs hubspot"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"salesforce vs hubspot\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "salesforce-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "HubSpot vs Zoho CRM",
+    "url_slug": "hubspot-vs-zoho",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hubspot vs zoho",
+    "primary_volume": 880,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "which is better, hubspot vs zoho"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot vs zoho\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "hubspot-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "HubSpot vs Pipedrive",
+    "url_slug": "hubspot-vs-pipedrive",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hubspot vs pipedrive",
+    "primary_volume": 880,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "which is better, hubspot vs pipedrive"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot vs pipedrive\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "hubspot-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Salesforce vs Zoho CRM",
+    "url_slug": "salesforce-vs-zoho",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "salesforce vs zoho",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "which is better, salesforce vs zoho"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"salesforce vs zoho\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "salesforce-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Zoho CRM vs Pipedrive",
+    "url_slug": "zoho-vs-pipedrive",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "zoho vs pipedrive",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "which is better, zoho vs pipedrive"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"zoho vs pipedrive\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "zoho-crm-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "monday CRM vs HubSpot",
+    "url_slug": "monday-vs-hubspot",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "monday vs hubspot",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "which is better, monday vs hubspot"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"monday vs hubspot\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "monday-crm-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "HubSpot vs Salesforce vs Zoho",
+    "url_slug": "hubspot-vs-salesforce-vs-zoho",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hubspot vs salesforce vs zoho",
+    "primary_volume": 170,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "which is better, hubspot vs salesforce vs zoho"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot vs salesforce vs zoho\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM software",
+    "url_slug": "best-crm-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm software",
+    "primary_volume": 6600,
+    "primary_kd": 44,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "best crm software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm software\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "CRM software comparison",
+    "url_slug": "crm-software-comparison",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm software comparison",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "which is better, crm software comparison"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm software comparison\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "A HubSpot review",
+    "url_slug": "hubspot-review",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hubspot review",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "which is better, hubspot review"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot review\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "hubspot-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "A Salesforce review",
+    "url_slug": "salesforce-review",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "salesforce review",
+    "primary_volume": 880,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "which is better, salesforce review"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"salesforce review\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "salesforce-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "A Zoho CRM review",
+    "url_slug": "zoho-crm-review",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "zoho crm review",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "which is better, zoho crm review"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"zoho crm review\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "zoho-crm-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "A Pipedrive review",
+    "url_slug": "pipedrive-review",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pipedrive review",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "which is better, pipedrive review"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipedrive review\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "pipedrive-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "A monday CRM review",
+    "url_slug": "monday-crm-review",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "monday crm review",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "which is better, monday crm review"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"monday crm review\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "monday-crm-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for small business",
+    "url_slug": "best-crm-for-small-business",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for small business",
+    "primary_volume": 6600,
+    "primary_kd": 44,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "best crm for small business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for small business\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-for-small-business"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for startups",
+    "url_slug": "best-crm-for-startups",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for startups",
+    "primary_volume": 1900,
+    "primary_kd": 38,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "best crm for startups"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for startups\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-for-startups"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for real estate",
+    "url_slug": "best-crm-for-real-estate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for real estate",
+    "primary_volume": 2400,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "best crm for real estate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for real estate\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-real-estate"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for recruitment",
+    "url_slug": "best-crm-for-recruitment",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for recruitment",
+    "primary_volume": 880,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "best crm for recruitment"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for recruitment\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-recruitment"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for consultants",
+    "url_slug": "best-crm-for-consultants",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for consultants",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "best crm for consultants"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for consultants\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for SaaS",
+    "url_slug": "best-crm-for-saas",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for saas",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "best crm for saas"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for saas\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for B2B",
+    "url_slug": "best-crm-for-b2b",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for b2b",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "best crm for b2b"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for b2b\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for ecommerce",
+    "url_slug": "best-crm-for-ecommerce",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for ecommerce",
+    "primary_volume": 880,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "best crm for ecommerce"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for ecommerce\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for nonprofits",
+    "url_slug": "best-crm-for-nonprofits",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for nonprofits",
+    "primary_volume": 1300,
+    "primary_kd": 36,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "best crm for nonprofits"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for nonprofits\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for hospitality",
+    "url_slug": "best-crm-for-hospitality",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for hospitality",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "best crm for hospitality"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for hospitality\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for hotels",
+    "url_slug": "best-crm-for-hotels",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for hotels",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "best crm for hotels"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for hotels\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for restaurants",
+    "url_slug": "best-crm-for-restaurants",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for restaurants",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "best crm for restaurants"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for restaurants\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for professional services",
+    "url_slug": "best-crm-for-professional-services",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for professional services",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "best crm for professional services"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for professional services\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-professional-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for financial advisors",
+    "url_slug": "best-crm-for-financial-advisors",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for financial advisors",
+    "primary_volume": 880,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "best crm for financial advisors"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for financial advisors\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM for agencies",
+    "url_slug": "best-crm-for-agencies",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best crm for agencies",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "best crm for agencies"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best crm for agencies\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best free CRM",
+    "url_slug": "best-free-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "best free crm",
+    "primary_volume": 6600,
+    "primary_kd": 42,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "best free crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"best free crm\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What does a CRM consultant do?",
+    "url_slug": "what-does-a-crm-consultant-do",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "what does a crm consultant do",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what does a crm consultant do"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what does a crm consultant do\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is CRM consulting?",
+    "url_slug": "what-is-crm-consulting",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "what is crm consulting",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is crm consulting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is crm consulting\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultancy"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "When to hire a CRM consultant",
+    "url_slug": "when-to-hire-a-crm-consultant",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "when to hire a crm consultant",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "when to hire a crm consultant"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"when to hire a crm consultant\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to choose a CRM consultant",
+    "url_slug": "how-to-choose-a-crm-consultant",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "how to choose a crm consultant",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how to choose a crm consultant"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to choose a crm consultant\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How much does a CRM consultant cost?",
+    "url_slug": "crm-consultant-cost",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm consultant cost",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm consultant cost"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm consultant cost\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Signs you need a CRM consultant",
+    "url_slug": "signs-you-need-a-crm-consultant",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "signs you need a crm consultant",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "signs you need a crm consultant"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"signs you need a crm consultant\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "CRM consultant vs CRM developer",
+    "url_slug": "crm-consultant-vs-developer",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm consultant vs developer",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "which is better, crm consultant vs developer"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm consultant vs developer\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "The benefits of a CRM consultant",
+    "url_slug": "benefits-of-a-crm-consultant",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "benefits of crm consultant",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "benefits of crm consultant"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"benefits of crm consultant\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The shortlist, with who each suits",
+      "How to decide"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM consulting services explained",
+    "url_slug": "crm-consulting-services-explained",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm consulting services",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm consulting services"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm consulting services\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultancy"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Questions to ask a CRM consultant",
+    "url_slug": "crm-consultant-questions",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm consultant questions",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm consultant questions"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm consultant questions\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Hiring a HubSpot consultant",
+    "url_slug": "hiring-a-hubspot-consultant",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "hire hubspot consultant",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hire hubspot consultant"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hire hubspot consultant\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "hubspot-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Hiring a Salesforce consultant",
+    "url_slug": "hiring-a-salesforce-consultant",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "hire salesforce consultant",
+    "primary_volume": 170,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hire salesforce consultant"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hire salesforce consultant\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "salesforce-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A CRM guide for small business",
+    "url_slug": "crm-for-small-business-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm for small business",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm for small business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm for small business\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-for-small-business"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A CRM guide for startups",
+    "url_slug": "crm-for-startups-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm for startups",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm for startups"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm for startups\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-for-startups"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Do you need a CRM consultant?",
+    "url_slug": "do-you-need-a-crm-consultant",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "do i need a crm consultant",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "do i need a crm consultant"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"do i need a crm consultant\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Working with a CRM migration consultant",
+    "url_slug": "crm-migration-consultant",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm migration consultant",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm migration consultant"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm migration consultant\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A CRM optimisation guide",
+    "url_slug": "crm-optimisation-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm optimisation",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm optimisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm optimisation\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-optimisation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to get the most from your CRM",
+    "url_slug": "get-the-most-from-your-crm",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "get more from your crm",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "get more from your crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"get more from your crm\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-optimisation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A CRM health check",
+    "url_slug": "crm-health-check",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm health check",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm health check"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm health check\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-optimisation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to run a CRM review",
+    "url_slug": "crm-review-process",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm review",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I crm review"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm review\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-optimisation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to switch CRM",
+    "url_slug": "switching-crm",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "switching crm",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I switching crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"switching crm\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-migration-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "CRM vs a marketing automation platform",
+    "url_slug": "crm-vs-marketing-platform",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm vs marketing automation",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "which is better, crm vs marketing automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm vs marketing automation\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Open source CRM explained",
+    "url_slug": "open-source-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "open source crm",
+    "primary_volume": 1900,
+    "primary_kd": 36,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "which is better, open source crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"open source crm\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "What to weigh up",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1550,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The best CRM for a service business",
+    "url_slug": "crm-for-service-business",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm for service business",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm for service business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm for service business\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-consultant-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 12,
+    "pillar": "CRM Consulting & Selection",
+    "pillar_id": "crm-consulting",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to write CRM requirements",
+    "url_slug": "crm-requirements-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "crm requirements",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I crm requirements"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm requirements\" for founder-led teams choosing a CRM or an adviser, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-consulting",
+        "crm-strategy-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
   }
 ];
 window.PLAN_TOTAL_TARGET = 1085;

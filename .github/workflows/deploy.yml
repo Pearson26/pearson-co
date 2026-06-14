@@ -1,0 +1,38 @@
+# Deploy to Netlify (fallback / optional).
+#
+# PREFERRED PATH: connect the Netlify site to this repo (Site settings -> Build & deploy ->
+# link repository, branch = main, build command = empty, publish directory = root). Then
+# Netlify deploys automatically on every push to main and this workflow is not needed.
+#
+# USE THIS WORKFLOW ONLY IF you do not want to connect Netlify's git integration and would
+# rather deploy from GitHub Actions. To activate:
+#   1) change the trigger to `push: { branches: [main] }`
+#   2) add repo secrets NETLIFY_AUTH_TOKEN and NETLIFY_SITE_ID
+#
+# It is set to manual-only (workflow_dispatch) for now so it does not run or fail while we
+# are only storing files in the repo.
+
+name: Deploy to Netlify
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Regenerate link graph, blog index and sitemap
+        run: |
+          python scripts/link_graph.py
+          python scripts/blog_index.py
+          python scripts/build_sitemap.py
+      - name: Style gate
+        run: python scripts/style_gate.py blog/ services/
+      - name: Deploy to Netlify
+        run: npx --yes netlify-cli@17 deploy --prod --dir=. --site="$NETLIFY_SITE_ID" --auth="$NETLIFY_AUTH_TOKEN"
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}

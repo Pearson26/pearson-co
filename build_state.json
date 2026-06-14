@@ -1,0 +1,10 @@
+{
+  "site": "The Pearson Co.",
+  "repo": "Pearson26/pearson-co",
+  "next_index": 1,
+  "posts_published": 0,
+  "total_planned": 0,
+  "last_published_slug": null,
+  "last_updated": "2026-06-14T00:00:00Z",
+  "notes": "Engine scaffolded. Content plan (plan.md / plan.json) not yet generated. Netlify deploy not yet connected; storing files in the repo only."
+}

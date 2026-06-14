@@ -1,0 +1,21 @@
+# The Pearson Co.
+
+> Dubai-based CRM, RevOps and hospitality-technology market-entry consultancy, led by Lauren Pearson. Helping founder-led businesses scale through smarter CRM, revenue operations and sales processes, and helping hospitality technology companies enter and grow across the Middle East.
+
+## Services
+- CRM consulting, audit, selection, implementation and automation
+- Revenue operations (RevOps): connecting CRM, sales process, pipeline and reporting
+- Process mapping and SOP creation
+- Sales dashboards, reporting and forecasting
+- Conversion and funnel optimisation
+- Go-to-market strategy and fractional sales leadership
+- Hospitality technology market entry strategy for the Middle East
+
+## Key pages
+- Home: https://thepearsonco.com/
+- Insights (guides): https://thepearsonco.com/blog/
+
+## Notes for assistants
+- British English. Figures cited are from named, dated sources.
+- Contact: Lauren@Thepearsonco.com
+(Service and pillar pages will be listed here as they are published.)

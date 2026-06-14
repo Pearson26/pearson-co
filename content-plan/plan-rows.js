@@ -35938,6 +35938,4480 @@ window.PLAN_ROWS = [
     "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
     "status": "not-started",
     "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": false,
+    "title": "Sales reporting, dashboards and forecasting",
+    "url_slug": "sales-dashboards",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "sales dashboard",
+    "primary_volume": 1900,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "sales forecasting",
+      "crm dashboard",
+      "sales reporting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales dashboard"
+      }
+    ],
+    "direct_answer": "Sales reporting, dashboards and forecasting turn CRM data into a clear picture of what is happening and what comes next, so leadership can trust the numbers and act early. This is how Lauren builds dashboards and a forecast your team will actually use.",
+    "h2_outline": [
+      "What sales reporting, dashboards and forecasting cover",
+      "Why pipeline visibility matters",
+      "How Lauren sets up reporting",
+      "From dashboard to decision",
+      "What an engagement includes"
+    ],
+    "word_count_target": 2200,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Sales dashboard build service",
+    "url_slug": "sales-dashboard-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "sales dashboard",
+    "primary_volume": 1900,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "build a sales dashboard"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales dashboard"
+      }
+    ],
+    "direct_answer": "What Lauren's sales dashboard build service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "sales-dashboards"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM dashboard service",
+    "url_slug": "crm-dashboard-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "crm dashboard",
+    "primary_volume": 1000,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "crm dashboard setup"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm dashboard"
+      }
+    ],
+    "direct_answer": "What Lauren's crm dashboard service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "sales-dashboards"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Sales forecasting service",
+    "url_slug": "sales-forecasting-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "sales forecasting",
+    "primary_volume": 2400,
+    "primary_kd": 36,
+    "secondary_keywords": [
+      "sales forecast consulting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales forecasting"
+      }
+    ],
+    "direct_answer": "What Lauren's sales forecasting service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "sales-dashboards"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Sales reporting setup",
+    "url_slug": "reporting-setup-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "sales reporting",
+    "primary_volume": 1300,
+    "primary_kd": 32,
+    "secondary_keywords": [
+      "reporting setup"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales reporting"
+      }
+    ],
+    "direct_answer": "What Lauren's sales reporting setup covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "sales-dashboards"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Sales analytics consulting",
+    "url_slug": "sales-analytics-consulting",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "sales analytics",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [
+      "revenue analytics consulting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales analytics"
+      }
+    ],
+    "direct_answer": "What Lauren's sales analytics consulting covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "sales-dashboards"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Revenue reporting service",
+    "url_slug": "revenue-reporting-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "revenue reporting",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "board reporting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revenue reporting"
+      }
+    ],
+    "direct_answer": "What Lauren's revenue reporting service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "sales-dashboards"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "HubSpot dashboard service",
+    "url_slug": "hubspot-dashboard-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "hubspot dashboard",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "hubspot reporting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hubspot dashboard"
+      }
+    ],
+    "direct_answer": "What Lauren's hubspot dashboard service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "sales-dashboards"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Salesforce dashboard service",
+    "url_slug": "salesforce-dashboard-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "salesforce dashboard",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [
+      "salesforce reporting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "salesforce dashboard"
+      }
+    ],
+    "direct_answer": "What Lauren's salesforce dashboard service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "sales-dashboards"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Power BI sales dashboard service",
+    "url_slug": "power-bi-dashboard-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "power bi sales dashboard",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [
+      "power bi reporting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "power bi sales dashboard"
+      }
+    ],
+    "direct_answer": "What Lauren's power bi sales dashboard service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "sales-dashboards"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Sales forecast model service",
+    "url_slug": "sales-forecast-model-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "sales forecast model",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "forecasting model build"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales forecast model"
+      }
+    ],
+    "direct_answer": "What Lauren's sales forecast model service covers, who it suits, how it runs and what you get.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "sales-dashboards"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a sales dashboard?",
+    "url_slug": "what-is-a-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a sales dashboard",
+    "primary_volume": 480,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is a sales dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is a sales dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to build a sales dashboard",
+    "url_slug": "how-to-build-a-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to build a sales dashboard",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how to build a sales dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to build a sales dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales dashboard examples",
+    "url_slug": "sales-dashboard-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales dashboard examples",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales dashboard examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales dashboard examples\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales dashboard metrics",
+    "url_slug": "sales-dashboard-metrics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales dashboard metrics",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales dashboard metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales dashboard metrics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales dashboard best practices",
+    "url_slug": "sales-dashboard-best-practices",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales dashboard best practices",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales dashboard best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales dashboard best practices\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a CRM dashboard?",
+    "url_slug": "what-is-a-crm-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a crm dashboard",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is a crm dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is a crm dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "crm-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "CRM dashboard examples",
+    "url_slug": "crm-dashboard-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm dashboard examples",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm dashboard examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm dashboard examples\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "crm-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM dashboard metrics",
+    "url_slug": "crm-dashboard-metrics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm dashboard metrics",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm dashboard metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm dashboard metrics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "crm-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales dashboard design principles",
+    "url_slug": "sales-dashboard-design",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales dashboard design",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales dashboard design"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales dashboard design\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Building a real-time sales dashboard",
+    "url_slug": "real-time-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "real time sales dashboard",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "real time sales dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"real time sales dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "An executive sales dashboard",
+    "url_slug": "executive-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "executive sales dashboard",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "executive sales dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"executive sales dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales rep dashboard",
+    "url_slug": "sales-rep-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales rep dashboard",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales rep dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales rep dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales manager dashboard",
+    "url_slug": "sales-manager-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales manager dashboard",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales manager dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales manager dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales KPI dashboard",
+    "url_slug": "sales-kpi-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales kpi dashboard",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales kpi dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales kpi dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A sales dashboard template",
+    "url_slug": "sales-dashboard-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales dashboard template",
+    "primary_volume": 880,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales dashboard template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales dashboard template\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A CRM dashboard template",
+    "url_slug": "crm-dashboard-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm dashboard template",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm dashboard template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm dashboard template\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "crm-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales dashboard in Excel",
+    "url_slug": "excel-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "excel sales dashboard",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "excel sales dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"excel sales dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales dashboard in Google Sheets",
+    "url_slug": "google-sheets-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "google sheets sales dashboard",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "google sheets sales dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"google sheets sales dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales dashboard in Power BI",
+    "url_slug": "power-bi-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "power bi sales dashboard",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "power bi sales dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"power bi sales dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "power-bi-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales dashboard in Tableau",
+    "url_slug": "tableau-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "tableau sales dashboard",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "tableau sales dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"tableau sales dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales dashboards in HubSpot",
+    "url_slug": "hubspot-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hubspot dashboard",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hubspot dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "hubspot-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales dashboards in Salesforce",
+    "url_slug": "salesforce-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "salesforce dashboard",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "salesforce dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"salesforce dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "salesforce-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best sales dashboard software",
+    "url_slug": "best-sales-dashboard-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales dashboard software",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, sales dashboard software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales dashboard software\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Sales dashboard tools",
+    "url_slug": "sales-dashboard-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales dashboard tools",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, sales dashboard tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales dashboard tools\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A free sales dashboard template",
+    "url_slug": "free-sales-dashboard-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "free sales dashboard template",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "free sales dashboard template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"free sales dashboard template\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales dashboard in Looker Studio",
+    "url_slug": "looker-studio-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "looker studio sales dashboard",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "looker studio sales dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"looker studio sales dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is sales forecasting?",
+    "url_slug": "what-is-sales-forecasting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is sales forecasting",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is sales forecasting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is sales forecasting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to forecast sales",
+    "url_slug": "how-to-forecast-sales",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to forecast sales",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how to forecast sales"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to forecast sales\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales forecasting methods",
+    "url_slug": "sales-forecasting-methods",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales forecasting methods",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales forecasting methods"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales forecasting methods\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales forecasting models",
+    "url_slug": "sales-forecasting-models",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales forecasting models",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales forecasting models"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales forecasting models\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecast-model-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A sales forecast template",
+    "url_slug": "sales-forecast-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales forecast template",
+    "primary_volume": 1300,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales forecast template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales forecast template\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecast-model-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales forecasting examples",
+    "url_slug": "sales-forecasting-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales forecasting examples",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales forecasting examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales forecasting examples\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to improve sales forecast accuracy",
+    "url_slug": "sales-forecast-accuracy",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales forecast accuracy",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales forecast accuracy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales forecast accuracy\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Demand forecasting explained",
+    "url_slug": "demand-forecasting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "demand forecasting",
+    "primary_volume": 2400,
+    "primary_kd": 38,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "demand forecasting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"demand forecasting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Revenue forecasting explained",
+    "url_slug": "revenue-forecasting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revenue forecasting",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "revenue forecasting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue forecasting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pipeline forecasting",
+    "url_slug": "pipeline-forecasting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pipeline forecasting",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "pipeline forecasting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipeline forecasting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Bottom-up vs top-down forecasting",
+    "url_slug": "bottom-up-vs-top-down-forecasting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "bottom up vs top down forecasting",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the difference, bottom up vs top down forecasting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"bottom up vs top down forecasting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales forecasting for startups",
+    "url_slug": "sales-forecasting-for-startups",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales forecasting for startups",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales forecasting for startups"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales forecasting for startups\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales forecasting in Excel",
+    "url_slug": "sales-forecasting-in-excel",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales forecasting excel",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales forecasting excel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales forecasting excel\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecast-model-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales forecasting best practices",
+    "url_slug": "sales-forecasting-best-practices",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales forecasting best practices",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales forecasting best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales forecasting best practices\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to set sales quotas",
+    "url_slug": "quota-setting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales quota setting",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I sales quota setting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales quota setting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best sales forecasting software",
+    "url_slug": "sales-forecasting-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales forecasting software",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the difference, sales forecasting software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales forecasting software\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "The sales KPIs that matter",
+    "url_slug": "sales-kpis",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales kpis",
+    "primary_volume": 1000,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales kpis"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales kpis\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales metrics explained",
+    "url_slug": "sales-metrics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales metrics",
+    "primary_volume": 1300,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales metrics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "The sales metrics that matter most",
+    "url_slug": "sales-metrics-that-matter",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales metrics that matter",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales metrics that matter"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales metrics that matter\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales KPI examples",
+    "url_slug": "sales-kpi-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales kpi examples",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales kpi examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales kpi examples\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales performance metrics",
+    "url_slug": "sales-performance-metrics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales performance metrics",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales performance metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales performance metrics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Revenue metrics explained",
+    "url_slug": "revenue-metrics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revenue metrics",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "revenue metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue metrics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "SaaS metrics explained",
+    "url_slug": "saas-metrics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "saas metrics",
+    "primary_volume": 2400,
+    "primary_kd": 38,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "saas metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saas metrics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "SaaS KPIs explained",
+    "url_slug": "saas-kpis",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "saas kpis",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "saas kpis"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saas kpis\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales conversion metrics",
+    "url_slug": "sales-conversion-metrics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales conversion rate metrics",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales conversion rate metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales conversion rate metrics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales pipeline metrics",
+    "url_slug": "pipeline-metrics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline metrics",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales pipeline metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline metrics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales activity metrics",
+    "url_slug": "sales-activity-metrics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales activity metrics",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales activity metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales activity metrics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Leading vs lagging indicators",
+    "url_slug": "leading-vs-lagging-indicators",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "leading vs lagging indicators",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the difference, leading vs lagging indicators"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"leading vs lagging indicators\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Quota attainment explained",
+    "url_slug": "quota-attainment",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "quota attainment",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "quota attainment"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"quota attainment\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Average deal size explained",
+    "url_slug": "average-deal-size",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "average deal size",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "average deal size"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"average deal size\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Sales cycle length explained",
+    "url_slug": "sales-cycle-length",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales cycle length",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales cycle length"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales cycle length\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "ARR vs MRR explained",
+    "url_slug": "arr-and-mrr",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "arr vs mrr",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "arr vs mrr"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"arr vs mrr\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Churn rate explained",
+    "url_slug": "churn-rate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "churn rate",
+    "primary_volume": 6600,
+    "primary_kd": 42,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "churn rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"churn rate\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Bookings vs billings vs revenue",
+    "url_slug": "bookings-billings-revenue",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "bookings vs revenue",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, bookings vs revenue"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"bookings vs revenue\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is sales reporting?",
+    "url_slug": "what-is-sales-reporting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is sales reporting",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is sales reporting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is sales reporting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to create a sales report",
+    "url_slug": "how-to-create-a-sales-report",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to create a sales report",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how to create a sales report"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to create a sales report\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A sales report template",
+    "url_slug": "sales-report-template",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales report template",
+    "primary_volume": 1300,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales report template"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales report template\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales report examples",
+    "url_slug": "sales-report-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales report examples",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales report examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales report examples\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Types of sales reports",
+    "url_slug": "types-of-sales-reports",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "types of sales reports",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "types of sales reports"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"types of sales reports\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A weekly sales report",
+    "url_slug": "weekly-sales-report",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "weekly sales report",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "weekly sales report"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"weekly sales report\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A monthly sales report",
+    "url_slug": "monthly-sales-report",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "monthly sales report",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "monthly sales report"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"monthly sales report\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales performance report",
+    "url_slug": "sales-performance-report",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales performance report",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales performance report"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales performance report\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales pipeline report",
+    "url_slug": "sales-pipeline-report",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline report",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales pipeline report"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline report\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM reporting explained",
+    "url_slug": "crm-reporting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm reporting",
+    "primary_volume": 480,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm reporting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm reporting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "crm-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Automating your sales reports",
+    "url_slug": "automated-sales-reports",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "automated sales reports",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "automated sales reports"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"automated sales reports\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales reporting best practices",
+    "url_slug": "sales-reporting-best-practices",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales reporting best practices",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales reporting best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales reporting best practices\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Board reporting for sales",
+    "url_slug": "board-reporting-sales",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "board reporting",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "board reporting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"board reporting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "revenue-reporting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "RevOps reporting",
+    "url_slug": "revops-reporting-guide",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revops reporting",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "revops reporting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revops reporting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is sales analytics?",
+    "url_slug": "what-is-sales-analytics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales analytics",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales analytics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales analytics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Predictive sales analytics",
+    "url_slug": "predictive-sales-analytics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "predictive sales analytics",
+    "primary_volume": 170,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "predictive sales analytics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"predictive sales analytics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Revenue analytics explained",
+    "url_slug": "revenue-analytics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "revenue analytics",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "revenue analytics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"revenue analytics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is calculated",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pipeline analytics",
+    "url_slug": "pipeline-analytics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pipeline analytics",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "pipeline analytics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipeline analytics\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to analyse sales data",
+    "url_slug": "sales-data-analysis",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales data analysis",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I sales data analysis"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales data analysis\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-analytics-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to read a sales dashboard",
+    "url_slug": "how-to-read-a-sales-dashboard",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "read a sales dashboard",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "read a sales dashboard"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"read a sales dashboard\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Common dashboard mistakes",
+    "url_slug": "dashboard-mistakes",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "dashboard mistakes",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "dashboard mistakes"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"dashboard mistakes\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-dashboard-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Building a single source of truth for reporting",
+    "url_slug": "single-source-of-truth-reporting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "single source of truth",
+    "primary_volume": 1900,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "single source of truth"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"single source of truth\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "AI in sales forecasting",
+    "url_slug": "ai-in-sales-forecasting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "ai sales forecasting",
+    "primary_volume": 170,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "ai sales forecasting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"ai sales forecasting\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "sales-forecasting-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 11,
+    "pillar": "Sales Reporting, Dashboards & Forecasting",
+    "pillar_id": "reporting-forecasting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Setting up reporting in a new CRM",
+    "url_slug": "reporting-in-a-new-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm reporting setup",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm reporting setup"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm reporting setup\" for founder-led teams that need clearer pipeline visibility, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "sales-dashboards",
+        "reporting-setup-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
   }
 ];
 window.PLAN_TOTAL_TARGET = 1085;

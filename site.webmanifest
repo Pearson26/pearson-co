@@ -1,0 +1,8 @@
+{
+  "name": "The Pearson Co.",
+  "short_name": "Pearson Co.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffdf9",
+  "theme_color": "#B784A7"
+}

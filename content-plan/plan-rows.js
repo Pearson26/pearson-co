@@ -12055,6 +12055,2790 @@ window.PLAN_ROWS = [
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
     "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": true,
+    "title": "Fractional sales leadership",
+    "url_slug": "fractional-sales-leadership",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "fractional sales leadership",
+    "primary_volume": 260,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "fractional sales director",
+      "fractional cro",
+      "fractional vp of sales"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "fractional sales leadership"
+      }
+    ],
+    "direct_answer": "Fractional sales leadership gives a growing business a senior sales or revenue leader part-time, for a fraction of a full-time cost. It suits founder-led teams that have outgrown founder-led selling but are not ready for a full-time hire. This is how Lauren supports that stage, including across the Middle East.",
+    "h2_outline": [
+      "What it is and who it is for",
+      "Why businesses choose this",
+      "How Lauren works this way",
+      "What an engagement includes",
+      "Cost and what to expect"
+    ],
+    "word_count_target": 2100,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "Fractional sales director",
+    "url_slug": "fractional-sales-director",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "fractional sales director",
+    "primary_volume": 90,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "fractional head of sales"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "fractional sales director"
+      }
+    ],
+    "direct_answer": "What Lauren offers as a fractional sales director, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "Fractional CRO",
+    "url_slug": "fractional-cro",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "fractional cro",
+    "primary_volume": 90,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "fractional chief revenue officer"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "fractional cro"
+      }
+    ],
+    "direct_answer": "What Lauren offers as a fractional cro, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Fractional sales manager",
+    "url_slug": "fractional-sales-manager",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "fractional sales manager",
+    "primary_volume": 390,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "fractional sales management"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "fractional sales manager"
+      }
+    ],
+    "direct_answer": "What Lauren offers as a fractional sales manager, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Fractional commercial director",
+    "url_slug": "fractional-commercial-director",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "fractional commercial director",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [
+      "fractional commercial leader"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "fractional commercial director"
+      }
+    ],
+    "direct_answer": "What Lauren offers as a fractional commercial director, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Fractional VP of sales",
+    "url_slug": "fractional-vp-of-sales",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "fractional vp of sales",
+    "primary_volume": 210,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "fractional vp sales"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "fractional vp of sales"
+      }
+    ],
+    "direct_answer": "What Lauren offers as a fractional vp of sales, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Fractional head of sales",
+    "url_slug": "fractional-head-of-sales",
+    "target_market": "US",
+    "intent": "commercial",
+    "primary_keyword": "fractional head of sales",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "interim head of sales"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "fractional head of sales"
+      }
+    ],
+    "direct_answer": "What Lauren offers as a fractional head of sales, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is fractional sales leadership?",
+    "url_slug": "what-is-fractional-sales-leadership",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "fractional sales leadership meaning",
+    "primary_volume": 50,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "fractional sales leadership meaning"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional sales leadership meaning\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a fractional sales director?",
+    "url_slug": "what-is-a-fractional-sales-director",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a fractional sales director",
+    "primary_volume": 50,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is a fractional sales director"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"what is a fractional sales director\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a fractional CRO?",
+    "url_slug": "what-is-a-fractional-cro",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a fractional cro",
+    "primary_volume": 70,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is a fractional cro"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"what is a fractional cro\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-cro"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Fractional CRO meaning",
+    "url_slug": "fractional-cro-meaning",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "fractional cro meaning",
+    "primary_volume": 70,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "fractional cro meaning"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional cro meaning\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-cro"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a fractional sales manager?",
+    "url_slug": "what-is-a-fractional-sales-manager",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a fractional sales manager",
+    "primary_volume": 50,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is a fractional sales manager"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"what is a fractional sales manager\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-manager"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What does a fractional CRO do?",
+    "url_slug": "what-does-a-fractional-cro-do",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what does a cro do",
+    "primary_volume": 480,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what does a cro do"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"what does a cro do\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-cro"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Fractional sales management explained",
+    "url_slug": "fractional-sales-management-explained",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional sales management",
+    "primary_volume": 210,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "fractional sales management"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional sales management\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-manager"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Fractional vs full-time sales director",
+    "url_slug": "fractional-vs-full-time-sales-director",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "fractional vs full time sales director",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "which is better, fractional vs full time sales director"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional vs full time sales director\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Fractional vs interim sales leadership",
+    "url_slug": "fractional-vs-interim-sales-leadership",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "fractional vs interim",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "which is better, fractional vs interim"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional vs interim\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "When to hire a fractional sales director",
+    "url_slug": "when-to-hire-a-fractional-sales-director",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "when to hire a fractional sales director",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "when to hire a fractional sales director"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"when to hire a fractional sales director\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "When to hire a fractional CRO",
+    "url_slug": "when-to-hire-a-fractional-cro",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "when to hire a fractional cro",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "when to hire a fractional cro"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"when to hire a fractional cro\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-cro"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How much does a fractional sales director cost?",
+    "url_slug": "fractional-sales-director-cost",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional sales director cost",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "fractional sales director cost"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional sales director cost\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How much does a fractional CRO cost?",
+    "url_slug": "fractional-cro-cost",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional cro cost",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "fractional cro cost"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional cro cost\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-cro"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "The benefits of fractional sales leadership",
+    "url_slug": "benefits-of-fractional-sales-leadership",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "benefits of fractional sales leadership",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "benefits of fractional sales leadership"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"benefits of fractional sales leadership\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Fractional sales leadership for startups",
+    "url_slug": "fractional-sales-leadership-for-startups",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional sales leadership for startups",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "fractional sales leadership for startups"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional sales leadership for startups\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Fractional sales leadership for SaaS",
+    "url_slug": "fractional-sales-leadership-for-saas",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional sales leadership saas",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "fractional sales leadership saas"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional sales leadership saas\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A fractional CRO for startups",
+    "url_slug": "fractional-cro-for-startups",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional cro for startups",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "fractional cro for startups"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional cro for startups\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-cro"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How fractional sales leadership works",
+    "url_slug": "how-fractional-sales-leadership-works",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "how fractional sales leadership works",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how fractional sales leadership works"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"how fractional sales leadership works\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Fractional sales leader vs sales consultant",
+    "url_slug": "fractional-vs-sales-consultant",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "fractional vs sales consultant",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "which is better, fractional vs sales consultant"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional vs sales consultant\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Signs you need a fractional sales director",
+    "url_slug": "signs-you-need-a-fractional-sales-director",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "signs you need a fractional sales director",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "signs you need a fractional sales director"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"signs you need a fractional sales director\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The fractional sales leader role explained",
+    "url_slug": "fractional-sales-leader-role",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional sales leader",
+    "primary_volume": 140,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "fractional sales leader"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional sales leader\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A guide to the fractional VP of sales",
+    "url_slug": "fractional-vp-of-sales-guide",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional vp of sales",
+    "primary_volume": 210,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "fractional vp of sales"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional vp of sales\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-vp-of-sales"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The fractional chief sales officer role",
+    "url_slug": "fractional-chief-sales-officer",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional chief sales officer",
+    "primary_volume": 140,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "fractional chief sales officer"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional chief sales officer\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Fractional revenue leadership explained",
+    "url_slug": "fractional-revenue-leadership",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional revenue leadership",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "fractional revenue leadership"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional revenue leadership\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-cro"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Fractional sales models compared",
+    "url_slug": "fractional-sales-models",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "fractional sales model",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "which is better, fractional sales model"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional sales model\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to hire a fractional sales leader",
+    "url_slug": "how-to-hire-a-fractional-sales-leader",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "how to hire a fractional sales leader",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how to hire a fractional sales leader"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"how to hire a fractional sales leader\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Fractional sales leadership for hospitality tech",
+    "url_slug": "fractional-sales-leadership-hospitality-tech",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional sales leadership hospitality",
+    "primary_volume": 20,
+    "primary_kd": 14,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "fractional sales leadership hospitality"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional sales leadership hospitality\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Fractional Sales Leadership",
+    "pillar_id": "fractional-leadership",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Fractional sales leadership for Middle East expansion",
+    "url_slug": "fractional-sales-leadership-middle-east",
+    "target_market": "US",
+    "intent": "informational",
+    "primary_keyword": "fractional sales leadership middle east",
+    "primary_volume": 20,
+    "primary_kd": 14,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "fractional sales leadership middle east"
+      }
+    ],
+    "direct_answer": "A clear, practical answer to \"fractional sales leadership middle east\" for founder-led teams weighing senior sales help, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "fractional-sales-leadership",
+        "fractional-sales-director"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": true,
+    "title": "Growth consulting",
+    "url_slug": "growth-consulting",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "business growth consulting",
+    "primary_volume": 880,
+    "primary_kd": 30,
+    "secondary_keywords": [
+      "growth consultant",
+      "growth strategy consulting",
+      "business growth consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "business growth consulting"
+      }
+    ],
+    "direct_answer": "Growth consulting helps founder-led businesses find and remove the constraints holding back revenue, then build a practical plan to scale. Lauren works on the commercial engine behind growth: CRM, process, pipeline and the route to market, not vanity tactics.",
+    "h2_outline": [
+      "What it is and who it is for",
+      "Why businesses choose this",
+      "How Lauren works this way",
+      "What an engagement includes",
+      "Cost and what to expect"
+    ],
+    "word_count_target": 2100,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "Business growth consultant",
+    "url_slug": "business-growth-consultant",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "business growth consultant",
+    "primary_volume": 480,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "growth consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "business growth consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's business growth consultant engagement covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "growth-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Growth strategy consultant",
+    "url_slug": "growth-strategy-consultant",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "growth strategy consultant",
+    "primary_volume": 260,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "growth strategy consulting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "growth strategy consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's growth strategy consultant engagement covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "growth-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Business growth advisor",
+    "url_slug": "business-growth-advisor",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "business growth advisor",
+    "primary_volume": 390,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "growth advisor"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "business growth advisor"
+      }
+    ],
+    "direct_answer": "What Lauren's business growth advisor engagement covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "growth-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Growth consulting services",
+    "url_slug": "growth-consulting-services",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "business growth consulting services",
+    "primary_volume": 390,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "growth consulting"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "business growth consulting services"
+      }
+    ],
+    "direct_answer": "What Lauren's growth consulting services engagement covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "growth-consulting"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a growth consultant?",
+    "url_slug": "what-is-a-growth-consultant",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a growth consultant",
+    "primary_volume": 90,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is a growth consultant"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is a growth consultant\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What does a growth consultant do?",
+    "url_slug": "what-does-a-growth-consultant-do",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what does a growth consultant do",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what does a growth consultant do"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what does a growth consultant do\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to build a business growth strategy",
+    "url_slug": "business-growth-strategy",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "business growth strategy",
+    "primary_volume": 720,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "business growth strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"business growth strategy\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A growth strategy framework",
+    "url_slug": "growth-strategy-framework",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "growth strategy framework",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "growth strategy framework"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"growth strategy framework\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Business growth strategies that work",
+    "url_slug": "business-growth-strategies",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "business growth strategies",
+    "primary_volume": 3600,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "business growth strategies"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"business growth strategies\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to grow your business",
+    "url_slug": "how-to-grow-your-business",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to grow your business",
+    "primary_volume": 1600,
+    "primary_kd": 38,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how to grow your business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to grow your business\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to grow a small business",
+    "url_slug": "how-to-grow-a-small-business",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to grow a small business",
+    "primary_volume": 1000,
+    "primary_kd": 36,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how to grow a small business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to grow a small business\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Growth strategy examples",
+    "url_slug": "growth-strategy-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "growth strategy examples",
+    "primary_volume": 260,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "growth strategy examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"growth strategy examples\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "When to hire a growth consultant",
+    "url_slug": "when-to-hire-a-growth-consultant",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "when to hire a growth consultant",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "when to hire a growth consultant"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"when to hire a growth consultant\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How much does a growth consultant cost?",
+    "url_slug": "growth-consultant-cost",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "growth consultant cost",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "growth consultant cost"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"growth consultant cost\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Growth consultant vs business coach",
+    "url_slug": "growth-consultant-vs-business-coach",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "growth consultant vs business coach",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "which is better, growth consultant vs business coach"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"growth consultant vs business coach\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Growth consulting vs management consulting",
+    "url_slug": "growth-vs-management-consulting",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "growth consulting vs management consulting",
+    "primary_volume": 30,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "which is better, growth consulting vs management consulting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"growth consulting vs management consulting\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Types of growth strategy",
+    "url_slug": "types-of-growth-strategy",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "types of growth strategy",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "types of growth strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"types of growth strategy\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to run a growth diagnostic",
+    "url_slug": "growth-diagnostic",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "growth audit",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I growth audit"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"growth audit\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "growth-consulting-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to scale a business",
+    "url_slug": "how-to-scale-a-business",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "scaling a business",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "scaling a business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"scaling a business\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Founder-stage growth: a guide",
+    "url_slug": "founder-stage-growth",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "founder led growth",
+    "primary_volume": 40,
+    "primary_kd": 16,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "founder led growth"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"founder led growth\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Growth levers explained",
+    "url_slug": "growth-levers",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "growth levers",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "growth levers"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"growth levers\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Product-led vs sales-led growth",
+    "url_slug": "product-led-vs-sales-led-growth",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "product led vs sales led growth",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "which is better, product led vs sales led growth"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"product led vs sales led growth\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which you need and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A growth strategy for SaaS",
+    "url_slug": "growth-strategy-for-saas",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "saas growth strategy",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "saas growth strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saas growth strategy\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 4,
+    "pillar": "Growth Consulting & Strategy",
+    "pillar_id": "growth-consulting",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Business expansion strategies",
+    "url_slug": "business-expansion-strategies",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "business expansion strategies",
+    "primary_volume": 260,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "business expansion strategies"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"business expansion strategies\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "growth-consulting",
+        "business-growth-consultant"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
   }
 ];
 window.PLAN_TOTAL_TARGET = 1085;

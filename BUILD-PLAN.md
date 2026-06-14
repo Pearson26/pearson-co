@@ -27,3 +27,4 @@ Sales Pipeline 30 · Growth Consulting 25. Total ~1,085.
 |------|------|-------|-------|------|
 | 2026-06-14 | Seeded repo with the live website files. | 0 | (site files) | Build the engine scaffold. |
 | 2026-06-14 | Scaffolded the content engine: CLAUDE.md, 9 workforce souls, article template, blog.css, scripts (style_gate, sitemap, blog_index, verify_state, link_graph), state and docs, orchestrator prompt, deploy workflow (inert). | 0 | (engine) | Generate the 12-month plan (plan.md / plan.json / content-plan.html). |
+| 2026-06-14 | Plan infrastructure + Batch 1 of 14: Conversion & Funnel Optimisation, 95 records (1 pillar, 12 money, 82 authority), Semrush-researched UK cluster. plan.json/plan.md/dashboard live. | 0 (plan) | conversion-rate-optimisation + 94 | Batch 2: Revenue Operations (RevOps), 95. |

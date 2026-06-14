@@ -1,1 +1,4411 @@
-[]
+[
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": true,
+    "title": "Conversion and funnel optimisation",
+    "url_slug": "conversion-rate-optimisation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "conversion rate optimisation",
+    "primary_volume": 3600,
+    "primary_kd": 38,
+    "secondary_keywords": [
+      "cro",
+      "conversion optimisation",
+      "increase conversion rate"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "conversion rate optimisation"
+      }
+    ],
+    "direct_answer": "Conversion rate optimisation finds and fixes where a website and sales funnel lose ready-to-buy visitors, then proves the lift with testing. This is how Lauren turns existing traffic into more enquiries without spending more on ads.",
+    "h2_outline": [
+      "What it is and why it matters commercially",
+      "Where revenue leaks in the funnel",
+      "How Lauren approaches it",
+      "What an engagement includes",
+      "Results and what to expect"
+    ],
+    "word_count_target": 2200,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "Conversion rate optimisation services",
+    "url_slug": "conversion-rate-optimisation-services",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "conversion rate optimisation services",
+    "primary_volume": 1900,
+    "primary_kd": 20,
+    "secondary_keywords": [
+      "cro services",
+      "conversion optimisation services"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "conversion rate optimisation services"
+      }
+    ],
+    "direct_answer": "What Lauren's conversion rate optimisation services covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "Conversion rate optimisation consultant",
+    "url_slug": "conversion-rate-optimisation-consultant",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "conversion rate optimisation consultant",
+    "primary_volume": 390,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "cro consultant",
+      "conversion optimisation consultant"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "conversion rate optimisation consultant"
+      }
+    ],
+    "direct_answer": "What Lauren's conversion rate optimisation consultant covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "Conversion rate optimisation audit",
+    "url_slug": "conversion-rate-optimisation-audit",
+    "target_market": "UK",
+    "intent": "transactional",
+    "primary_keyword": "conversion rate optimisation audit",
+    "primary_volume": 260,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "cro audit",
+      "conversion audit"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "conversion rate optimisation audit"
+      }
+    ],
+    "direct_answer": "What Lauren's conversion rate optimisation audit covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "B2B conversion rate optimisation",
+    "url_slug": "b2b-conversion-rate-optimisation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "b2b conversion rate optimisation",
+    "primary_volume": 140,
+    "primary_kd": 20,
+    "secondary_keywords": [
+      "b2b cro"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "b2b conversion rate optimisation"
+      }
+    ],
+    "direct_answer": "What Lauren's b2b conversion rate optimisation covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Ecommerce conversion rate optimisation",
+    "url_slug": "ecommerce-conversion-rate-optimisation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "ecommerce conversion rate optimisation",
+    "primary_volume": 320,
+    "primary_kd": 25,
+    "secondary_keywords": [
+      "ecommerce cro"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "ecommerce conversion rate optimisation"
+      }
+    ],
+    "direct_answer": "What Lauren's ecommerce conversion rate optimisation covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "SaaS conversion rate optimisation",
+    "url_slug": "saas-conversion-rate-optimisation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "saas conversion rate optimisation",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "saas cro"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "saas conversion rate optimisation"
+      }
+    ],
+    "direct_answer": "What Lauren's saas conversion rate optimisation covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Sales funnel optimisation",
+    "url_slug": "sales-funnel-optimisation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "sales funnel optimisation",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "funnel optimisation"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales funnel optimisation"
+      }
+    ],
+    "direct_answer": "What Lauren's sales funnel optimisation covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Sales funnel audit",
+    "url_slug": "sales-funnel-audit",
+    "target_market": "UK",
+    "intent": "transactional",
+    "primary_keyword": "sales funnel audit",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [
+      "funnel review"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales funnel audit"
+      }
+    ],
+    "direct_answer": "What Lauren's sales funnel audit covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Lead management and routing setup",
+    "url_slug": "lead-management-setup",
+    "target_market": "UK",
+    "intent": "transactional",
+    "primary_keyword": "lead management process",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "lead routing",
+      "lead management setup"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "lead management process"
+      }
+    ],
+    "direct_answer": "What Lauren's lead management and routing setup covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Landing page optimisation service",
+    "url_slug": "landing-page-optimisation",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "landing page optimisation",
+    "primary_volume": 140,
+    "primary_kd": 25,
+    "secondary_keywords": [
+      "landing page conversion"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "landing page optimisation"
+      }
+    ],
+    "direct_answer": "What Lauren's landing page optimisation service covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": true,
+    "title": "Conversion rate optimisation UK",
+    "url_slug": "conversion-rate-optimisation-uk",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "conversion rate optimisation uk",
+    "primary_volume": 390,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "cro agency uk",
+      "cro uk"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "conversion rate optimisation uk"
+      }
+    ],
+    "direct_answer": "What Lauren's conversion rate optimisation uk covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Conversion rate optimisation strategy",
+    "url_slug": "conversion-rate-optimisation-strategy",
+    "target_market": "UK",
+    "intent": "commercial",
+    "primary_keyword": "conversion rate optimisation strategy",
+    "primary_volume": 140,
+    "primary_kd": 20,
+    "secondary_keywords": [
+      "cro strategy"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "conversion rate optimisation strategy"
+      }
+    ],
+    "direct_answer": "What Lauren's conversion rate optimisation strategy covers, who it suits, how the engagement runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is conversion rate optimisation?",
+    "url_slug": "what-is-conversion-rate-optimisation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is conversion rate optimisation",
+    "primary_volume": 480,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is conversion rate optimisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is conversion rate optimisation\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a good conversion rate?",
+    "url_slug": "what-is-a-good-conversion-rate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a good conversion rate",
+    "primary_volume": 320,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is a good conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is a good conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to calculate conversion rate",
+    "url_slug": "how-to-calculate-conversion-rate",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "how to calculate conversion rate",
+    "primary_volume": 210,
+    "primary_kd": 15,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how to calculate conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to calculate conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is CRO in marketing?",
+    "url_slug": "what-is-cro-in-marketing",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is cro in marketing",
+    "primary_volume": 110,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is cro in marketing"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is cro in marketing\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Conversion rate optimisation explained for founders",
+    "url_slug": "conversion-rate-optimisation-explained",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "conversion rate optimisation explained",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "conversion rate optimisation explained"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"conversion rate optimisation explained\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "CRO and SEO: how they work together",
+    "url_slug": "cro-vs-seo",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "cro and seo",
+    "primary_volume": 260,
+    "primary_kd": 25,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the best cro and seo"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cro and seo\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Macro vs micro conversions explained",
+    "url_slug": "macro-vs-micro-conversions",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "micro conversions",
+    "primary_volume": 90,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "micro conversions"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"micro conversions\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Conversion rate vs click-through rate",
+    "url_slug": "conversion-rate-vs-click-through-rate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "conversion rate vs ctr",
+    "primary_volume": 70,
+    "primary_kd": 15,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the best conversion rate vs ctr"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"conversion rate vs ctr\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to improve your conversion rate",
+    "url_slug": "how-to-improve-conversion-rate",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "how to improve conversion rate",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how to improve conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to improve conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-audit"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to increase your conversion rate",
+    "url_slug": "how-to-increase-conversion-rate",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "how to increase conversion rate",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how to increase conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to increase conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-audit"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to increase website conversions",
+    "url_slug": "how-to-increase-website-conversion-rate",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "increase website conversions",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I increase website conversions"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"increase website conversions\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to improve B2B website conversion",
+    "url_slug": "improve-b2b-website-conversion",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "b2b website conversion",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I b2b website conversion"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b website conversion\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "b2b-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to boost your conversion rate",
+    "url_slug": "how-to-boost-conversion-rate",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "boost conversion rate",
+    "primary_volume": 110,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I boost conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"boost conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-audit"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to optimise a landing page for conversions",
+    "url_slug": "how-to-optimise-a-landing-page",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "landing page optimisation",
+    "primary_volume": 140,
+    "primary_kd": 25,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I landing page optimisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"landing page optimisation\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "landing-page-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to run a CRO programme",
+    "url_slug": "how-to-run-a-cro-programme",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "cro programme",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I cro programme"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cro programme\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to do a conversion audit, step by step",
+    "url_slug": "how-to-do-a-conversion-audit",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "conversion audit",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I conversion audit"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"conversion audit\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-audit"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How to set CRO goals and KPIs",
+    "url_slug": "cro-goals-and-kpis",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "cro kpis",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "cro kpis"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cro kpis\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to prioritise CRO experiments",
+    "url_slug": "how-to-prioritise-cro-experiments",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "cro prioritisation",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I cro prioritisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cro prioritisation\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to build a CRO roadmap",
+    "url_slug": "how-to-build-a-cro-roadmap",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "cro roadmap",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I cro roadmap"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cro roadmap\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-strategy"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to measure CRO impact",
+    "url_slug": "how-to-measure-cro-impact",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "measure cro",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I measure cro"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"measure cro\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Conversion rate optimisation techniques that work",
+    "url_slug": "conversion-rate-optimisation-techniques",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "conversion rate optimisation techniques",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "conversion rate optimisation techniques"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"conversion rate optimisation techniques\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Conversion rate optimisation best practices",
+    "url_slug": "conversion-rate-optimisation-best-practices",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "conversion rate optimisation best practice",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "conversion rate optimisation best practice"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"conversion rate optimisation best practice\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Conversion rate optimisation strategies",
+    "url_slug": "conversion-rate-optimisation-strategies",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "conversion rate optimisation strategies",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "conversion rate optimisation strategies"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"conversion rate optimisation strategies\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-strategy"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A guide to A/B testing for conversion",
+    "url_slug": "ab-testing-for-conversion",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "a/b testing",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "a/b testing"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"a/b testing\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "A/B testing mistakes to avoid",
+    "url_slug": "ab-testing-mistakes",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "a/b testing mistakes",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "a/b testing mistakes"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"a/b testing mistakes\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Multivariate testing explained",
+    "url_slug": "multivariate-testing-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "multivariate testing",
+    "primary_volume": 110,
+    "primary_kd": 25,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "multivariate testing"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"multivariate testing\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "Using heatmaps for CRO",
+    "url_slug": "using-heatmaps-for-cro",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "heatmaps",
+    "primary_volume": 210,
+    "primary_kd": 25,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I heatmaps"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"heatmaps\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "Using session recordings to find friction",
+    "url_slug": "session-recordings-for-cro",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "session recordings",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I session recordings"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"session recordings\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "Form optimisation to lift conversions",
+    "url_slug": "form-optimisation",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "form optimisation",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I form optimisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"form optimisation\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "Call-to-action optimisation that converts",
+    "url_slug": "cta-optimisation",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "call to action optimisation",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I call to action optimisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"call to action optimisation\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Social proof and conversions",
+    "url_slug": "social-proof-and-conversions",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "social proof",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "social proof"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"social proof\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "Reducing friction in checkout and forms",
+    "url_slug": "reducing-friction-in-checkout",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "checkout optimisation",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I checkout optimisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"checkout optimisation\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "ecommerce-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Page speed and conversion rate",
+    "url_slug": "page-speed-and-conversion-rate",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "page speed conversion",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "page speed conversion"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"page speed conversion\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Mobile conversion rate optimisation",
+    "url_slug": "mobile-conversion-rate-optimisation",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "mobile conversion rate",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "mobile conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"mobile conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is a sales funnel?",
+    "url_slug": "what-is-a-sales-funnel",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is a sales funnel",
+    "primary_volume": 260,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is a sales funnel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is a sales funnel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "sales-funnel-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales funnel stages explained",
+    "url_slug": "sales-funnel-stages",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "sales funnel stages",
+    "primary_volume": 480,
+    "primary_kd": 25,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales funnel stages"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales funnel stages\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "sales-funnel-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales funnel examples",
+    "url_slug": "sales-funnel-examples",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "sales funnel examples",
+    "primary_volume": 210,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales funnel examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales funnel examples\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "sales-funnel-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A B2B sales funnel guide",
+    "url_slug": "b2b-sales-funnel-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "b2b sales funnel",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "b2b sales funnel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b sales funnel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "b2b-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to build a sales funnel",
+    "url_slug": "how-to-build-a-sales-funnel",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "how to create a sales funnel",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how to create a sales funnel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to create a sales funnel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "sales-funnel-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Sales funnel vs marketing funnel",
+    "url_slug": "sales-funnel-vs-marketing-funnel",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales funnel vs marketing funnel",
+    "primary_volume": 70,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the best sales funnel vs marketing funnel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales funnel vs marketing funnel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Top, middle and bottom of funnel explained",
+    "url_slug": "top-middle-bottom-of-funnel",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "tofu mofu bofu",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "tofu mofu bofu"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"tofu mofu bofu\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Where your sales funnel leaks revenue",
+    "url_slug": "where-your-sales-funnel-leaks",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "sales funnel leaks",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales funnel leaks"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales funnel leaks\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "sales-funnel-audit"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to fix a leaking sales funnel",
+    "url_slug": "how-to-fix-a-leaking-sales-funnel",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "fix sales funnel",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I fix sales funnel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"fix sales funnel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "sales-funnel-audit"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "benchmark",
+    "is_ad_landing": false,
+    "title": "Funnel conversion benchmarks by stage",
+    "url_slug": "funnel-conversion-benchmarks",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "funnel conversion rate",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is a good funnel conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"funnel conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The headline numbers",
+      "How the figures break down",
+      "How to read your own data"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "The purchase funnel explained",
+    "url_slug": "purchase-funnel-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "purchase funnel",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "purchase funnel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"purchase funnel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Customer funnel mapping",
+    "url_slug": "customer-funnel-mapping",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "customer funnel",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "customer funnel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"customer funnel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Funnel metrics that matter",
+    "url_slug": "funnel-metrics-that-matter",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "funnel metrics",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "funnel metrics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"funnel metrics\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A SaaS sales funnel guide",
+    "url_slug": "saas-sales-funnel-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "saas sales funnel",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "saas sales funnel"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saas sales funnel\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "saas-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A sales funnel for service businesses",
+    "url_slug": "sales-funnel-for-service-businesses",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "sales funnel for services",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales funnel for services"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales funnel for services\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "benchmark",
+    "is_ad_landing": false,
+    "title": "Funnel-stage conversion rates",
+    "url_slug": "funnel-stage-conversion-rates",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "funnel stage conversion rates",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is a good funnel stage conversion rates"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"funnel stage conversion rates\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The headline numbers",
+      "How the figures break down",
+      "How to read your own data"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is lead management?",
+    "url_slug": "what-is-lead-management",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "lead management process",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "lead management process"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead management process\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "lead-management-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "The lead management process, step by step",
+    "url_slug": "lead-management-process-steps",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "lead management steps",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how do I lead management steps"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead management steps\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "lead-management-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Lead routing best practices",
+    "url_slug": "lead-routing-best-practices",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "lead routing",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "lead routing"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead routing\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "lead-management-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Speed to lead: why response time decides the deal",
+    "url_slug": "speed-to-lead",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "lead response time",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "lead response time"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead response time\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "lead-management-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Lead scoring basics",
+    "url_slug": "lead-scoring-basics",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "lead scoring",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "lead scoring"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead scoring\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Lead qualification frameworks compared",
+    "url_slug": "lead-qualification-frameworks",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "lead qualification",
+    "primary_volume": 210,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "lead qualification"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead qualification\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "MQL vs SQL explained",
+    "url_slug": "mql-vs-sql",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "mql vs sql",
+    "primary_volume": 260,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "mql vs sql"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"mql vs sql\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Lead nurturing for B2B",
+    "url_slug": "lead-nurturing-for-b2b",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "lead nurturing",
+    "primary_volume": 390,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "lead nurturing"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead nurturing\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Reducing lead leakage in your CRM",
+    "url_slug": "reducing-lead-leakage",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "lead leakage",
+    "primary_volume": 30,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "lead leakage"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead leakage\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "lead-management-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Lead management software compared",
+    "url_slug": "lead-management-software-compared",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "lead management software",
+    "primary_volume": 590,
+    "primary_kd": 35,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the best lead management software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead management software\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "lead-management-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "benchmark",
+    "is_ad_landing": false,
+    "title": "Average conversion rate by industry",
+    "url_slug": "average-conversion-rate-by-industry",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "average conversion rate",
+    "primary_volume": 320,
+    "primary_kd": 25,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "average conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"average conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The headline numbers",
+      "How the figures break down",
+      "How to read your own data"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "benchmark",
+    "is_ad_landing": false,
+    "title": "B2B conversion rate benchmarks",
+    "url_slug": "b2b-conversion-rate-benchmarks",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "b2b conversion rate",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is a good b2b conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The headline numbers",
+      "How the figures break down",
+      "How to read your own data"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "b2b-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "benchmark",
+    "is_ad_landing": false,
+    "title": "SaaS conversion rate benchmarks",
+    "url_slug": "saas-conversion-rate-benchmarks",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "saas conversion rate",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is a good saas conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saas conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The headline numbers",
+      "How the figures break down",
+      "How to read your own data"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "saas-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "benchmark",
+    "is_ad_landing": false,
+    "title": "Ecommerce conversion rate benchmarks",
+    "url_slug": "ecommerce-conversion-rate-benchmarks",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "ecommerce conversion rate",
+    "primary_volume": 210,
+    "primary_kd": 25,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is a good ecommerce conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"ecommerce conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The headline numbers",
+      "How the figures break down",
+      "How to read your own data"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "ecommerce-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "benchmark",
+    "is_ad_landing": false,
+    "title": "Landing page conversion benchmarks",
+    "url_slug": "landing-page-conversion-benchmarks",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "landing page conversion rate",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is a good landing page conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"landing page conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The headline numbers",
+      "How the figures break down",
+      "How to read your own data"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "landing-page-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "benchmark",
+    "is_ad_landing": false,
+    "title": "What is a good lead-to-customer rate?",
+    "url_slug": "good-lead-to-customer-rate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "lead to customer conversion rate",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is a good lead to customer conversion rate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead to customer conversion rate\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The headline numbers",
+      "How the figures break down",
+      "How to read your own data"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Cost per conversion explained",
+    "url_slug": "cost-per-conversion-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "cost per conversion",
+    "primary_volume": 170,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "cost per conversion"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cost per conversion\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "The conversion rate formula, with examples",
+    "url_slug": "conversion-rate-formula",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "conversion rate formula",
+    "primary_volume": 210,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "conversion rate formula"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"conversion rate formula\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it is measured",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRO tools",
+    "url_slug": "best-cro-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "conversion rate optimisation tools",
+    "primary_volume": 140,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the best conversion rate optimisation tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"conversion rate optimisation tools\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best A/B testing tools",
+    "url_slug": "best-ab-testing-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "a/b testing tools",
+    "primary_volume": 210,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the best a/b testing tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"a/b testing tools\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best heatmap tools",
+    "url_slug": "best-heatmap-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "heatmap tools",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the best heatmap tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"heatmap tools\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Google Optimize alternatives",
+    "url_slug": "google-optimize-alternatives",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "google optimize alternative",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the best google optimize alternative"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"google optimize alternative\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "CRO tools for small teams",
+    "url_slug": "cro-tools-for-small-teams",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "cro tools",
+    "primary_volume": 260,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the best cro tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"cro tools\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "Setting up GA4 for conversion tracking",
+    "url_slug": "ga4-for-cro",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "ga4 conversion tracking",
+    "primary_volume": 140,
+    "primary_kd": 25,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I ga4 conversion tracking"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"ga4 conversion tracking\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best landing page builders",
+    "url_slug": "best-landing-page-builders",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "landing page builder",
+    "primary_volume": 480,
+    "primary_kd": 35,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the best landing page builder"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"landing page builder\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "What to look for",
+      "The options compared",
+      "Which to choose and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "landing-page-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Free CRO tools worth using",
+    "url_slug": "free-cro-tools",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "free cro tools",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "free cro tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"free cro tools\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "An ecommerce CRO guide",
+    "url_slug": "ecommerce-cro-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "ecommerce conversion rate optimisation",
+    "primary_volume": 320,
+    "primary_kd": 25,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "ecommerce conversion rate optimisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"ecommerce conversion rate optimisation\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "ecommerce-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Shopify conversion rate optimisation",
+    "url_slug": "shopify-conversion-rate-optimisation",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "shopify conversion rate optimisation",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "shopify conversion rate optimisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"shopify conversion rate optimisation\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "ecommerce-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A SaaS CRO guide",
+    "url_slug": "saas-cro-guide",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "saas conversion rate optimisation",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "saas conversion rate optimisation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saas conversion rate optimisation\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "saas-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Improving hotel and hospitality website conversion",
+    "url_slug": "hotel-website-conversion",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "hotel website conversion",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hotel website conversion"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hotel website conversion\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "conversion-rate-optimisation-services"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRO for lead-generation websites",
+    "url_slug": "cro-for-lead-generation-websites",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "lead generation website",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "lead generation website"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead generation website\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "lead-management-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  },
+  {
+    "seq": null,
+    "batch": 1,
+    "pillar": "Conversion & Funnel Optimisation",
+    "pillar_id": "conversion-funnel",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRO for B2B service businesses",
+    "url_slug": "cro-for-b2b-service-businesses",
+    "target_market": "UK",
+    "intent": "informational",
+    "primary_keyword": "b2b cro",
+    "primary_volume": 140,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "b2b cro"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b cro\" for founder-led teams, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "conversion-rate-optimisation",
+        "b2b-conversion-rate-optimisation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
+    "status": "not-started"
+  }
+]

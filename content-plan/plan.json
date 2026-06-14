@@ -31457,5 +31457,4486 @@
     "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
     "status": "not-started",
     "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "pillar",
+    "content_type": "pillar",
+    "is_ad_landing": false,
+    "title": "CRM automation and workflow",
+    "url_slug": "crm-automation",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "crm automation",
+    "primary_volume": 450,
+    "primary_kd": 35,
+    "secondary_keywords": [
+      "crm workflow automation",
+      "sales automation",
+      "crm automation software"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm automation"
+      }
+    ],
+    "direct_answer": "CRM automation makes your CRM do the work, routing leads, chasing follow-ups, updating records and triggering the right next step, so your team sells instead of admin. This is how Lauren decides what to automate first and builds workflows your team trusts.",
+    "h2_outline": [
+      "What CRM automation is and why it matters",
+      "Where teams waste time on manual work",
+      "How Lauren automates a CRM",
+      "What to automate first",
+      "What an engagement includes"
+    ],
+    "word_count_target": 2200,
+    "internal_links": {
+      "up": [],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM automation service",
+    "url_slug": "crm-automation-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "crm automation services",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "crm automation"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm automation services"
+      }
+    ],
+    "direct_answer": "What Lauren's crm automation service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM workflow automation",
+    "url_slug": "crm-workflow-automation",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "crm workflow automation",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [
+      "workflow automation crm"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm workflow automation"
+      }
+    ],
+    "direct_answer": "What Lauren's crm workflow automation covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Sales automation service",
+    "url_slug": "sales-automation-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "sales automation",
+    "primary_volume": 1300,
+    "primary_kd": 36,
+    "secondary_keywords": [
+      "sales process automation"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales automation"
+      }
+    ],
+    "direct_answer": "What Lauren's sales automation service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Marketing automation service",
+    "url_slug": "marketing-automation-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "marketing automation services",
+    "primary_volume": 480,
+    "primary_kd": 34,
+    "secondary_keywords": [
+      "marketing automation setup"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "marketing automation services"
+      }
+    ],
+    "direct_answer": "What Lauren's marketing automation service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "CRM automation audit",
+    "url_slug": "crm-automation-audit",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "crm workflow audit",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [
+      "automation audit"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm workflow audit"
+      }
+    ],
+    "direct_answer": "What Lauren's crm automation audit covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "HubSpot automation service",
+    "url_slug": "hubspot-automation-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "hubspot workflow automation",
+    "primary_volume": 170,
+    "primary_kd": 28,
+    "secondary_keywords": [
+      "hubspot automation"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "hubspot workflow automation"
+      }
+    ],
+    "direct_answer": "What Lauren's hubspot automation service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Salesforce automation service",
+    "url_slug": "salesforce-automation-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "salesforce automation",
+    "primary_volume": 480,
+    "primary_kd": 34,
+    "secondary_keywords": [
+      "salesforce flow"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "salesforce automation"
+      }
+    ],
+    "direct_answer": "What Lauren's salesforce automation service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Zoho CRM automation service",
+    "url_slug": "zoho-automation-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "zoho crm automation",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [
+      "zoho workflow"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "zoho crm automation"
+      }
+    ],
+    "direct_answer": "What Lauren's zoho crm automation service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Email automation setup",
+    "url_slug": "email-automation-setup",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "email automation",
+    "primary_volume": 2900,
+    "primary_kd": 40,
+    "secondary_keywords": [
+      "email automation services"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "email automation"
+      }
+    ],
+    "direct_answer": "What Lauren's email automation setup covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "money",
+    "content_type": "money",
+    "is_ad_landing": false,
+    "title": "Lead automation service",
+    "url_slug": "lead-automation-service",
+    "target_market": "global",
+    "intent": "commercial",
+    "primary_keyword": "lead automation",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [
+      "lead routing automation"
+    ],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "lead automation"
+      }
+    ],
+    "direct_answer": "What Lauren's lead automation service covers, who it suits, how it runs and the outcomes to expect.",
+    "h2_outline": [
+      "Who this is for",
+      "What is included",
+      "How the engagement works",
+      "Outcomes and proof"
+    ],
+    "word_count_target": 1450,
+    "internal_links": {
+      "up": [
+        "crm-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is CRM automation?",
+    "url_slug": "what-is-crm-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is crm automation",
+    "primary_volume": 320,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is crm automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is crm automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is sales automation?",
+    "url_slug": "what-is-sales-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is sales automation",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is sales automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is sales automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "What is marketing automation?",
+    "url_slug": "what-is-marketing-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what is marketing automation",
+    "primary_volume": 1900,
+    "primary_kd": 36,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is marketing automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what is marketing automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "marketing-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "CRM workflow automation explained",
+    "url_slug": "crm-workflow-automation-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm workflow automation",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm workflow automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm workflow automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-workflow-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "The benefits of CRM automation",
+    "url_slug": "crm-automation-benefits",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation benefits",
+    "primary_volume": 90,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm automation benefits"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation benefits\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "CRM automation examples",
+    "url_slug": "crm-automation-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation examples",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm automation examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation examples\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Sales automation vs marketing automation",
+    "url_slug": "sales-vs-marketing-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales automation vs marketing automation",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, sales automation vs marketing automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales automation vs marketing automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "CRM automation vs marketing automation",
+    "url_slug": "crm-vs-marketing-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm vs marketing automation",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, crm vs marketing automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm vs marketing automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Types of CRM automation",
+    "url_slug": "types-of-crm-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "types of crm automation",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "types of crm automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"types of crm automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "How CRM automation works",
+    "url_slug": "how-crm-automation-works",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how crm automation works",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how crm automation works"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how crm automation works\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "The ROI of CRM automation",
+    "url_slug": "crm-automation-roi",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation roi",
+    "primary_volume": 40,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm automation roi"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation roi\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "CRM automation statistics",
+    "url_slug": "crm-automation-statistics",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation statistics",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm automation statistics"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation statistics\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "What to automate in your CRM first",
+    "url_slug": "what-to-automate-in-your-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "what to automate in crm",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what to automate in crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"what to automate in crm\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "CRM automation ideas",
+    "url_slug": "crm-automation-ideas",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation ideas",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm automation ideas"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation ideas\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Sales tasks worth automating",
+    "url_slug": "sales-tasks-to-automate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales tasks to automate",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales tasks to automate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales tasks to automate\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Marketing tasks worth automating",
+    "url_slug": "marketing-tasks-to-automate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "marketing tasks to automate",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "marketing tasks to automate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"marketing tasks to automate\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "marketing-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Lead assignment automation",
+    "url_slug": "lead-assignment-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "lead assignment automation",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "lead assignment automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead assignment automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "lead-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Lead nurturing automation",
+    "url_slug": "lead-nurturing-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "lead nurturing automation",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "lead nurturing automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead nurturing automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "lead-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Follow-up automation",
+    "url_slug": "follow-up-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "follow up automation",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "follow up automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"follow up automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Automating CRM data entry",
+    "url_slug": "data-entry-automation-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm data entry automation",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm data entry automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm data entry automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Deal stage automation",
+    "url_slug": "deal-stage-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "deal stage automation",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "deal stage automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"deal stage automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Task automation in your CRM",
+    "url_slug": "task-automation-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm task automation",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm task automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm task automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Reminder and alert automation",
+    "url_slug": "reminder-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm reminders automation",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm reminders automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm reminders automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pipeline automation",
+    "url_slug": "pipeline-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales pipeline automation",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales pipeline automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales pipeline automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Quote and proposal automation",
+    "url_slug": "quote-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "quote automation",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "quote automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"quote automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Contract and e-signature automation",
+    "url_slug": "contract-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "contract automation",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "contract automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"contract automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Reporting automation",
+    "url_slug": "reporting-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "automated reporting",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "automated reporting"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"automated reporting\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Customer onboarding automation",
+    "url_slug": "onboarding-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "onboarding automation",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "onboarding automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"onboarding automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to automate your CRM",
+    "url_slug": "how-to-automate-your-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to automate crm",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how to automate crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to automate crm\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to set up CRM workflows",
+    "url_slug": "how-to-set-up-crm-workflows",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "how to set up crm workflows",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "how to set up crm workflows"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"how to set up crm workflows\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-workflow-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to automate sales follow-ups",
+    "url_slug": "how-to-automate-sales-follow-ups",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "automate sales follow up",
+    "primary_volume": 70,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "how do I automate sales follow up"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"automate sales follow up\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to automate lead routing",
+    "url_slug": "how-to-automate-lead-routing",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "automate lead routing",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I automate lead routing"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"automate lead routing\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "lead-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to build a CRM workflow",
+    "url_slug": "how-to-build-a-crm-workflow",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "build a crm workflow",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I build a crm workflow"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"build a crm workflow\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-workflow-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "CRM automation best practices",
+    "url_slug": "crm-automation-best-practices",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation best practices",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm automation best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation best practices\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "CRM automation mistakes to avoid",
+    "url_slug": "crm-automation-mistakes",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation mistakes",
+    "primary_volume": 50,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm automation mistakes"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation mistakes\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to automate data entry",
+    "url_slug": "how-to-automate-data-entry",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "automate data entry",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "how do I automate data entry"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"automate data entry\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "how-to",
+    "is_ad_landing": false,
+    "title": "How to automate email sequences",
+    "url_slug": "how-to-automate-email-sequences",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "automate email sequences",
+    "primary_volume": 110,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "how do I automate email sequences"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"automate email sequences\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Step by step",
+      "A worked example",
+      "Common mistakes"
+    ],
+    "word_count_target": 1700,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "email-automation-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList",
+      "HowTo"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Map the workflow before you automate",
+    "url_slug": "map-before-you-automate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "map workflow before automating",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "map workflow before automating"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"map workflow before automating\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "A CRM automation checklist",
+    "url_slug": "crm-automation-checklist",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation checklist",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm automation checklist"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation checklist\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A CRM automation strategy",
+    "url_slug": "crm-automation-strategy",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation strategy",
+    "primary_volume": 50,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm automation strategy"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation strategy\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A guide to HubSpot workflows",
+    "url_slug": "hubspot-workflows-guide",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hubspot workflows",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "hubspot workflows"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot workflows\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "hubspot-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "HubSpot automation examples",
+    "url_slug": "hubspot-automation-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hubspot automation examples",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "hubspot automation examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot automation examples\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "hubspot-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A guide to Salesforce Flow",
+    "url_slug": "salesforce-flow-guide",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "salesforce flow",
+    "primary_volume": 2400,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "salesforce flow"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"salesforce flow\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "salesforce-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Salesforce process automation",
+    "url_slug": "salesforce-process-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "salesforce process automation",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "salesforce process automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"salesforce process automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "salesforce-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Zoho CRM workflow rules",
+    "url_slug": "zoho-workflow-rules",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "zoho crm workflow",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "zoho crm workflow"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"zoho crm workflow\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "zoho-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Pipedrive automation",
+    "url_slug": "pipedrive-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "pipedrive automation",
+    "primary_volume": 320,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "pipedrive automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"pipedrive automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "monday.com automation",
+    "url_slug": "monday-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "monday automation",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "monday automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"monday automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Using Zapier with your CRM",
+    "url_slug": "zapier-for-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "zapier crm",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "zapier crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"zapier crm\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Using Make with your CRM",
+    "url_slug": "make-for-crm",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "make crm automation",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "make crm automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"make crm automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM API automation",
+    "url_slug": "crm-api-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm api automation",
+    "primary_volume": 70,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm api automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm api automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "HubSpot vs Salesforce automation",
+    "url_slug": "hubspot-vs-salesforce-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "hubspot vs salesforce automation",
+    "primary_volume": 90,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, hubspot vs salesforce automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"hubspot vs salesforce automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM automation software",
+    "url_slug": "best-crm-automation-software",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation software",
+    "primary_volume": 170,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "what is the difference, crm automation software"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation software\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best CRM automation tools",
+    "url_slug": "best-crm-automation-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation tools",
+    "primary_volume": 110,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "what is the difference, crm automation tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation tools\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Workflow automation tools for CRM",
+    "url_slug": "crm-workflow-automation-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "workflow automation tools",
+    "primary_volume": 1300,
+    "primary_kd": 36,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the difference, workflow automation tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"workflow automation tools\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "AI in CRM automation",
+    "url_slug": "ai-crm-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "ai crm automation",
+    "primary_volume": 170,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "ai crm automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"ai crm automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Chatbots and CRM automation",
+    "url_slug": "chatbot-crm-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "chatbot crm",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "chatbot crm"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"chatbot crm\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A guide to email automation",
+    "url_slug": "email-automation-guide",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "email automation",
+    "primary_volume": 2900,
+    "primary_kd": 40,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "email automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"email automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "email-automation-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Email drip campaigns explained",
+    "url_slug": "email-drip-campaigns",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "drip campaign",
+    "primary_volume": 1900,
+    "primary_kd": 36,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "drip campaign"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"drip campaign\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "email-automation-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Email sequences that convert",
+    "url_slug": "email-sequences",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "email sequences",
+    "primary_volume": 1000,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "email sequences"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"email sequences\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "email-automation-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Lead scoring automation",
+    "url_slug": "lead-scoring-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "lead scoring automation",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "lead scoring automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"lead scoring automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "lead-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Marketing automation workflows",
+    "url_slug": "marketing-automation-workflows",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "marketing automation workflows",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "marketing automation workflows"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"marketing automation workflows\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "marketing-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Marketing automation examples",
+    "url_slug": "marketing-automation-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "marketing automation examples",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "marketing automation examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"marketing automation examples\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "marketing-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Marketing automation for B2B",
+    "url_slug": "marketing-automation-for-b2b",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "b2b marketing automation",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "b2b marketing automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"b2b marketing automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "marketing-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Marketing automation for SaaS",
+    "url_slug": "marketing-automation-for-saas",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "saas marketing automation",
+    "primary_volume": 170,
+    "primary_kd": 28,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "saas marketing automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"saas marketing automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "marketing-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Email automation best practices",
+    "url_slug": "email-automation-best-practices",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "email automation best practices",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "email automation best practices"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"email automation best practices\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "email-automation-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Abandoned cart automation",
+    "url_slug": "abandoned-cart-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "abandoned cart email",
+    "primary_volume": 1300,
+    "primary_kd": 34,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "abandoned cart email"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"abandoned cart email\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Re-engagement campaign automation",
+    "url_slug": "re-engagement-campaigns",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "re engagement campaign",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "re engagement campaign"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"re engagement campaign\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Welcome email automation",
+    "url_slug": "welcome-email-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "welcome email sequence",
+    "primary_volume": 880,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "welcome email sequence"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"welcome email sequence\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "email-automation-setup"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "CRM triggers explained",
+    "url_slug": "crm-triggers-explained",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm triggers",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm triggers"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm triggers\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-workflow-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "If-then automation rules explained",
+    "url_slug": "if-then-automation-rules",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "automation rules",
+    "primary_volume": 170,
+    "primary_kd": 24,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "automation rules"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"automation rules\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "Automation vs manual processes",
+    "url_slug": "automation-vs-manual",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "automation vs manual",
+    "primary_volume": 110,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "what is the difference, automation vs manual"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"automation vs manual\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "When not to automate",
+    "url_slug": "when-not-to-automate",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "when not to automate",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "when not to automate"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"when not to automate\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "A guide to sales automation",
+    "url_slug": "sales-automation-guide",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales automation guide",
+    "primary_volume": 320,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales automation guide"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales automation guide\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "comparison",
+    "is_ad_landing": false,
+    "title": "The best sales automation tools",
+    "url_slug": "sales-automation-tools",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales automation tools",
+    "primary_volume": 480,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "what is the difference, sales automation tools"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales automation tools\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How they differ",
+      "Which to use and when",
+      "How Lauren would decide"
+    ],
+    "word_count_target": 1500,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales sequence automation",
+    "url_slug": "sales-sequence-automation",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales sequences",
+    "primary_volume": 480,
+    "primary_kd": 30,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "sales sequences"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales sequences\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "definition",
+    "is_ad_landing": false,
+    "title": "Sales cadence explained",
+    "url_slug": "sales-cadence",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales cadence",
+    "primary_volume": 1000,
+    "primary_kd": 32,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales cadence"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales cadence\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "Why it matters",
+      "How it works",
+      "A practical example"
+    ],
+    "word_count_target": 1150,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Automating the sales process",
+    "url_slug": "automating-the-sales-process",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales process automation",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "sales process automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales process automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "template",
+    "is_ad_landing": false,
+    "title": "Automated sales follow-up templates",
+    "url_slug": "sales-follow-up-templates",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales follow up templates",
+    "primary_volume": 320,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "sales follow up templates"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales follow up templates\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "What the template covers",
+      "How to use it",
+      "A worked example"
+    ],
+    "word_count_target": 1250,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Automating proposals and quotes",
+    "url_slug": "automating-proposals",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "proposal automation",
+    "primary_volume": 170,
+    "primary_kd": 26,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "proposal automation"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"proposal automation\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "Sales automation for small business",
+    "url_slug": "sales-automation-small-business",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "sales automation small business",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "sales automation small business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"sales automation small business\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "sales-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM automation for startups",
+    "url_slug": "crm-automation-for-startups",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation startups",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Gemini",
+        "phrasing": "crm automation startups"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation startups\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM automation for small business",
+    "url_slug": "crm-automation-for-small-business",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation small business",
+    "primary_volume": 90,
+    "primary_kd": 22,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "ChatGPT",
+        "phrasing": "crm automation small business"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation small business\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "guide",
+    "is_ad_landing": false,
+    "title": "CRM automation for agencies",
+    "url_slug": "crm-automation-for-agencies",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm automation agencies",
+    "primary_volume": 40,
+    "primary_kd": 18,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Claude",
+        "phrasing": "crm automation agencies"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm automation agencies\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "The short answer",
+      "How it works in practice",
+      "What good looks like",
+      "Pitfalls to avoid"
+    ],
+    "word_count_target": 1650,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-automation-service"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
+  },
+  {
+    "seq": null,
+    "batch": 10,
+    "pillar": "CRM Automation & Workflow",
+    "pillar_id": "crm-automation",
+    "role": "authority",
+    "content_type": "listicle",
+    "is_ad_landing": false,
+    "title": "Workflow automation examples for CRM",
+    "url_slug": "crm-workflow-automation-examples",
+    "target_market": "global",
+    "intent": "informational",
+    "primary_keyword": "crm workflow examples",
+    "primary_volume": 70,
+    "primary_kd": 20,
+    "secondary_keywords": [],
+    "llm_layer_keywords": [
+      {
+        "engine": "Perplexity",
+        "phrasing": "crm workflow examples"
+      }
+    ],
+    "direct_answer": "A practical, plain-English answer to \"crm workflow examples\" for founder-led teams whose CRM holds data but does not do the work, with a clear next step.",
+    "h2_outline": [
+      "Why this matters",
+      "The list, with how to apply each",
+      "Where teams go wrong"
+    ],
+    "word_count_target": 1350,
+    "internal_links": {
+      "up": [
+        "crm-automation",
+        "crm-workflow-automation"
+      ],
+      "lateral": []
+    },
+    "external_links": [],
+    "schema_required": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
+    "status": "not-started",
+    "volume_source": "indicative"
   }
 ]

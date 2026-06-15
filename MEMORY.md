@@ -4,9 +4,11 @@ Durable facts and current state. Update the Current State block in every content
 
 ## Current state
 - Phase 1 (scaffold) complete. Repo seeded with the live site; engine in place.
-- Phase 2 (the 12-month plan) not yet built: `content-plan/plan.md`, `plan.json`, `plan-rows.js`, `content-plan.html` still to come.
+- Phase 2 (the 12-month plan) COMPLETE: 1085 records across 14 pillars (15 pillar pages, 115 money, 955 authority) in `content-plan/plan.json`, rendered to `plan.md` + `plan-rows.js`, reviewable in `content-plan/content-plan.html`. Sequenced for publishing via `scripts/sequence_plan.py` (pillars + money front-loaded, authority round-robin; ~91/month).
+- Volumes are live Semrush for batches 1-5 (Conversion, RevOps, CRM Implementation, Fractional+Growth, CJM part 1) and indicative (universe doc + domain knowledge) from batch 6 on. Refresh with Semrush when units are available, then re-run `render_plan.py`.
 - 0 posts published. `next_index` = 1.
 - Netlify deploy not connected yet (storing files in the repo only). Tracking IDs not set.
+- Next phase: connect Netlify to the repo, set up Lauren's Claude routines account, then publish via the workforce (3 posts/run, pointer-based).
 
 ## Fixed decisions
 - Repo `Pearson26/pearson-co`; push to `main` via `gh` as `ngindubai` (accepted write collaborator).

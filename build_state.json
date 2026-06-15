@@ -3,8 +3,8 @@
   "repo": "Pearson26/pearson-co",
   "next_index": 1,
   "posts_published": 0,
-  "total_planned": 0,
+  "total_planned": 1085,
   "last_published_slug": null,
-  "last_updated": "2026-06-14T00:00:00Z",
-  "notes": "Engine scaffolded. Content plan (plan.md / plan.json) not yet generated. Netlify deploy not yet connected; storing files in the repo only."
+  "last_updated": "2026-06-15T08:57:29Z",
+  "notes": "Engine scaffolded and 12-month plan complete: 1085 records (15 pillar, 115 money, 955 authority) across 14 pillars, sequenced for publishing (next_index=1). Publishing not started. Netlify deploy not yet connected; storing files in the repo only."
 }

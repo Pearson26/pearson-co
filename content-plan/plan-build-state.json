@@ -1,12 +1,12 @@
 {
-  "mode": "plan-build",
-  "next_batch": 14,
-  "batches_done": 13,
+  "mode": "complete",
+  "next_batch": null,
+  "batches_done": 14,
   "total_batches": 14,
-  "records_built": 1000,
+  "records_built": 1085,
   "total_target": 1085,
-  "last_updated": "2026-06-15T00:00:00Z",
-  "note": "Say 'build next' to generate the next batch. Each batch researches keywords via Semrush, writes records into plan.json, then renders plan-rows.js + plan.md. After batch 14, a final sequencing pass assigns the 12-month publish order (front-loading pillar pages).",
+  "last_updated": "2026-06-15T00:30:00Z",
+  "note": "PLAN COMPLETE. All 14 batches built and the sequencing pass (scripts/sequence_plan.py) has assigned the 12-month publish order: 1085 records, 15 pillar pages + 115 money pages front-loaded, 955 authority round-robined across pillars. Volumes from batch 6 onward are indicative (universe doc + domain knowledge); refresh with Semrush when units are available, then re-run render_plan.py. Next phase is publishing via the workforce (3 posts/run) once Netlify is connected.",
   "batches": [
     {"n": 1,  "pillar": "Conversion & Funnel Optimisation",         "pillar_id": "conversion-funnel",   "records": 95,  "priority": "ad-landing (UK CRO, the paid standout)"},
     {"n": 2,  "pillar": "Revenue Operations (RevOps)",              "pillar_id": "revops",              "records": 95,  "priority": "ad-landing"},

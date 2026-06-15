@@ -32,15 +32,9 @@ def priority(path: str) -> str:
     return "0.5"
 
 def main():
-    files = [f.replace("\\", "/") for f in glob.glob("**/*.html", recursive=True)]
-    pages = []
-    for f in files:
-        if any(f.startswith(d) for d in EXCLUDE_DIRS):
-            continue
-        if os.path.basename(f) in EXCLUDE:
-            continue
-        pages.append(f)
-    pages = sorted(set(pages))
+    SITE = "site"
+    files = [f.replace("\\", "/")[len(SITE) + 1:] for f in glob.glob(f"{SITE}/**/*.html", recursive=True)]
+    pages = sorted({f for f in files if os.path.basename(f) not in EXCLUDE})
 
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
@@ -53,8 +47,8 @@ def main():
                   f"    <priority>{priority(p)}</priority>",
                   "  </url>"]
     lines.append("</urlset>")
-    open("sitemap.xml", "w", encoding="utf-8").write("\n".join(lines) + "\n")
-    print(f"build_sitemap: wrote sitemap.xml with {len(pages)} URLs.")
+    open("site/sitemap.xml", "w", encoding="utf-8").write("\n".join(lines) + "\n")
+    print(f"build_sitemap: wrote site/sitemap.xml with {len(pages)} URLs.")
 
 if __name__ == "__main__":
     main()

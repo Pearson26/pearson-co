@@ -1,0 +1,8 @@
+# Netlify config for The Pearson Co.
+# Static HTML site, no build step. The live website lives in site/; the content
+# engine (workforce, scripts, content-plan, docs) stays at the repo root and is
+# never deployed. Netlify auto-deploys on every push to main.
+
+[build]
+  publish = "site"
+  command = ""

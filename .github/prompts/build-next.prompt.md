@@ -13,7 +13,7 @@ Act as The Strategist. Follow CLAUDE.md and the souls in /workforce exactly.
    - `python scripts/link_graph.py`
    - `python scripts/blog_index.py`
    - `python scripts/build_sitemap.py`
-   - `python scripts/style_gate.py blog/ services/` (any hit blocks the commit; fix and re-run)
+   - `python scripts/style_gate.py site/blog/ site/services/` (any hit blocks the commit; fix and re-run)
    - `python scripts/verify_state.py --write`
 5. Update `BUILD-PLAN.md` (session-log row) and `MEMORY.md` (Current State) in the same commit.
 6. Commit once and push to `main`:

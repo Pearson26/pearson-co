@@ -30,9 +30,9 @@ jobs:
           python scripts/blog_index.py
           python scripts/build_sitemap.py
       - name: Style gate
-        run: python scripts/style_gate.py blog/ services/
+        run: python scripts/style_gate.py site/blog/ site/services/
       - name: Deploy to Netlify
-        run: npx --yes netlify-cli@17 deploy --prod --dir=. --site="$NETLIFY_SITE_ID" --auth="$NETLIFY_AUTH_TOKEN"
+        run: npx --yes netlify-cli@17 deploy --prod --dir=site --site="$NETLIFY_SITE_ID" --auth="$NETLIFY_AUTH_TOKEN"
         env:
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}

@@ -88,7 +88,7 @@ def main():
     if args:
         files = args
     else:
-        files = glob.glob("blog/**/*.html", recursive=True) + glob.glob("services/**/*.html", recursive=True)
+        files = glob.glob("site/blog/**/*.html", recursive=True) + glob.glob("site/services/**/*.html", recursive=True)
     if not files:
         print("style_gate: no files to scan.")
         return 0

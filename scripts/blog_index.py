@@ -54,7 +54,7 @@ def from_plan():
     for r in plan:
         if r.get("role") in ("pillar", "money"):
             continue
-        f = f"blog/{r['url_slug']}.html"
+        f = f"site/blog/{r['url_slug']}.html"
         if os.path.exists(f):
             items[r["url_slug"]] = {"title": r.get("title", r["url_slug"]),
                                      "pillar": r.get("pillar", "Insights"),
@@ -63,7 +63,7 @@ def from_plan():
 
 def from_disk():
     items = {}
-    for f in glob.glob("blog/*.html"):
+    for f in glob.glob("site/blog/*.html"):
         slug = os.path.basename(f)[:-5]
         if slug == "index":
             continue
@@ -76,11 +76,11 @@ def from_disk():
     return items
 
 def main():
-    os.makedirs("blog", exist_ok=True)
+    os.makedirs("site/blog", exist_ok=True)
     items = from_plan() or from_disk()
     if not items:
         body = "    <p style='color:var(--muted);margin-top:30px'>The first articles are on their way.</p>\n"
-        open("blog/index.html", "w", encoding="utf-8").write(SHELL_HEAD + body + SHELL_FOOT)
+        open("site/blog/index.html", "w", encoding="utf-8").write(SHELL_HEAD + body + SHELL_FOOT)
         print("blog_index: no posts yet; wrote placeholder hub.")
         return
     by_pillar = {}
@@ -97,7 +97,7 @@ def main():
                        f'<p>{html.escape(meta["excerpt"])}</p>'
                        f'<a href="/blog/{slug}.html">Read &rarr;</a></article>')
         out.append('    </div>')
-    open("blog/index.html", "w", encoding="utf-8").write(SHELL_HEAD + "\n".join(out) + "\n" + SHELL_FOOT)
+    open("site/blog/index.html", "w", encoding="utf-8").write(SHELL_HEAD + "\n".join(out) + "\n" + SHELL_FOOT)
     print(f"blog_index: wrote /blog/index.html with {len(items)} posts across {len(by_pillar)} pillars.")
 
 if __name__ == "__main__":

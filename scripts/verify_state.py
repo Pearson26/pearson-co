@@ -20,7 +20,7 @@ STATE = "build_state.json"
 def path_for(rec):
     role = rec.get("role", "authority")
     folder = "services" if role in ("pillar", "money") else "blog"
-    return f"{folder}/{rec['url_slug']}.html"
+    return f"site/{folder}/{rec['url_slug']}.html"
 
 def main():
     write = "--write" in sys.argv

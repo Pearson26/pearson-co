@@ -16,7 +16,7 @@ MIN_INBOUND_MONEY = 3  # money/pillar pages want at least this many inbound auth
 
 def path_for(rec):
     folder = "services" if rec.get("role") in ("pillar", "money") else "blog"
-    return f"{folder}/{rec['url_slug']}.html"
+    return f"site/{folder}/{rec['url_slug']}.html"
 
 def live_links(path):
     """Internal links actually present in a published file."""

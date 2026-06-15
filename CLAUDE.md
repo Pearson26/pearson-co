@@ -19,9 +19,10 @@ Modelled on the patterns in `mortgagecompare-ae` (content plan) and `pet-transpo
 ## 2. Tech stack (locked)
 
 - Plain **static HTML**, no build step. Same stack as the live site.
-- **GitHub** repo `Pearson26/pearson-co` is the source of truth. Push via `gh` as `ngindubai` (accepted write collaborator).
-- **Netlify** hosts the site (publish dir = repo root). Continuous deployment from `main` will be connected later; until then we only store files in the repo. Do not assume a live deploy yet.
-- Articles are standalone `.html` files written into `/blog/` (authority) and `/services/` (pillar + money pages).
+- **GitHub** repo `Pearson26/pearson-co` is the source of truth. The client's Claude account pushes to `main` via its GitHub connection (authorised as `Pearson26`); our build access is `ngindubai` as a write collaborator.
+- **Netlify** hosts the site via **git continuous deployment** from this repo: branch `main`, **publish directory `site/`**, no build command. Every push to `main` auto-deploys in ~30-60s.
+- The **website lives in `site/`**; the **engine** (workforce, scripts, content-plan, templates, docs) stays at the **repo root and is never deployed**.
+- Articles are standalone `.html` files written into `site/blog/` (authority) and `site/services/` (pillar + money pages).
 
 ## 3. House style (non-negotiable, enforced by The Humaniser and The Auditor)
 
@@ -41,7 +42,7 @@ Use the live site's system, NOT the agency-document look (`#7f466f` + Inter is f
 - Tokens (from `styles.css` `:root`): `--plum:#B784A7`, `--rose:#d9b5c6`, `--blush:#ead9d7`, `--cream:#f8f4ef`, `--ivory:#fffdf9`, `--ink:#2c2229`, `--muted:#746970`.
 - Fonts: **Playfair Display** (h1/h2, display) + **DM Sans** (body). Already loaded via Google Fonts link.
 - Every article uses `templates/article.html` as its shell: the site header/nav, footer, WhatsApp float, cookie banner, and loads `tracking-config.js` + `script.js`. Article-specific components are in `blog.css`.
-- **Asset paths are root-relative** (`/styles.css`, `/blog.css`, `/logo-the-pearson-co.svg`, `/#contact`) because articles sit one level deep in `/blog/` and `/services/`.
+- **Asset paths are root-relative** (`/styles.css`, `/blog.css`, `/logo-the-pearson-co.svg`, `/#contact`). The deploy root is `site/`, so `/styles.css` resolves to `site/styles.css`. Articles sit one level deep in `site/blog/` and `site/services/`.
 - Byline author is **Lauren Pearson, Founder, The Pearson Co.** (never "Gareth", never a fake persona).
 - Every article ends with a CTA block linking to the home contact section (`/#contact`) and, where relevant, the matching service/pillar page.
 
@@ -56,7 +57,7 @@ Nine worker souls, chained per run by The Strategist. Each soul file is the work
 5. **The Optimiser** — on-page SEO + GEO: title/meta, H-hierarchy, canonical, OG, image alt, JSON-LD, the direct-answer block and LLM-phrasing coverage.
 6. **The Interrogator** — unique FAQPage Q&A per post.
 7. **The Connector** — barbell internal links: authority → pillar + money; pillar/money interlink; lateral within cluster; varied anchors.
-8. **The Builder** — renders the standalone `.html` from `templates/article.html`, writes to `/blog/` or `/services/`, regenerates `/blog/index.html` and `sitemap.xml`.
+8. **The Builder** — renders the standalone `.html` from `templates/article.html`, writes to `site/blog/` or `site/services/`, regenerates `site/blog/index.html` and `site/sitemap.xml`.
 9. **The Auditor** — final QA gate: style scan (em-dash=0, banned=0, British spelling), length, uniqueness, schema validity, links present, sourcing, design integrity. APPROVED / REVISE.
 
 **Run flow:** Strategist picks 3 → for each: Researcher → Wordsmith → Humaniser → Optimiser + Interrogator → Connector → Builder → Auditor (reject loops back to Wordsmith/Humaniser) → commit all 3 + sitemap + blog index in one push to `main` → post the 3 URLs for review.
@@ -90,18 +91,19 @@ This prevents drift between docs and reality.
 ## 9. Directory map
 
 ```
-/ (repo root = Netlify publish dir)
-  index.html privacy.html thanks.html styles.css script.js tracking-config.js
-  favicon.svg site.webmanifest robots.txt sitemap.xml logo-*.svg lauren-pearson-lilac-final.png
-  blog.css                         <- article components (uses live CSS vars)
-  /blog/        index.html + authority articles
-  /services/    pillar + money pages (ad landing pages)
-  /templates/   article.html (the shell), service.html
+/ (repo root - engine + docs, NOT deployed)
+  /site/        <- Netlify publish directory (the live website only)
+    index.html privacy.html thanks.html styles.css script.js tracking-config.js
+    favicon.svg site.webmanifest robots.txt sitemap.xml llms.txt logo-*.svg lauren-pearson-lilac-final.png
+    blog.css                       <- article components (uses live CSS vars)
+    /blog/        index.html + authority articles
+    /services/    pillar + money pages (ad landing pages)
+  /templates/   article.html (the shell)
   /workforce/   the 9 soul files
-  /content-plan/ plan.md, content-plan.html, plan-rows.js
-  /scripts/     style_gate.py, build_sitemap.py, blog_index.py, link_graph.py, verify_state.py
+  /content-plan/ plan.json (canonical), plan.md, plan-rows.js, content-plan.html, plan-build-state.json, batches/
+  /scripts/     style_gate.py, build_sitemap.py, blog_index.py, link_graph.py, verify_state.py, render_plan.py, sequence_plan.py
   /.github/     prompts/build-next.prompt.md, workflows/deploy.yml
-  CLAUDE.md BUILD-PLAN.md MEMORY.md build_state.json ARCHITECTURE.md
+  CLAUDE.md BUILD-PLAN.md MEMORY.md build_state.json ARCHITECTURE.md README.md
 ```
 
 ## 10. Permanent facts

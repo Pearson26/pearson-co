@@ -35,6 +35,7 @@ CSS = """
 .nav-drop-toggle .caret{font-size:.7em;transition:transform .2s}
 .has-dropdown.open .nav-drop-toggle .caret{transform:rotate(180deg)}
 .dropdown{position:absolute;top:calc(100% + 16px);left:0;min-width:290px;background:var(--ivory);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:10px;display:none;flex-direction:column;gap:2px;z-index:40}
+.dropdown::before{content:"";position:absolute;top:-20px;left:0;right:0;height:20px}
 .has-dropdown.open>.dropdown{display:flex}
 .dropdown a{display:block;padding:11px 15px;border-radius:9px;font-size:.8rem;font-weight:600;color:var(--ink);white-space:nowrap}
 .dropdown a:hover{background:var(--cream);color:var(--plum)}

@@ -24,9 +24,10 @@ You are the publishing routine for The Pearson Co. content engine, working in th
    git commit -m "Publish 3 posts (seq X-Y): <slug>, <slug>, <slug>"
    git push origin main
    Push to main only. Netlify auto-deploys the site/ folder on every push to main.
-8. Post the three live URLs, each on its own line, with the pillar and role, in this format:
-   https://thepearsonco.com/blog/<slug>.html
-   https://thepearsonco.com/services/<slug>.html
+8. Notify Slack. After the push succeeds, post one message to the Slack incoming webhook listing the articles published this run. Build a JSON body with a "text" field where each published post is on its own line in the form "New article live: <title> (<pillar>) https://thepearsonco.com/blog/<slug>.html", then send it:
+   curl -X POST -H 'Content-type: application/json' --data '{"text":"<your message>"}' "SLACK_WEBHOOK_URL_HERE"
+   Replace SLACK_WEBHOOK_URL_HERE with the client's incoming webhook URL. Use the /services/ path instead of /blog/ for pillar and money pages. Escape quotes and newlines correctly in the JSON.
+9. Also list the three live URLs in your run summary, each on its own line, with the pillar and role.
 
 Rules: exactly 3 posts per run (a minimum of 1 is acceptable if quality requires; never more than 3). If the queue is exhausted (next_index is greater than 1085), stop and report that the plan is complete. Do not modify index.html, styles.css or script.js. Do not change tracking-config.js or enable tracking IDs. One commit per run, everything bundled.
 

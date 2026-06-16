@@ -6,9 +6,9 @@ Durable facts and current state. Update the Current State block in every content
 - Phase 1 (scaffold) complete. Repo seeded with the live site; engine in place.
 - Phase 2 (the 12-month plan) COMPLETE: 1085 records across 14 pillars (15 pillar pages, 115 money, 955 authority) in `content-plan/plan.json`, rendered to `plan.md` + `plan-rows.js`, reviewable in `content-plan/content-plan.html`. Sequenced for publishing via `scripts/sequence_plan.py` (pillars + money front-loaded, authority round-robin; ~91/month).
 - Volumes are live Semrush for batches 1-5 (Conversion, RevOps, CRM Implementation, Fractional+Growth, CJM part 1) and indicative (universe doc + domain knowledge) from batch 6 on. Refresh with Semrush when units are available, then re-run `render_plan.py`.
-- 0 posts published. `next_index` = 1.
-- Netlify deploy not connected yet (storing files in the repo only). Tracking IDs not set.
-- Next phase: connect Netlify to the repo, set up Lauren's Claude routines account, then publish via the workforce (3 posts/run, pointer-based).
+- 15 posts published: the 15 cornerstone pillar pages (seq 1-15) written and published manually, live in `site/services/`. `next_index` = 16, so the routine resumes at the first money page.
+- Netlify git continuous deployment is connected (push to main -> deploy). GA4 (G-3XWNSR5VHF) is live and consent-gated. Sitemap: https://thepearsonco.com/sitemap.xml (submit in GSC).
+- Next phase: set up Lauren's Claude routines account (publishing routine + weekly GA/GSC reporting routine), then let the workforce publish 3 posts/run from seq 16 onward.
 
 ## Fixed decisions
 - Repo `Pearson26/pearson-co`; push to `main` via `gh` as `ngindubai` (accepted write collaborator).

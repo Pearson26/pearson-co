@@ -84,9 +84,15 @@ def check_file(path: str):
     return issues
 
 def main():
+    import os
     args = sys.argv[1:]
     if args:
-        files = args
+        files = []
+        for a in args:
+            if os.path.isdir(a):
+                files += glob.glob(os.path.join(a, "**", "*.html"), recursive=True)
+            else:
+                files += glob.glob(a) or [a]
     else:
         files = glob.glob("site/blog/**/*.html", recursive=True) + glob.glob("site/services/**/*.html", recursive=True)
     if not files:

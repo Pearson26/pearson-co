@@ -1,10 +1,10 @@
 {
   "site": "The Pearson Co.",
   "repo": "Pearson26/pearson-co",
-  "next_index": 19,
-  "posts_published": 18,
+  "next_index": 22,
+  "posts_published": 21,
   "total_planned": 1085,
-  "last_published_slug": "conversion-rate-optimisation-uk",
-  "last_updated": "2026-06-16T12:38:46Z",
-  "notes": "Engine + 12-month plan complete (1085 records). The 15 cornerstone pillar pages (seq 1-15) are live in site/services/. First publishing routine run (seq 16-18) added the three Conversion & Funnel Optimisation money pages. Routine resumes at next_index=19. Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml."
+  "last_published_slug": "crm-implementation-consultant",
+  "last_updated": "2026-06-16T23:14:40Z",
+  "notes": "Engine + 12-month plan complete (1085 records). 21 posts live: 15 cornerstone pillar pages (seq 1-15) + seq 16-21 (6 money pages across Conversion & Funnel Optimisation and CRM Implementation). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Routine resumes at next_index=22."
 }

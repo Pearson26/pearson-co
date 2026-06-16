@@ -14,8 +14,8 @@ SHELL_HEAD = """<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Insights on CRM, RevOps and growth | The Pearson Co.</title>
-  <meta name="description" content="Practical guides on CRM, revenue operations, process mapping, forecasting, conversion and hospitality tech market entry, from Lauren Pearson.">
+  <title>Knowledge Hub: CRM, RevOps and growth guides | The Pearson Co.</title>
+  <meta name="description" content="The Pearson Co. Knowledge Hub: practical guides on CRM, revenue operations, process mapping, forecasting, conversion and hospitality tech market entry, from Lauren Pearson.">
   <meta name="robots" content="index, follow">
   <meta name="theme-color" content="#B784A7">
   <link rel="canonical" href="https://thepearsonco.com/blog/">
@@ -31,15 +31,31 @@ SHELL_HEAD = """<!doctype html>
   <header class="site-header"><div class="container nav-wrap">
     <a class="logo" href="/" aria-label="The Pearson Co. home"><img src="/logo-the-pearson-co.svg" alt="The Pearson Co."></a>
     <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
-    <nav id="site-nav" aria-label="Main navigation"><a href="/#services">Services</a><a href="/blog/">Insights</a><a href="/#about">About</a><a href="/#expansion">Middle East Expansion</a><a href="/#contact" class="nav-cta">Let's talk</a></nav>
+    <nav id="site-nav" aria-label="Main navigation">
+      <div class="has-dropdown">
+        <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+        <div class="dropdown" id="services-menu">
+          <a href="/services/revenue-operations.html">Revenue operations</a>
+          <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+          <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+          <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+          <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+          <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+        </div>
+      </div>
+      <a href="/blog/">Knowledge Hub</a>
+      <a href="/#about">About</a>
+      <a href="/#contact" class="nav-cta">Let's talk</a>
+    </nav>
   </div></header>
   <main id="main" class="blog-hub"><div class="container">
-    <p class="eyebrow">Insights</p>
-    <h2>Practical thinking on CRM, RevOps and <em>sustainable growth.</em></h2>
+    <p class="eyebrow">Knowledge Hub</p>
+    <h2>Practical guides on CRM, RevOps and <em>sustainable growth.</em></h2>
+    <p style="max-width:60ch;color:var(--muted);margin-top:-6px">Straightforward, founder-friendly guides and articles across every part of the work, from CRM and process to forecasting, conversion and market entry.</p>
 """
 
 SHELL_FOOT = """  </div></main>
-  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/#services">Services</a><a href="/blog/">Insights</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
   <script src="/tracking-config.js"></script>
   <script src="/script.js"></script>
 </body>
@@ -79,9 +95,16 @@ def main():
     os.makedirs("site/blog", exist_ok=True)
     items = from_plan() or from_disk()
     if not items:
-        body = "    <p style='color:var(--muted);margin-top:30px'>The first articles are on their way.</p>\n"
+        topics = ["CRM consulting and implementation", "Revenue operations", "Process mapping and SOPs",
+                  "Sales reporting and forecasting", "Conversion and funnel optimisation",
+                  "Customer journey mapping", "CRM automation", "CRM adoption", "Sales pipeline management",
+                  "Go-to-market strategy", "Growth consulting", "Hospitality tech and market entry"]
+        cards = "".join(f'<article class="post-card"><span>Coming soon</span><h3>{t}</h3></article>' for t in topics)
+        body = ('    <p style="max-width:60ch;color:var(--muted);margin-top:24px">New guides and articles are published here regularly. '
+                'Here are the areas they will cover. Check back soon, or <a href="/#contact">get in touch</a> in the meantime.</p>\n'
+                f'    <div class="post-grid" style="margin-top:36px">{cards}</div>\n')
         open("site/blog/index.html", "w", encoding="utf-8").write(SHELL_HEAD + body + SHELL_FOOT)
-        print("blog_index: no posts yet; wrote placeholder hub.")
+        print("blog_index: no posts yet; wrote Knowledge Hub placeholder.")
         return
     by_pillar = {}
     for slug, meta in items.items():

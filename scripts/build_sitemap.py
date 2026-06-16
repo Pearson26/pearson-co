@@ -16,6 +16,8 @@ def url_for(path: str) -> str:
     path = path.replace("\\", "/")
     if path == "index.html":
         return BASE + "/"
+    if path.endswith("/index.html"):
+        return BASE + "/" + path[:-len("index.html")]
     return f"{BASE}/{path}"
 
 def priority(path: str) -> str:

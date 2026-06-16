@@ -11,7 +11,7 @@ The page must be indistinguishable in look and behaviour from the rest of thepea
 1. Fill every `{{PLACEHOLDER}}` in the template. Leave no token unfilled.
 2. Write the file to `site/blog/<slug>.html` (authority) or `site/services/<slug>.html` (pillar/money), matching the record's `role`. The website lives in `site/` (the Netlify publish directory); never write articles outside it.
 3. Confirm all asset paths are **root-relative** (`/styles.css`, `/blog.css`, `/logo-the-pearson-co.svg`, `/#contact`, `/tracking-config.js`, `/script.js`). The deploy root is `site/`, so these resolve correctly once live.
-4. Confirm the page includes: site header/nav (with the Insights link), footer, WhatsApp float, cookie banner, and both scripts. These give the same consent, menu and year behaviour as the rest of the site.
+4. Confirm the page includes the standard site header/nav (the Services dropdown + Knowledge Hub link, exactly as in templates/article.html), footer, WhatsApp float, cookie banner, and both scripts. These give the same consent, menu and year behaviour as the rest of the site. If the sitewide nav changes, re-run scripts/apply_nav.py to update every page.
 5. Regenerate `site/blog/index.html` (`scripts/blog_index.py`) so the new post appears in the hub, grouped by pillar.
 6. Regenerate `site/sitemap.xml` (`scripts/build_sitemap.py`) to include the new URL with today's `lastmod`.
 7. Run `python scripts/style_gate.py` on the new file. Any em dash, banned word or US spelling blocks the build; fix and re-run.

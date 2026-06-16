@@ -109,3 +109,23 @@ document.querySelector('#cookie-reject')?.addEventListener('click', () => {
 if (document.body.dataset.page === 'thanks') {
   trackEvent('generate_lead');
 }
+
+
+// services dropdown
+document.querySelectorAll('.nav-drop-toggle').forEach((btn) => {
+  btn.addEventListener('click', (e) => {
+    e.preventDefault();
+    const parent = btn.closest('.has-dropdown');
+    const open = parent.classList.toggle('open');
+    btn.setAttribute('aria-expanded', String(open));
+  });
+});
+document.addEventListener('click', (e) => {
+  document.querySelectorAll('.has-dropdown.open').forEach((d) => {
+    if (!d.contains(e.target)) {
+      d.classList.remove('open');
+      const t = d.querySelector('.nav-drop-toggle');
+      if (t) t.setAttribute('aria-expanded', 'false');
+    }
+  });
+});

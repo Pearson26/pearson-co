@@ -107,7 +107,7 @@
     <h3 style="margin-top:22px">How to log in</h3>
     <ul>
       <li>Download the Slack app from <a href="https://slack.com/downloads/" target="_blank" rel="noopener">slack.com/downloads</a> (phone or computer), or use it in your browser at <a href="https://slack.com" target="_blank" rel="noopener">slack.com</a>.</li>
-      <li>Sign in with the email address your invitation was sent to. If you cannot find the invitation, ask Gareth to resend it.</li>
+      <li>Sign in by clicking <strong>"Log in with Google"</strong> and choosing your Gmail account (the same email your invitation was sent to). If you cannot find the invitation, ask Gareth to resend it.</li>
       <li>Once in, you will see your two channels listed on the left. Click either to read its messages.</li>
     </ul>
     <p class="muted" style="font-size:.9rem">Tip: turn on notifications in the Slack app so a new report or article gives you a gentle nudge.</p>
@@ -128,7 +128,7 @@
         <li>Which pages they looked at, and how long they stayed.</li>
         <li>How many took an action that matters, such as sending an enquiry through your contact form.</li>
       </ul>
-      <p style="color:var(--ink)">Open it at <a href="https://analytics.google.com" target="_blank" rel="noopener">analytics.google.com</a> and sign in with your Google account (the same one used to set up your website tracking). The live "Realtime" view is a fun place to start; it shows people on your site right now.</p>
+      <p style="color:var(--ink)">Open it at <a href="https://analytics.google.com" target="_blank" rel="noopener">analytics.google.com</a> and sign in by clicking <strong>"Log in with Google"</strong> and choosing your Gmail account. The live "Realtime" view is a fun place to start; it shows people on your site right now.</p>
     </div>
 
     <div class="card" style="margin-top:16px">
@@ -141,7 +141,7 @@
         <li>Your average position, meaning how high up the results you sit.</li>
         <li>Which of your pages and articles are getting noticed in search.</li>
       </ul>
-      <p style="color:var(--ink)">Open it at <a href="https://search.google.com/search-console" target="_blank" rel="noopener">search.google.com/search-console</a> and sign in with the same Google account. It needs a little time to gather data, so the picture gets richer over the first few weeks.</p>
+      <p style="color:var(--ink)">Open it at <a href="https://search.google.com/search-console" target="_blank" rel="noopener">search.google.com/search-console</a> and sign in the same way, clicking <strong>"Log in with Google"</strong> and choosing your Gmail account. It needs a little time to gather data, so the picture gets richer over the first few weeks.</p>
     </div>
     <p class="box" style="margin-top:20px">A quick note on privacy: your site asks visitors to accept cookies before any tracking happens, which keeps you on the right side of privacy rules. Visitors who decline are simply not counted.</p>
   </section>
@@ -151,7 +151,7 @@
     <h2>What it says, and what to <em>do with it.</em></h2>
     <p class="intro">Every Sunday at 6pm, a written report arrives in your Slack reports channel. It reads the numbers from Google Analytics and Search Console for the week, compares them to the week before, and explains in plain language how things are going. Then it gives you <strong>three specific recommendations</strong> to improve your traffic, chosen for your site that week.</p>
     <h3 style="margin-top:22px">Turning a recommendation into a real change</h3>
-    <p>You have two easy options for each recommendation. Both use an AI assistant (either <strong>Claude</strong> or <strong>Codex</strong>, whichever you prefer; see the next section). You simply paste the recommendation in and ask it to help.</p>
+    <p>You have two easy options for each recommendation. Both use an AI assistant. We recommend <strong>Claude</strong> (the next section explains why), though <strong>Codex</strong> works too. You simply paste the recommendation in and ask it to help.</p>
     <p style="margin-top:8px"><strong>Option 1: ask it to sense-check the idea first.</strong></p>
     <div class="quote">"Here is a recommendation from my weekly report: [paste it in]. Please look at my website and tell me, in simple terms, whether this is a good idea and what you would change."</div>
     <p><strong>Option 2: ask it to make the change and publish it.</strong></p>
@@ -164,17 +164,30 @@
     <h2>Claude and Codex, <em>simply put.</em></h2>
     <p class="intro">Claude and Codex are AI assistants you can talk to in plain English. They can write, plan, research, and (this is the powerful part) make and publish changes to your website for you. You do not need to know any code. You only need to describe what you want.</p>
 
-    <h3 style="margin-top:24px">The Claude desktop app</h3>
-    <p>Claude is the assistant we recommend starting with. Download it at <a href="https://claude.ai/download" target="_blank" rel="noopener">claude.ai/download</a> (or use it in your browser at <a href="https://claude.ai" target="_blank" rel="noopener">claude.ai</a>) and sign in. A few things it is very good at:</p>
+    <h3 style="margin-top:24px">How a change reaches your live website</h3>
+    <p>When you ask the assistant to make a change, here is what happens for you, automatically:</p>
+    <ol>
+      <li>The assistant makes the change and saves it to <strong>GitHub</strong>, a secure online store that always holds the latest version of your website's files.</li>
+      <li><strong>Netlify</strong>, the service that hosts your site, spots the update and publishes it to your live website, usually within a minute.</li>
+    </ol>
+    <p>So you describe the change in words, and a minute later it is live. GitHub and Netlify run quietly in the background. You do not need to log into them, and Gareth manages them for you.</p>
+
+    <h3 style="margin-top:24px">The Claude desktop app <span class="tag">recommended</span></h3>
+    <p>Claude is the assistant we recommend. Download it at <a href="https://claude.ai/download" target="_blank" rel="noopener">claude.ai/download</a> (or use it in your browser at <a href="https://claude.ai" target="_blank" rel="noopener">claude.ai</a>) and sign in by clicking <strong>"Log in with Google"</strong> and choosing your Gmail account. A few things it is very good at:</p>
     <ul>
       <li><strong>Projects.</strong> You can create a "Project" for a single area of work, for example one for your website. Everything you do inside it stays together, and Claude remembers the context: your brand, your goals, your past recommendations. It is like a tidy, dedicated workspace that does not get mixed up with anything else.</li>
       <li><strong>Making website changes.</strong> Because your website is connected, you can ask Claude to update a page, fix a wording, add a section, or act on a report recommendation, and publish it for you. You describe the change in words; it does the technical part.</li>
       <li><strong>Everyday help.</strong> Drafting emails and proposals, thinking through a client problem, summarising a long document, preparing for a meeting. It is a capable assistant for the whole business, not just the website.</li>
     </ul>
 
-    <h3 style="margin-top:22px">Codex</h3>
-    <p>Codex is the equivalent tool from the makers of ChatGPT, available at <a href="https://chatgpt.com" target="_blank" rel="noopener">chatgpt.com</a>. It does much the same job for website changes. If you already use and prefer ChatGPT, you are welcome to use Codex instead. Either is fine; pick the one you are comfortable with.</p>
-    <p class="box">You are always in control. These tools ask before doing anything important, and you can ask them to explain first and act second. When in doubt, ask it to review and explain, then decide.</p>
+    <h3 style="margin-top:22px">A note on Codex, and our recommendation</h3>
+    <p>You currently use <strong>Codex</strong> (the assistant from the makers of ChatGPT, at <a href="https://chatgpt.com" target="_blank" rel="noopener">chatgpt.com</a>) to make changes to your site. Codex is perfectly capable, and you are welcome to keep using it. Our honest recommendation, though, is to move this work to <strong>Claude</strong>, for two simple reasons:</p>
+    <ul>
+      <li><strong>One subscription, not two.</strong> If your changes and your everyday work both happen in Claude, you are not paying for two separate tools that do the same job.</li>
+      <li><strong>One way of working.</strong> A single, consistent process for publishing changes means fewer chances for things to clash or get confused.</li>
+    </ul>
+    <p>If you would rather stay with Codex, that is genuinely fine. The one thing to remember: <strong>ask Codex to read the latest version of your site from GitHub before it makes any change</strong>, so it always works from what is actually live and not an older copy. Gareth can set that up with you.</p>
+    <p class="box">You are always in control. These tools ask before doing anything important, and you can ask them to explain first and act second. When in doubt, ask it to review and explain, then decide, or send it to Gareth.</p>
   </section>
 
   <section>
@@ -193,16 +206,18 @@
   <section>
     <span class="eyebrow">Your logins at a glance</span>
     <h2>Everything in <em>one place.</em></h2>
+    <p class="intro">Good news on logins: every account here signs in the same easy way. Click <strong>"Log in with Google"</strong> (sometimes shown as "Continue with Google") and choose your Gmail account. There are no separate passwords to remember.</p>
     <table>
-      <thead><tr><th>Tool</th><th>What it is for</th><th>Where to go and how to sign in</th></tr></thead>
+      <thead><tr><th>Tool</th><th>What it is for</th><th>Where to go</th></tr></thead>
       <tbody>
-        <tr><td class="t">Slack</td><td class="muted">Your blog links and weekly reports</td><td><a href="https://slack.com" target="_blank" rel="noopener">slack.com</a> or the app. Sign in with the email your invite was sent to.</td></tr>
-        <tr><td class="t">Google Analytics</td><td class="muted">Who visits your site and what they do</td><td><a href="https://analytics.google.com" target="_blank" rel="noopener">analytics.google.com</a>. Sign in with your Google account.</td></tr>
-        <tr><td class="t">Search Console</td><td class="muted">How you appear in Google search</td><td><a href="https://search.google.com/search-console" target="_blank" rel="noopener">search.google.com/search-console</a>. Same Google account.</td></tr>
-        <tr><td class="t">Claude</td><td class="muted">Making changes and everyday help</td><td><a href="https://claude.ai" target="_blank" rel="noopener">claude.ai</a> or the app from <a href="https://claude.ai/download" target="_blank" rel="noopener">claude.ai/download</a>.</td></tr>
-        <tr><td class="t">Codex</td><td class="muted">Alternative to Claude for changes</td><td><a href="https://chatgpt.com" target="_blank" rel="noopener">chatgpt.com</a>, if you prefer ChatGPT.</td></tr>
+        <tr><td class="t">Slack</td><td class="muted">Your blog links and weekly reports</td><td><a href="https://slack.com" target="_blank" rel="noopener">slack.com</a> or the app, then "Log in with Google".</td></tr>
+        <tr><td class="t">Google Analytics</td><td class="muted">Who visits your site and what they do</td><td><a href="https://analytics.google.com" target="_blank" rel="noopener">analytics.google.com</a></td></tr>
+        <tr><td class="t">Search Console</td><td class="muted">How you appear in Google search</td><td><a href="https://search.google.com/search-console" target="_blank" rel="noopener">search.google.com/search-console</a></td></tr>
+        <tr><td class="t">Claude <span class="tag">recommended</span></td><td class="muted">Making changes and everyday help</td><td><a href="https://claude.ai" target="_blank" rel="noopener">claude.ai</a>, or the app from <a href="https://claude.ai/download" target="_blank" rel="noopener">claude.ai/download</a></td></tr>
+        <tr><td class="t">Codex</td><td class="muted">Alternative to Claude for changes</td><td><a href="https://chatgpt.com" target="_blank" rel="noopener">chatgpt.com</a>, only if you keep using it</td></tr>
       </tbody>
     </table>
+    <p class="muted" style="margin-top:16px;font-size:.92rem">Your website also relies on two services that run in the background, <strong>GitHub</strong> (a secure store of your website's files) and <strong>Netlify</strong> (which publishes your live site). You do not need to log into either; Gareth manages them for you.</p>
   </section>
 
   <footer>

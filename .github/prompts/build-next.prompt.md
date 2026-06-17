@@ -18,7 +18,14 @@ Act as The Strategist. Follow CLAUDE.md and the souls in /workforce exactly.
 5. Update `BUILD-PLAN.md` (session-log row) and `MEMORY.md` (Current State) in the same commit.
 6. Commit once and push to `main`:
    `git add -A && git commit -m "Publish N posts (seq X-Y): <slug>, <slug>, <slug>" && git push origin main`
-7. Post the live review block: each new URL on its own line, grouped new vs changed, with pillar and role.
+7. Notify Slack using the Slack MCP tool — do NOT use curl (hooks.slack.com is blocked by network egress policy):
+   - Tool: `mcp__Slack__slack_send_message`
+   - channel_id: `C0BB0AK6C5S` (#build-seo-pages)
+   - Post one message listing each article on its own line, format:
+     `New article live: <title> (<pillar>) https://thepearsonco.com/services/<slug>.html`
+     Use `/blog/` for authority posts, `/services/` for pillar and money pages.
+   - Keep each URL on a separate line so Slack does not bundle them into one preview box.
+8. Post the live review block: each new URL on its own line, grouped new vs changed, with pillar and role.
 
 ## Guardrails
 - Push to `main` only. One commit per run, all files bundled.

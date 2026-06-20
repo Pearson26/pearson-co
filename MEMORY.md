@@ -6,8 +6,8 @@ Durable facts and current state. Update the Current State block in every content
 - Phase 1 (scaffold) complete. Repo seeded with the live site; engine in place.
 - Phase 2 (the 12-month plan) COMPLETE: 1085 records across 14 pillars (15 pillar pages, 115 money, 955 authority) in `content-plan/plan.json`, rendered to `plan.md` + `plan-rows.js`, reviewable in `content-plan/content-plan.html`. Sequenced for publishing via `scripts/sequence_plan.py` (pillars + money front-loaded, authority round-robin; ~91/month).
 - Volumes are live Semrush for batches 1-5 (Conversion, RevOps, CRM Implementation, Fractional+Growth, CJM part 1) and indicative (universe doc + domain knowledge) from batch 6 on. Refresh with Semrush when units are available, then re-run `render_plan.py`.
-- 21 posts published: the 15 cornerstone pillar pages (seq 1-15), the first 3 Conversion & Funnel Optimisation money pages (seq 16-18: services, consultant, UK), plus seq 19-21 (conversion-rate-optimisation-audit, crm-implementation-services, crm-implementation-consultant), all live in `site/services/`. `next_index` = 22, routine resumes at seq 22.
-- Netlify git continuous deployment is connected (push to main -> deploy). GA4 (G-3XWNSR5VHF) is live and consent-gated. Sitemap: https://thepearsonco.com/sitemap.xml (submit in GSC).
+- 24 posts published: the 15 cornerstone pillar pages (seq 1-15), seq 16-21 (CRO + CRM money pages), plus seq 22-24 (crm-audit, fractional-sales-director, fractional-cro), all live in `site/services/`. `next_index` = 25, routine resumes at seq 25.
+- Netlify git continuous deployment is connected (push to main -> deploy). GA4 (G-3XWNSR5VHF) is live and consent-gated. Sitemap: https://thepearsonco.com/sitemap.xml (28 URLs, submit in GSC).
 - The publishing routine (Strategist + 8 souls) is running: 3 posts/run, pointer-based from `build_state.json`. Pre-existing watch item: `crm-adoption.html` pillar has only 2 inbound authority links (wants 3); will self-resolve once CRM Adoption authority posts publish.
 
 ## Fixed decisions

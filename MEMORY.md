@@ -6,8 +6,8 @@ Durable facts and current state. Update the Current State block in every content
 - Phase 1 (scaffold) complete. Repo seeded with the live site; engine in place.
 - Phase 2 (the 12-month plan) COMPLETE: 1085 records across 14 pillars (15 pillar pages, 115 money, 955 authority) in `content-plan/plan.json`, rendered to `plan.md` + `plan-rows.js`, reviewable in `content-plan/content-plan.html`. Sequenced for publishing via `scripts/sequence_plan.py` (pillars + money front-loaded, authority round-robin; ~91/month).
 - Volumes are live Semrush for batches 1-5 (Conversion, RevOps, CRM Implementation, Fractional+Growth, CJM part 1) and indicative (universe doc + domain knowledge) from batch 6 on. Refresh with Semrush when units are available, then re-run `render_plan.py`.
-- 24 posts published: the 15 cornerstone pillar pages (seq 1-15), seq 16-21 (CRO + CRM money pages), plus seq 22-24 (crm-audit, fractional-sales-director, fractional-cro), all live in `site/services/`. `next_index` = 25, routine resumes at seq 25.
-- Netlify git continuous deployment is connected (push to main -> deploy). GA4 (G-3XWNSR5VHF) is live and consent-gated. Sitemap: https://thepearsonco.com/sitemap.xml (28 URLs, submit in GSC).
+- 27 posts published: the 15 cornerstone pillar pages (seq 1-15), seq 16-24 (CRO, CRM, fractional money pages), plus seq 25-27 (business-growth-consultant, market-entry-strategy-service, ecommerce-conversion-rate-optimisation), all live in `site/services/`. `next_index` = 28, routine resumes at seq 28.
+- Netlify git continuous deployment is connected (push to main -> deploy). GA4 (G-3XWNSR5VHF) is live and consent-gated. Sitemap: https://thepearsonco.com/sitemap.xml (31 URLs, submit in GSC).
 - The publishing routine (Strategist + 8 souls) is running: 3 posts/run, pointer-based from `build_state.json`. Pre-existing watch item: `crm-adoption.html` pillar has only 2 inbound authority links (wants 3); will self-resolve once CRM Adoption authority posts publish.
 
 ## Fixed decisions

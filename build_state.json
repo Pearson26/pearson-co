@@ -1,10 +1,10 @@
 {
   "site": "The Pearson Co.",
   "repo": "Pearson26/pearson-co",
-  "next_index": 34,
-  "posts_published": 33,
+  "next_index": 37,
+  "posts_published": 36,
   "total_planned": 1085,
-  "last_published_slug": "saas-conversion-rate-optimisation",
-  "last_updated": "2026-06-23T23:19:43Z",
+  "last_published_slug": "revops-consultant",
+  "last_updated": "2026-06-24T23:24:58Z",
   "notes": "Engine + 12-month plan complete (1085 records). 21 posts live: 15 cornerstone pillar pages (seq 1-15) + seq 16-21 (6 money pages across Conversion & Funnel Optimisation and CRM Implementation). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Routine resumes at next_index=22."
 }

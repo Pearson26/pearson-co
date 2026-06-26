@@ -1,0 +1,341 @@
+<!doctype html>
+<!--
+  The Pearson Co. article shell. The Builder fills the {{PLACEHOLDERS}} and writes the
+  result to /blog/{{SLUG}}.html (authority) or /services/{{SLUG}}.html (pillar/money).
+  Rules: British English, no em dashes, root-relative asset paths, live-site design.
+  {{...}} tokens:
+    TITLE_TAG         50-60 char SEO title, ends with " | The Pearson Co."
+    META_DESCRIPTION  150-160 chars, the post's primary keyword once, no em dash
+    CANONICAL_URL     https://thepearsonco.com/blog/{{SLUG}}.html (or /services/)
+    OG_TITLE OG_DESC OG_URL
+    JSONLD            Article + FAQPage + BreadcrumbList (+ Service / HowTo where relevant)
+    BREADCRUMB        e.g. <a href="/">Home</a> → <a href="/blog/">Knowledge Hub</a> → <span>Title</span>
+    EYEBROW           the pillar name, e.g. "Conversion & funnel optimisation"
+    H1                headline, last phrase wrapped in <em>...</em>
+    READ_MINUTES      integer
+    PUBLISH_DATE_HUMAN  e.g. "14 June 2026"   PUBLISH_DATE_ISO  2026-06-14
+    DIRECT_ANSWER     40-60 word answer block
+    BODY_HTML         the prose (h2/h3/p/ul/table), with internal links already wired
+    FAQ_HTML          <details> blocks
+    CTA_H2 CTA_P CTA_PRIMARY_HREF CTA_PRIMARY_LABEL
+    RELATED_HTML      <li><a>...</a></li> list (pillar + money + lateral)
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RevOps as a service for B2B and SaaS teams | The Pearson Co.</title>
+  <meta name="description" content="RevOps as a service is a managed revenue operations function for B2B and SaaS teams. CRM, pipeline, reporting and process, all aligned without a full-time hire.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/services/revops-as-a-service.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="RevOps as a service: managed revenue operations without the headcount">
+  <meta property="og:description" content="Growing B2B and SaaS teams get a managed RevOps function: CRM management, pipeline oversight, reporting and process alignment without a full-time hire.">
+  <meta property="og:url" content="https://thepearsonco.com/services/revops-as-a-service.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/services/revops-as-a-service.html#article",
+      "headline": "RevOps as a service: a managed revenue operations function for growing teams.",
+      "description": "RevOps as a service is a managed revenue operations function for B2B and SaaS teams. CRM, pipeline, reporting and process, all aligned without a full-time hire.",
+      "datePublished": "2026-06-26",
+      "dateModified": "2026-06-26",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/services/revops-as-a-service.html",
+      "mainEntityOfPage": "https://thepearsonco.com/services/revops-as-a-service.html"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://thepearsonco.com/services/revops-as-a-service.html#service",
+      "name": "RevOps as a service",
+      "serviceType": "RevOps as a service",
+      "description": "A managed revenue operations function delivered on a retained basis. Covers CRM management, pipeline oversight, revenue reporting, process design and monthly forecasting for growing B2B and SaaS businesses.",
+      "provider": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com"
+      },
+      "areaServed": "Worldwide",
+      "url": "https://thepearsonco.com/services/revops-as-a-service.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/services/revops-as-a-service.html#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://thepearsonco.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://thepearsonco.com/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "RevOps as a service",
+          "item": "https://thepearsonco.com/services/revops-as-a-service.html"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/services/revops-as-a-service.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does revops as a service include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Five areas on an ongoing retained basis: CRM management and data hygiene, pipeline oversight through regular deal reviews, revenue reporting with consistent metric definitions, process design and documentation for sales handoffs and stage criteria, and monthly revenue forecasting. Scope of each area depends on complexity of the existing commercial stack and current gaps. Month one almost always focuses on CRM configuration and the reporting architecture before moving to the ongoing retained scope."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is revops as a service different from a fractional RevOps consultant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fractional RevOps consultant is a person embedded in the business on a part-time basis, managing commercial systems as though an internal hire. RevOps as a service is a managed function delivered through a service arrangement, with a clearer defined monthly scope. The practical output is similar; the engagement model differs. Some businesses prefer the embedded relationship of a fractional arrangement; others find the managed service model easier to scope and control."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does revops as a service cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pricing depends on scope, complexity of the existing commercial stack, and how much configuration and build is required in the initial phase. The baseline engagement includes an audit and configuration month followed by a monthly retained scope. The retained fee is set based on hours required to maintain the CRM, run pipeline reviews, and produce the reporting. The right starting point is a scoping call to size the engagement correctly from the outset."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long before a managed revops function makes a difference?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The most immediate changes are visible in the first month, once the CRM is reconfigured and consistent reporting is in place. Pipeline reviews improve quickly because deal data is cleaner and qualification questions are more structured. Forecasting improves over two to three months as clean data accumulates and close rate history builds. By month three, most businesses can make a revenue call for the quarter with meaningfully more confidence than before."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a CRM already in place?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In most cases, yes. A managed revops function works best when there is an existing CRM to maintain and improve rather than starting from scratch. If no CRM is in place, the starting point would be a selection and implementation process first. Most businesses coming into a managed revops engagement have a CRM in use for at least twelve months that has drifted from its original configuration, which is precisely the situation the managed function stabilises."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can managed revops work alongside an existing in-house sales or operations person?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Most businesses using a managed revops function have an internal sales leader or operations person managing day-to-day commercial activity. The managed revops function works with them rather than replacing them: the specialist owns the system (CRM, reporting, process documentation) while the internal team owns the commercial relationships and deals. The cleaner the separation between those two responsibilities, the more productive the arrangement tends to be."
+          }
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> → <a href="/services/">Services</a> → <span>RevOps as a service</span></nav>
+      <p class="article-eyebrow">Revenue operations</p>
+      <h1>RevOps as a service: a managed revenue operations <em>function for growing teams.</em></h1>
+      <p class="article-byline"><b>Lauren Pearson</b><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>26 June 2026<span class="dot"></span>7 min read</p>
+
+      <div class="answer-box">RevOps as a service is a managed revenue operations function delivered by an external specialist on a retained basis. It covers CRM management, pipeline oversight, revenue reporting and process alignment. Managed revops suits growing B2B and SaaS businesses that need the output of a RevOps function without the cost and commitment of a full-time hire.</div>
+
+      <div class="prose">
+
+        <h2>Who this is <em>for.</em></h2>
+
+        <p>Most growing businesses reach a point where commercial operations can't run on spreadsheets and good intentions any longer. The CRM holds data nobody quite trusts, pipeline forecasts are optimistic rather than analytical, and the people who should be aligned on what's in the pipeline are working from different numbers. The right structural answer is revenue operations. The practical constraint is headcount and cost.</p>
+
+        <p>RevOps as a service gives a managed function without a permanent hire. An external revenue operations specialist owns the CRM, builds and maintains the reporting, runs the pipeline reviews, and keeps the commercial process current.</p>
+
+        <p>This fits well when any of the following are true:</p>
+
+        <ul>
+          <li><strong>The CRM exists but nobody owns it.</strong> Data quality is variable, the pipeline view can't be trusted for forecasting, and reps update it because they're told to, not because it helps them.</li>
+          <li><strong>Sales forecasting is guesswork.</strong> Targets are known, but what will realistically close is not, because the deal data doesn't support a reliable call.</li>
+          <li><strong>Marketing and sales are working from different numbers.</strong> Lead counts, conversion rates and pipeline stages don't mean the same thing across functions.</li>
+          <li><strong>You're scaling but a full RevOps hire isn't justified yet.</strong> The pain of not having one is real and growing, but revenue isn't quite there to support a permanent head.</li>
+          <li><strong>Board reporting requires investor-grade revenue data.</strong> Numbers need to be clean, consistent and explainable, not assembled at the last minute.</li>
+          <li><strong>You're about to hire a senior commercial leader.</strong> A VP of Sales or CRO needs a commercial system they can trust from day one. Handing them something broken is a costly way to start.</li>
+        </ul>
+
+        <p>Managed revops doesn't suit businesses still figuring out what they're selling, or those wanting a one-off diagnostic. The value scales with the complexity of what needs managing on an ongoing basis.</p>
+
+        <h2>What is <em>included.</em></h2>
+
+        <p>A managed revops engagement covers five areas, delivered on a retained monthly basis.</p>
+
+        <h3>CRM management</h3>
+
+        <p>Consistent maintenance of the CRM: stage definitions, field structures and automation rules reviewed whenever process changes. Regular data hygiene runs to catch duplicate records, stale deals and gaps in contact data. The first month of an engagement almost always starts here, because everything else, pipeline reviews, forecasting, reporting, depends on the CRM holding accurate, current data.</p>
+
+        <h3>Pipeline oversight</h3>
+
+        <p>Weekly pipeline reviews with the sales lead. The point isn't asking "where is this deal?" in a status update. It's challenging deal quality: whether the next step is defined, whether the right people are involved, whether the close date is realistic. This surfaces deals that look solid in the pipeline but aren't moving, before they slip the quarter without warning.</p>
+
+        <h3>Revenue reporting</h3>
+
+        <p>A single, consistent set of metrics. Not three different conversion rates across three different spreadsheets. The managed revops function builds the reporting architecture and maintains it: definitions, data sources, calculations and cadence are all documented and owned. When the business grows or the sales process changes, the reporting is updated to match.</p>
+
+        <h3>Process design and documentation</h3>
+
+        <p>Stage definitions drift as teams grow. Qualification criteria go undocumented. Handoffs between marketing, sales and account management become informal. This area catches and corrects that drift: documenting handoff rules, keeping stage criteria current, and connecting to the broader process mapping and SOP work at <a href="/services/process-mapping.html">process mapping and SOPs</a> for businesses that need the full documentation layer.</p>
+
+        <h3>Forecasting support</h3>
+
+        <p>Monthly revenue forecasting using the methodology that fits the business: weighted pipeline, historical close rate, or category-based. The output is a revenue call the team can understand and challenge, not a number produced by multiplying pipeline value by an assumed close rate and hoping for the best. Forecast accuracy improves over time as clean data history accumulates.</p>
+
+        <h2>How the engagement <em>works.</em></h2>
+
+        <p>The engagement runs in two phases.</p>
+
+        <p><strong>Month one: baseline and configuration.</strong> An audit of the current commercial stack. Which CRM, how it's configured, what reporting exists, and where the biggest gaps are between what the system should show and what it actually shows. This produces a documented current-state view and a prioritised list of fixes. Most of the configuration work and reporting build happens in month one. By the end of it, the CRM is in a reliable enough state for pipeline reviews and basic forecasting to begin properly.</p>
+
+        <p><strong>Months two onwards: retained management.</strong> An ongoing retained model with a scope shaped by what the business needs each month: pipeline reviews, reporting updates, process adjustments, integration support. The scope is agreed monthly and reviewed quarterly. There's no fixed deliverable list handed over at the end of a project. The function is managed continuously.</p>
+
+        <p>The key difference from a project engagement is that a project gives a better starting state. A retained managed function keeps it there. Commercial operations drift over time as teams grow, deals get messier and processes evolve. Ongoing management means the system stays current rather than needing another audit in eighteen months.</p>
+
+        <p>For businesses whose primary need is a defined diagnostic and fix in one project rather than ongoing management, <a href="/services/revops-consulting.html">revenue operations consulting</a> is the better starting point. For businesses that want to pair ongoing management with a forward-looking commercial roadmap, <a href="/services/revops-strategy.html">RevOps strategy</a> can run alongside the retained function.</p>
+
+        <h2>Outcomes and <em>proof.</em></h2>
+
+        <p>A managed revops function produces five things a growing business can't reliably get without one.</p>
+
+        <p><strong>Pipeline data you can act on.</strong> The CRM shows what's genuinely in play, what's at risk and what's likely to close. Reps use it because it helps them manage their deals, not because it's a reporting obligation. Pipeline view is where leadership looks first, not a spreadsheet they distrust.</p>
+
+        <p><strong>Forecasting that improves over time.</strong> A business with a managed revops function typically forecasts within 10 to 15% of actual revenue. Without one, variance is often 30 to 40%. The method gets better as clean data history builds and close rate patterns become visible.</p>
+
+        <p><strong>Agreed reporting across the team.</strong> One definition of each metric. One pipeline view. One conversion rate that marketing and sales both use. Time spent reconciling competing versions of the revenue number in reporting meetings drops significantly, because there's only one version.</p>
+
+        <p><strong>Commercial processes that stay current.</strong> Stage definitions don't drift as the team grows. Qualification criteria are maintained and documented. Senior commercial hires arrive into a system they can trust from day one rather than spending their first quarter rebuilding what should already exist.</p>
+
+        <p><strong>Board reporting without the manual preparation.</strong> The numbers are clean because the system is clean. Investor-grade reporting comes from the CRM, not a spreadsheet assembled the night before the board meeting.</p>
+
+        <p>The broader context for this sits in the <a href="/services/revenue-operations.html">revenue operations</a> pillar. For SaaS businesses with subscription-specific metrics (MRR, ARR, churn, expansion revenue), <a href="/services/saas-revenue-operations.html">SaaS revenue operations</a> covers the additional layer those metrics require. For businesses at a strategic inflection point that need a forward-looking commercial roadmap rather than ongoing maintenance, <a href="/services/revops-strategy.html">RevOps strategy</a> is the right starting point.</p>
+
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+
+        <details>
+          <summary>What does revops as a service include?</summary>
+          <p>Five areas on an ongoing retained basis: CRM management and data hygiene, pipeline oversight through regular deal reviews, revenue reporting with consistent metric definitions, process design and documentation for sales handoffs and stage criteria, and monthly revenue forecasting. Scope of each area depends on the complexity of the existing commercial stack and current gaps. Month one almost always focuses on CRM configuration and the reporting architecture before moving to the ongoing retained scope.</p>
+        </details>
+
+        <details>
+          <summary>How is revops as a service different from a fractional RevOps consultant?</summary>
+          <p>A fractional RevOps consultant is a person embedded in the business on a part-time basis, managing commercial systems as though an internal hire. RevOps as a service is a managed function delivered through a service arrangement, with a clearly defined monthly scope. The practical output is similar; the engagement model differs. Some businesses prefer the embedded relationship of a fractional arrangement; others find the managed service model easier to scope and control.</p>
+        </details>
+
+        <details>
+          <summary>What does revops as a service cost?</summary>
+          <p>Pricing depends on scope, the complexity of the existing commercial stack, and how much configuration and build is required in the initial phase. The baseline engagement includes an audit and configuration month followed by a monthly retained scope. The retained fee is set based on the hours required to maintain the CRM, run pipeline reviews, and produce the reporting. The right starting point is a scoping call to size the engagement correctly from the outset.</p>
+        </details>
+
+        <details>
+          <summary>How long before a managed revops function makes a difference?</summary>
+          <p>The most immediate changes are visible in the first month, once the CRM is reconfigured and consistent reporting is in place. Pipeline reviews improve quickly because deal data is cleaner and qualification questions are more structured. Forecasting improves over two to three months as clean data accumulates and close rate history builds. By month three, most businesses can make a revenue call for the quarter with meaningfully more confidence than before.</p>
+        </details>
+
+        <details>
+          <summary>Do I need a CRM already in place?</summary>
+          <p>In most cases, yes. A managed revops function works best when there is an existing CRM to maintain and improve rather than starting from scratch. If no CRM is in place, the starting point would be a selection and implementation process first. Most businesses coming into a managed revops engagement have a CRM that's been in use for at least twelve months and has drifted from its original configuration, which is precisely the situation the managed function stabilises.</p>
+        </details>
+
+        <details>
+          <summary>Can managed revops work alongside an existing in-house sales or operations person?</summary>
+          <p>Yes. Most businesses using a managed revops function have an internal sales leader or operations person managing day-to-day commercial activity. The managed revops function works with them rather than replacing them: the specialist owns the system (CRM, reporting, process documentation) while the internal team owns the commercial relationships and deals. The cleaner the separation between those two responsibilities, the more productive the arrangement tends to be.</p>
+        </details>
+
+      </section>
+
+      <div class="article-cta">
+        <h2>Managed RevOps for your growing team. <em>Let's scope it.</em></h2>
+        <p>Tell Lauren what's not working in your commercial system and she'll tell you whether a managed revops function is the right answer, and what that would look like for your business.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Get in touch <span>↗</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/revenue-operations.html">Revenue operations: the full pillar guide</a></li>
+          <li><a href="/services/revops-consulting.html">Revenue operations consulting</a></li>
+          <li><a href="/services/revops-consultant.html">Hire a revenue operations consultant</a></li>
+          <li><a href="/services/revops-strategy.html">RevOps strategy engagement</a></li>
+          <li><a href="/services/saas-revenue-operations.html">SaaS revenue operations</a></li>
+          <li><a href="/services/sales-dashboards.html">Sales dashboards and reporting</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>© <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE · Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How to calculate conversion rate | The Pearson Co.</title>
+  <meta name="description" content="How to calculate conversion rate: use (conversions ÷ visitors) × 100. Step-by-step guide with a B2B worked example, segmentation tips and common mistakes to avoid.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/how-to-calculate-conversion-rate.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="How to calculate conversion rate: formula, steps and worked examples">
+  <meta property="og:description" content="The conversion rate formula is (conversions ÷ visitors) × 100. Step-by-step guide with a B2B worked example, notes on sessions vs users, segmentation by source, and common mistakes.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/how-to-calculate-conversion-rate.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://thepearsonco.com/blog/how-to-calculate-conversion-rate.html#article",
+        "headline": "How to calculate conversion rate: the formula and worked examples.",
+        "description": "Calculate your conversion rate using the formula: conversions divided by total visitors, multiplied by 100. Step-by-step guide with a B2B worked example, segmentation by traffic source, and common mistakes.",
+        "datePublished": "2026-06-27",
+        "dateModified": "2026-06-27",
+        "author": {
+          "@type": "Person",
+          "name": "Lauren Pearson",
+          "url": "https://thepearsonco.com/"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "The Pearson Co.",
+          "url": "https://thepearsonco.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+          }
+        },
+        "url": "https://thepearsonco.com/blog/how-to-calculate-conversion-rate.html",
+        "mainEntityOfPage": "https://thepearsonco.com/blog/how-to-calculate-conversion-rate.html"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://thepearsonco.com/blog/how-to-calculate-conversion-rate.html#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://thepearsonco.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Knowledge Hub",
+            "item": "https://thepearsonco.com/blog/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "How to calculate conversion rate",
+            "item": "https://thepearsonco.com/blog/how-to-calculate-conversion-rate.html"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://thepearsonco.com/blog/how-to-calculate-conversion-rate.html#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the conversion rate formula?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Conversion rate = (conversions ÷ total visitors) × 100. For example, 80 form submissions from 2,000 visitors gives a conversion rate of 4%. The definition of both 'conversions' and 'visitors' must be fixed before you calculate, and kept consistent across reporting periods."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should I use sessions or users as my denominator?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sessions are the default choice for website CRO because they count each visit as a separate opportunity to convert, which reflects how people actually behave across multiple touchpoints. Unique users are better for nurture campaigns where you want to know what share of individuals converted. Pick one definition and stick with it so your period-on-period comparisons are valid."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I track conversions in Google Analytics 4?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In GA4, set up key events for each conversion goal: form_submit, a page_view on your thank-you URL, or a custom event. In GA4 Admin, mark those events as conversions. Before trusting reported numbers, verify using DebugView while testing the flow yourself. Check that your conversion event fires on confirmation, not on the initial button click, to avoid counting failed submissions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does my conversion rate look different in GA4 versus my CRM?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Three causes account for most discrepancies. First, browser ad blockers and privacy extensions prevent the GA4 tag from firing, so GA4 misses those submissions. Second, your CRM may count only qualified or followed-up submissions, while GA4 counts every event. Third, if your GA4 event fires on the form submit button rather than on the confirmation page view, it counts failed submissions that never reached your CRM."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I calculate conversion rate across multiple steps in a funnel?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Calculate each step's rate separately, then multiply them together to get your end-to-end rate. For example: 60% of visitors reach the product page, 50% of those add to cart, 40% of those complete checkout. End-to-end rate = 60% × 50% × 40% = 12%. Knowing which step has the biggest drop-off tells you precisely where to focus your optimisation effort."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://thepearsonco.com/blog/how-to-calculate-conversion-rate.html#howto",
+        "name": "How to calculate conversion rate",
+        "description": "Calculate your conversion rate using the formula: conversions divided by total visitors, multiplied by 100.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Define your conversion goal",
+            "text": "Decide what specific action counts as a conversion: form submission, booking, purchase, free trial start, or button click. Pick one goal per page."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Count the conversions",
+            "text": "Pull the conversion count from your analytics tool or CRM, and cross-reference against back-end records to confirm tracking accuracy."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Define and count visitors",
+            "text": "Choose whether to use sessions or unique users as your denominator, document the choice, and pull the visitor count for the same period."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Apply the formula",
+            "text": "Divide conversions by visitors and multiply by 100. Segment the result by traffic source, device type, and landing page to find where attention is needed."
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> → <a href="/blog/">Knowledge Hub</a> → <span>How to calculate conversion rate</span></nav>
+      <p class="article-eyebrow">Conversion &amp; funnel optimisation</p>
+      <h1>How to calculate conversion rate. <em>The formula and worked examples.</em></h1>
+      <p class="article-byline"><b>Lauren Pearson</b><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>27 June 2026<span class="dot"></span>9 min read</p>
+
+      <div class="answer-box">Conversion rate = (conversions ÷ total visitors) × 100. To calculate it: decide what counts as a conversion, count how many times it happened in a given period, count total visitors to that page or campaign, divide conversions by visitors, and multiply by 100. The result is your conversion rate as a percentage.</div>
+
+      <div class="prose">
+
+        <h2>The short answer. <em>The formula is one line.</em></h2>
+
+        <p>Conversion rate = (conversions ÷ total visitors) × 100.</p>
+
+        <p>That's it. If 120 people completed a form out of 3,000 who visited the page, your conversion rate is (120 ÷ 3,000) × 100 = 4%.</p>
+
+        <p>The maths is not the hard part. The hard part is being precise about what you put into each side of the equation. The formula never changes, but the definitions of "conversions" and "visitors" vary enormously between teams, tools and time periods. If those definitions aren't locked down, the number you produce is not comparable to anything else you calculate.</p>
+
+        <p>That's why the four decisions below matter more than the arithmetic. Get those right and the calculation takes about thirty seconds in a spreadsheet or your analytics tool of choice.</p>
+
+        <h2>Step by step. <em>Four decisions before you do the maths.</em></h2>
+
+        <h3>Step 1: define your conversion goal</h3>
+
+        <p>A conversion is a specific, trackable action that indicates a visitor did what you wanted them to do. Common examples include a form submission, a booking confirmation, a purchase, a free trial sign-up, a document download, or a button click that triggers a key event in your product.</p>
+
+        <p>The definition needs to be precise and singular per page. "Conversions" is not a useful category on its own. "Demo requests submitted via the contact form on the product landing page" is useful, because it describes exactly one thing you can measure.</p>
+
+        <p>Mixing goals in a single rate produces a number you cannot act on. If your landing page has a primary CTA (book a call) and a secondary CTA (download a one-pager), and you count both as conversions, you'll end up with a blended rate that doesn't tell you whether your primary action is working. Track each goal separately.</p>
+
+        <p>This definition also needs to be set before measurement begins, not retrofitted to whatever data happens to be available. Defining the goal after the fact introduces selection bias.</p>
+
+        <h3>Step 2: count the conversions</h3>
+
+        <p>Once you know what you're measuring, pull the count from your analytics tool (Google Analytics 4 being the most common starting point for web properties) or directly from your CRM, e-commerce platform, or back-end database.</p>
+
+        <p>Then cross-reference the two. If GA4 shows 96 form submissions but your CRM received 83 enquiries in the same window, you have a 13% discrepancy, which is over the 10% threshold where you should investigate. The main causes are:</p>
+
+        <ul>
+          <li><strong>Confirmation page blocked or not loading.</strong> If the event fires on the thank-you page and a percentage of users never reach it because of a slow redirect or a session timeout, those conversions don't get counted.</li>
+          <li><strong>Tracking scripts blocked.</strong> Browser extensions (ad blockers, privacy tools) prevent the GA4 tag from firing. The user converts but the event is never recorded. Studies suggest ad blockers affect 20-30% of desktop traffic on many B2B sites, which means your GA4 data may structurally undercount.</li>
+          <li><strong>Events firing multiple times.</strong> If the event trigger isn't de-duplicated, a single conversion can appear as two or three events. This inflates the count in the opposite direction and makes your rate look higher than it is.</li>
+        </ul>
+
+        <p>A discrepancy below 10% is generally acceptable given the nature of browser-side tracking. Above 10%, fix the tracking before relying on the rate for decisions.</p>
+
+        <h3>Step 3: define and count visitors</h3>
+
+        <p>The denominator of the formula has three common forms, and which one you choose changes the number you get:</p>
+
+        <ul>
+          <li><strong>Sessions.</strong> Each visit to the page or site, including return visits. One person who visits the same page on three separate occasions counts as three sessions. Sessions are the default for website CRO because they measure each opportunity a visitor had to convert during a given campaign window. If you're running a paid campaign and want to know how that campaign's traffic performed, sessions give you the right denominator.</li>
+          <li><strong>Unique users.</strong> Deduplicates return visits. That same person visiting three times counts as one unique user. This gives you a share-of-individuals metric, which is more appropriate when you're measuring a nurture campaign or a trial-to-paid flow where you care about what proportion of the people in a cohort converted, regardless of how many times they visited.</li>
+          <li><strong>Impressions.</strong> Used primarily in paid advertising and email, where the denominator is how many times an ad or email was shown or delivered, not how many clicks came through to a page. Click-through rate (CTR) is the version of conversion rate used at the impression level.</li>
+        </ul>
+
+        <p>For most website CRO work, sessions is the right choice. For email campaign optimisation, unique clicks to the landing page is the right denominator. For ad performance, you're usually working with impressions or clicks depending on whether you're measuring CTR or click-to-action rate.</p>
+
+        <p>The critical rule is this: document your choice. Write it down in the same place as your rate, every time. "4% conversion rate (sessions, 28-day window, organic traffic only)" is a number you can compare across time. "4% conversion rate" is ambiguous and will cause arguments three months from now.</p>
+
+        <h3>Step 4: apply the formula and segment</h3>
+
+        <p>Now apply the formula: (conversions ÷ visitors) × 100.</p>
+
+        <p>Run it at the aggregate level first, then immediately segment. The aggregate rate tells you where you are. The segmented rates tell you what to do about it.</p>
+
+        <p>The most useful segments for most businesses are:</p>
+
+        <ul>
+          <li><strong>Traffic source</strong> (organic search, paid search, paid social, direct, referral, email). This is almost always the most revealing cut because source correlates with intent. Someone who found you by searching "CRM implementation consultant Dubai" is not in the same frame of mind as someone who clicked a retargeting ad while scrolling social media. Their conversion rates will differ substantially, and the fix for underperformance in each case is completely different.</li>
+          <li><strong>Device type</strong> (desktop, mobile, tablet). Mobile traffic frequently converts at a lower rate than desktop on the same page, and the gap is often a UX problem specific to the mobile layout rather than a demand problem.</li>
+          <li><strong>Landing page.</strong> If you have multiple entry points to a funnel, each page needs its own rate. The aggregate masks which pages are carrying the load and which are dragging it down.</li>
+        </ul>
+
+        <p>The aggregate rate across your whole site is interesting but less useful than knowing that your paid social traffic converts at 1.2% while your organic blog traffic converts at 4.8%. The first number gives you a health indicator; the segmented numbers give you a prioritised action list.</p>
+
+        <h2>A worked <em>example.</em></h2>
+
+        <p>Here's how this plays out with real numbers. Consider a UK-based B2B software company running a demo-request landing page for their product.</p>
+
+        <p>Over a four-week period, the page received 2,400 sessions. GA4 recorded 96 conversion events (demo request form submissions, confirmed against CRM records). The top-level calculation:</p>
+
+        <p><strong>(96 ÷ 2,400) × 100 = 4.0%</strong></p>
+
+        <p>That number looks reasonable at face value. But when you break it down by traffic source, the picture changes considerably:</p>
+
+        <ul>
+          <li><strong>Organic search:</strong> 900 sessions, 54 conversions = <strong>6.0%</strong></li>
+          <li><strong>Paid search:</strong> 1,100 sessions, 33 conversions = <strong>3.0%</strong></li>
+          <li><strong>Direct / referral:</strong> 400 sessions, 9 conversions = <strong>2.25%</strong></li>
+        </ul>
+
+        <p>The aggregate 4.0% masks a significant problem. Paid search, which is the most expensive traffic source by a considerable margin, is converting at half the rate of organic search. For every £1,000 spent bringing paid search visitors to that page, you're getting half the demos you'd get from the same number of organic visitors.</p>
+
+        <p>The next action is now clear: investigate why paid search traffic is underperforming. Is there a message-match problem between the ad copy and the landing page? Are paid search visitors landing with different intent? Is the audience targeting pulling in prospects who are earlier in their research? These are all answerable questions, but you'd never know to ask them without the segmented rates.</p>
+
+        <p>That's the real value of calculating conversion rate correctly: not the headline percentage, but what the segmented data points you towards.</p>
+
+        <h2>Common mistakes. <em>And how to avoid them.</em></h2>
+
+        <h3>Mixing sessions and users</h3>
+
+        <p>Switching between sessions and unique users from one reporting period to the next makes period-on-period comparisons invalid. If January's rate was calculated on sessions and February's on unique users, you're not measuring the same thing, and any apparent change in performance is noise rather than signal.</p>
+
+        <p>Set the definition once, at the start of a campaign or measurement period, write it down in your reporting template, and check it every single time you pull numbers. If you're handing a report to someone else, include the definition in the report. Don't make them guess.</p>
+
+        <h3>Counting the wrong event</h3>
+
+        <p>Form submissions and form confirmations are not the same thing. A form submission event fires when someone clicks the submit button. A confirmation event fires when the thank-you page loads, or when a success state appears in the form UI.</p>
+
+        <p>If your tracking fires on the button click, you're counting every submission attempt, including the ones that fail due to validation errors, network timeouts, or duplicate submissions. That inflates your conversion count and makes your rate look higher than it actually is.</p>
+
+        <p>Track the confirmation page view or the thank-you state. In GA4, this typically means either a page_view event on the /thank-you URL or a custom event that fires only after a successful server response. Test it in DebugView before trusting the data in production.</p>
+
+        <h3>Aggregating too broadly</h3>
+
+        <p>A site-wide conversion rate is not an actionable number. It tells you that some percentage of all your visitors across all your pages did something you wanted them to do. But which pages? From which sources? On which devices? For which conversion goals?</p>
+
+        <p>A site-wide rate can tell you whether your overall performance is trending up or down over time. It cannot tell you what to fix. For that, you need rates at the page level, source level, and device level at minimum.</p>
+
+        <p>If you're reporting conversion rate to a team or to a client, include the segmented breakdown alongside the top-level number. The headline rate is context; the segments are the story.</p>
+
+        <h3>Not segmenting by device</h3>
+
+        <p>Mobile and desktop visitors behave differently and convert at different rates, often for reasons that have nothing to do with traffic quality. Research by the Baymard Institute shows that mobile cart abandonment in e-commerce runs 10 to 15 percentage points higher than desktop, even when the mobile experience is considered acceptable by standard usability testing.</p>
+
+        <p>If your page is converting at 5.0% on desktop and 1.8% on mobile, you don't have a demand problem or a targeting problem. You have a mobile experience problem specifically. The fix is a UX audit of the mobile flow, not a revision of your ad targeting or your offer.</p>
+
+        <p>Run the device-type segment on every page where conversion rate matters. The gap between mobile and desktop performance is almost always larger than teams expect, and it's consistently one of the fastest wins available once it's identified and addressed directly.</p>
+
+        <h2>From calculation to <em>action.</em></h2>
+
+        <p>The formula takes seconds. The discipline required to get the inputs right, the definitions consistent, and the output properly segmented takes a little longer. But once you've built that habit into how you report on performance, you have something genuinely useful: a baseline that tells you where you are, segments that tell you what to do next, and a methodology you can repeat every period without renegotiating what the number means.</p>
+
+        <p>That's the foundation. The next stage is building a structured programme around it. Our guide to <a href="/services/conversion-rate-optimisation.html">conversion and funnel optimisation</a> covers how to move from a calculated rate to a tested hypothesis and a measured improvement. If you're already at that stage and want structured support, the <a href="/services/conversion-rate-optimisation-services.html">CRO consulting and support</a> page outlines what that looks like in practice.</p>
+
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+
+        <details>
+          <summary>What is the conversion rate formula?</summary>
+          <p>Conversion rate = (conversions ÷ total visitors) × 100. As a worked example: 80 form submissions from 2,000 visitors gives (80 ÷ 2,000) × 100 = 4%. The formula itself is fixed, but the definitions on either side are not. "Conversions" could mean purchases, form submissions, free trial sign-ups, or any other specific trackable action you've defined. "Visitors" could mean sessions, unique users, or impressions depending on the channel and what you're measuring. Both definitions need to be set before you calculate and kept consistent across reporting periods.</p>
+        </details>
+
+        <details>
+          <summary>Should I use sessions or users as my denominator?</summary>
+          <p>Sessions are the most common choice for website CRO, and usually the right one. Each session represents a distinct opportunity for a visitor to convert, so using sessions as your denominator tells you how many of those opportunities resulted in the action you wanted. One person visiting the same page three times counts as three sessions: three chances to convert. Unique users are more appropriate for nurture campaigns or cohort-based analysis, where you want to know what share of individual people converted rather than what share of visits resulted in a conversion. Choose one definition at the start of a measurement period, write it down, and don't switch mid-stream. Changing the denominator mid-campaign makes period-on-period comparisons invalid.</p>
+        </details>
+
+        <details>
+          <summary>How do I track conversions in Google Analytics 4?</summary>
+          <p>In GA4, tracking starts with key events. Set up events for each conversion goal you care about: form_submit for form completions, a page_view event scoped to your thank-you URL, or a custom event that your development team can fire after a successful server response. Once the events are in place, go to GA4 Admin and mark the relevant ones as conversions. Before relying on the reported numbers for any decision, verify that everything is working using DebugView: trigger the event yourself, confirm it appears, and check that it fires on the confirmation state rather than on the initial button click. Firing on the button click is the most common tracking error in GA4 and will inflate your conversion count by including failed submission attempts.</p>
+        </details>
+
+        <details>
+          <summary>Why does my conversion rate look different in GA4 versus my CRM?</summary>
+          <p>Three causes account for most of the discrepancy. First, browser ad blockers and privacy extensions prevent the GA4 tag from firing on a meaningful portion of visits (estimates for B2B audiences range from 20% to 40% of desktop users). Those visitors convert but GA4 never records the event. Second, your CRM may be counting only qualified or followed-up submissions rather than every form entry, while GA4 counts every tracked event regardless of quality or follow-up status. Third, if your GA4 event fires on the submit button click rather than on the confirmation page or thank-you state, GA4 is counting failed submissions that never reached your CRM. Discrepancies below about 10% are generally within the expected noise range for browser-side tracking. Above 10%, investigate the tracking setup before using either number for decisions.</p>
+        </details>
+
+        <details>
+          <summary>How do I calculate conversion rate across multiple steps in a funnel?</summary>
+          <p>Calculate each step's conversion rate separately, then multiply the step rates together to get your end-to-end rate. For example: 60% of visitors reach your product page, 50% of those add an item to their cart, and 40% of those complete the checkout. The end-to-end conversion rate from initial visit to purchase is 60% × 50% × 40% = 12%. The value of this approach is precision about where to focus. If your step rates are 60%, 50% and 40%, the largest absolute drop-off is at step one (40% of potential customers never reach the product page), but the proportional loss at step three may represent the highest-value opportunity to recover. Calculate each step, rank the drop-offs by both volume and value, and work from the biggest opportunity down.</p>
+        </details>
+      </section>
+
+      <div class="article-cta">
+        <h2>Ready to put the <em>numbers to work?</em></h2>
+        <p>Knowing your conversion rate is step one. Improving it is where the return comes from. Get in touch to talk through your funnel data and what a structured optimisation programme would look like for your business.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>↗</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation: the full guide</a></li>
+          <li><a href="/services/conversion-rate-optimisation-services.html">CRO consulting services</a></li>
+          <li><a href="/blog/what-is-conversion-rate-optimisation.html">What is conversion rate optimisation?</a></li>
+          <li><a href="/blog/what-is-a-good-conversion-rate.html">What is a good conversion rate?</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>© <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE · Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

@@ -1,10 +1,10 @@
 {
   "site": "The Pearson Co.",
   "repo": "Pearson26/pearson-co",
-  "next_index": 356,
-  "posts_published": 42,
+  "next_index": 359,
+  "posts_published": 45,
   "total_planned": 1085,
-  "last_published_slug": "how-to-calculate-conversion-rate",
-  "last_updated": "2026-06-27T23:11:44Z",
-  "notes": "42 posts live: 15 cornerstone pillar pages (seq 1-15) + 24 money/authority pages (seq 16-39) + 3 authority posts published 2026-06-27 (seq 145, 201, 355: what-is-conversion-rate-optimisation, what-is-a-good-conversion-rate, how-to-calculate-conversion-rate). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Routine resumes at next_index=356."
+  "last_published_slug": "fractional-revenue-leadership",
+  "last_updated": "2026-06-28T23:16:38Z",
+  "notes": "45 posts live: 15 cornerstone pillar pages (seq 1-15) + 24 money/authority pages (seq 16-39) + 3 authority posts published 2026-06-27 (seq 145, 201, 355: what-is-conversion-rate-optimisation, what-is-a-good-conversion-rate, how-to-calculate-conversion-rate) + 3 authority posts published 2026-06-28 (seq 356, 357, 358: cac-and-ltv, crm-implementation-project-plan, fractional-revenue-leadership). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Routine resumes at next_index=359. Note: verify_state.py sets next_index to first sequential gap (seq 40) but publication is non-sequential by design; next_index here is the Strategist intent pointer."
 }

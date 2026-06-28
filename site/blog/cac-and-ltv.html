@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CAC LTV ratio explained | The Pearson Co.</title>
+  <meta name="description" content="What is the CAC LTV ratio and why does it matter? Plain-English guide for founders and SaaS teams, with formulas, benchmarks, and a worked example.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/cac-and-ltv.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="CAC and LTV explained: the ratio that tells you if your growth is working">
+  <meta property="og:description" content="The CAC LTV ratio is the clearest signal of whether your business model actually works. Here's what it means, how to calculate it, and what the numbers are telling you.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/cac-and-ltv.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://thepearsonco.com/blog/cac-and-ltv.html#article",
+        "headline": "CAC and LTV explained: the ratio that tells you if your growth is working.",
+        "description": "What is the CAC LTV ratio and why does it matter? Plain-English guide for founders and SaaS teams, with formulas, benchmarks, and a worked example.",
+        "datePublished": "2026-06-28",
+        "dateModified": "2026-06-28",
+        "author": {
+          "@type": "Person",
+          "name": "Lauren Pearson",
+          "url": "https://thepearsonco.com/"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "The Pearson Co.",
+          "url": "https://thepearsonco.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+          }
+        },
+        "url": "https://thepearsonco.com/blog/cac-and-ltv.html",
+        "mainEntityOfPage": "https://thepearsonco.com/blog/cac-and-ltv.html"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://thepearsonco.com/blog/cac-and-ltv.html#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://thepearsonco.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Knowledge Hub",
+            "item": "https://thepearsonco.com/blog/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "CAC and LTV explained",
+            "item": "https://thepearsonco.com/blog/cac-and-ltv.html"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://thepearsonco.com/blog/cac-and-ltv.html#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is a good CAC LTV ratio?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The widely cited benchmark for B2B SaaS is 3:1, meaning lifetime value is three times your customer acquisition cost. Below 1:1 means you lose money on every customer. Above 5:1 often signals underinvestment in growth. David Skok's SaaS Metrics 2.0, referenced by Bessemer Venture Partners, established the 3:1 standard as the floor for a viable unit economics model."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do you calculate CAC?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Divide total sales and marketing spend in a given period by the number of new customers acquired in that same period. If you spent £60,000 last quarter and won 30 customers, your CAC is £2,000. Keep the period consistent and make sure your headcount costs are included alongside ad spend and tooling."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do you calculate LTV?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The most common formula for subscription businesses: average monthly revenue per customer multiplied by gross margin, divided by monthly churn rate. A simpler version if you do not have clean churn data: average monthly revenue per customer multiplied by average customer lifetime in months. Always use gross profit, not revenue, when comparing against CAC."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is a healthy CAC payback period?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For B2B SaaS, Bessemer Venture Partners benchmarks 12 to 18 months as the healthy range. Beyond 18 months, capital efficiency becomes a concern because you are funding a long gap between spending and recovery. In capital-constrained environments, payback period matters as much as the LTV:CAC ratio itself, since a high ratio with a long payback can still create cash flow problems."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does RevOps matter for CAC and LTV tracking?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "CAC sits in marketing and sales budgets. LTV sits in customer success and finance data. Without a shared system, the two numbers rarely meet in the same room. A RevOps function aligns the data across all three teams so the ratio is calculated consistently and acted on in time to change outcomes, rather than reviewed as a historical post-mortem."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> → <a href="/blog/">Knowledge Hub</a> → <span>CAC and LTV explained</span></nav>
+      <p class="article-eyebrow">Revenue Operations (RevOps)</p>
+      <h1>CAC and LTV explained. <em>The ratio that tells you if your growth is working.</em></h1>
+      <p class="article-byline"><b>Lauren Pearson</b><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>28 June 2026<span class="dot"></span>6 min read</p>
+
+      <div class="answer-box">The CAC LTV ratio compares what you spend to acquire a customer against the total gross profit that customer generates over their lifetime. A ratio of 3:1 is the standard SaaS benchmark. Below 1:1, you lose money on every sale. Above 5:1, you are likely leaving growth on the table by underspending on acquisition.</div>
+
+      <div class="prose">
+        <h2>The short <em>answer.</em></h2>
+        <p>CAC stands for Customer Acquisition Cost. LTV stands for Lifetime Value (sometimes written CLV or CLTV). The CAC LTV ratio puts those two numbers together to tell you whether your business model is actually working.</p>
+        <p>If your LTV is £9,000 and your CAC is £3,000, your LTV:CAC ratio is 3:1. That is the number most investors and operators treat as the floor for a healthy SaaS business, based on benchmarks published by David Skok in his widely cited "SaaS Metrics 2.0" analysis (For Entrepreneurs blog, 2010) and referenced by Bessemer Venture Partners across their State of the Cloud reports.</p>
+        <p>Below 1:1 means the business is structurally unprofitable at the unit level. Between 1:1 and 2:1, margins are thin and the model is fragile. At 3:1, the unit economics hold and the business can invest in growth. Above 5:1, the ratio often signals that you are being too cautious with acquisition spend and leaving revenue behind.</p>
+
+        <h2>Why it <em>matters.</em></h2>
+        <p>Revenue figures alone do not tell you much. A company growing at 40% per year can still be destroying value if it costs more to acquire each customer than that customer ever pays back. The CAC LTV ratio is the check on that.</p>
+        <p>It matters in three specific situations.</p>
+        <ul>
+          <li><strong>Fundraising.</strong> Investors will ask for it. If you cannot produce it cleanly, that is a signal about your data infrastructure, not just your numbers.</li>
+          <li><strong>Channel decisions.</strong> When you are comparing paid search against outbound sales or partner referrals, CAC by channel tells you where to put the next pound. LTV by segment tells you which customers are worth paying more to win.</li>
+          <li><strong>Churn management.</strong> LTV is directly linked to churn rate. If churn rises, LTV falls, and a ratio that looked healthy six months ago may now look marginal. Tracking this over time catches problems before they compound.</li>
+        </ul>
+        <p>The ratio also connects teams that typically work in silos. Marketing owns CAC. Customer success owns retention, which drives LTV. Finance sees both in the P&amp;L but often months after the fact. A proper <a href="/services/revenue-operations.html">revenue operations</a> setup puts the ratio in front of all three teams on the same cadence, so decisions about spend and retention are made with the same data.</p>
+
+        <h2>How it is measured <em>or applied.</em></h2>
+        <p>Both calculations are straightforward once you agree on the inputs.</p>
+
+        <h3>Calculating CAC</h3>
+        <p>Take your total sales and marketing spend in a given period (salaries, tools, ad spend, agency fees, events) and divide by the number of new customers acquired in that same period.</p>
+        <p><strong>CAC = total sales and marketing spend / new customers acquired</strong></p>
+        <p>The most common mistake is mismatching the period. If you spent heavily in Q4 on campaigns that converted in Q1, a straight quarterly calculation will overstate Q4 CAC and understate Q1 CAC. Some teams use a 90-day lag to account for sales cycle length. Choose a convention and keep it.</p>
+
+        <h3>Calculating LTV</h3>
+        <p>For subscription businesses, the most reliable formula is:</p>
+        <p><strong>LTV = (average monthly revenue per customer x gross margin) / monthly churn rate</strong></p>
+        <p>If you do not yet have reliable churn data, a simpler version works as a starting point:</p>
+        <p><strong>LTV = average monthly revenue per customer x average customer lifetime in months</strong></p>
+        <p>Gross margin matters here. If you are running at 60% gross margin, a customer paying £1,000 per month contributes £600 per month in gross profit. That is what you are comparing against CAC, not the top-line revenue figure.</p>
+
+        <h3>The payback period check</h3>
+        <p>One number the LTV:CAC ratio does not capture on its own is timing. A 3:1 ratio sounds healthy, but if it takes four years to realise that value, you have a cash flow problem in the meantime.</p>
+        <p>That is where CAC payback period comes in:</p>
+        <p><strong>Payback period = CAC / monthly gross profit per customer</strong></p>
+        <p>Bessemer Venture Partners benchmarks 12 to 18 months as the healthy range for B2B SaaS. Beyond 18 months, capital efficiency becomes a genuine concern. You are effectively lending money to your customers for a year and a half before you break even on acquiring them.</p>
+
+        <h2>A practical <em>example.</em></h2>
+        <p>Say you run a B2B SaaS product. Your numbers for the last quarter look like this:</p>
+        <ul>
+          <li>Total sales and marketing spend: £90,000</li>
+          <li>New customers acquired: 30</li>
+          <li>Average monthly revenue per customer: £800</li>
+          <li>Gross margin: 70%</li>
+          <li>Monthly churn rate: 2%</li>
+        </ul>
+        <p>CAC = £90,000 / 30 = £3,000</p>
+        <p>LTV = (£800 x 0.70) / 0.02 = £560 / 0.02 = £28,000</p>
+        <p>LTV:CAC ratio = £28,000 / £3,000 = 9.3:1</p>
+        <p>At first glance, that looks excellent. But check the payback period.</p>
+        <p>Monthly gross profit per customer = £800 x 0.70 = £560</p>
+        <p>Payback period = £3,000 / £560 = 5.4 months</p>
+        <p>A ratio of 9:1 with a payback period of just over five months is a strong signal that you could be spending more on acquisition. You are recovering your CAC in well under a year and leaving significant headroom to grow. The conversation then shifts to where to invest: more paid channels, a larger sales team, a partner programme.</p>
+        <p>If the same business had a monthly churn rate of 8% instead of 2%, LTV would drop to £7,000, the ratio would fall to 2.3:1, and the payback period would still be 5.4 months. The payback looks fine, but the model is fragile. In that scenario, the priority is retention, not acquisition spend.</p>
+        <p>This kind of analysis is the day-to-day work of a RevOps function. If you want someone to help you build the metrics infrastructure and translate the numbers into a growth plan, <a href="/services/revops-consulting.html">RevOps consulting</a> is where that work starts.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details>
+          <summary>What is a good CAC LTV ratio?</summary>
+          <p>The widely cited benchmark for B2B SaaS is 3:1, meaning lifetime value is three times your customer acquisition cost. Below 1:1 means you lose money on every customer. Above 5:1 often signals underinvestment in growth. David Skok's SaaS Metrics 2.0, referenced by Bessemer Venture Partners, established the 3:1 standard as the floor for a viable unit economics model.</p>
+        </details>
+        <details>
+          <summary>How do you calculate CAC?</summary>
+          <p>Divide total sales and marketing spend in a given period by the number of new customers acquired in that same period. If you spent £60,000 last quarter and won 30 customers, your CAC is £2,000. Keep the period consistent and make sure your headcount costs are included alongside ad spend and tooling.</p>
+        </details>
+        <details>
+          <summary>How do you calculate LTV?</summary>
+          <p>The most common formula for subscription businesses: average monthly revenue per customer multiplied by gross margin, divided by monthly churn rate. A simpler version if you do not have clean churn data: average monthly revenue per customer multiplied by average customer lifetime in months. Always use gross profit, not revenue, when comparing against CAC.</p>
+        </details>
+        <details>
+          <summary>What is a healthy CAC payback period?</summary>
+          <p>For B2B SaaS, Bessemer Venture Partners benchmarks 12 to 18 months as the healthy range. Beyond 18 months, capital efficiency becomes a concern because you are funding a long gap between spending and recovery. In capital-constrained environments, payback period matters as much as the LTV:CAC ratio itself, since a high ratio with a long payback can still create cash flow problems.</p>
+        </details>
+        <details>
+          <summary>Why does RevOps matter for CAC and LTV tracking?</summary>
+          <p>CAC sits in marketing and sales budgets. LTV sits in customer success and finance data. Without a shared system, the two numbers rarely meet in the same room. A RevOps function aligns the data across all three teams so the ratio is calculated consistently and acted on in time to change outcomes, rather than reviewed as a historical post-mortem.</p>
+        </details>
+      </section>
+
+      <div class="article-cta">
+        <h2>Want cleaner metrics and a growth model <em>that holds up?</em></h2>
+        <p>If your CAC and LTV numbers live in separate spreadsheets and different teams, that is a systems problem before it is a strategy problem. I work with founder-led and scale-up businesses to build the RevOps infrastructure that connects those numbers and turns them into decisions.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>↗</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/revenue-operations.html">Revenue operations for founder-led businesses</a></li>
+          <li><a href="/services/revops-consulting.html">RevOps consulting: how we work</a></li>
+          <li><a href="/services/conversion-rate-optimisation.html">Conversion and funnel optimisation</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>© <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE · Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

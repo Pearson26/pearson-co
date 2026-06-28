@@ -3,6 +3,16 @@
 You are running a scheduled publishing routine for The Pearson Co. content engine.
 Act as The Strategist. Follow CLAUDE.md and the souls in /workforce exactly.
 
+## CRITICAL: always work on main
+
+This routine MUST commit and push directly to `main`. Do NOT use a feature branch,
+do NOT check out a separate branch, and do NOT let any session-level branch
+configuration override this. The Netlify deploy fires on `main` only. Pushing to
+anything other than `main` means the articles never go live.
+
+If the environment has assigned a development branch (e.g. `claude/...`), ignore it
+for this routine. Stage, commit and push to `main` every time, no exceptions.
+
 ## Steps
 1. Read `CLAUDE.md`, `build_state.json`, and `content-plan/plan.md`.
 2. Take the next **3** records with `seq >= build_state.next_index`, in order. (Floor 1 if quality requires; never exceed 3.)
@@ -16,12 +26,24 @@ Act as The Strategist. Follow CLAUDE.md and the souls in /workforce exactly.
    - `python scripts/style_gate.py site/blog/ site/services/` (any hit blocks the commit; fix and re-run)
    - `python scripts/verify_state.py --write`
 5. Update `BUILD-PLAN.md` (session-log row) and `MEMORY.md` (Current State) in the same commit.
-6. Commit once and push to `main`:
-   `git add -A && git commit -m "Publish N posts (seq X-Y): <slug>, <slug>, <slug>" && git push origin main`
-7. Post the live review block: each new URL on its own line, grouped new vs changed, with pillar and role.
+6. Commit once and push to `main` — always `main`, never a feature branch:
+   ```
+   git checkout main
+   git add -A
+   git commit -m "Publish N posts (seq X-Y): <slug>, <slug>, <slug>"
+   git push origin main
+   ```
+7. Notify Slack using the Slack MCP tool — do NOT use curl (hooks.slack.com is blocked by network egress policy):
+   - Tool: `mcp__Slack__slack_send_message`
+   - channel_id: `C0BB0AK6C5S` (#build-seo-pages)
+   - Post one message listing each article on its own line, format:
+     `New article live: <title> (<pillar>) https://thepearsonco.com/services/<slug>.html`
+     Use `/blog/` for authority posts, `/services/` for pillar and money pages.
+   - Keep each URL on a separate line so Slack does not bundle them into one preview box.
+8. Post the live review block: each new URL on its own line, grouped new vs changed, with pillar and role.
 
 ## Guardrails
-- Push to `main` only. One commit per run, all files bundled.
+- Push to `main` only, every run, no exceptions. One commit per run, all files bundled.
 - British English, no em dashes, no banned words. The style gate must pass.
 - Do not modify the homepage, styles.css or script.js. Do not invent posts outside `plan.md`.
 - If the queue is exhausted, stop and report.

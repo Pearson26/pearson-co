@@ -1,10 +1,10 @@
 {
   "site": "The Pearson Co.",
   "repo": "Pearson26/pearson-co",
-  "next_index": 16,
-  "posts_published": 15,
+  "next_index": 356,
+  "posts_published": 42,
   "total_planned": 1085,
-  "last_published_slug": "go-to-market-strategy",
-  "last_updated": "2026-06-16T11:48:59Z",
-  "notes": "Engine + 12-month plan complete (1085 records). The 15 cornerstone pillar pages (seq 1-15) were written and published manually and are live in site/services/. Routine resumes at next_index=16 (first money page). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml."
+  "last_published_slug": "how-to-calculate-conversion-rate",
+  "last_updated": "2026-06-27T23:11:44Z",
+  "notes": "42 posts live: 15 cornerstone pillar pages (seq 1-15) + 24 money/authority pages (seq 16-39) + 3 authority posts published 2026-06-27 (seq 145, 201, 355: what-is-conversion-rate-optimisation, what-is-a-good-conversion-rate, how-to-calculate-conversion-rate). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Routine resumes at next_index=356."
 }

@@ -1,10 +1,10 @@
 {
   "site": "The Pearson Co.",
   "repo": "Pearson26/pearson-co",
-  "next_index": 365,
-  "posts_published": 51,
+  "next_index": 368,
+  "posts_published": 54,
   "total_planned": 1085,
-  "last_published_slug": "saas-kpis",
-  "last_updated": "2026-07-01T12:33:06Z",
-  "notes": "51 posts live: 15 cornerstone pillar pages (seq 1-15) + 24 money/authority pages (seq 16-39) + 3 authority posts published 2026-06-27 (seq 145, 201, 355: what-is-conversion-rate-optimisation, what-is-a-good-conversion-rate, how-to-calculate-conversion-rate) + 3 authority posts published 2026-06-28 (seq 356, 357, 358: cac-and-ltv, crm-implementation-project-plan, fractional-revenue-leadership) + 3 authority posts published 2026-06-29 (seq 359, 360, 361: founder-stage-growth, csat-explained, types-of-market-entry-strategies) + 3 authority posts published 2026-07-01 (seq 362, 363, 364: dmaic-explained, re-engagement-campaigns, saas-kpis). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Routine resumes at next_index=365. Note: verify_state.py sets next_index to first sequential gap (seq 40) but publication is non-sequential by design; next_index here is the Strategist intent pointer. Watch: new posts (seq 362-364) are orphans until pillar pages link down to them."
+  "last_published_slug": "defining-pipeline-stages",
+  "last_updated": "2026-07-01T23:15:22Z",
+  "notes": "54 posts live: 15 cornerstone pillar pages (seq 1-15) + 24 money/authority pages (seq 16-39) + 3 authority posts published 2026-06-27 (seq 145, 201, 355: what-is-conversion-rate-optimisation, what-is-a-good-conversion-rate, how-to-calculate-conversion-rate) + 3 authority posts published 2026-06-28 (seq 356, 357, 358: cac-and-ltv, crm-implementation-project-plan, fractional-revenue-leadership) + 3 authority posts published 2026-06-29 (seq 359, 360, 361: founder-stage-growth, csat-explained, types-of-market-entry-strategies) + 3 authority posts published 2026-07-01 (seq 362, 363, 364: dmaic-explained, re-engagement-campaigns, saas-kpis) + 3 authority posts published 2026-07-01 (seq 365, 366, 367: best-crm-for-ecommerce, crm-adoption-metrics, defining-pipeline-stages). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Routine resumes at next_index=368. Note: verify_state.py sets next_index to first sequential gap (seq 40) but publication is non-sequential by design; next_index here is the Strategist intent pointer. Watch: dmaic-explained and re-engagement-campaigns (seq 362-363) remain orphans with no inbound links, flagged by link_graph.py; fix in a future run once related cluster posts publish."
 }

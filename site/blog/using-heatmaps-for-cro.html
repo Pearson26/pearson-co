@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Heatmaps for CRO: how to read and use them | The Pearson Co.</title>
+  <meta name="description" content="Heatmaps show where visitors click, move and stop scrolling. Here's how to set one up, read it properly, and avoid the mistakes that lead teams astray.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/using-heatmaps-for-cro.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Heatmaps for CRO: how to read and use them | The Pearson Co.">
+  <meta property="og:description" content="Heatmaps show where visitors click, move and stop scrolling. Here's how to set one up, read it properly, and avoid the mistakes that lead teams astray.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/using-heatmaps-for-cro.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://thepearsonco.com/blog/using-heatmaps-for-cro.html#article",
+        "headline": "How to use heatmaps for CRO.",
+        "description": "Heatmaps show where visitors click, move and stop scrolling. Here's how to set one up, read it properly, and avoid the mistakes that lead teams astray.",
+        "datePublished": "2026-07-02",
+        "dateModified": "2026-07-02",
+        "author": {
+          "@type": "Person",
+          "name": "Lauren Pearson",
+          "url": "https://thepearsonco.com/"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "The Pearson Co.",
+          "url": "https://thepearsonco.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+          }
+        },
+        "url": "https://thepearsonco.com/blog/using-heatmaps-for-cro.html",
+        "mainEntityOfPage": "https://thepearsonco.com/blog/using-heatmaps-for-cro.html"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://thepearsonco.com/blog/using-heatmaps-for-cro.html#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://thepearsonco.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Knowledge Hub",
+            "item": "https://thepearsonco.com/blog/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Using heatmaps for CRO",
+            "item": "https://thepearsonco.com/blog/using-heatmaps-for-cro.html"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://thepearsonco.com/blog/using-heatmaps-for-cro.html#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is a heatmap in CRO?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A heatmap is a visual overlay of a webpage showing where visitors clicked, moved their cursor or stopped scrolling, aggregated across many sessions. Warm colours mark high activity, cool colours mark low. In conversion rate optimisation, heatmaps turn anonymous traffic into a picture of attention, useful for spotting where people get stuck or ignore something you assumed they would see."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many sessions do I need before a heatmap is reliable?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Aim for at least 1,000 sessions on the page before drawing conclusions, and more for pages with lower traffic or subtle layout differences. Below a few hundred sessions, a heatmap mostly reflects a handful of individuals rather than a genuine pattern, and any change you make on the strength of it is a guess dressed up as data."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are Microsoft Clarity and Hotjar heatmaps accurate?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Both capture real click, move and scroll data from live visitors rather than estimating it, so the underlying data is accurate. What varies is sample size, segmentation options and how the tool renders overlapping activity on long or dynamic pages. Microsoft Clarity has been free since its public release in October 2020 and covers the core three map types; Hotjar adds more filtering and survey tools at a cost."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can heatmaps replace A/B testing?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. A heatmap tells you where attention went on the page as it exists today; it cannot tell you whether a different layout would convert better. Use heatmaps and session recordings to generate a hypothesis about what is going wrong, then confirm the fix with an A/B test rather than shipping the change on the strength of the heatmap alone."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why do people click things that aren't links?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This is called a rage click or false-affordance click, and it happens when an element looks interactive, bold text, an underline, an icon, a coloured box, but does nothing when clicked. It is one of the most useful heatmap findings because it points directly at a design element that is actively confusing visitors, at no cost to fix."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://thepearsonco.com/blog/using-heatmaps-for-cro.html#howto",
+        "name": "How to use heatmaps for CRO",
+        "description": "Set up, read and act on heatmap data without drawing the wrong conclusions from it.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Pick the map type that answers your question",
+            "text": "Choose a click map to see where people tap or click, a move map to see where attention lingers, or a scroll map to see how far people get down the page, based on what you're actually trying to find out."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Set a fixed capture window",
+            "text": "Run the tool for a defined period or session count on the exact page and device type you're studying, rather than glancing at a partial sample after a day or two."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Read the map against a hypothesis",
+            "text": "Write down what you expect to see before you look, then compare the actual pattern against it. This stops you from telling yourself a story that fits whatever the map happens to show."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Cross-reference with analytics and recordings",
+            "text": "Check the heatmap finding against GA4 drop-off data and a handful of session recordings before deciding it's real. A heatmap shows the what; recordings and analytics help explain the why."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Test the fix, don't just ship it",
+            "text": "Turn the finding into a specific change and validate it with an A/B test or a clear before-and-after comparison, rather than assuming the heatmap alone proves the new version will convert better."
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>Using heatmaps for CRO</span></nav>
+      <p class="article-eyebrow">Conversion &amp; funnel optimisation</p>
+      <h1>Using heatmaps for CRO. <em>How to read them without fooling yourself.</em></h1>
+      <p class="article-byline"><b>Lauren Pearson</b><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>2 July 2026<span class="dot"></span>8 min read</p>
+
+      <div class="answer-box">Heatmaps show where visitors click, move their cursor and stop scrolling, turning anonymous traffic into a visual record of attention. Read them alongside analytics and session recordings, not instead of them: a heatmap tells you where people looked, not why they left. Capture at least 1,000 sessions with a tool like Microsoft Clarity or Hotjar first.</div>
+
+      <div class="prose">
+
+        <h2>The short answer. <em>What a heatmap actually tells you.</em></h2>
+
+        <p>A heatmap is an overlay on a webpage that shows where visitors clicked, where their cursor lingered, and how far down the page they scrolled, aggregated across hundreds or thousands of sessions. Warm colours (red, orange) mark high activity; cool colours (blue, green) mark low activity. That's the whole mechanism.</p>
+
+        <p>What it is not is a mind-reading tool. A heatmap shows behaviour, not intent. It can tell you that nobody clicked your pricing link, but it cannot tell you whether that's because they didn't see it, didn't understand it, or saw it and decided against clicking. For that, you need to combine it with other evidence, which is the part most teams skip.</p>
+
+        <p>There are three heatmap types worth knowing, each answering a different question:</p>
+
+        <ul>
+          <li><strong>Click maps</strong> show exactly where people clicked or tapped, including on elements that aren't actually clickable, which is often the most useful finding on the page.</li>
+          <li><strong>Move maps</strong> track cursor movement on desktop as a rough proxy for visual attention. They're imperfect, people don't always look where they point, but at scale the pattern is informative.</li>
+          <li><strong>Scroll maps</strong> show what percentage of visitors reached each depth of the page, useful for working out whether content below the fold is being seen at all.</li>
+        </ul>
+
+        <p>This isn't a new idea dressed up in new tooling. Nielsen Norman Group's original eye-tracking study, published in 2006 and based on 232 users, found that people scan web pages in an F-shaped pattern: a horizontal sweep across the top, a shorter horizontal sweep further down, then a vertical scan down the left side. Later eye-tracking research has confirmed the pattern holds, on both desktop and mobile. A heatmap is a cheaper, always-on way to see the same kind of pattern on your own pages, without running a lab study.</p>
+
+        <h3>Which tool to use</h3>
+
+        <p>You don't need an expensive stack to start. Microsoft Clarity has been free since its public release in October 2020 and covers click, move and scroll maps alongside session recordings, with no visitor cap. Hotjar and Crazy Egg are paid alternatives that add more segmentation, survey tools and confetti-style click breakdowns by traffic source or device. For most founder-led teams, Clarity is enough to run everything described in this guide; the paid tools earn their cost once you need to segment heatmaps by campaign or cohort at volume.</p>
+
+        <table>
+          <thead>
+            <tr><th>Tool</th><th>Cost</th><th>Best for</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Microsoft Clarity</td><td>Free, unlimited</td><td>Getting started; core click, move and scroll maps plus recordings</td></tr>
+            <tr><td>Hotjar</td><td>Paid, tiered by session volume</td><td>Segmentation by source and device, on-page surveys, feedback widgets</td></tr>
+            <tr><td>Crazy Egg</td><td>Paid, tiered by traffic</td><td>Confetti reports that break clicks down by referrer, useful for paid campaign pages</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Step by step. <em>Setting one up properly.</em></h2>
+
+        <h3>Step 1: pick the map type that answers your question</h3>
+
+        <p>Don't install a heatmap tool and stare at whatever it gives you. Start with a specific question. "Is anyone clicking the secondary CTA?" needs a click map. "Are people reading the case study section or skipping it?" needs a scroll map. "Is the hero section holding attention?" needs a move map. Picking the map type first keeps you from over-interpreting whatever colours happen to show up.</p>
+
+        <h3>Step 2: set a fixed capture window</h3>
+
+        <p>Run the tool for a defined period or session count on the exact page and device type you're studying, rather than checking in after a day and calling it done. Traffic composition changes by day of week and by campaign, so a two-day snapshot during a paid campaign push will look different from a quiet organic week. Aim for at least 1,000 sessions before treating a pattern as reliable, and separate desktop from mobile: they are different maps with different problems.</p>
+
+        <h3>Step 3: read the map against a hypothesis, not a first impression</h3>
+
+        <p>Write down what you expect to see before you look at the data. If your hypothesis is "most people don't scroll far enough to see the pricing table", check the scroll map for the specific depth where pricing sits. If the hypothesis is wrong, that's useful too: it stops you from chasing a problem that doesn't exist and points you towards the one that does.</p>
+
+        <h3>Step 4: cross-reference with analytics and recordings</h3>
+
+        <p>A heatmap on its own is a hint, not a conclusion. Pull the equivalent GA4 exit and scroll-depth data for the same page and period, and watch five to ten session recordings of visitors who didn't convert. If the heatmap shows low engagement with a form field, but the recordings show people filling it in fine and then abandoning at the final submit button, the heatmap alone would have sent you fixing the wrong thing.</p>
+
+        <h3>Step 5: test the fix, don't just ship it</h3>
+
+        <p>Once you have a specific, evidenced hypothesis, for example "the second CTA is being ignored because it sits below a visual break that reads as the end of the page", turn it into a change and validate it. A heatmap earns you a good hypothesis. It doesn't earn you certainty that the new version will convert better; only a test or a clean before-and-after comparison does that.</p>
+
+        <h2>A worked example. <em>What this looks like in practice.</em></h2>
+
+        <p>Take a SaaS pricing page with three tiers and a comparison table underneath. The scroll map shows that only 40% of visitors reach the comparison table, even though it contains the feature detail that answers most objections. The click map shows a cluster of clicks on the middle tier's "Most popular" badge, which isn't a link.</p>
+
+        <p>Two findings, two different actions. The rage clicks on the badge suggest visitors expect it to do something, perhaps expand more detail or jump to that plan's checkout, so making it clickable removes a small but real point of friction. The scroll drop-off before the comparison table suggests the page front-loads the pricing cards and buries the detail that would actually resolve doubt. Moving a condensed version of the comparison table higher, or adding a "see full comparison" anchor link near the cards, addresses that directly.</p>
+
+        <p>Neither change is a guess. Both come from a specific pattern in the data, checked against what visitors were actually trying to do on the page: decide which plan answers their situation, and see feature detail before committing.</p>
+
+        <p>The session recordings added a third layer neither map surfaced on its own. Several visitors who reached the comparison table opened it, scrolled through it slowly, then closed the tab without clicking anything. That's not a heatmap finding, a heatmap can only show where they looked, not that they left unconvinced. It came from watching the recordings after the heatmap pointed at where to look. The eventual fix added a short "still deciding?" prompt with a link to book a call directly beneath the table, rather than assuming the table itself needed a redesign.</p>
+
+        <h2>Common mistakes. <em>Where heatmap reads go wrong.</em></h2>
+
+        <ul>
+          <li><strong>Drawing conclusions from too few sessions.</strong> A heatmap built on 80 visits is mostly noise. Wait for enough volume, and treat low-traffic pages with more caution, not less.</li>
+          <li><strong>Ignoring device segmentation.</strong> A combined desktop-and-mobile heatmap averages together two completely different layouts and behaviours. Always view them separately.</li>
+          <li><strong>Confusing "didn't scroll" with "didn't care".</strong> Page length, load speed and what's directly above the fold all affect scroll depth independently of interest in the content itself.</li>
+          <li><strong>Treating a move map as a definitive attention record.</strong> Cursor position correlates with visual attention but isn't the same thing, particularly on touch devices where there's no cursor to track at all.</li>
+          <li><strong>Skipping the qualitative layer.</strong> A heatmap shows the pattern; it doesn't explain it. Pairing it with session recordings and, where possible, direct user feedback is what turns a colour gradient into an actionable fix.</li>
+          <li><strong>Making a change and never checking whether it worked.</strong> The heatmap that flagged the problem should be the same one you check again after the fix ships, to confirm the pattern actually moved.</li>
+        </ul>
+
+        <p>Heatmaps are one of the cheapest diagnostic tools in a CRO programme, but they're a starting point for a hypothesis, not a verdict on what to build. Used alongside analytics and a small amount of qualitative digging, they consistently surface the kind of small, specific friction points that a general audit would miss.</p>
+
+        <h2>How often to check them. <em>A cadence, not a one-off.</em></h2>
+
+        <p>A single heatmap read at the start of a project is useful, but the real value comes from checking it again after every meaningful change: a new headline, a repositioned CTA, a redesigned pricing table. Set a simple rule for your highest-traffic pages, review the heatmap monthly or after each significant edit, whichever comes first, and keep a short log of what you expected to see versus what actually showed up. Over a few months, that log becomes more useful than any single heatmap, because it starts to reveal which of your assumptions about visitor behaviour are consistently wrong.</p>
+
+        <p>The pages worth this level of attention are the ones carrying the most traffic and the most commercial weight: the homepage, the primary pricing or services page, and whichever landing page receives paid traffic. Lower-traffic pages rarely accumulate enough sessions to justify frequent review, and the time is better spent elsewhere until that changes.</p>
+
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details>
+          <summary>What is a heatmap in CRO?</summary>
+          <p>A heatmap is a visual overlay of a webpage showing where visitors clicked, moved their cursor or stopped scrolling, aggregated across many sessions. Warm colours mark high activity, cool colours mark low. In conversion rate optimisation, heatmaps turn anonymous traffic into a picture of attention, useful for spotting where people get stuck or ignore something you assumed they would see.</p>
+        </details>
+        <details>
+          <summary>How many sessions do I need before a heatmap is reliable?</summary>
+          <p>Aim for at least 1,000 sessions on the page before drawing conclusions, and more for pages with lower traffic or subtle layout differences. Below a few hundred sessions, a heatmap mostly reflects a handful of individuals rather than a genuine pattern, and any change you make on the strength of it is a guess dressed up as data.</p>
+        </details>
+        <details>
+          <summary>Are Microsoft Clarity and Hotjar heatmaps accurate?</summary>
+          <p>Both capture real click, move and scroll data from live visitors rather than estimating it, so the underlying data is accurate. What varies is sample size, segmentation options and how the tool renders overlapping activity on long or dynamic pages. Microsoft Clarity has been free since its public release in October 2020 and covers the core three map types; Hotjar adds more filtering and survey tools at a cost.</p>
+        </details>
+        <details>
+          <summary>Can heatmaps replace A/B testing?</summary>
+          <p>No. A heatmap tells you where attention went on the page as it exists today; it cannot tell you whether a different layout would convert better. Use heatmaps and session recordings to generate a hypothesis about what is going wrong, then confirm the fix with an A/B test rather than shipping the change on the strength of the heatmap alone.</p>
+        </details>
+        <details>
+          <summary>Why do people click things that aren't links?</summary>
+          <p>This is called a rage click or false-affordance click, and it happens when an element looks interactive, bold text, an underline, an icon, a coloured box, but does nothing when clicked. It is one of the most useful heatmap findings because it points directly at a design element that is actively confusing visitors, at no cost to fix.</p>
+        </details>
+      </section>
+
+      <div class="article-cta">
+        <h2>Know where visitors are looking. <em>Now let's fix what they're finding.</em></h2>
+        <p>Heatmaps are a diagnostic, not a strategy. If you want a structured programme that turns findings like these into tested, measurable lift, get in touch to talk through what that would look like for your site.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a></li>
+          <li><a href="/services/conversion-rate-optimisation-services.html">CRO services</a></li>
+          <li><a href="/blog/how-to-calculate-conversion-rate.html">How to calculate conversion rate</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

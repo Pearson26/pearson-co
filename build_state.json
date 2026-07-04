@@ -1,10 +1,10 @@
 {
   "site": "The Pearson Co.",
   "repo": "Pearson26/pearson-co",
-  "next_index": 374,
-  "posts_published": 60,
+  "next_index": 377,
+  "posts_published": 63,
   "total_planned": 1085,
-  "last_published_slug": "when-to-hire-a-growth-consultant",
-  "last_updated": "2026-07-03T23:11:20Z",
-  "notes": "60 posts live: 15 cornerstone pillar pages (seq 1-15) + 24 money/authority pages (seq 16-39) + 3 authority posts published 2026-06-27 (seq 145, 201, 355) + 3 authority posts published 2026-06-28 (seq 356, 357, 358) + 3 authority posts published 2026-06-29 (seq 359, 360, 361) + 3 authority posts published 2026-07-01 (seq 362, 363, 364) + 3 authority posts published 2026-07-01 (seq 365, 366, 367) + 3 authority posts published 2026-07-02 (seq 368, 369, 370) + 3 authority posts published 2026-07-03 (seq 371, 372, 373: crm-implementation-timeline, fractional-sales-models, when-to-hire-a-growth-consultant). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Routine resumes at next_index=374. Note: verify_state.py sets next_index to the first sequential gap (currently seq 40) but publication is non-sequential by design; next_index here is the Strategist intent pointer, always set manually after --write to (highest published seq + 1). Fixed this run: crm-implementation-timeline, fractional-sales-models and when-to-hire-a-growth-consultant, previously flagged as orphans by link_graph.py, now have inbound links added to crm-implementation-project-plan, fractional-revenue-leadership and founder-stage-growth respectively; link_graph.py reports the full graph clean. Article dates set to the actual run date (3 July 2026); live-page Slack links posted one per line using Slack's <url|label> syntax so they paste clean without bleeding into the next word."
+  "last_published_slug": "business-process-automation",
+  "last_updated": "2026-07-04T23:13:02Z",
+  "notes": "63 posts live: 15 cornerstone pillar pages (seq 1-15) + 24 money/authority pages (seq 16-39) + 24 authority posts published 2026-06-27 through 2026-07-03 (seq 145-373, see prior run notes) + 3 authority posts published 2026-07-04 (seq 374-376: mapping-the-buyer-journey, market-sizing, business-process-automation). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Note: verify_state.py sets next_index to the first sequential gap (currently seq 40) but publication is non-sequential by design; next_index here is the Strategist intent pointer, always set manually after --write to (highest published seq + 1). Routine resumes at next_index=377."
 }

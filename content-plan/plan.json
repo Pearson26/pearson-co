@@ -36227,7 +36227,7 @@
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 5
   },
@@ -39838,7 +39838,7 @@
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 5
   },
@@ -43369,7 +43369,7 @@
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 5
   },

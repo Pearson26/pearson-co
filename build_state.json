@@ -1,10 +1,10 @@
 {
   "site": "The Pearson Co.",
   "repo": "Pearson26/pearson-co",
-  "next_index": 380,
-  "posts_published": 66,
+  "next_index": 383,
+  "posts_published": 69,
   "total_planned": 1085,
-  "last_published_slug": "best-crm-for-financial-advisors",
-  "last_updated": "2026-07-05T23:14:58Z",
-  "notes": "66 posts live: 15 cornerstone pillar pages (seq 1-15) + 24 money/authority pages (seq 16-39) + 24 authority posts published 2026-06-27 through 2026-07-03 (seq 145-373) + 3 authority posts published 2026-07-04 (seq 374-376: mapping-the-buyer-journey, market-sizing, business-process-automation) + 3 authority posts published 2026-07-05 (seq 377-379: sales-automation-tools, leading-vs-lagging-indicators, best-crm-for-financial-advisors). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Note: verify_state.py sets next_index to the first sequential gap (currently seq 40) but publication is non-sequential by design; next_index here is the Strategist intent pointer, always set manually after --write to (highest published seq + 1). Routine resumes at next_index=380."
+  "last_published_slug": "sales-playbook",
+  "last_updated": "2026-07-06T23:15:07Z",
+  "notes": "69 posts live: 15 cornerstone pillar pages (seq 1-15) + 24 money/authority pages (seq 16-39) + 24 authority posts published 2026-06-27 through 2026-07-03 (seq 145-373) + 3 authority posts published 2026-07-04 (seq 374-376: mapping-the-buyer-journey, market-sizing, business-process-automation) + 3 authority posts published 2026-07-05 (seq 377-379: sales-automation-tools, leading-vs-lagging-indicators, best-crm-for-financial-advisors) + 3 authority posts published 2026-07-06 (seq 380-382: crm-adoption-plan, sales-pipeline-review, sales-playbook). Netlify git deploy connected; GA4 (G-3XWNSR5VHF) live; sitemap https://thepearsonco.com/sitemap.xml. Note: verify_state.py sets next_index to the first sequential gap (currently seq 40) but publication is non-sequential by design; next_index here is the Strategist intent pointer, always set manually after --write to (highest published seq + 1). Routine resumes at next_index=383."
 }

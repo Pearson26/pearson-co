@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A Dynamics 365 CRM implementation guide | The Pearson Co.</title>
+  <meta name="description" content="A Dynamics 365 CRM implementation guide: scoping, data migration, configuration, testing and go-live, with a worked example and the mistakes that cause rework.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/dynamics-365-implementation-guide.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="A Dynamics 365 CRM implementation guide | The Pearson Co.">
+  <meta property="og:description" content="A Dynamics 365 CRM implementation guide: scoping, data migration, configuration, testing and go-live, with a worked example and the mistakes that cause rework.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/dynamics-365-implementation-guide.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/dynamics-365-implementation-guide.html#article",
+      "headline": "A Dynamics 365 CRM implementation guide, without the rework.",
+      "description": "A Dynamics 365 CRM implementation guide: scoping, data migration, configuration, testing and go-live, with a worked example and the mistakes that cause rework.",
+      "datePublished": "2026-07-21",
+      "dateModified": "2026-07-21",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/dynamics-365-implementation-guide.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/dynamics-365-implementation-guide.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/dynamics-365-implementation-guide.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "A Dynamics 365 CRM implementation guide", "item": "https://thepearsonco.com/blog/dynamics-365-implementation-guide.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/dynamics-365-implementation-guide.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long does a Dynamics 365 CRM implementation take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a founder-led or mid-market team with one main sales process and a moderate amount of legacy data, three to five months is a realistic range: roughly a month for scoping and licensing, six to eight weeks for data migration and configuration, and a month of testing and phased go-live. Multiple business units, heavy customisation or several integrations extend that timeline."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a Microsoft partner to implement Dynamics 365?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not always. A small team running Dynamics 365 Sales with minimal customisation can often self-configure using Microsoft's own setup guidance. A partner or consultant earns their fee once there are multiple business units, legacy data across several systems to migrate, custom entities or workflows, or integrations with finance and operations tools that need proper testing before go-live."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the biggest hidden cost in a Dynamics 365 implementation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Data migration and user adoption, not licensing. Teams that budget carefully for per-user licence costs often underestimate the time needed to clean, deduplicate and map legacy data, and the training and change management required to get a sales team actually using the new system rather than reverting to spreadsheets after go-live."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Dynamics 365 integrate with other business systems?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Dynamics 365 is built on the Power Platform, which gives it native connectors to Microsoft 365, Power BI and a wide range of finance, marketing and support tools, plus custom connectors for bespoke systems. Integration scope should be agreed and tested during implementation, not treated as an afterthought once the core CRM is already live."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I migrate all historical data into Dynamics 365?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually not all of it, and not on day one. Bring across active accounts, contacts and open opportunities first, since the sales team needs those to work from immediately. Historical closed-lost records and old activity logs can follow in a second, lower-priority migration pass once the live system is stable and trusted."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://thepearsonco.com/blog/dynamics-365-implementation-guide.html#howto",
+      "name": "How to run a Dynamics 365 CRM implementation",
+      "description": "Implement Dynamics 365 CRM by scoping the project and licensing, planning and cleaning data for migration, configuring entities and security roles, building and testing integrations, then training users through a phased go-live.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Scope the implementation and choose your licensing",
+          "text": "Confirm which sales, customer service or field operations modules the business genuinely needs, and choose the Dynamics 365 licence tier that matches, rather than licensing every module up front on the assumption the team might grow into it."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Plan data migration and clean your source data",
+          "text": "Audit every system the CRM will replace, deduplicate and standardise accounts and contacts before migration, and agree a field mapping between the old system and Dynamics 365 entities before any data moves."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Configure entities, pipelines and security roles",
+          "text": "Build sales stages and opportunity pipelines around how the team actually sells, set up business units and security roles to control visibility, and trim default fields down to what the business will genuinely use."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Build integrations and test thoroughly",
+          "text": "Connect Outlook, Power BI and any finance or marketing systems the business depends on, then run a full test pass covering data integrity, workflow automation and every integration before any user sees the system live."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Train users and run a phased go-live",
+          "text": "Train the sales team on the workflows that affect their day-to-day work, not just the interface, and roll the system out to one team or region first before opening it to the whole business."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "name": "Review and stabilise after go-live",
+          "text": "Fix the issues the phased rollout surfaces, monitor adoption for the first two full sales cycles, and schedule a formal review at ninety days to confirm the configuration still matches how the business actually sells."
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>A Dynamics 365 CRM implementation guide</span></nav>
+      <p class="article-eyebrow">CRM implementation &amp; selection</p>
+      <h1>A Dynamics 365 CRM implementation guide, <em>without the rework.</em></h1>
+      <p class="article-byline"><b>Lauren Pearson</b><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>21 July 2026<span class="dot"></span>7 min read</p>
+
+      <div class="answer-box">A Dynamics 365 CRM implementation runs through five stages: scoping and licensing, data migration, configuration, integration and testing, then a phased, supervised go-live. Most of the rework teams face later traces back to under-planned data migration or skipped user adoption support, not to the platform itself.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>Sequence beats speed.</em></h2>
+
+        <p>A Dynamics 365 CRM implementation is not technically difficult on its own; Microsoft has kept the platform stable and well documented, and was named a Leader in Gartner's Magic Quadrant for Sales Force Automation Platforms for the fifteenth consecutive year in its July 2025 recognition. What causes rework three to six months after go-live is almost always sequencing, not the software: migrating data before the pipeline is designed, skipping user adoption training in favour of a technical cutover, or under-scoping the licensing tier against what the team will actually use.</p>
+
+        <p>Dynamics 365 sits on Microsoft's Power Platform, which means a CRM implementation here also means deciding, up front, how deep the connection to Outlook, Power BI and any finance or operations systems needs to go. Businesses that treat the CRM as a standalone system and bolt on integrations after go-live tend to redo that integration work within the first year, once the sales team asks for reporting or workflows the initial scope never covered.</p>
+
+        <p>That platform choice also explains why a Dynamics 365 implementation tends to suit certain teams better than others. A business already running Microsoft 365 for email and documents gets a genuinely smoother rollout, since single sign-on, calendar sync and document storage are largely already in place, whereas a team on a different productivity suite will need to plan for that connection work as part of the timeline rather than assuming it happens automatically.</p>
+
+        <h2>Step by step. <em>Six stages, in this order.</em></h2>
+
+        <p><strong>1. Scope the implementation and choose your licensing.</strong> Confirm which modules the business needs now, Sales, Customer Service, Field Service or a combination, and match the licence tier to that scope. Dynamics 365's per-module licensing means over-licensing for modules a team will not touch in its first year is a genuinely common way to overspend; under-licensing a module the sales team needs from day one is the opposite mistake, and both are avoidable with an honest scoping conversation before any contract is signed.</p>
+
+        <p>Licence tiers themselves are worth understanding before that conversation happens. Dynamics 365 licenses each module separately, Sales, Customer Service and Field Service each carry their own per-user cost, and a business can mix and match rather than buying a single bundled suite. A firm that only needs Sales for its revenue team and a light Customer Service licence for a small support function should buy exactly that combination, not the full suite a supplier's default proposal often defaults to.</p>
+
+        <p><strong>2. Plan data migration and clean your source data before it moves.</strong> Audit every system the new CRM will replace, whether that is a legacy CRM, a set of spreadsheets or both. Deduplicate accounts and contacts and standardise formatting before migration, and agree the field mapping between old system and new entities in writing before data moves. This single step is where the majority of implementation delays actually originate, not in the Dynamics 365 configuration itself.</p>
+
+        <p><strong>3. Configure entities, pipelines and security roles.</strong> Design sales stages that reflect how the team genuinely sells, not a generic template. Set up business units and security roles so visibility matches the organisation's actual reporting structure, particularly important for businesses with more than one sales team or region. Trim the default field set on Leads, Contacts, Accounts and Opportunities down to what the business will use for real decisions; Dynamics 365 ships with considerably more fields than most teams need.</p>
+
+        <p><strong>4. Build integrations and test thoroughly.</strong> Connect Outlook and calendar so activity capture does not depend on reps remembering to log calls manually, and wire up Power BI or any finance and marketing systems the business relies on. Run a full test pass, data integrity, workflow automation, every integration point, before a single live user touches the system. Testing is the stage most likely to be compressed under deadline pressure, and it is the stage where a compressed timeline causes the most expensive problems later.</p>
+
+        <p><strong>5. Train users and run a phased go-live.</strong> Train the sales team on the workflows that change their actual day-to-day work, not a generic tour of the interface. Roll the system out to one team, region or business unit first, gather real feedback, then extend to the rest of the business once the configuration has proven itself under live use rather than in a demo environment.</p>
+
+        <p><strong>6. Review and stabilise after go-live.</strong> Fix what the phased rollout surfaces before extending further, monitor genuine adoption, not just login counts, for the first two full sales cycles, and schedule a formal ninety-day review to confirm the configuration still matches how the business is actually selling once the novelty of the new system has worn off.</p>
+
+        <h2>A worked example. <em>A 30-person UK professional services firm.</em></h2>
+
+        <p>A UK-based professional services firm running client relationships across a shared inbox and an ageing on-premise CRM decided to move to Dynamics 365 Sales after losing track of a renewal date that cost the business a six-figure contract. Scoping took three weeks: the firm needed Sales and a light Customer Service module for its account management team, nothing more, which kept licensing to a single mid-tier plan rather than the enterprise bundle the incumbent supplier had originally proposed.</p>
+
+        <p>Data migration proved the longest stage, as it usually does. The firm's client list existed in three places: the old CRM, a shared spreadsheet the account managers actually trusted more, and years of email threads nobody had ever consolidated. Cleaning and deduplicating that data took five weeks, considerably longer than the configuration work that followed, and surfaced 140 duplicate contact records the team had not known existed. Pipeline stages were redesigned around the firm's actual four-stage sales process, Introduction, Proposal, Contract Review, Signed, rather than the incumbent supplier's generic six-stage template.</p>
+
+        <p>The firm rolled Dynamics 365 out to its five-person new business team first, ran it for three weeks, then extended it to the wider twelve-person account management team once two configuration issues the pilot surfaced, a missing renewal-date reminder workflow and an overly restrictive security role, were fixed. The full implementation, from scoping to full rollout, took four months, in line with the typical three-to-five-month range for a project of this size, and the firm credits the phased rollout with catching problems while only five people were affected rather than seventeen.</p>
+
+        <h2>Common mistakes. <em>Where Dynamics 365 projects actually go wrong.</em></h2>
+
+        <p>The most expensive mistake is treating data migration as a technical afterthought rather than a planning-stage priority. Businesses that schedule migration for "whenever the configuration is ready" rather than starting the data audit and cleansing in parallel with scoping routinely add four to six weeks to their timeline once messy legacy data forces a pause partway through go-live preparation.</p>
+
+        <p>A close second is under-investing in user adoption. A technically flawless configuration that the sales team does not trust or understand gets quietly abandoned in favour of the spreadsheet habits it was meant to replace; the training investment needs to cover why a workflow exists, not just which button to click, or adoption drops the moment the implementation team moves on to the next project.</p>
+
+        <p>Over-customisation is a subtler trap. Adding every custom field, workflow and business rule a stakeholder requests during scoping produces a system so heavily modified that routine Microsoft updates become risky to apply, and future changes require specialist help for even small adjustments. The fix is the same one that applies to every CRM platform: launch lean, and add complexity only once real use demonstrates it is genuinely needed.</p>
+
+        <p>Finally, unclear ownership between IT and the business side causes delays that have nothing to do with the software. When IT owns the technical build but no one on the business side owns the pipeline design and adoption plan, decisions stall waiting for someone with the authority to make them. Naming a single business owner for the implementation, someone who can make pipeline and process calls without escalating every decision, keeps a Dynamics 365 CRM implementation moving at the pace the plan assumes rather than the pace committee decisions actually allow.</p>
+
+        <p>A less obvious mistake surfaces well after go-live: treating the ninety-day review as optional once the system appears to be working. A configuration built around the sales process as it existed at go-live drifts out of step within six to twelve months as the team grows, a new product line launches, or the sales motion shifts. A short, scheduled review, checking whether pipeline stages, required fields and workflow rules still reflect how the business actually sells, catches that drift while it is still a small fix rather than a second implementation project in disguise.</p>
+
+        <p>Whichever path into Dynamics 365 a business is taking, whether that is a first CRM, a move up from spreadsheets, or a migration off an ageing legacy system, the sequence holds: scope and licence first, data second, configuration third, integration and testing fourth, training and phased go-live fifth, review last. For a comparison against another widely used platform's setup process, see our <a href="/blog/how-to-set-up-zoho-crm.html">Zoho CRM setup guide</a>, and for what a realistic project timeline looks like across CRM platforms generally, see our <a href="/blog/crm-implementation-timeline.html">CRM implementation timeline</a> guide.</p>
+
+        <p>If your team is scoping a Dynamics 365 implementation and wants an outside view on licensing, data migration effort or rollout sequencing before committing, <a href="/services/crm-implementation-consultant.html">talk to us about CRM implementation consulting</a> before the contract is signed, not after.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details>
+          <summary>How long does a Dynamics 365 CRM implementation take?</summary>
+          <p>For a founder-led or mid-market team with one main sales process and a moderate amount of legacy data, three to five months is a realistic range: roughly a month for scoping and licensing, six to eight weeks for data migration and configuration, and a month of testing and phased go-live. Multiple business units, heavy customisation or several integrations extend that timeline.</p>
+        </details>
+        <details>
+          <summary>Do I need a Microsoft partner to implement Dynamics 365?</summary>
+          <p>Not always. A small team running Dynamics 365 Sales with minimal customisation can often self-configure using Microsoft's own setup guidance. A partner or consultant earns their fee once there are multiple business units, legacy data across several systems to migrate, custom entities or workflows, or integrations with finance and operations tools that need proper testing before go-live.</p>
+        </details>
+        <details>
+          <summary>What is the biggest hidden cost in a Dynamics 365 implementation?</summary>
+          <p>Data migration and user adoption, not licensing. Teams that budget carefully for per-user licence costs often underestimate the time needed to clean, deduplicate and map legacy data, and the training and change management required to get a sales team actually using the new system rather than reverting to spreadsheets after go-live.</p>
+        </details>
+        <details>
+          <summary>Can Dynamics 365 integrate with other business systems?</summary>
+          <p>Yes. Dynamics 365 is built on the Power Platform, which gives it native connectors to Microsoft 365, Power BI and a wide range of finance, marketing and support tools, plus custom connectors for bespoke systems. Integration scope should be agreed and tested during implementation, not treated as an afterthought once the core CRM is already live.</p>
+        </details>
+        <details>
+          <summary>Should I migrate all historical data into Dynamics 365?</summary>
+          <p>Usually not all of it, and not on day one. Bring across active accounts, contacts and open opportunities first, since the sales team needs those to work from immediately. Historical closed-lost records and old activity logs can follow in a second, lower-priority migration pass once the live system is stable and trusted.</p>
+        </details>
+      </section>
+
+      <div class="article-cta">
+        <h2>Scoping a Dynamics 365 implementation? <em>Let's get the sequence right first.</em></h2>
+        <p>Get in touch and we'll review your licensing plan, data migration scope and rollout sequencing before you commit, so the project runs to the timeline you actually planned for.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/crm-implementation.html">CRM implementation and selection</a></li>
+          <li><a href="/services/crm-implementation-consultant.html">CRM implementation consulting</a></li>
+          <li><a href="/blog/how-to-set-up-zoho-crm.html">How to set up Zoho CRM</a></li>
+          <li><a href="/blog/crm-implementation-timeline.html">CRM implementation timeline: what to expect</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

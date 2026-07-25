@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Testing a CRM before launch | The Pearson Co.</title>
+  <meta name="description" content="Testing a CRM before launch: what a proper testing phase covers, what good looks like, and the pitfalls that turn a go-live weekend into a go-live month.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/crm-testing-before-launch.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Testing a CRM before launch | The Pearson Co.">
+  <meta property="og:description" content="Testing a CRM before launch: what a proper testing phase covers, what good looks like, and the pitfalls that turn a go-live weekend into a go-live month.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/crm-testing-before-launch.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/crm-testing-before-launch.html#article",
+      "headline": "Testing a CRM before launch, and why it needs its own phase, not a final check.",
+      "description": "Testing a CRM before launch: what a proper testing phase covers, what good looks like, and the pitfalls that turn a go-live weekend into a go-live month.",
+      "datePublished": "2026-07-25",
+      "dateModified": "2026-07-25",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/crm-testing-before-launch.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/crm-testing-before-launch.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/crm-testing-before-launch.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "Testing a CRM before launch", "item": "https://thepearsonco.com/blog/crm-testing-before-launch.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/crm-testing-before-launch.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long should CRM testing take before go-live?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a UK SME rollout, budget one to three weeks depending on how many integrations and user roles need checking, run in parallel with final configuration rather than squeezed in afterwards. A single afternoon of clicking around is not testing, it is a demo, and it will not catch the problems that only show up under real data and real roles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is user acceptance testing (UAT), exactly?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "UAT is the phase where real or representative users, not the project team, work through their actual daily tasks inside the configured CRM before it goes live, to confirm it does what the business actually needs rather than just what was specified on paper. It sits after configuration and data migration, and before training and go-live."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should testing happen in a sandbox or the live system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A sandbox or staging environment, always. Testing in the live system risks corrupting real customer data with test entries, and gives users their first, most memorable impression of a CRM that is still being poked at and adjusted, which does lasting damage to how much they trust it once it does go live."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who should be involved in testing, beyond the project team?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At least one real user from every role the CRM will serve: a frontline sales rep, someone in finance who pulls reports, and whoever handles customer service or renewals, each testing their own actual tasks under their own login and permission set, not an administrator account standing in for all of them."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if testing finds a serious problem close to the go-live date?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Move the date. A serious data or workflow problem found in testing is a testing success, not a testing failure, and going live with it unresolved simply moves the same problem into production where it is harder and more expensive to fix. A short, well-communicated delay costs far less than a broken go-live week."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>Testing a CRM before launch</span></nav>
+      <p class="article-eyebrow">CRM implementation &amp; selection</p>
+      <h1>Testing a CRM before launch. <em>The step most timelines skip.</em></h1>
+      <p class="article-byline"><b>Lauren Pearson</b><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>25 July 2026<span class="dot"></span>8 min read</p>
+
+      <div class="answer-box">CRM testing before launch means running real business scenarios through the system before anyone relies on it: import a full data sample, walk every user role through their actual daily tasks, and confirm integrations and automations fire correctly. Skipping this step is why so many go-live weekends turn into go-live months.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>Testing is a phase, not a final check.</em></h2>
+
+        <p>Testing a CRM before launch does not mean clicking around the new system for an afternoon once the build looks finished. It means running the business through it: an operations manager processing a real order, a sales rep logging a real call, a finance person pulling the report they need at month end, all inside the new system before go-live day, not after it. CRM testing done properly is a phase with its own timeline and budget, not a box ticked in the final week.</p>
+
+        <p>In the software world this phase has a name, user acceptance testing, usually shortened to UAT. It sits after the CRM has been configured and data has been migrated into a sandbox environment, and before anyone outside the project team is allowed to touch the live system. Skipping straight from configuration to go-live is the single most avoidable reason a CRM rollout looks finished on paper and falls over in its first real week.</p>
+
+        <h2>How it works in practice. <em>What actually gets tested.</em></h2>
+
+        <p>A proper testing phase covers four areas, each with a different failure mode if it is skipped. Treat each as its own mini-project inside the wider rollout, with a named person responsible for running it and a clear pass or fail outcome, rather than one general "testing week" with no owner for any specific part of it.</p>
+
+        <table>
+          <thead>
+            <tr><th>Area</th><th>What is tested</th><th>What normally breaks</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Data migration</td><td>A representative sample of migrated records, not just the newest ones</td><td>Old records lose custom field values or duplicate on import</td></tr>
+            <tr><td>Role-based workflows</td><td>Each user role walks through a real task from their own daily work</td><td>Admin tests everything but nobody tests it as a junior sales rep actually would</td></tr>
+            <tr><td>Integrations</td><td>Every connected tool, email, calendar, invoicing, marketing automation, fires correctly both ways</td><td>An integration that worked in isolated testing breaks under real data volume</td></tr>
+            <tr><td>Automations and permissions</td><td>Workflow rules, lead routing and access permissions behave as designed for every role</td><td>A permission set that is too open, or too restrictive, only surfaces once a real user hits it</td></tr>
+          </tbody>
+        </table>
+
+        <p>Data migration testing needs a genuine sample, not just the newest or cleanest records. Pull twenty or thirty real records spanning different ages, different sales stages and different levels of completeness, and check every field lands where it should: no duplicated contacts, no stripped-out notes, no dates that quietly shifted format. The failures that matter almost always live in older, messier records, precisely the ones a rushed test skips.</p>
+
+        <p>Role-based testing means the finance person tests it as the finance person, not the project lead pretending to be one. A sales rep in the test group should log an actual call, move a real deal to the next stage and pull up the information they would need mid-call, using their own login and their own permission set rather than an administrator account that can see and do everything. Problems that only affect one role are exactly the ones an admin-only test never finds.</p>
+
+        <p>Integration testing is where volume matters more than variety. A connection to email, calendar or invoicing software that works cleanly with five test records can behave completely differently once a few hundred real contacts are flowing through it, particularly around duplicate matching and sync timing. Test with a data volume closer to what the business will actually run, not the smallest sample that proves the connection technically works. For where this testing phase sits inside the wider project, see <a href="/services/crm-implementation.html">our CRM implementation approach</a>, and <a href="/blog/crm-implementation-timeline.html">a realistic CRM implementation timeline</a> covers how much time a proper testing window typically needs.</p>
+
+        <p>Good test scripts cover both the path that should work and the ones that should not. A UK-based operations team testing a new sales workflow should confirm that a deal moves cleanly from proposal to closed-won, but also that the system behaves sensibly when a required field is left blank, when a deal is moved backwards a stage, or when two team members edit the same record at once. Negative-path testing rarely gets the same attention as the happy path, largely because it takes longer to think through, but it is where permission errors and workflow rules most often turn out to be misconfigured.</p>
+
+        <p>For any UK business, testing is also the point to confirm data protection practice is actually built into the system, not just written into a policy document. That means checking that access to personal data is genuinely restricted to the roles that need it, that a data subject access or deletion request can be fulfilled inside the CRM without a manual workaround, and that consent fields carried over from the old system, marketing or communication preferences in particular, migrated with their original values rather than defaulting to a blanket opt-in. These are the checks a rushed go-live is most likely to skip, and the ones a UK regulator or a customer complaint will surface first if they were skipped.</p>
+
+        <h2>What good looks like. <em>Signs the system is actually ready.</em></h2>
+
+        <p>A CRM that has been tested properly looks unremarkable at go-live, which is exactly the point. Users log in and find their own work already set up correctly, because someone tested it as them beforehand. Reports pull the right numbers on day one, because someone checked a real month's data against them during testing, not just a demo record.</p>
+
+        <p>Gartner has long put CRM initiative failure rates at somewhere between 30 and 70 per cent, with poor data quality and weak user adoption cited as the most common causes, both of which a proper testing phase catches before they become expensive to fix. Testing will not rescue a project with a genuinely wrong platform choice or no executive sponsor behind it, but it consistently catches the data and workflow problems that turn an otherwise sound rollout into a rough one, as covered in more depth in <a href="/blog/crm-implementation-project-plan.html">a CRM implementation project plan</a>.</p>
+
+        <p>A second sign: the project team is not the busiest people in the room during week one after go-live. If testing worked, the questions coming in during the first fortnight are the normal small ones, where does this button live, how do I filter this view, not fundamental ones about whether the data is even right.</p>
+
+        <h2>Pitfalls to avoid. <em>Where testing gets skipped or faked.</em></h2>
+
+        <p>The most common shortcut is testing with clean, fake data instead of a real sample. A demo record entered specifically to pass the test tells you nothing about how the system handles the messy, incomplete, decade-old records that make up most real databases. If the test data was created purely for the test, the test is not really testing anything.</p>
+
+        <p>The second is compressing testing into the same week as training, so users are learning the new system and evaluating whether it works at the same time, with neither getting proper attention. Testing needs to finish, and any issues it finds need to be fixed, before training starts, otherwise the training itself teaches people to work around problems that should have been resolved first.</p>
+
+        <p>The third is skipping a formal sign-off. Testing that ends with a verbal "looks fine" from whoever happened to be in the room leaves no record of what was actually checked, and no clear answer later about whether something was tested at all if it breaks. A short, named sign-off, this role tested these tasks on this date, against this data sample, protects the project and gives whoever owns the CRM afterwards a clear baseline to point back to.</p>
+
+        <p>The fourth is letting issues found in testing sit in an informal list rather than a proper log. A problem mentioned in passing during a testing session and never written down tends to resurface at go-live as a surprise, even though someone technically already found it weeks earlier. A simple shared log, what broke, who found it, who owns the fix, and whether it has been retested, turns testing from a one-off event into something the whole project team can actually see progress against.</p>
+
+        <p>It also helps to agree, before testing starts, exactly what would trigger a delay rather than deciding under pressure once a problem turns up. A missing integration that affects reporting but not day-to-day use might be an acceptable known issue to fix shortly after go-live; a data migration error that puts the wrong contact details against a live customer record is not. Deciding the threshold in advance, while everyone is calm, makes the decision far easier to hold to once a real deadline and a room full of stakeholders are pushing to go live regardless.</p>
+
+        <p>Build the testing window into the project plan from day one rather than treating it as a buffer to cut if the build overruns, since it is nearly always the buffer that gets cut first under time pressure, and the one whose absence shows up fastest once real users touch the system. <a href="/services/crm-implementation-services.html">Our CRM implementation service</a> treats testing as its own phase with named owners and sign-off, not an afternoon at the end of the build.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details>
+          <summary>How long should CRM testing take before go-live?</summary>
+          <p>For a UK SME rollout, budget one to three weeks depending on how many integrations and user roles need checking, run in parallel with final configuration rather than squeezed in afterwards. A single afternoon of clicking around is not testing, it is a demo, and it will not catch the problems that only show up under real data and real roles.</p>
+        </details>
+        <details>
+          <summary>What is user acceptance testing (UAT), exactly?</summary>
+          <p>UAT is the phase where real or representative users, not the project team, work through their actual daily tasks inside the configured CRM before it goes live, to confirm it does what the business actually needs rather than just what was specified on paper. It sits after configuration and data migration, and before training and go-live.</p>
+        </details>
+        <details>
+          <summary>Should testing happen in a sandbox or the live system?</summary>
+          <p>A sandbox or staging environment, always. Testing in the live system risks corrupting real customer data with test entries, and gives users their first, most memorable impression of a CRM that is still being poked at and adjusted, which does lasting damage to how much they trust it once it does go live.</p>
+        </details>
+        <details>
+          <summary>Who should be involved in testing, beyond the project team?</summary>
+          <p>At least one real user from every role the CRM will serve: a frontline sales rep, someone in finance who pulls reports, and whoever handles customer service or renewals, each testing their own actual tasks under their own login and permission set, not an administrator account standing in for all of them.</p>
+        </details>
+        <details>
+          <summary>What happens if testing finds a serious problem close to the go-live date?</summary>
+          <p>Move the date. A serious data or workflow problem found in testing is a testing success, not a testing failure, and going live with it unresolved simply moves the same problem into production where it is harder and more expensive to fix. A short, well-communicated delay costs far less than a broken go-live week.</p>
+        </details>
+      </section>
+
+      <div class="article-cta">
+        <h2>Not sure your CRM is actually ready to go live? <em>Let's find out before your users do.</em></h2>
+        <p>Get in touch and we'll help you build a proper testing phase into your rollout, with named owners and a clear sign-off before anyone relies on the system.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/crm-implementation.html">CRM implementation and selection</a></li>
+          <li><a href="/services/crm-implementation-services.html">CRM implementation services</a></li>
+          <li><a href="/blog/crm-implementation-timeline.html">A realistic CRM implementation timeline</a></li>
+          <li><a href="/blog/crm-implementation-project-plan.html">A CRM implementation project plan</a></li>
+          <li><a href="/blog/crm-adoption-metrics.html">CRM adoption metrics</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

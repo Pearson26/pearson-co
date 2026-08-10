@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A Sales Dashboard in Looker Studio | The Pearson Co.</title>
+  <meta name="description" content="How to build a sales dashboard in Looker Studio: connecting your CRM, picking the right panels, and avoiding the mistakes that break a team's trust in it.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/looker-studio-sales-dashboard.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="A Sales Dashboard in Looker Studio | The Pearson Co.">
+  <meta property="og:description" content="How to build a sales dashboard in Looker Studio: connecting your CRM, picking the right panels, and avoiding the mistakes that break a team's trust in it.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/looker-studio-sales-dashboard.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/looker-studio-sales-dashboard.html#article",
+      "headline": "A sales dashboard in Looker Studio: built to be trusted, not just to look good.",
+      "description": "How to build a sales dashboard in Looker Studio: connecting your CRM, the panels worth including, and the mistakes that make teams stop trusting it.",
+      "datePublished": "2026-08-10",
+      "dateModified": "2026-08-10",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": [
+          "https://www.linkedin.com/in/lpearsonn",
+          "https://www.instagram.com/thepearsonco.dxb"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/looker-studio-sales-dashboard.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/looker-studio-sales-dashboard.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/looker-studio-sales-dashboard.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "A sales dashboard in Looker Studio", "item": "https://thepearsonco.com/blog/looker-studio-sales-dashboard.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/looker-studio-sales-dashboard.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is Looker Studio good enough for a real sales dashboard?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, for most founder-led and mid-market teams. Looker Studio is Google's free reporting tool and connects to hundreds of data sources, including every major CRM either natively or through a connector. It will not match a dedicated revenue intelligence platform on advanced forecasting models, but for pipeline, win rate, forecast and activity reporting it does the job without a licence cost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I connect my CRM to Looker Studio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most CRMs connect one of three ways: a native Looker Studio connector built by Google or the CRM vendor, a third-party connector from the Looker Studio marketplace, or a scheduled export into Google Sheets or BigQuery that Looker Studio then reads. Sheets is the simplest starting point for a small team; BigQuery is worth setting up once the data volume or the number of blended sources grows."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What panels should a sales dashboard in Looker Studio include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Five cover most needs: pipeline by stage, a weighted forecast, win rate over time, average deal size and sales cycle length, and rep-level activity. Each panel should show its underlying formula somewhere on the page, so a viewer can see how a number was calculated rather than having to trust it blindly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does a Looker Studio dashboard sometimes show the wrong numbers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almost always because of a blend or filter set up incorrectly, not because Looker Studio itself is wrong. A blended data source that joins two tables on the wrong key, or a date filter left applied to a field that stores something other than the date it looks like, will produce numbers that look plausible and are silently off. Check the blend configuration and filter scope before assuming the underlying CRM data is at fault."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should a Looker Studio sales dashboard refresh?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Native connectors to most CRMs refresh on a schedule of 15 minutes to a few hours, which is fine for a dashboard used for coaching and forecasting conversations. Data pulled through Sheets refreshes only when the underlying sheet is updated, so a manually maintained sheet feeding the dashboard needs its own refresh schedule, ideally automated rather than left to whoever remembers."
+          }
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>A sales dashboard in Looker Studio</span></nav>
+      <p class="article-eyebrow">Sales reporting, dashboards &amp; forecasting</p>
+      <h1>A sales dashboard in Looker Studio. <em>Built to be trusted, not just to look good.</em></h1>
+      <p class="article-byline"><b><a href="/#about">Lauren Pearson</a></b><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>10 August 2026<span class="dot"></span>8 min read</p>
+
+      <div class="answer-box">A Looker Studio sales dashboard connects to your CRM through a native or third-party connector, or through a Sheets or BigQuery export, and reports pipeline, forecast, win rate and activity in one free, shareable report. The build itself takes an afternoon; the part worth taking seriously is getting the underlying data clean enough to trust before you wire it up.</div>
+
+      <div class="prose">
+        <p>I'm <a href="/#about">Lauren Pearson</a>, and Looker Studio comes up in almost every conversation I have with a founder who wants sales visibility but does not want to pay for a dedicated business intelligence platform to get it. It is Google's free reporting tool, formerly Data Studio, and it is genuinely capable enough to run a real sales dashboard on. This is the build I actually use with clients: how to connect the CRM, what to put on the page, and the specific mistakes that make a team quietly stop trusting a dashboard within a few weeks of it going live.</p>
+
+        <h2>The short answer. <em>Connect, blend, and show your working.</em></h2>
+
+        <p>A sales dashboard in Looker Studio is built in three stages: connect a data source (your CRM, directly or via an export), blend it with any second source you need (marketing spend, a headcount sheet), and lay out the panels so a viewer can see both the number and the calculation behind it. Looker Studio supports several hundred data sources through native and community-built connectors, so most CRMs, HubSpot, Salesforce, Pipedrive, Zoho, connect either directly or through a Google Sheets bridge that a scheduled export keeps current.</p>
+
+        <p>The build itself is not the hard part. A single pipeline-by-stage chart, a forecast number and a win-rate trend line can be live within an afternoon once the data source is connected. The part worth taking seriously, and the part most guides skip, is what happens in the weeks after launch, when someone spots a number that does not match what they remember from the CRM directly, and either investigates why or quietly stops opening the dashboard.</p>
+
+        <h2>How it works in practice. <em>The five panels worth building, in order.</em></h2>
+
+        <p>Build these five, in this order, rather than trying to replicate every report your CRM's native dashboard already shows. Each one answers a different question a sales leader actually asks in a pipeline review.</p>
+
+        <table>
+          <thead>
+            <tr><th>Panel</th><th>Question it answers</th><th>Data it needs</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Pipeline by stage</td><td>Where is the pipeline sitting right now, and is it moving?</td><td>Open deals, stage, value, days in stage</td></tr>
+            <tr><td>Weighted forecast</td><td>What will actually close this period?</td><td>Deal value multiplied by stage-based or historical win probability</td></tr>
+            <tr><td>Win rate over time</td><td>Is close performance improving or slipping?</td><td>Closed-won and closed-lost counts by month or quarter</td></tr>
+            <tr><td>Average deal size and cycle length</td><td>Are deals getting bigger or slower to close?</td><td>Closed-won value and the gap between created and closed dates</td></tr>
+            <tr><td>Rep-level activity</td><td>Is effort matching pipeline, or is one rep coasting on inherited accounts?</td><td>Calls, meetings and emails logged per rep, ideally from the CRM automation layer rather than manual notes</td></tr>
+          </tbody>
+        </table>
+
+        <p>Connect your CRM's opportunity or deal object as the primary data source for the first four panels. For rep-level activity, blend in the activity object, since it usually lives in a separate table with its own refresh cadence. Google's native connectors for most major CRMs, and the community connectors that cover the rest, refresh on a schedule of roughly 15 minutes to a few hours, which is current enough for coaching conversations and weekly forecast reviews without needing a live feed.</p>
+
+        <p>If your CRM is not directly supported, a scheduled export into Google Sheets is the practical bridge: a script or a native CRM export job writes a fresh sheet daily, and Looker Studio reads from that. It is the simplest option for a small team and it is where I tell most founder-led clients to start, moving to a BigQuery pipeline only once the data volume or the number of blended sources makes a spreadsheet unwieldy to maintain.</p>
+
+        <h2>Sharing and access. <em>The setting that gets missed most often.</em></h2>
+
+        <p>A Looker Studio report is shared the same way a Google Doc is, by adding people or a group at either view or edit level, and it is worth deciding that access model deliberately rather than defaulting to "anyone with the link." A sales dashboard usually needs three tiers: leadership with full visibility across every rep and territory, sales managers with visibility into their own team, and reps with visibility into their own pipeline only. Looker Studio supports this through data source-level filters tied to the viewer's email address, which is worth setting up before the first wide share rather than retrofitting it once a rep has already seen a colleague's numbers and asked why.</p>
+
+        <p>The other setting worth checking early is whether the underlying data connection uses the report owner's credentials or the viewer's own. Owner's-credentials sharing is simpler to set up and is the right choice for most small teams, but it means every viewer sees through the same access level as whoever built the report, so a dashboard intended for company-wide visibility should not be built under an account with restricted CRM access, or viewers will see less than the builder intended without any obvious error message telling them why.</p>
+
+        <h2>What good looks like. <em>Show the formula, not just the number.</em></h2>
+
+        <p>A dashboard earns trust the same way a good report does: by showing its working. Every panel should make it obvious, in a caption or a hover tooltip, exactly how the number was calculated, weighted forecast using which win-probability figures, average deal size across which date range. Without that, the first time a number surprises someone, they stop trusting the whole dashboard rather than just the one figure, because they have no way to tell whether the calculation or the underlying data is the problem.</p>
+
+        <p>This matters more than it sounds. Sales forecasting research from Xactly, drawn from pipeline data across its customer base, found only around 9% of companies forecast within 5% of actual revenue, and roughly 60% miss by more than 10%. Most of that gap is not a modelling problem, it is a visibility problem: the forecast lives in someone's head or a spreadsheet that gets updated inconsistently, and by the time a leadership team sees it, the number has already drifted from what the pipeline actually supports. A dashboard that is checked weekly rather than assembled manually once a quarter closes a meaningful part of that gap on its own.</p>
+
+        <p>I built one of these for a nine-person B2B services team whose weekly forecast meeting used to open with someone reading numbers off their own laptop, three slightly different versions of the same pipeline depending on who had last refreshed their export. We put the CRM's opportunity object behind a single Looker Studio report, shared as a link rather than a downloaded file, and made the weighted forecast panel the first thing anyone saw. The meeting shortened by roughly a third within a month, not because the forecast got more accurate overnight, but because the room stopped spending the first ten minutes agreeing on which number was even correct.</p>
+
+        <h2>Pitfalls to avoid. <em>Where dashboards quietly go wrong.</em></h2>
+
+        <p>The first and most common fault is a blended data source joined on the wrong key. Blending a deals table and an activity table on company name rather than a unique ID will silently merge two similarly named accounts, and the dashboard will look correct while being wrong in a way nobody notices until a specific number is checked against the CRM directly.</p>
+
+        <p>The second is a date filter left scoped to the wrong field. Looker Studio applies a report-level date range to whichever date field the chart is configured to use, and if that is set to "created date" on a panel meant to track "close date," the numbers will shift in a way that looks plausible but answers a different question than the one on the label. Always check which date field a filter is actually reading before trusting a trend line.</p>
+
+        <p>The third is building a beautiful dashboard nobody owns. A Looker Studio report connected through a manual Sheets export is only as current as the last person who ran the export, and if that job is not automated or assigned to someone by name, the dashboard quietly goes stale while still looking live, since nothing in the interface tells a viewer the underlying data stopped updating three weeks ago. Pair this build with a look at <a href="/blog/what-is-a-sales-dashboard.html">what a sales dashboard is actually for</a> if you are still deciding which metrics deserve a permanent place on the page before you start building panels.</p>
+
+        <p>The fourth is over-building before the underlying CRM data can support it. A Looker Studio report can only be as accurate as the fields it reads from, and a dashboard built on top of inconsistently updated stages or missing close dates will just make bad data look authoritative. If pipeline stages are not being updated reliably, that is worth fixing with <a href="/blog/data-entry-automation-crm.html">CRM data entry automation</a> before investing more time in the reporting layer sitting on top of it.</p>
+
+        <p>The fifth is designing the report for the builder's screen instead of the viewer's. A dashboard laid out with a dozen small charts crammed onto one page reads fine to the person who built it and knows what each one means, and reads as noise to a sales manager glancing at it between meetings. Cut the panel count to what someone can genuinely absorb in under a minute, and put the number that matters most, usually the weighted forecast against target, at the very top of the page rather than buried below the charts that took longest to build.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details>
+          <summary>Is Looker Studio good enough for a real sales dashboard?</summary>
+          <p>Yes, for most founder-led and mid-market teams. Looker Studio is Google's free reporting tool and connects to hundreds of data sources, including every major CRM either natively or through a connector. It will not match a dedicated revenue intelligence platform on advanced forecasting models, but for pipeline, win rate, forecast and activity reporting it does the job without a licence cost.</p>
+        </details>
+        <details>
+          <summary>How do I connect my CRM to Looker Studio?</summary>
+          <p>Most CRMs connect one of three ways: a native Looker Studio connector built by Google or the CRM vendor, a third-party connector from the Looker Studio marketplace, or a scheduled export into Google Sheets or BigQuery that Looker Studio then reads. Sheets is the simplest starting point for a small team; BigQuery is worth setting up once the data volume or the number of blended sources grows.</p>
+        </details>
+        <details>
+          <summary>What panels should a sales dashboard in Looker Studio include?</summary>
+          <p>Five cover most needs: pipeline by stage, a weighted forecast, win rate over time, average deal size and sales cycle length, and rep-level activity. Each panel should show its underlying formula somewhere on the page, so a viewer can see how a number was calculated rather than having to trust it blindly.</p>
+        </details>
+        <details>
+          <summary>Why does a Looker Studio dashboard sometimes show the wrong numbers?</summary>
+          <p>Almost always because of a blend or filter set up incorrectly, not because Looker Studio itself is wrong. A blended data source that joins two tables on the wrong key, or a date filter left applied to a field that stores something other than the date it looks like, will produce numbers that look plausible and are silently off. Check the blend configuration and filter scope before assuming the underlying CRM data is at fault.</p>
+        </details>
+        <details>
+          <summary>How often should a Looker Studio sales dashboard refresh?</summary>
+          <p>Native connectors to most CRMs refresh on a schedule of 15 minutes to a few hours, which is fine for a dashboard used for coaching and forecasting conversations. Data pulled through Sheets refreshes only when the underlying sheet is updated, so a manually maintained sheet feeding the dashboard needs its own refresh schedule, ideally automated rather than left to whoever remembers.</p>
+        </details>
+      </section>
+
+      <div class="article-cta">
+        <h2>Want a dashboard built around how your team actually sells? <em>Let's build it properly.</em></h2>
+        <p>Get in touch and we will map your CRM's data to the panels that matter, wire it up in Looker Studio or the tool that fits your stack, and make sure the numbers hold up the first time someone checks them against the source.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/sales-dashboards.html">Sales reporting and forecasting on a dashboard leadership can trust</a></li>
+          <li><a href="/blog/what-is-a-sales-dashboard.html">What is a sales dashboard?</a></li>
+          <li><a href="/blog/free-sales-dashboard-template.html">A free sales dashboard template</a></li>
+          <li><a href="/blog/data-entry-automation-crm.html">Automating CRM data entry</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

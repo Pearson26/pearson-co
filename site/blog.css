@@ -15,6 +15,10 @@
 .article-byline{display:flex;align-items:center;gap:14px;font-size:.8rem;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:26px;margin-bottom:36px}
 .article-byline b{color:var(--ink);font-weight:600}
 .article-byline .dot{width:4px;height:4px;border-radius:50%;background:var(--rose)}
+.article-byline a{color:inherit;text-decoration:none}
+.article-byline a:hover b{color:var(--plum)}
+.article-author-note{font-size:.85rem;color:var(--muted);margin:40px 0 0}
+.article-author-note a{color:var(--plum);font-weight:600}
 
 /* direct-answer block (snippet + AI overview target) */
 .answer-box{background:var(--cream);border-left:3px solid var(--plum);padding:22px 26px;margin:0 0 38px;font-size:1.05rem;line-height:1.6;color:var(--ink)}

@@ -62,10 +62,11 @@ function enableTracking() {
     loadScript('https://snap.licdn.com/li.lms-analytics/insight.min.js');
   }
 
-  if (tracking.clarityProjectId && !window.clarity) {
-    window.clarity = function clarity() { (window.clarity.q = window.clarity.q || []).push(arguments); };
-    loadScript(`https://www.clarity.ms/tag/${tracking.clarityProjectId}`);
-  }
+}
+
+if (tracking.clarityProjectId && !window.clarity) {
+  window.clarity = function clarity() { (window.clarity.q = window.clarity.q || []).push(arguments); };
+  loadScript(`https://www.clarity.ms/tag/${tracking.clarityProjectId}`);
 }
 
 function trackEvent(name, parameters = {}) {

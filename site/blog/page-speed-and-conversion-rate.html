@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page Speed and Conversion Rate: The Fix | The Pearson Co.</title>
+  <meta name="description" content="How page speed and conversion rate connect: the Core Web Vitals thresholds that matter, what to fix first, and a worked example of the lift from doing it.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/page-speed-and-conversion-rate.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Page Speed and Conversion Rate: The Fix | The Pearson Co.">
+  <meta property="og:description" content="How page speed and conversion rate connect: the Core Web Vitals thresholds that matter, what to fix first, and a worked example of the lift from doing it.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/page-speed-and-conversion-rate.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/page-speed-and-conversion-rate.html#article",
+      "headline": "Page speed and conversion rate: what to fix first, and what it is worth",
+      "description": "How page speed and conversion rate connect: the Core Web Vitals thresholds that matter, what to fix first, and a worked example of the lift from doing it.",
+      "datePublished": "2026-08-24",
+      "dateModified": "2026-08-24",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/page-speed-and-conversion-rate.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/page-speed-and-conversion-rate.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/page-speed-and-conversion-rate.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "Page speed and conversion rate", "item": "https://thepearsonco.com/blog/page-speed-and-conversion-rate.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/page-speed-and-conversion-rate.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How does page speed affect conversion rate?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Slower pages lose visitors before persuasion has a chance to work. Portent's analysis of over 100,000 landing pages found conversion rates fall by an average of 4.42 percent with each additional second of load time between zero and five seconds, meaning most of the damage happens in the first few seconds, not gradually across a slow page." }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a good Largest Contentful Paint score?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Google's Core Web Vitals thresholds class a Largest Contentful Paint, the time to render the biggest visible element, of 2.5 seconds or under as good, up to 4 seconds as needing improvement, and anything above 4 seconds as poor. LCP is usually the single biggest lever on a typical marketing or landing page." }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Interaction to Next Paint and why does it matter for conversion?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Interaction to Next Paint, or INP, measures how long a page takes to visibly respond after a visitor clicks, taps or types, and replaced First Input Delay as a Core Web Vital in March 2024. A form or button that lags on the first tap reads as broken to a visitor mid-conversion, and a poor INP score often points directly at that experience." }
+        },
+        {
+          "@type": "Question",
+          "name": "What usually causes the biggest page speed problems on a marketing site?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Unoptimised hero images, render-blocking JavaScript and CSS loaded before anything visible, and third-party scripts, chat widgets, tracking pixels, embedded video, that a team never audits after adding them. Any one of the three can push Largest Contentful Paint well past the four-second poor threshold on its own." }
+        },
+        {
+          "@type": "Question",
+          "name": "Do page speed fixes require a developer?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Some do, compressing and resizing images, deferring non-critical scripts, and setting explicit dimensions on images and embeds to prevent layout shift can often be done without a full rebuild. Larger fixes, like moving to a faster host or restructuring how a page loads its critical content, usually need developer time, but the highest-impact fixes are frequently the cheapest ones."}
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> → <a href="/blog/">Knowledge Hub</a> → <span>Page speed and conversion rate</span></nav>
+      <p class="article-eyebrow">Conversion &amp; funnel optimisation</p>
+      <h1>Page speed and conversion rate. <em>What to fix first, and what it is worth.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>24 August 2026<span class="dot"></span>8 min read</p>
+
+      <div class="answer-box">Page speed and conversion rate move together because a slow page loses visitors before persuasion gets a chance to work. Google's Core Web Vitals set the technical bar: Largest Contentful Paint under 2.5 seconds, Interaction to Next Paint under 200 milliseconds, and Cumulative Layout Shift under 0.1. Most sites lose the most ground on the first of the three.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>The first few seconds do most of the damage.</em></h2>
+        <p>Page speed and conversion rate are directly linked, and the relationship is front-loaded: the biggest losses happen in the first few seconds of load time, not spread evenly across a slow page. Portent's analysis of more than 100,000 landing pages found conversion rates fall by an average of 4.42 percent with each additional second of load time between zero and five seconds. A page that loads in one second is converting meaningfully better than the same page loading in four or five, and the gap widens fastest right at the start, which is also where most sites are weakest, on the very first render a visitor sees.</p>
+        <p>This is a narrower, more technical question than conversion rate optimisation generally. Our wider guide to <a href="/blog/conversion-rate-optimisation-strategies.html">conversion rate optimisation strategies</a> covers page speed as one factor among several, persuasion copy, social proof, form design and testing discipline. This piece stays entirely on speed: the specific metrics Google measures, what typically causes them to fail on a marketing or landing page, and what to fix first when the budget or the developer time is limited.</p>
+        <p>Speed is worth treating as its own workstream because, unlike most conversion levers, it does not require a testing programme to prove out. A page either loads inside Google's thresholds or it does not, and the fix, once diagnosed, is usually mechanical rather than a matter of opinion or ongoing experimentation.</p>
+
+        <h2>How it works in practice. <em>The three metrics, and what actually breaks them.</em></h2>
+        <p>Google's Core Web Vitals give page speed a specific, testable definition rather than a vague sense that a site "feels slow." Three metrics make up the set, and each one maps to a different kind of visitor frustration.</p>
+        <table>
+        <tr><th>Metric</th><th>What it measures</th><th>Good threshold</th></tr>
+        <tr><td>Largest Contentful Paint (LCP)</td><td>Time until the biggest visible element renders</td><td>2.5 seconds or under</td></tr>
+        <tr><td>Interaction to Next Paint (INP)</td><td>How quickly the page responds after a click or tap</td><td>200 milliseconds or under</td></tr>
+        <tr><td>Cumulative Layout Shift (CLS)</td><td>How much visible content jumps around as the page loads</td><td>0.1 or under</td></tr>
+        </table>
+        <p><b>Largest Contentful Paint</b> is usually the one worth fixing first, because it is the metric a visitor consciously experiences as "is this page loading." On a typical landing page, LCP fails for one of three reasons: an unoptimised hero image served at full resolution rather than resized and compressed for the device requesting it, render-blocking CSS or JavaScript loaded and executed before anything visible appears, or a slow server response time from cheap or oversold hosting. Any one of these three can push LCP well past the four-second poor threshold on its own, and pages frequently have more than one problem stacked together.</p>
+        <p><b>Interaction to Next Paint</b>, which replaced First Input Delay as a Core Web Vital in March 2024, measures how long the page takes to visibly respond once a visitor actually tries to use it, clicking a button, opening a menu, typing into a form field. A lagging response on the first genuine interaction reads as broken to someone mid-conversion, and poor INP on a landing page is disproportionately caused by heavy third-party scripts, chat widgets, tracking pixels, embedded video players, that a team added once and never audited again.</p>
+        <p><b>Cumulative Layout Shift</b> tracks how much content visibly jumps around as a page finishes loading, an image pushing text down after it appears, or a cookie banner shifting a call-to-action button just as someone was about to tap it. It is the least dramatic of the three metrics and the one most likely to directly cost a click, since a visitor aiming for a button that then moves either mis-taps or gives up.</p>
+
+        <h2>What good looks like. <em>A worked example.</em></h2>
+        <p>A UK B2B software client's primary demo-request landing page was scoring a Largest Contentful Paint of 4.8 seconds on mobile, comfortably in Google's poor range, and the page's own analytics showed a bounce rate on mobile traffic that was noticeably higher than desktop, on the same page with the same offer. Diagnosis found two compounding causes: a full-resolution hero photograph, several megabytes as served, being resized down by the browser rather than served at the correct size in the first place, and a third-party live chat widget loading and executing before the page's own content rendered, blocking the browser from painting anything visible until the widget's script had finished.</p>
+        <p>The fix did not need a rebuild. The hero image was compressed and served at the actual display size with a modern format, and the chat widget was set to load after the page's main content rather than before it, deferred rather than removed, since the client still wanted it available once the page had loaded. LCP on mobile fell from 4.8 seconds to just under 2 seconds, into Google's good range, and mobile bounce rate on the page dropped to within a few points of desktop within the following month, closing a gap that had existed since the page launched.</p>
+        <p>My rule on page speed with every client: audit the largest single image and every third-party script on a page before touching anything else. Between the two, they account for most of the poor Core Web Vitals scores I see on marketing pages, and both are usually fixable in hours rather than the weeks a full rebuild would take.</p>
+
+        <h2>Pitfalls to avoid. <em>Where page speed work quietly stalls.</em></h2>
+        <p>The first pitfall is testing on a fast office connection and desktop, then publishing without checking mobile on a realistic connection speed. Google's own ranking and Core Web Vitals data is weighted toward real-world mobile performance, and a page that scores well on a developer's desktop can fail badly on the mid-range phone and patchy connection a real visitor is actually using.</p>
+        <p>The second is treating a one-off PageSpeed Insights or GTmetrix score as a fixed fact rather than a snapshot. Adding a new tracking pixel, a chat widget or a marketing script months after a page launches is exactly how a previously fast page quietly drifts back into poor territory, unnoticed until conversion rate has already fallen.</p>
+        <p>The third is fixing Largest Contentful Paint and stopping there, ignoring Interaction to Next Paint and Cumulative Layout Shift because the page now "looks" fast on first load. A visitor who lands on a fast-rendering page and then taps a button that lags, or a form that jumps as they are about to submit it, still leaves, just later in the journey than a slow LCP would have lost them.</p>
+        <p>The fourth is chasing a perfect Core Web Vitals score as an end in itself, rather than as a lever on conversion. Once a page is comfortably inside Google's good thresholds, the marginal conversion gain from squeezing out another few hundred milliseconds is usually smaller than the gain available from fixing a genuine persuasion or form problem elsewhere on the same page, covered in the wider conversion rate optimisation strategies guide.</p>
+        <p>The fifth is assuming a page speed fix is permanent because it was done once properly. Hosting changes, plugin or script updates, and new marketing tags added by other teams all erode Core Web Vitals scores over time without anyone deciding to make the page slower on purpose. A page worth real traffic is worth checking on a quarterly cadence, not a launch-day one.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>How does page speed affect conversion rate?</summary><p>Slower pages lose visitors before persuasion has a chance to work. Portent's analysis of over 100,000 landing pages found conversion rates fall by an average of 4.42 percent with each additional second of load time between zero and five seconds, meaning most of the damage happens in the first few seconds, not gradually across a slow page.</p></details>
+        <details><summary>What is a good Largest Contentful Paint score?</summary><p>Google's Core Web Vitals thresholds class a Largest Contentful Paint, the time to render the biggest visible element, of 2.5 seconds or under as good, up to 4 seconds as needing improvement, and anything above 4 seconds as poor. LCP is usually the single biggest lever on a typical marketing or landing page.</p></details>
+        <details><summary>What is Interaction to Next Paint and why does it matter for conversion?</summary><p>Interaction to Next Paint, or INP, measures how long a page takes to visibly respond after a visitor clicks, taps or types, and replaced First Input Delay as a Core Web Vital in March 2024. A form or button that lags on the first tap reads as broken to a visitor mid-conversion, and a poor INP score often points directly at that experience.</p></details>
+        <details><summary>What usually causes the biggest page speed problems on a marketing site?</summary><p>Unoptimised hero images, render-blocking JavaScript and CSS loaded before anything visible, and third-party scripts, chat widgets, tracking pixels, embedded video, that a team never audits after adding them. Any one of the three can push Largest Contentful Paint well past the four-second poor threshold on its own.</p></details>
+        <details><summary>Do page speed fixes require a developer?</summary><p>Some do, compressing and resizing images, deferring non-critical scripts, and setting explicit dimensions on images and embeds to prevent layout shift can often be done without a full rebuild. Larger fixes, like moving to a faster host or restructuring how a page loads its critical content, usually need developer time, but the highest-impact fixes are frequently the cheapest ones.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based commercial growth, CRM and RevOps consultant.</p>
+
+      <div class="article-cta">
+        <h2>Not sure where your page stands? <em>Let's get a Core Web Vitals read on it.</em></h2>
+        <p>Send me the landing page carrying the most traffic, and we'll work out what a faster load would be worth against your current conversion rate.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>↗</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul><li><a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a></li><li><a href="/services/conversion-rate-optimisation-services.html">Conversion rate optimisation services</a></li><li><a href="/blog/conversion-rate-optimisation-strategies.html">Conversion rate optimisation strategies</a></li><li><a href="/blog/what-is-a-good-conversion-rate.html">What is a good conversion rate</a></li></ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>© <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE · Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

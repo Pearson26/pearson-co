@@ -6,3 +6,17 @@
 [build]
   publish = "site"
   command = ""
+
+# Pretty URLs must stay off. When on, Netlify's HTML post-processing rewrites
+# every internal link in the served HTML to drop the .html extension, so the
+# live site linked to /blog/slug while the sitemap, canonical tags, og:url and
+# JSON-LD all declared /blog/slug.html. Both forms return 200 with identical
+# content, so every page existed at two crawlable URLs and the entire internal
+# link graph pointed at the set the sitemap did not list. That is why Search
+# Console reported "Referring page: None detected" against the .html URLs.
+# The site's own declared canonical form is .html; the served links must match it.
+[build.processing]
+  skip_processing = false
+
+[build.processing.html]
+  pretty_urls = false

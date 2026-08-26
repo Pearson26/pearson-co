@@ -25,6 +25,7 @@ Sales Pipeline 30 · Growth Consulting 25. Total ~1,085.
 ## Session log
 | Date | Work | Posts | Slugs | Next |
 |------|------|-------|-------|------|
+| 2026-08-26 | Built the Sales Engine (self-generated pipeline funnel, hybrid). Added the Revenue Leak Scorecard lead magnet (`site/revenue-scorecard.html`), nav + hero entry points, sitemap entry, and the `/sales-engine/` operating system (charter, HubSpot pipeline map, ICP scoring, offers, human-gated sequences, five role souls, intake runbook, state + log). The engine builds pipeline and drafts outreach; Lauren approves and sends. Separate from the content run; pushed to `claude/automated-sales-funnel-kvvvhs`. | 0 (funnel) | Optional: run the first live intake, or schedule it, when Lauren asks. |
 | 2026-06-14 | Seeded repo with the live website files. | 0 | (site files) | Build the engine scaffold. |
 | 2026-06-14 | Scaffolded the content engine: CLAUDE.md, 9 workforce souls, article template, blog.css, scripts (style_gate, sitemap, blog_index, verify_state, link_graph), state and docs, orchestrator prompt, deploy workflow (inert). | 0 | (engine) | Generate the 12-month plan (plan.md / plan.json / content-plan.html). |
 | 2026-06-14 | Plan infrastructure + Batch 1 of 14: Conversion & Funnel Optimisation, 95 records (1 pillar, 12 money, 82 authority), Semrush-researched UK cluster. plan.json/plan.md/dashboard live. | 0 (plan) | conversion-rate-optimisation + 94 | Batch 2: Revenue Operations (RevOps), 95. |

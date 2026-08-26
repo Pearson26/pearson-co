@@ -1,0 +1,10 @@
+{
+  "phase": "1-inbound",
+  "last_run": null,
+  "leads_processed": 0,
+  "deals_open": 0,
+  "deals_created_total": 0,
+  "last_lead_email": null,
+  "last_updated": "2026-08-26",
+  "notes": "Engine initialised. Phase 1 (self-generated inbound) ready. Scorecard live at /revenue-scorecard.html. No runs yet. Outbound (Phase 2) documented, off."
+}

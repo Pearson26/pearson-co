@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CRM triggers explained: what they are | The Pearson Co.</title>
+  <meta name="description" content="A CRM trigger is the event and condition that fires an action inside your CRM. What a trigger is, the four common types, and how it differs from automation.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/crm-triggers-explained.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="CRM triggers explained: what they are | The Pearson Co.">
+  <meta property="og:description" content="A CRM trigger is the event and condition that fires an action inside your CRM. What a trigger is, the four common types, and how it differs from automation.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/crm-triggers-explained.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/crm-triggers-explained.html#article",
+      "headline": "CRM triggers, the building block under every automation",
+      "description": "A CRM trigger is the event and condition that fires an action inside your CRM. What a trigger is, the four common types, and how it differs from automation.",
+      "datePublished": "2026-09-07",
+      "dateModified": "2026-09-07",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/crm-triggers-explained.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/crm-triggers-explained.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/crm-triggers-explained.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "CRM triggers explained", "item": "https://thepearsonco.com/blog/crm-triggers-explained.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/crm-triggers-explained.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a CRM trigger, exactly?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A CRM trigger is a single event, such as a record being created, a field changing, a date being reached, or a period of inactivity, that causes the CRM to carry out an action automatically. It is the smallest working part of any CRM automation: one condition, checked continuously, that starts a task, an email, a notification or a field update the moment it is met." }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the main types of CRM triggers?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Most fall into four groups: event-based triggers that fire when a record is created, field-change triggers that fire when a property updates, time-based triggers tied to a date or a number of days before or after it, and inactivity triggers that fire after a set period with no logged activity. Nearly every CRM automation is built from a combination of these four." }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between a trigger and a workflow?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A trigger is one event-and-condition pair. A workflow, or automation, is what gets built once that trigger fires: a sequence of actions, delays and branches chained together, often using more than one trigger for its different entry points. A trigger starts things; a workflow is the fuller set of steps that runs afterwards." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can one CRM trigger fire more than one action?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. A single trigger, a deal going quiet for ten days for example, can create a task, send an internal notification and update a field all at once, or stagger them with delays so a second action only fires if the first was ignored. The trigger itself only starts the sequence; how many actions follow is a design choice, not a limit of the trigger." }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if a CRM trigger fires on messy or incomplete data?",
+          "acceptedAnswer": { "@type": "Answer", "text": "It automates the mess at the same speed it would have happened manually, only faster and more consistently. A trigger based on a region field will misfire just as reliably as a person would if that field is blank or inconsistent. Clean, complete fields on the records a trigger checks have to come before you build it, not after." }
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>CRM triggers explained</span></nav>
+      <p class="article-eyebrow">CRM automation &amp; workflow</p>
+      <h1>CRM triggers, <em>the building block under every automation.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>7 September 2026<span class="dot"></span>8 min read</p>
+
+      <div class="answer-box">A CRM trigger is the event and condition that fires an action inside your CRM: a lead created, a field changed, a date reached, or a record gone quiet. It is the single building block underneath every automation and workflow. Understand triggers and you can build, or fix, any automation your CRM runs.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>The event and condition that make something fire.</em></h2>
+        <p>A CRM trigger is a single event, paired with a condition, that causes your CRM to do something on its own: create a task, change a field, send a notification, move a record. No person clicks anything. A lead form gets submitted, a deal moves to "proposal", a renewal date arrives, a "last contacted" field goes quiet for ten days: each of these is a trigger, and each one can set an action running the moment it happens, rather than whenever someone next looks at the record.</p>
+        <p>It is a narrower question than "what is CRM automation". A trigger is not the workflow itself. It is the one condition inside that workflow that starts it running. Most CRMs hold years of client history, deal notes and contact details and do nothing with any of it until a trigger tells them to. Knowing what a trigger actually is, and what makes a good one, is the difference between a CRM that just stores data and one that acts on it.</p>
+
+        <h2>Why it matters. <em>A CRM that holds data is not the same as one that works.</em></h2>
+        <p>Most founder-led teams I meet have a CRM stuffed with the right information and none of the automation to use it. The renewal date is there. The last-contacted date is there. The field that would show a deal has gone quiet is there. Nobody has built the rule that watches those fields and does something when they change, so the data just sits, accurate and unused.</p>
+        <p>The cost of that gap shows up fastest around response time. The Lead Response Management study run by MIT Sloan's James Oldroyd with InsideSales.com, which tracked over 15,000 leads and more than 100,000 call attempts across six companies, found that a company contacting a web lead within five minutes was 21 times more likely to qualify it than one that waited thirty minutes. Nobody sets out to wait thirty minutes. It happens because there is no trigger firing the moment the lead lands, so the lead sits in an inbox until someone happens to check it.</p>
+        <p>A trigger closes that gap by design rather than by hoping someone remembers. It is the smallest possible unit of "the system does this for you", and getting it right, or wrong, sets the ceiling on how much of a CRM's data ever earns its keep.</p>
+
+        <h2>How it works. <em>Every trigger is an event, a condition and an action.</em></h2>
+        <p>Strip any CRM trigger back and it has three parts. The event is what happens: a record is created, a field changes, a date is reached, a period passes with no activity. The condition narrows it: not every new record, only new records where the deal value is above a threshold, or the region matches a specific territory. The action is what the CRM does once both are true: create a task, send an email, notify a manager, update another field, move the record into a different list.</p>
+        <p>Most of what a CRM watches for falls into four types.</p>
+        <ul>
+          <li><strong>Event-based triggers.</strong> Something is created or submitted: a new contact, a form fill, a deal added to the pipeline. These fire once, the moment the record appears.</li>
+          <li><strong>Field-change triggers.</strong> A property on an existing record changes: a deal stage moves, a lead score crosses a threshold, an owner is reassigned. These are the workhorse of most CRM automation, because so much of a record's life is one field changing after another.</li>
+          <li><strong>Time-based triggers.</strong> A date is reached, or a set number of days passes before or after a date property. HubSpot rebuilt its own workflow tools in June 2024 specifically to trigger a number of days before or after a date field, rather than only on a fixed calendar date, because "three months after the renewal date" is a far more useful trigger than "on the 14th of March" for every contact regardless of when they actually signed.</li>
+          <li><strong>Inactivity triggers.</strong> Nothing has happened for a defined period: no logged call, no email opened, no stage movement. These catch what a busy person is least likely to notice, which is exactly the gap that costs the most.</li>
+        </ul>
+        <p>A trigger on its own does nothing useful without a well-written condition. "A deal was created" fires on every deal, including the ones worth acting on and the ones that are not. "A deal was created, with a value above £10,000, in a territory this rep owns" fires only where it should. The condition is where most of the design work actually sits, not the event.</p>
+
+        <h2>Triggers versus the automation built on them. <em>The building block, not the building.</em></h2>
+        <p>It is worth being precise here, because the terms get used loosely. A trigger is one event-and-condition pair. An automation, or a workflow, is what you build once that trigger fires: a sequence of actions, branches and delays chained together. A single automation might use two or three triggers to cover its different entry points. A whole <a href="/services/crm-automation.html">CRM automation</a> programme might run on a few dozen triggers across a record's lifecycle.</p>
+        <p>This is also where it differs from a narrower, related question. Pipeline automation, covered in a separate guide on <a href="/blog/pipeline-automation.html">stage-based pipeline rules</a>, is a specific application of triggers, ones scoped only to what happens as a deal moves through pipeline stages: stage-entry tasks, stage-gate checks, staleness alerts. A CRM trigger is the general mechanism behind all of it; pipeline automation is one deliberately narrow use of it, and the broader question of what CRM automation itself covers is answered in full in <a href="/blog/what-is-crm-automation.html">what is CRM automation</a>. Understanding the trigger is what lets you build, or debug, either.</p>
+        <p>The judgement call I make most often, building a wider <a href="/services/crm-automation.html">CRM automation setup</a> for a client, is how tightly to write the condition on each trigger. Write it too loosely and it fires on records it should not, which trains a team to ignore it within a fortnight. Write it too tightly, chasing every edge case before launch, and you spend three weeks refining a rule that should have shipped in three days and started teaching you what it was actually missing. My rule of thumb: launch on the condition that covers the eighty percent case, watch what slips through for a month, then tighten it once, based on what actually happened rather than what might.</p>
+
+        <h2>A practical example. <em>One trigger, followed all the way through.</em></h2>
+        <p>A deal sits in the "proposal sent" stage. The trigger: no logged activity on that record for ten days. The condition: the deal is still open and its value is above a set threshold, so a routine, low-value enquiry does not clutter anyone's queue. The action: a task is created for the rep, due the same day, and if it is still untouched after a further three days, a second action fires: a notification to the rep's manager.</p>
+        <p>Nobody had to remember to check that deal. The trigger behaves the same whether it went quiet on a Tuesday or over a public holiday weekend, which is the actual value of it: consistency a person checking their inbox cannot reliably hold at volume. Change the trigger's window from ten days to three and you would flag deals that are still moving at a normal pace, and the team starts muting the alerts. Widen it to twenty-one and it stops catching anything before the damage is done. Getting that number right is not a technical decision. It is a judgement call based on how long a deal in that stage normally takes to move, which only comes from watching the CRM's own reporting for a full sales cycle before you set the number and leave it alone.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>What is a CRM trigger, exactly?</summary><p>A CRM trigger is a single event, such as a record being created, a field changing, a date being reached, or a period of inactivity, that causes the CRM to carry out an action automatically. It is the smallest working part of any CRM automation: one condition, checked continuously, that starts a task, an email, a notification or a field update the moment it is met.</p></details>
+        <details><summary>What are the main types of CRM triggers?</summary><p>Most fall into four groups: event-based triggers that fire when a record is created, field-change triggers that fire when a property updates, time-based triggers tied to a date or a number of days before or after it, and inactivity triggers that fire after a set period with no logged activity. Nearly every CRM automation is built from a combination of these four.</p></details>
+        <details><summary>What is the difference between a trigger and a workflow?</summary><p>A trigger is one event-and-condition pair. A workflow, or automation, is what gets built once that trigger fires: a sequence of actions, delays and branches chained together, often using more than one trigger for its different entry points. A trigger starts things; a workflow is the fuller set of steps that runs afterwards.</p></details>
+        <details><summary>Can one CRM trigger fire more than one action?</summary><p>Yes. A single trigger, a deal going quiet for ten days for example, can create a task, send an internal notification and update a field all at once, or stagger them with delays so a second action only fires if the first was ignored. The trigger itself only starts the sequence; how many actions follow is a design choice, not a limit of the trigger.</p></details>
+        <details><summary>What happens if a CRM trigger fires on messy or incomplete data?</summary><p>It automates the mess at the same speed it would have happened manually, only faster and more consistently. A trigger based on a region field will misfire just as reliably as a person would if that field is blank or inconsistent. Clean, complete fields on the records a trigger checks have to come before you build it, not after.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based commercial growth, CRM and RevOps consultant.</p>
+
+      <div class="article-cta">
+        <h2>Not sure which triggers your CRM is missing?</h2>
+        <p>Book a short call and we'll look at where your CRM's data is sitting unused, which triggers would close the gap, and how they fit into a wider automation build.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/crm-automation.html">CRM automation services</a></li>
+          <li><a href="/blog/what-is-crm-automation.html">What is CRM automation?</a></li>
+          <li><a href="/blog/pipeline-automation.html">Pipeline automation, explained</a></li>
+          <li><a href="/blog/data-entry-automation-crm.html">Data entry automation in your CRM</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

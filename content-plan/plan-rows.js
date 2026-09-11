@@ -2908,7 +2908,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "month": 10
   },
   {
@@ -5886,7 +5886,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "month": 10
   },
   {
@@ -19181,7 +19181,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct definition and a short checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 10
   },
@@ -21939,7 +21939,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 9
   },
@@ -24718,7 +24718,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 10
   },
@@ -26498,7 +26498,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 9
   },
@@ -27253,7 +27253,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist or template so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 10
   },
@@ -34214,7 +34214,7 @@ window.PLAN_ROWS = [
       "HowTo"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 9
   },
@@ -35987,7 +35987,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 10
   },
@@ -36227,7 +36227,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 5
   },
@@ -39742,7 +39742,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "skipped-dedup",
     "volume_source": "indicative",
     "month": 10
   },
@@ -39838,7 +39838,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short checklist or metric list so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 5
   },
@@ -43369,7 +43369,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short shortlist or checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "published",
     "volume_source": "indicative",
     "month": 5
   },
@@ -49638,7 +49638,7 @@ window.PLAN_ROWS = [
       "BreadcrumbList"
     ],
     "ai_overview_play": "Lead with a direct answer and a short framework or checklist so it lifts into AI overviews.",
-    "status": "not-started",
+    "status": "skipped-dedup",
     "volume_source": "indicative",
     "month": 10
   },

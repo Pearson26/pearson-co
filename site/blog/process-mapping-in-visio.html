@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How to build a Visio process map | The Pearson Co.</title>
+  <meta name="description" content="How to build a Visio process map: which template and shapes to use, swimlanes for handoffs, co-authoring, and the mistakes that make a map unreadable.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/process-mapping-in-visio.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="How to build a Visio process map | The Pearson Co.">
+  <meta property="og:description" content="How to build a Visio process map: which template and shapes to use, swimlanes for handoffs, co-authoring, and the mistakes that make a map unreadable.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/process-mapping-in-visio.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/process-mapping-in-visio.html#article",
+      "headline": "How to build a Visio process map that a team actually reads",
+      "description": "How to build a Visio process map: which template and shapes to use, swimlanes for handoffs, co-authoring, and the mistakes that make a map unreadable.",
+      "datePublished": "2026-09-23",
+      "dateModified": "2026-09-23",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/process-mapping-in-visio.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/process-mapping-in-visio.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/process-mapping-in-visio.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "Process mapping in Visio", "item": "https://thepearsonco.com/blog/process-mapping-in-visio.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/process-mapping-in-visio.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does Visio properly support BPMN 2.0?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes, within limits. Microsoft's own documentation confirms Visio's BPMN template covers the Analytic conformance class of the BPMN 2.0 specification set by the Object Management Group, which is the shape set most founder-led teams actually need. It does not cover every advanced Choreography or Collaboration element a specialist BPM tool supports, but few in-house process maps ever require them." }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between Visio Plan 1 and Plan 2?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Plan 1 is browser-only: enough to open, edit and co-author a process map that already exists, at the lower price point. Plan 2 adds the full desktop application, which you need to build a map from scratch with data linking, custom stencils and BPMN templates. Most teams building their first Visio process map need Plan 2 for at least one licence." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can more than one person edit a Visio process map at the same time?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes, when the file is saved to OneDrive or SharePoint rather than a local drive. Visio's co-authoring works the same way as Word or Excel: each editor's changes appear as they make them. Saving a copy locally and emailing it around breaks this immediately and is the single most common reason a Visio map ends up with three conflicting versions." }
+        },
+        {
+          "@type": "Question",
+          "name": "What shapes should a Visio process map use for handoffs between teams?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Swimlanes, one per team or role, with the process flowing left to right or top to bottom across them. Every time the flow crosses from one lane into another, that is a handoff, and handoffs are where processes usually break. A map without lanes hides exactly the detail a process map exists to surface." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a Visio process map link to real data, like an Excel sheet?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes, through Visio's Data ribbon and its Link Data to Shapes feature, which connects each shape to a row in an Excel table, a SharePoint list or a SQL source. Shapes can then show live status, an owner's name or a due date pulled from that source, without anyone re-typing it into the diagram by hand." }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Visio worth using if the business is not on Microsoft 365?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Rarely. Visio's real advantages, deep BPMN support, data linking and native co-authoring, all assume a Microsoft 365 environment already in place. Outside that environment, the licence cost buys little a free tool cannot already do, and our guide to process mapping tools covers where draw.io or Lucidchart fit better instead." }
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>Process mapping in Visio</span></nav>
+      <p class="article-eyebrow">Process mapping &amp; SOP creation</p>
+      <h1>Process mapping in Visio. <em>Getting the notation right the first time.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>23 September 2026<span class="dot"></span>8 min read</p>
+
+      <div class="answer-box">A Visio process map uses standard flowchart or BPMN shapes, rectangles for activities, diamonds for decisions, swimlanes for handoffs between teams, to document how work actually happens. Visio earns its cost once a process needs formal BPMN notation or already lives inside a Microsoft 365 environment; get the shapes and lanes right and the software does the rest.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>Notation before software.</em></h2>
+        <p>A Visio process map is only as good as the sequence it records, and the sequence has to be right before a single shape gets dragged onto the canvas. That is the same principle our guide to <a href="/blog/how-to-create-a-process-map.html">creating a process map</a> covers in full, and it holds regardless of which tool eventually draws it.</p>
+        <p>What this piece covers instead is the part specific to Visio: which template to open, which shapes actually belong in a process map (not every shape in the stencil pane), how to use swimlanes so handoffs are visible rather than buried, and how to keep the file usable once more than one person needs to edit it. Our separate <a href="/blog/process-mapping-tools.html">comparison of process mapping tools</a> covers when Visio is the right pick over Lucidchart, Miro or draw.io in the first place; this guide assumes that decision is already made and gets on with building the map.</p>
+
+        <h2>How it works in practice. <em>Template, shapes, lanes, then data.</em></h2>
+        <p>Start from the right template. Visio's Basic Flowchart template covers most process maps a founder-led team will ever need: start and end terminators, process rectangles, decision diamonds and connector arrows. Reach for the BPMN Diagram template only when the map genuinely needs to be read by a process improvement specialist or fed into workflow or integration software later. Microsoft's own documentation confirms Visio's BPMN template covers the Analytic conformance class set out in the BPMN 2.0 specification maintained by the Object Management Group, which is more notation depth than most in-house maps use, and that is fine; it is there for the maps that need it.</p>
+        <p>Use a narrow shape set on purpose. A process map with fifteen different shape types is harder to read than one with five, not more precise. In practice, four shapes cover almost everything: a rounded rectangle for the start and end, a rectangle for each activity, a diamond for every decision point, and an arrow for the connection between them. Add a document shape only where a real artefact, an invoice, a signed contract, genuinely changes hands.</p>
+        <p>Build the swimlanes before the steps. Insert a Cross-Functional Flowchart (the swimlane template) and label one lane per team or role: sales, onboarding, finance, whoever actually touches the process. Draw the steps into the lane of whoever performs them, and let the connector arrows cross lanes exactly where the work genuinely moves from one team to another. Every lane crossing is a handoff, and handoffs are where a process reliably breaks; a flat flowchart with no lanes hides that detail completely, which defeats the point of mapping the process at all.</p>
+        <p>Link the shapes to real data once the sequence is confirmed. Visio's Data ribbon includes Link Data to Shapes, which connects each shape to a row in an Excel table, a SharePoint list or a SQL source, so a shape can display a live owner, status or due date instead of a static label someone forgets to update. This step is optional and comes last; linking data to a sequence that is still wrong just automates the wrong answer faster.</p>
+
+        <h2>Which Visio template to open. <em>Three starting points, not one.</em></h2>
+        <table>
+          <thead><tr><th>Template</th><th>Best for</th><th>Skip it when</th></tr></thead>
+          <tbody>
+            <tr><td>Basic Flowchart</td><td>A single team's process with a clear start, end, and a handful of decision points</td><td>The process crosses more than one team; the flow will hide who owns which step</td></tr>
+            <tr><td>Cross-Functional Flowchart</td><td>Any process that moves between teams or roles, which is most real business processes</td><td>Genuinely rare: a solo process with no handoff at all</td></tr>
+            <tr><td>BPMN Diagram</td><td>A process heading toward automation or integration, or one a specialist BPM analyst needs to read</td><td>The map is for internal reference only and nobody downstream needs formal BPMN notation</td></tr>
+          </tbody>
+        </table>
+        <p>Most founder-led teams open the Cross-Functional Flowchart template by default and are right to, because most real processes touch more than one person. Reach for BPMN only once there is a specific downstream reason, an integration, a formal audit, a specialist reviewer, that needs it; opening it out of habit adds notation nobody on the team will actually use.</p>
+
+        <h2>What good looks like. <em>A map a stranger could follow without asking questions.</em></h2>
+        <p>A good Visio process map fits on one screen or one printed page without shrinking the text past readable. If a process genuinely needs more room than that, it is usually two processes wearing one label, and splitting it into a parent map with linked sub-processes reads better than one dense diagram nobody wants to open.</p>
+        <p>Every decision diamond has exactly two exits, clearly labelled yes and no, or whatever the real two outcomes are. A diamond with three or four arrows leaving it is almost always a sign the decision needs breaking into two separate ones. Every shape has an owner implied by which lane it sits in, and every lane crossing marks a handoff a named person is actually responsible for on the day this process runs for real.</p>
+        <p>The file lives on OneDrive or SharePoint rather than a laptop, and co-authoring is switched on so the map stays a single live document rather than five emailed versions with slightly different names. Visio's co-authoring works exactly the way Word or Excel's does: open the same cloud file, and each editor's changes appear as they make them, no merge conflicts, no "final_v3" file names.</p>
+
+        <h2>A worked example. <em>A five-step support escalation, start to finish.</em></h2>
+        <p>Take a common case: a support ticket that needs escalating from a first-line agent to a specialist, then to a manager if it is not resolved within a set window. Here is how that sequence turns into a Visio map in practice.</p>
+        <p>First, confirm the sequence with the people who actually run it, not the process as it is written in an old handbook. A twenty-minute conversation with a first-line agent and a specialist usually surfaces at least one undocumented step, commonly an informal Slack or Teams message that happens before the "official" escalation the handbook describes.</p>
+        <p>Second, open the Cross-Functional Flowchart template and create three lanes: First-line support, Specialist and Manager. Drop a terminator shape in the First-line lane labelled "Ticket received" and a matching one at the end labelled "Ticket resolved".</p>
+        <p>Third, add the activity rectangles and decision diamonds in sequence: "Attempt first-line fix", a decision diamond for "Resolved within 30 minutes?", and if not, an arrow crossing into the Specialist lane for "Escalate to specialist". Add a second decision diamond, "Resolved within 4 hours?", with the no branch crossing again into the Manager lane for "Escalate to manager and notify customer". Two lane crossings, two real handoffs, both now visible on the page instead of buried in an agent's memory of how things are "supposed to" work.</p>
+        <p>Fourth, link each activity shape to the ticketing system's status field using Link Data to Shapes, so the map can, if the business wants it, double as a live status view rather than only a static reference document.</p>
+        <p>Fifth, save the file to a shared SharePoint library, name an owner, typically the support lead, and turn on version history. The map is now a live document a specialist or manager can open, trust, and suggest changes to, rather than a one-off diagram that goes stale the first time the escalation window changes.</p>
+
+        <h2>Pitfalls to avoid. <em>Where a Visio map goes wrong.</em></h2>
+        <p>Opening Visio before interviewing the person who does the work is the single biggest mistake. The software captures a sequence faithfully; it does not know whether that sequence is actually what happens or what someone in a meeting three years ago assumed should happen. Sketch the real sequence on paper or a whiteboard with the person doing the work first, and only then move it into Visio.</p>
+        <p>Overusing the BPMN stencil is the second. Visio ships with pools, gateways, message flows and events that a specialist BPM analyst needs and a founder-led team almost never does. Reaching for the full BPMN palette on a first map produces a diagram that looks impressive and communicates less than a five-shape flowchart would have.</p>
+        <p>Exporting to a static PDF and treating that as the finished artefact is the third, and the most common one I see with clients. A PDF cannot be updated by the next person who spots a change, so it quietly goes stale, and six months later the "documented process" and the actual process have drifted apart without anyone noticing. Keep the live Visio file as the source of truth and export a PDF only as a point-in-time snapshot for people outside the licence.</p>
+        <p>A client of mine had three separate Visio files for the same onboarding process, each edited by a different manager, each slightly different, and nobody sure which one was current. The fix was not a better diagram, it was moving the file to a shared SharePoint library with one named owner and switching on version history, so the question "which version is real" stopped coming up. The software rarely causes that problem; unclear ownership of the file does.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>Does Visio properly support BPMN 2.0?</summary><p>Yes, within limits. Microsoft's own documentation confirms Visio's BPMN template covers the Analytic conformance class of the BPMN 2.0 specification set by the Object Management Group, which is the shape set most founder-led teams actually need. It does not cover every advanced Choreography or Collaboration element a specialist BPM tool supports, but few in-house process maps ever require them.</p></details>
+        <details><summary>What is the difference between Visio Plan 1 and Plan 2?</summary><p>Plan 1 is browser-only: enough to open, edit and co-author a process map that already exists, at the lower price point. Plan 2 adds the full desktop application, which you need to build a map from scratch with data linking, custom stencils and BPMN templates. Most teams building their first Visio process map need Plan 2 for at least one licence.</p></details>
+        <details><summary>Can more than one person edit a Visio process map at the same time?</summary><p>Yes, when the file is saved to OneDrive or SharePoint rather than a local drive. Visio's co-authoring works the same way as Word or Excel: each editor's changes appear as they make them. Saving a copy locally and emailing it around breaks this immediately and is the single most common reason a Visio map ends up with three conflicting versions.</p></details>
+        <details><summary>What shapes should a Visio process map use for handoffs between teams?</summary><p>Swimlanes, one per team or role, with the process flowing left to right or top to bottom across them. Every time the flow crosses from one lane into another, that is a handoff, and handoffs are where processes usually break. A map without lanes hides exactly the detail a process map exists to surface.</p></details>
+        <details><summary>Can a Visio process map link to real data, like an Excel sheet?</summary><p>Yes, through Visio's Data ribbon and its Link Data to Shapes feature, which connects each shape to a row in an Excel table, a SharePoint list or a SQL source. Shapes can then show live status, an owner's name or a due date pulled from that source, without anyone re-typing it into the diagram by hand.</p></details>
+        <details><summary>Is Visio worth using if the business is not on Microsoft 365?</summary><p>Rarely. Visio's real advantages, deep BPMN support, data linking and native co-authoring, all assume a Microsoft 365 environment already in place. Outside that environment, the licence cost buys little a free tool cannot already do, and our guide to process mapping tools covers where draw.io or Lucidchart fit better instead.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based commercial growth, CRM and RevOps consultant.</p>
+
+      <div class="article-cta">
+        <h2>Got a Visio map. Not sure the process behind it is right?</h2>
+        <p>Book a short call and we'll pressure-test the sequence with the person who does the work, then get it into a map your whole team can actually follow.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/process-mapping.html">Process mapping &amp; SOP services</a></li>
+          <li><a href="/services/standard-operating-procedures.html">Standard operating procedures</a></li>
+          <li><a href="/blog/how-to-create-a-process-map.html">How to create a process map</a></li>
+          <li><a href="/blog/process-mapping-tools.html">Business process mapping tools compared</a></li>
+          <li><a href="/blog/process-map-symbols.html">Process map symbols</a></li>
+          <li><a href="/blog/types-of-process-maps.html">Types of process maps</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

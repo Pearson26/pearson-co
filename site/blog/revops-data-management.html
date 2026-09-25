@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RevOps Data Management: A Practical Guide | The Pearson Co.</title>
+  <meta name="description" content="RevOps data management explained: the ownership model, the quality checks and the cleanup cadence that keep a growing revenue team's numbers trustworthy.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/revops-data-management.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="RevOps Data Management: A Practical Guide | The Pearson Co.">
+  <meta property="og:description" content="RevOps data management explained: the ownership model, the quality checks and the cleanup cadence that keep a growing revenue team's numbers trustworthy.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/revops-data-management.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/revops-data-management.html#article",
+      "headline": "RevOps data management: the ownership model and cleanup cadence that keep data trustworthy",
+      "description": "RevOps data management explained: the ownership model, the quality checks and the cleanup cadence that keep a revenue team's numbers trustworthy.",
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/revops-data-management.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/revops-data-management.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/revops-data-management.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "RevOps data management", "item": "https://thepearsonco.com/blog/revops-data-management.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/revops-data-management.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does RevOps data management actually cover?",
+          "acceptedAnswer": { "@type": "Answer", "text": "The ongoing practice of keeping revenue data accurate, complete, consistent and current: deduplicating records, standardising how fields get filled in, enriching thin records, assigning a named owner to each data domain, and auditing the database on a fixed cadence rather than only when a report looks wrong." }
+        },
+        {
+          "@type": "Question",
+          "name": "Who should own data quality in a RevOps team?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A single named owner per data domain, usually inside RevOps, who is accountable for that domain's accuracy even though sales, marketing and customer success all create and edit records inside it. Shared ownership across three departments tends to function as no ownership at all, because each team assumes another team is watching the field." }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should a CRM database be audited?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Quarterly for a full audit, covering duplicate rates, required-field completion and stale or decayed records, with lighter automated checks running continuously in between. A once-a-year clean-up lets enough bad data accumulate that the audit itself becomes a multi-week project instead of a routine one." }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between data hygiene and data governance?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Data hygiene is the cleanup itself: deduplicating, standardising and enriching records. Data governance is the set of rules and ownership that stop the database getting dirty again afterwards, required fields, naming conventions, who can create a new custom field. Hygiene without governance is a repeating clean-up job with no end." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can data management be fully automated?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Parts of it, deduplication rules, enrichment lookups and decay-based flags, run well as automation. Automation without a human review step tends to merge records that should not have been merged or overwrite a correct value with a stale one from an enrichment source, so the routine still needs a person checking a sample of what the automation actually did." }
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>RevOps data management</span></nav>
+      <p class="article-eyebrow">Revenue operations</p>
+      <h1>RevOps data management. <em>The ownership model behind trustworthy numbers.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>25 September 2026<span class="dot"></span>9 min read</p>
+
+      <div class="answer-box">RevOps data management is the discipline of keeping revenue data accurate, complete, consistent and current: deduplicating records, standardising fields, enriching thin ones, and auditing the database on a fixed cadence. Gartner's 2020 research put the average cost of poor data quality at 12.9 million dollars a year per organisation, which is why this needs to be a routine, not a side project.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>Data management is a cadence, not a clean-up.</em></h2>
+        <p>RevOps data management is the set of routines that keep a revenue database usable: deduplication, field standardisation, enrichment of thin records, and a named owner accountable for each data domain. Most teams already own a version of this, a spreadsheet macro here, an annual clean-up sprint there, but it rarely gets run as a discipline with its own cadence and owner, which is exactly why the same duplicate leads and stale fields tend to reappear eighteen months after the last clean-up.</p>
+        <p>Gartner's 2020 research into data quality, based on a survey of 154 reference customers across sixteen data quality vendors, put the average financial cost of poor data at 12.9 million dollars a year per organisation, driven by delayed decisions, wasted marketing and sales spend, and reporting errors that send a team chasing the wrong number. Our guide to why the <a href="/blog/revops-and-crm.html">CRM has to be RevOps' single source of truth</a> covers the system-level case for this. This piece is about the operational practice: what actually keeps the data inside that system reliable once the system itself is built correctly.</p>
+
+        <h2>How it works in practice. <em>Four data quality dimensions worth measuring separately.</em></h2>
+        <p>"Clean data" is too vague a target to manage against, so the practical version breaks it into four dimensions, each with its own check. Accuracy asks whether a field's value is actually correct, a job title, a company size, an email address that still reaches someone. Completeness asks whether the required fields are filled in at all, not whether what's there is right. Consistency asks whether the same thing is recorded the same way everywhere, "SaaS" in one record and "Software as a Service" in another break every segmentation report built on top of them. Timeliness asks whether a record still reflects reality, a contact who left the company eight months ago but is still logged as the champion on an open deal.</p>
+        <p>Each dimension needs a different fix. Accuracy and timeliness respond well to enrichment tools that cross-check a record against an external data source and flag drift. Completeness is mostly a CRM configuration problem, solved with required fields and validation rules at the point of entry rather than a clean-up after the fact. Consistency is a governance problem: a picklist instead of a free-text field, and a naming convention documented somewhere a new hire can actually find it.</p>
+        <p>Field-level ownership is what stops these four dimensions drifting apart again. A single named owner per data domain, deal data, account data, contact data, is accountable for that domain's quality even though sales, marketing and customer success all touch it day to day. When three departments share a field with no single owner, in practice nobody treats it as theirs to fix, and it decays until a forecast meeting exposes the gap.</p>
+
+        <h2>A working cadence. <em>Five routines, run on a fixed schedule.</em></h2>
+        <ol>
+          <li><strong>Weekly: automated duplicate and decay flags.</strong> Run standard deduplication rules on new records and flag contacts that have gone quiet on email, bounced, or shown no activity for a set period, for someone to review rather than auto-delete.</li>
+          <li><strong>Monthly: required-field completion check.</strong> Pull a report of records missing a required field past the stage where that field should exist, and route it back to the owning team rather than letting incomplete records simply age in the pipeline.</li>
+          <li><strong>Quarterly: full database audit.</strong> Measure duplicate rate, completion rate against required fields, and the proportion of contacts with no activity in the last two quarters, against the same benchmarks every time, so the trend line means something.</li>
+          <li><strong>Quarterly: governance review.</strong> Check whether any new custom fields, picklists or integrations have been added outside the agreed process, a common source of the consistency problem described above.</li>
+          <li><strong>Annually: enrichment source review.</strong> Confirm the enrichment or verification tool the team relies on is still returning accurate matches, since a source that quietly degrades in coverage can make a database look cleaner than it actually is.</li>
+        </ol>
+        <p>None of this needs to be expensive tooling from day one. A team without budget for a dedicated deduplication platform can run the weekly and monthly steps from CRM-native reports and a shared spreadsheet; the cadence matters more than the tool in the first year, and the tool becomes worth paying for once the manual version is reliably eating a day a week.</p>
+
+        <h2>Getting buy-in beyond RevOps. <em>Reps do not resist data entry, they resist pointless data entry.</em></h2>
+        <p>Most of the resistance a data management routine runs into is not really resistance to the idea of clean data. It is resistance to filling in fields that feel disconnected from anything the rep actually gets out of the CRM that day. A required field added because someone in marketing wanted a report, with no visible benefit to the person filling it in, gets skipped or filled with a junk value the moment the quarter gets busy. Tying a field's existence to something the rep already relies on, accurate territory assignment, correct commission calculation, lead routing that sends the right deal to the right person, changes the incentive without a single new policy document.</p>
+        <p>Making entry easier at the point of capture matters as much as enforcing it afterwards. A form with twelve required fields at first contact produces either an abandoned form or twelve rushed, low-quality answers; a shorter form that asks for the two or three fields genuinely needed at that stage, with the rest captured progressively as the relationship develops, produces fewer blank fields overall and less bad data to clean up later. The same logic applies inside the CRM itself: a picklist takes less effort to fill in correctly than a free-text field, which is a large part of why consistency problems concentrate in the free-text fields nobody bothered to convert.</p>
+        <p>Executive sponsorship closes the loop. A data management cadence that only RevOps cares about competes for attention with whatever the sales or marketing leadership is pushing that quarter, and usually loses. Naming data quality as a metric a VP of sales or a CRO reviews alongside pipeline and forecast numbers, even briefly, in a monthly meeting, is often the single change that moves a cadence from something RevOps chases people to complete into something the wider team treats as part of doing the job properly.</p>
+
+        <h2>A worked example. <em>Where a growing team's pipeline numbers stopped adding up.</em></h2>
+        <p>A US-based B2B team I worked with had a forecast that consistently overstated the quarter by fifteen to twenty per cent, and the initial assumption was a sales process problem, reps sandbagging or over-committing stages. The real cause turned out to be data: roughly a quarter of open opportunities belonged to contacts who had left their company months earlier, still logged as the active champion because nobody owned the routine of checking. Layered on top of that, duplicate account records meant some pipeline value was being counted twice across two versions of the same company created eighteen months apart by different reps.</p>
+        <p>Neither problem was hard to fix technically. Assigning a named data owner, adding a quarterly stale-contact review, and running a one-time deduplication pass brought the forecast within a normal, small margin of error inside two quarters. The harder part was cultural: the sales team had quietly stopped trusting the CRM's numbers and was keeping a shadow tracker, and rebuilding that trust took longer than the technical clean-up itself. That is usually the real cost of neglected data management: not the bad number on its own, but the shadow systems everyone builds once they stop believing the real one.</p>
+
+        <h2>Pitfalls to avoid. <em>Where data management quietly stalls.</em></h2>
+        <p>Treating a clean-up as a one-off project is the most common failure. A single deduplication sprint feels like progress, and it is, until the same duplicate rate reappears a year later because nothing changed about how records get created in the first place. A clean-up without a cadence behind it is a temporary fix to a permanent problem.</p>
+        <p>Buying a data quality tool before assigning an owner is the second. Software can flag duplicates and stale records all day; it cannot decide who acts on the flag. A tool layered onto a database with no accountable owner produces a longer list of known problems, not fewer of them.</p>
+        <p>Automating too aggressively is the third. Auto-merge rules and enrichment overwrites are efficient, but they occasionally merge two genuinely different accounts that share a similar name, or overwrite a correct field with a stale value from an external source. Automation should flag and queue for a quick human check on anything above a low confidence threshold, not act unattended on every match.</p>
+        <p>The fourth is measuring effort instead of outcome. A team that reports "we cleaned three thousand records this quarter" without tracking the duplicate rate, completion rate or forecast accuracy those records feed into cannot actually tell whether the work is holding. Our <a href="/services/revops-consulting.html">RevOps consulting</a> engagements build the ownership model and the cadence together for exactly this reason: a cadence with no owner drifts, and an owner with no cadence burns out re-cleaning the same records every few months. Where the gap is closer to standing up the CRM's data model from scratch, that scope sits inside our <a href="/services/revops-as-a-service.html">RevOps as a service</a> work instead. Our wider <a href="/blog/revops-framework.html">RevOps framework guide</a> and the <a href="/blog/revops-metrics.html">metrics worth tracking</a> both assume the data underneath them is reliable; this is the routine that keeps it that way.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>What does RevOps data management actually cover?</summary><p>The ongoing practice of keeping revenue data accurate, complete, consistent and current: deduplicating records, standardising how fields get filled in, enriching thin records, assigning a named owner to each data domain, and auditing the database on a fixed cadence rather than only when a report looks wrong.</p></details>
+        <details><summary>Who should own data quality in a RevOps team?</summary><p>A single named owner per data domain, usually inside RevOps, who is accountable for that domain's accuracy even though sales, marketing and customer success all create and edit records inside it. Shared ownership across three departments tends to function as no ownership at all, because each team assumes another team is watching the field.</p></details>
+        <details><summary>How often should a CRM database be audited?</summary><p>Quarterly for a full audit, covering duplicate rates, required-field completion and stale or decayed records, with lighter automated checks running continuously in between. A once-a-year clean-up lets enough bad data accumulate that the audit itself becomes a multi-week project instead of a routine one.</p></details>
+        <details><summary>What is the difference between data hygiene and data governance?</summary><p>Data hygiene is the cleanup itself: deduplicating, standardising and enriching records. Data governance is the set of rules and ownership that stop the database getting dirty again afterwards, required fields, naming conventions, who can create a new custom field. Hygiene without governance is a repeating clean-up job with no end.</p></details>
+        <details><summary>Can data management be fully automated?</summary><p>Parts of it, deduplication rules, enrichment lookups and decay-based flags, run well as automation. Automation without a human review step tends to merge records that should not have been merged or overwrite a correct value with a stale one from an enrichment source, so the routine still needs a person checking a sample of what the automation actually did.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based commercial growth, CRM and RevOps consultant.</p>
+
+      <div class="article-cta">
+        <h2>Not sure how much of your pipeline is sitting on stale or duplicate records?</h2>
+        <p>Book a short call and we'll scope a data audit, an ownership model and a cadence built to actually hold, not another one-off clean-up.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/revenue-operations.html">Revenue operations services</a></li>
+          <li><a href="/services/revops-consulting.html">RevOps consulting</a></li>
+          <li><a href="/services/revops-as-a-service.html">RevOps as a service</a></li>
+          <li><a href="/blog/revops-and-crm.html">Why the CRM is RevOps' single source of truth</a></li>
+          <li><a href="/blog/revops-framework.html">RevOps framework</a></li>
+          <li><a href="/blog/revops-metrics.html">RevOps metrics worth tracking</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

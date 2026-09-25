@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The 8 A/B Testing Mistakes to Avoid | The Pearson Co.</title>
+  <meta name="description" content="The A/B testing mistakes that quietly produce false winners: peeking early, underpowered samples, and testing too much at once, with a fix for each one.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/ab-testing-mistakes.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="The 8 A/B Testing Mistakes to Avoid | The Pearson Co.">
+  <meta property="og:description" content="The A/B testing mistakes that quietly produce false winners: peeking early, underpowered samples, and testing too much at once, with a fix for each one.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/ab-testing-mistakes.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/ab-testing-mistakes.html#article",
+      "headline": "A/B testing mistakes to avoid, and what to do instead",
+      "description": "The A/B testing mistakes that quietly produce false winners: peeking early, underpowered samples, and testing too much at once, with a fix for each.",
+      "datePublished": "2026-09-25",
+      "dateModified": "2026-09-25",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/ab-testing-mistakes.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/ab-testing-mistakes.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/ab-testing-mistakes.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "A/B testing mistakes to avoid", "item": "https://thepearsonco.com/blog/ab-testing-mistakes.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/ab-testing-mistakes.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the single biggest A/B testing mistake?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Peeking at results before the test has run its planned duration and stopping the moment the number looks good. Checking a live dashboard repeatedly and calling a winner the first time it crosses significance inflates the false-positive rate far above the five per cent a team thinks it is accepting, because each look is another chance for random noise to look like a real effect." }
+        },
+        {
+          "@type": "Question",
+          "name": "How long should an A/B test run before you trust the result?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Long enough to hit the sample size calculated before the test started, and at least one full business cycle, usually two full weeks, so weekday and weekend behaviour and any day-of-week effect are represented in both variants equally. Stopping early because a dashboard looks promising is how a temporary swing gets mistaken for a real result." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you test more than one change on a page at the same time?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Only if you are prepared not to know which change caused the result. A test that changes the headline, the button colour and the layout together might win, but a single-variable follow-up test is the only way to learn which change actually did the work, and that follow-up test is usually skipped once the first one looks successful." }
+        },
+        {
+          "@type": "Question",
+          "name": "What sample size do you need for a reliable A/B test?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Enough to detect the smallest lift worth acting on, calculated before the test starts from your current conversion rate, traffic volume and the minimum effect size that would justify shipping the change. A page converting at two per cent with a few hundred visitors a week will rarely reach a trustworthy sample inside a normal testing window, which rules out testing it as often as the roadmap wants to." }
+        },
+        {
+          "@type": "Question",
+          "name": "Why did my A/B test show a winner that did not hold up later?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Usually one of three reasons: the test was stopped as soon as it looked significant rather than at its planned end, the win was true for one segment, new visitors or mobile traffic, for example, but got averaged away across everyone, or a novelty effect from the change wore off once regular visitors stopped noticing it was different. Ron Kohavi's research at Microsoft found roughly a third of well-designed tests improve the target metric, a third are flat and a third are negative, so a result that does not replicate is the norm to plan for, not the exception." }
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>A/B testing mistakes to avoid</span></nav>
+      <p class="article-eyebrow">Conversion &amp; funnel optimisation</p>
+      <h1>A/B testing mistakes to avoid. <em>Where good ideas produce bad data.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>25 September 2026<span class="dot"></span>8 min read</p>
+
+      <div class="answer-box">The most common A/B testing mistakes are peeking at results before a test finishes, calling a winner from too small a sample, and changing several things at once. Ron Kohavi's research at Microsoft found only about a third of well-designed tests actually improve the target metric, so a disciplined process is what tells a real result apart from noise.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>Most failed tests fail before the traffic even arrives.</em></h2>
+        <p>A/B testing mistakes rarely show up as an obviously broken test. They show up as a result that looked clean, got shipped, and then quietly failed to repeat itself a quarter later. Ron Kohavi, who ran experimentation at Microsoft's Bing for years, published research in the Harvard Business Review in 2017 showing that among well-designed, well-powered experiments, roughly a third improve the target metric, a third show no significant difference, and a third actually make it worse. That split is not a sign that testing does not work. It is the reason the process around a test matters as much as the idea being tested, because a two-in-three chance of a flat or negative result is exactly the environment where sloppy process turns noise into a false win.</p>
+        <p>I see the same handful of mistakes on almost every CRO audit I run, regardless of the industry or the size of the traffic. None of them are exotic. Most come from a reasonable instinct, wanting an answer faster, wanting to test more at once, wanting to trust a dashboard that already looks decisive, and each one is easy to fix once it is named.</p>
+
+        <h2>The eight mistakes that quietly wreck A/B tests. <em>And the fix for each one.</em></h2>
+
+        <h3>1. Peeking at results and stopping as soon as they look good</h3>
+        <p>Checking a live results dashboard every day and declaring a winner the first time the p-value crosses significance is the single most common A/B testing mistake, and the most damaging. Statistical significance calculated repeatedly, rather than once at a pre-agreed sample size, inflates the real false-positive rate well past the five per cent a team thinks it has accepted. A test that hits significance on day four, purely by chance, can drift back to flat by day fourteen if you let it run its planned course. The fix is mechanical: decide the sample size and the run length before the test starts, and do not act on the result until both are met.</p>
+
+        <h3>2. Calling a winner from an underpowered sample</h3>
+        <p>A page converting at two per cent with a few hundred weekly visitors will rarely reach a sample size that can detect anything smaller than a huge lift inside a normal testing window. Running the test anyway and trusting whatever number appears after two weeks produces a result that is really a coin flip dressed up as data. Calculate the minimum sample size from the current conversion rate, the traffic available and the smallest lift worth acting on, before committing a test slot to a low-traffic page at all.</p>
+
+        <h3>3. Testing several changes at once and learning nothing</h3>
+        <p>A redesigned hero, a new headline and a different button colour shipped together as one variant might beat control, but nobody can say which change did the work. The next page redesign then repeats whichever part was actually irrelevant, because the team is generalising from a bundle rather than a variable. Where a full redesign has to be tested as one unit for practical reasons, follow it with a smaller, single-variable test to isolate what mattered, rather than assuming every element of the winning version earns its place forever.</p>
+
+        <h3>4. Ignoring seasonality and day-of-week effects</h3>
+        <p>Running a test for five days that happen to include a payday weekend, a public holiday or a marketing campaign spike gives both variants a distorted, non-representative slice of traffic. A test needs to run across at least one full, typical business cycle, in most B2B and ecommerce contexts that means a minimum of two full weeks, so weekday and weekend behaviour lands in both variants roughly equally rather than skewing whichever one happened to catch the unusual traffic.</p>
+
+        <h3>5. Averaging away a result that only holds for one segment</h3>
+        <p>An aggregate result can hide the opposite pattern happening underneath it. A new checkout flow might lift conversion sharply for returning customers while quietly hurting first-time visitors, and if first-time traffic is the smaller slice, the blended number still reads as a win. Segment the result by new versus returning, and by device, before shipping anything, because a change that only works for part of the audience needs a different rollout decision than one that works for everyone.</p>
+
+        <h3>6. Testing ideas with no hypothesis behind them</h3>
+        <p>Running a test because a competitor did something similar, or because someone has a hunch, fills the testing calendar without building any real understanding of why visitors behave the way they do. A test built from a specific hypothesis, rooted in a heatmap finding, a piece of user research or a support ticket pattern, teaches something whether it wins or loses. A test built from a guess only teaches something if it happens to win, and most will not.</p>
+
+        <h3>7. Shipping a variant with a tracking or implementation bug</h3>
+        <p>A flicker effect where visitors briefly see the control before the variant loads, a conversion event that fires twice on one variant, or a mobile layout that breaks only in the test version, all of these quietly corrupt a result without ever throwing an error a team would notice. QA both variants on every major device and browser before launch, and check that the primary conversion event and any secondary metrics fire exactly once per real action, not zero or twice.</p>
+
+        <h3>8. Treating one win as a permanent truth</h3>
+        <p>A result that clears significance once is still a sample, not a law. Regression to the mean means a genuinely strong first result is somewhat likely to look weaker on a retest, and a change that wins in one season, one traffic mix or one campaign context can lose once those conditions shift. Big, high-stakes wins, a pricing page change or a new checkout flow, are worth a confirmation retest before they get treated as permanent, especially several months on from the original test.</p>
+
+        <h2>A worked example. <em>Where a pricing page test went wrong, twice.</em></h2>
+        <p>A SaaS client came to me convinced their pricing page redesign had failed, because a follow-up test on the same page showed no lift, months after an earlier test had shown a clear seven per cent improvement. Digging into the first test's setup explained the gap: it had run for nine days, been checked daily, and been called a winner the moment it crossed significance on day six, which happened to fall during a week the marketing team was running a paid campaign that skewed heavily toward one segment. The second test, run properly for a full three weeks with the sample size calculated up front, showed the redesign was roughly neutral overall, with a real but modest lift for mobile visitors specifically and a small loss for desktop. Neither test was dishonest. The first one was just answering a different, narrower question than the team thought it was asking, and calling it a general win overstated what it had actually shown.</p>
+        <p>That is the pattern behind most A/B testing mistakes: not bad intentions, but a process loose enough to let a real but narrow result get reported as a bigger and more permanent one than the data supports. Our work on <a href="/services/conversion-rate-optimisation-services.html">conversion rate optimisation</a> starts by tightening exactly that process, sample size, run length and segmentation agreed before a single visitor sees a variant, because the fix is cheaper before a test launches than after a false winner has already shaped the roadmap.</p>
+
+        <h2>A pre-launch checklist. <em>Five questions to answer before a test goes live.</em></h2>
+        <ul>
+          <li><strong>What is the hypothesis, in one sentence?</strong> Rooted in a specific piece of evidence, not a preference.</li>
+          <li><strong>What sample size and run length end the test?</strong> Calculated in advance, from current traffic and conversion rate.</li>
+          <li><strong>Is exactly one meaningful variable changing?</strong> Or is this a bundled test that needs a single-variable follow-up.</li>
+          <li><strong>Have both variants been QA'd on the devices real traffic actually uses?</strong> Not just the one on the designer's desk.</li>
+          <li><strong>Which segments will the result get checked against?</strong> New versus returning, and device, at minimum, before the result gets generalised.</li>
+        </ul>
+        <p>None of this replaces judgement, and a small business without the traffic for classic significance testing still has good options, <a href="/blog/using-heatmaps-for-cro.html">heatmaps and session recordings</a> read a page's problems without needing thousands of visitors first. What the checklist does is make sure that whichever method is used, the result that reaches the roadmap is the one the data actually supports, not the one the team was hoping to see. Our broader guide to <a href="/blog/how-to-calculate-conversion-rate.html">calculating conversion rate</a> covers the maths underneath the significance calculation, for anyone building this into a testing programme from scratch.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>What is the single biggest A/B testing mistake?</summary><p>Peeking at results before the test has run its planned duration and stopping the moment the number looks good. Checking a live dashboard repeatedly and calling a winner the first time it crosses significance inflates the false-positive rate far above the five per cent a team thinks it is accepting, because each look is another chance for random noise to look like a real effect.</p></details>
+        <details><summary>How long should an A/B test run before you trust the result?</summary><p>Long enough to hit the sample size calculated before the test started, and at least one full business cycle, usually two full weeks, so weekday and weekend behaviour and any day-of-week effect are represented in both variants equally. Stopping early because a dashboard looks promising is how a temporary swing gets mistaken for a real result.</p></details>
+        <details><summary>Can you test more than one change on a page at the same time?</summary><p>Only if you are prepared not to know which change caused the result. A test that changes the headline, the button colour and the layout together might win, but a single-variable follow-up test is the only way to learn which change actually did the work, and that follow-up test is usually skipped once the first one looks successful.</p></details>
+        <details><summary>What sample size do you need for a reliable A/B test?</summary><p>Enough to detect the smallest lift worth acting on, calculated before the test starts from your current conversion rate, traffic volume and the minimum effect size that would justify shipping the change. A page converting at two per cent with a few hundred visitors a week will rarely reach a trustworthy sample inside a normal testing window, which rules out testing it as often as the roadmap wants to.</p></details>
+        <details><summary>Why did my A/B test show a winner that did not hold up later?</summary><p>Usually one of three reasons: the test was stopped as soon as it looked significant rather than at its planned end, the win was true for one segment, new visitors or mobile traffic, for example, but got averaged away across everyone, or a novelty effect from the change wore off once regular visitors stopped noticing it was different. Ron Kohavi's research at Microsoft found roughly a third of well-designed tests improve the target metric, a third are flat and a third are negative, so a result that does not replicate is the norm to plan for, not the exception.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based commercial growth, CRM and RevOps consultant.</p>
+
+      <div class="article-cta">
+        <h2>Not sure whether your last test result would survive a retest?</h2>
+        <p>Book a short call and we'll review your testing process, sample sizes and segmentation, so the wins you ship are the ones that actually hold up.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/conversion-rate-optimisation-services.html">Conversion rate optimisation services</a></li>
+          <li><a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a></li>
+          <li><a href="/blog/using-heatmaps-for-cro.html">Using heatmaps for CRO</a></li>
+          <li><a href="/blog/how-to-calculate-conversion-rate.html">How to calculate conversion rate</a></li>
+          <li><a href="/blog/conversion-rate-optimisation-strategies.html">Conversion rate optimisation strategies</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

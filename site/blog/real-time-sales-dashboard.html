@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Building a Real-Time Sales Dashboard | The Pearson Co.</title>
+  <meta name="description" content="What a real-time sales dashboard can actually show live, what always lags behind regardless, and how to pick a sensible refresh cadence for your team.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/real-time-sales-dashboard.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Building a Real-Time Sales Dashboard | The Pearson Co.">
+  <meta property="og:description" content="What a real-time sales dashboard can actually show live, what always lags behind regardless, and how to pick a sensible refresh cadence for your team.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/real-time-sales-dashboard.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/real-time-sales-dashboard.html#article",
+      "headline": "Building a real-time sales dashboard, honestly",
+      "description": "What a real-time sales dashboard can actually show live, what always lags behind regardless, and how to pick a sensible refresh cadence for your team.",
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/real-time-sales-dashboard.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/real-time-sales-dashboard.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/real-time-sales-dashboard.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "Building a real-time sales dashboard", "item": "https://thepearsonco.com/blog/real-time-sales-dashboard.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/real-time-sales-dashboard.html#faq",
+      "mainEntity": [
+        { "@type": "Question", "name": "Is a truly real-time sales dashboard possible?", "acceptedAnswer": { "@type": "Answer", "text": "Parts of it, yes. CRM-native fields such as a stage change or a newly logged activity can update within seconds using event-based features like Salesforce's Change Data Capture. Anything that depends on finance reconciliation, a separate billing system, or a scheduled data warehouse sync will always lag by minutes to a day, whatever the dashboard's refresh label claims." } },
+        { "@type": "Question", "name": "What is the difference between real-time and near-real-time dashboards?", "acceptedAnswer": { "@type": "Answer", "text": "Real-time means the number updates the moment the underlying event happens, typically through a webhook or an event stream. Near-real-time means it updates on a short, fixed schedule, every few minutes rather than instantly. For almost every sales use case, near-real-time at a five to fifteen minute cadence is indistinguishable in practice from true real-time, at a fraction of the engineering cost." } },
+        { "@type": "Question", "name": "How often does a sales dashboard actually need to refresh?", "acceptedAnswer": { "@type": "Answer", "text": "Match refresh cadence to the decision the number supports. A live pipeline view a sales manager checks hourly earns a short refresh window. A weekly trend line reviewed once in a Monday meeting does not, and refreshing it every few minutes only adds system load and cost for no behavioural benefit." } },
+        { "@type": "Question", "name": "Why do some dashboards claim to be real-time but feel out of date?", "acceptedAnswer": { "@type": "Answer", "text": "Usually because one part of the data pipeline, often a nightly data warehouse sync or a batch-imported dataset, refreshes far less often than the dashboard's front end suggests. The visual updates instantly; the number behind it might be a day old. That mismatch is more damaging to trust than an honestly labelled daily refresh." } },
+        { "@type": "Question", "name": "Does a small sales team need a real-time dashboard at all?", "acceptedAnswer": { "@type": "Answer", "text": "Rarely at the start. A daily or even twice-daily refresh covers almost every founder-led team's actual decision cadence. Build towards faster refresh only once a specific, named decision is being delayed by data lag, not because real-time sounds more impressive on a sales call." } }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>Building a real-time sales dashboard</span></nav>
+      <p class="article-eyebrow">Sales Reporting, Dashboards &amp; Forecasting</p>
+      <h1>Building a real-time sales dashboard. <em>Honestly, about what "real-time" actually means.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>9 October 2026<span class="dot"></span>8 min read</p>
+
+      <div class="answer-box">A real-time sales dashboard updates the moment an event happens in the CRM, using event-based features rather than a scheduled sync. Few sales teams actually need true real-time: a five to fifteen minute near-real-time refresh covers almost every decision, and anything touching finance or a separate system will lag regardless of what the dashboard's label promises.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>Most of what gets called "real-time" isn't, and that's usually fine.</em></h2>
+        <p>I'm Lauren Pearson, and "we need a real-time dashboard" is one of the most common requests I get from a founder who has just watched a competitor's product demo. It's worth pausing on what the word is actually doing in that sentence, because a genuinely real-time dashboard, one where the number on screen updates the instant the underlying event occurs, is a specific and sometimes expensive engineering choice, not a setting you tick in a BI tool. Most businesses that ask for it actually need something slightly different: a dashboard that refreshes often enough that nobody in the room is working from stale numbers. Those are not the same build, and conflating them is how a straightforward reporting project turns into a six-month integration headache.</p>
+        <p>This piece sits a level below our broader guide to <a href="/blog/executive-sales-dashboard.html">the executive sales dashboard</a> and the practical <a href="/blog/looker-studio-sales-dashboard.html">build walkthrough for Looker Studio</a>, both of which assume a working refresh cadence without asking what "live" should actually mean for your team. If you're still deciding what a sales dashboard even needs to show before worrying about how fast it updates, start with <a href="/blog/what-is-a-sales-dashboard.html">what a sales dashboard is</a> first.</p>
+        <p>The honest short answer: a handful of CRM-native fields, a stage change, a newly logged call, a record being created, can genuinely update within seconds using event-based platform features. Everything that depends on a separate finance system, a batch data warehouse sync, or a scheduled export will lag by minutes to a day no matter how the dashboard presents it. Deciding which category each metric falls into, before you build anything, is most of this job.</p>
+
+        <h2>How it works in practice. <em>Three ways data actually reaches a dashboard.</em></h2>
+        <p><b>Event-based, genuinely real-time.</b> The source system fires an event the moment something changes, and the dashboard's backend listens for it. Salesforce's Change Data Capture and Platform Events, and equivalent webhook features in HubSpot and most modern CRMs, do this well, typically delivering updates within seconds. This is the only category that deserves the word "real-time" without qualification, and it is also the most expensive to build and maintain, because it needs a listener service running continuously rather than a scheduled job.</p>
+        <p><b>Polling, or near-real-time.</b> The dashboard tool checks the source system on a short, fixed schedule, every one to fifteen minutes, and pulls whatever has changed. This is what most BI tools do by default and it is, in practice, indistinguishable from true real-time for almost every sales use case, because no sales manager is watching a pipeline figure update second by second. It is dramatically simpler to build and far cheaper to run.</p>
+        <p><b>Scheduled batch, not real-time at all.</b> A sync job runs on a fixed schedule, hourly, nightly, or tied to a licence limit. Microsoft's own Power BI documentation, for example, caps a dataset on a Pro licence at eight scheduled refreshes a day, rising to forty-eight on Premium capacity, a hard platform limit regardless of how urgently a team wants more. Any dashboard pulling from a system with a batch constraint like this cannot be real-time for that metric, and labelling it as such just sets an expectation the pipeline cannot meet.</p>
+        <div style="overflow-x:auto"><table>
+          <thead><tr><th>Approach</th><th>Typical lag</th><th>Best used for</th></tr></thead>
+          <tbody>
+            <tr><td>Event-based (true real-time)</td><td>Seconds</td><td>Deal-stage changes, new leads, live activity feeds</td></tr>
+            <tr><td>Polling (near-real-time)</td><td>1 to 15 minutes</td><td>Pipeline totals, dashboard tiles a manager checks hourly</td></tr>
+            <tr><td>Scheduled batch</td><td>Hours to a day</td><td>Revenue reconciled against finance, cross-system reporting</td></tr>
+          </tbody>
+        </table></div>
+        <p>Most working sales dashboards blend all three without anyone noticing, which is exactly where trust quietly breaks. A pipeline count ticking up live next to a revenue figure that's actually a day old, both displayed with the same visual confidence, teaches a team to either distrust the whole dashboard or, worse, trust the stale number as much as the live one.</p>
+
+        <h2>What good looks like. <em>Matching refresh cadence to the decision, not the demo.</em></h2>
+        <p>The teams that get this right start from the decision, not the technology. A sales manager scanning the pipeline every hour to decide where to spend the next call genuinely benefits from a near-real-time view, because the cost of acting on a slightly stale number is a wasted call, which is cheap. A board reviewing quarterly revenue once a month gets no practical benefit from second-by-second updates, and building for it anyway usually means paying for infrastructure that sits idle between the one review it was built for.</p>
+        <p>Here's a worked scenario, illustrative rather than a specific client result, of how this plays out. A 40-person SaaS sales team asked for "a real-time dashboard" after losing a deal where two reps had unknowingly been working the same account for a week. The actual problem wasn't refresh speed, it was that lead assignment happened on a nightly batch sync, so a new inbound lead could sit unassigned, and visible to nobody, for up to 18 hours. Moving just that one trigger, lead assignment, onto the CRM's event-based automation closed the real gap. The rest of the dashboard, pipeline value, stage counts, revenue trend, stayed on a fifteen-minute polling refresh, because nothing about those numbers needed to be faster, and building true real-time across the whole thing would have cost far more than the one fix that actually mattered.</p>
+        <p>That's the judgement call this comes down to: identify the one or two metrics where lag genuinely causes a bad decision, and build real-time infrastructure for those specifically. Leave everything else on the simplest refresh cadence that still feels current to the person using it. A <a href="/services/sales-dashboards.html">dashboard built around how your team actually sells</a> starts from that list of decisions, not from a generic speed target.</p>
+
+        <h2>Pitfalls to avoid. <em>Where "real-time" projects overspend or mislead.</em></h2>
+        <p>The first pitfall is building event-based infrastructure for a metric nobody checks more than once a day. It's the most expensive option on the table, and it's wasted the moment the person it was built for only opens the dashboard each morning.</p>
+        <p>The second is letting the front end imply more freshness than the data pipeline actually delivers. A dashboard that visually refreshes every few seconds but pulls from a system that only syncs once a night is not real-time, it's a live-looking display of stale data, and the gap between the two is where trust in the whole dashboard quietly erodes.</p>
+        <p>The third is treating "real-time" as a single setting rather than a per-metric decision. Pipeline stage, revenue recognition, and marketing attribution rarely need the same refresh speed, and building the whole dashboard to the fastest requirement inflates cost for metrics that never needed it.</p>
+        <p>The fourth is skipping the question of what happens when the live feed breaks. An event-based pipeline that occasionally drops an update needs a reconciliation job running underneath it to catch anything missed, or the dashboard will silently drift from the CRM's actual state with no obvious signal that it's happened. A true real-time dashboard without that safety net is more fragile than a slower one that's always right.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>Is a truly real-time sales dashboard possible?</summary><p>Parts of it, yes. CRM-native fields such as a stage change or a newly logged activity can update within seconds using event-based features like Salesforce's Change Data Capture. Anything that depends on finance reconciliation, a separate billing system, or a scheduled data warehouse sync will always lag by minutes to a day, whatever the dashboard's refresh label claims.</p></details>
+        <details><summary>What is the difference between real-time and near-real-time dashboards?</summary><p>Real-time means the number updates the moment the underlying event happens, typically through a webhook or an event stream. Near-real-time means it updates on a short, fixed schedule, every few minutes rather than instantly. For almost every sales use case, near-real-time at a five to fifteen minute cadence is indistinguishable in practice from true real-time, at a fraction of the engineering cost.</p></details>
+        <details><summary>How often does a sales dashboard actually need to refresh?</summary><p>Match refresh cadence to the decision the number supports. A live pipeline view a sales manager checks hourly earns a short refresh window. A weekly trend line reviewed once in a Monday meeting does not, and refreshing it every few minutes only adds system load and cost for no behavioural benefit.</p></details>
+        <details><summary>Why do some dashboards claim to be real-time but feel out of date?</summary><p>Usually because one part of the data pipeline, often a nightly data warehouse sync or a batch-imported dataset, refreshes far less often than the dashboard's front end suggests. The visual updates instantly; the number behind it might be a day old. That mismatch is more damaging to trust than an honestly labelled daily refresh.</p></details>
+        <details><summary>Does a small sales team need a real-time dashboard at all?</summary><p>Rarely at the start. A daily or even twice-daily refresh covers almost every founder-led team's actual decision cadence. Build towards faster refresh only once a specific, named decision is being delayed by data lag, not because real-time sounds more impressive on a sales call.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based commercial growth, CRM and RevOps consultant.</p>
+
+      <div class="article-cta">
+        <h2>Not sure which metrics actually need to be live?</h2>
+        <p>Send me your current dashboard and I'll tell you honestly which numbers are worth the engineering, and which ones just need an honest refresh label.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>↗</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/sales-dashboards.html">Sales dashboard services</a></li>
+          <li><a href="/blog/executive-sales-dashboard.html">The executive sales dashboard, explained</a></li>
+          <li><a href="/blog/looker-studio-sales-dashboard.html">A sales dashboard in Looker Studio</a></li>
+          <li><a href="/blog/crm-dashboard-metrics.html">CRM dashboard metrics worth tracking</a></li>
+          <li><a href="/blog/what-is-a-sales-dashboard.html">What is a sales dashboard?</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

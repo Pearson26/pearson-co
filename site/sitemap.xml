@@ -370,7 +370,11 @@
   </url>
   <url>
     <loc>https://thepearsonco.com/blog/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://thepearsonco.com/blog/launch-readiness.html</loc>
+    <lastmod>2026-10-16</lastmod>
   </url>
   <url>
     <loc>https://thepearsonco.com/blog/lead-management-process-steps.html</loc>
@@ -541,6 +545,10 @@
     <lastmod>2026-10-12</lastmod>
   </url>
   <url>
+    <loc>https://thepearsonco.com/blog/revops-reporting.html</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
     <loc>https://thepearsonco.com/blog/revops-roles-explained.html</loc>
     <lastmod>2026-07-29</lastmod>
   </url>
@@ -599,6 +607,10 @@
   <url>
     <loc>https://thepearsonco.com/blog/sales-led-go-to-market.html</loc>
     <lastmod>2026-09-21</lastmod>
+  </url>
+  <url>
+    <loc>https://thepearsonco.com/blog/sales-manager-dashboard.html</loc>
+    <lastmod>2026-10-16</lastmod>
   </url>
   <url>
     <loc>https://thepearsonco.com/blog/sales-operations-best-practices.html</loc>
@@ -778,7 +790,7 @@
   </url>
   <url>
     <loc>https://thepearsonco.com/privacy.html</loc>
-    <lastmod>2026-07-18</lastmod>
+    <lastmod>2026-07-19</lastmod>
   </url>
   <url>
     <loc>https://thepearsonco.com/services/b2b-conversion-rate-optimisation.html</loc>

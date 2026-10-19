@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Figma Journey Map: Build It Properly | The Pearson Co.</title>
+  <meta name="description" content="How to build a customer journey map in Figma: the FigJam structure that works, the clutter traps, and why the template is a starting frame, not the map.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/figma-customer-journey-map.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Figma Journey Map: Build It Properly | The Pearson Co.">
+  <meta property="og:description" content="How to build a customer journey map in Figma: the FigJam structure that works, the clutter traps, and why the template is a starting frame, not the map.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/figma-customer-journey-map.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/figma-customer-journey-map.html#article",
+      "headline": "Building a customer journey map in Figma",
+      "description": "How to build a customer journey map in Figma: the FigJam structure that works, the clutter traps, and why the template is a starting frame, not the map.",
+      "datePublished": "2026-10-19",
+      "dateModified": "2026-10-19",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/figma-customer-journey-map.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/figma-customer-journey-map.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/figma-customer-journey-map.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "Building a customer journey map in Figma", "item": "https://thepearsonco.com/blog/figma-customer-journey-map.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/figma-customer-journey-map.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does Figma have a built-in customer journey mapping feature?",
+          "acceptedAnswer": { "@type": "Answer", "text": "No. Figma itself is interface design software. The journey mapping work happens in FigJam, Figma's separate whiteboard product, using a frame styled with lanes and stages rather than a purpose-built mapping feature. Figma's own resource library offers a free FigJam template to start from, which is useful scaffolding rather than a finished tool." }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I use Figma's own journey map template or build from a blank board?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Start from the template if your team is new to FigJam; it saves time setting up lanes and stages. Strip every example sticky note and stage name that does not match your own research before the first working session, and agree a colour legend with contributors first, otherwise the template's placeholder content and inconsistent colour use are what end up in the final board." }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Figma or FigJam better for mapping a customer journey?",
+          "acceptedAnswer": { "@type": "Answer", "text": "FigJam. Figma is built for interface design; FigJam is the whiteboard product built for exactly this kind of collaborative mapping, with sticky notes, stamps and comment threads a journey map actually needs. If your team already has a component library in Figma, it can be copied into FigJam, but the mapping itself happens on the whiteboard." }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I stop a Figma journey map turning into clutter?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Fix the lane structure to five or six categories before anyone adds content, agree a colour legend on a pinned frame first, and keep each sticky note to a short phrase rather than a paragraph. Anything that needs more explanation belongs in a linked document, not on the board itself." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a journey map built in FigJam be updated after launch, or is it a one-off?",
+          "acceptedAnswer": { "@type": "Answer", "text": "It should be a living document with a named owner, not a one-off. Boards left untouched after the initial workshop go stale within a couple of quarters as the product, pricing or support process moves on. Revisit it on a fixed cadence, quarterly is reasonable for most teams, rather than waiting for a new initiative to force a rebuild." }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the difference between a journey map built in a workshop and one built solo in Figma?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A solo-built map reflects one person's assumptions, however well researched. A workshop-built map, even when the output still lives in a FigJam board afterwards, forces evidence to be argued out loud by the people who actually hold it, support, sales, real customers, which is where most of a map's accuracy actually comes from." }
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>Building a customer journey map in Figma</span></nav>
+      <p class="article-eyebrow">Customer journey mapping</p>
+      <h1>Building a customer journey map in Figma. <em>Why the whiteboard matters more than the template.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>19 October 2026<span class="dot"></span>10 min read</p>
+
+      <div class="answer-box">Building a customer journey map in Figma means working in FigJam, Figma's whiteboard product, not a dedicated journey mapping feature. The template gives you a starting frame of lanes and stages; the real advantage is real-time co-editing with stakeholders, not the template itself. Strip the generic content before you fill it with your own evidence.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>FigJam is the tool, not Figma itself.</em></h2>
+        <p>I'm Lauren Pearson, and when a client says they want to "build the journey map in Figma," they almost always mean FigJam, Figma's separate whiteboard product built for exactly this kind of collaborative, work-in-progress mapping. Figma's own design canvas is for interface screens; FigJam is where teams actually run a customer journey map. Figma maintains a free template in its resource library that lays out the standard stages-across-the-top, lanes-down-the-side structure, and it is a reasonable starting frame, provided you treat it as scaffolding to strip, not content to fill in verbatim.</p>
+        <p>That distinction matters more than it sounds. Our guide to <a href="/blog/free-customer-journey-mapping-tools.html">free customer journey mapping tools</a> makes the point that the tool was never the real bottleneck, and that still holds here. Figma does not make a bad map good. What it does genuinely offer, better than a static document or a spreadsheet, is a canvas several people can edit at the same time, in the same room or across time zones, which is the actual reason to pick it over a template built in <a href="/blog/customer-journey-map-template-excel.html">Excel</a> or a slide deck.</p>
+
+        <h2>How it works in practice. <em>Set the structure before anyone adds a sticky.</em></h2>
+        <p>Start with the frame, not the content. Lay stages across the top exactly as your research defines them, not however many the template happened to ship with, and keep the lanes down the side to a short, fixed list: customer goal, actions, touchpoints, emotional state, pain points, and an opportunity column with an owner's name against it. Five or six lanes is usually the ceiling; past that, the board becomes too wide to read in one pass, which defeats the point of a canvas over a document.</p>
+        <p>Pin a legend to the canvas before the first sticky note goes down if more than one person will be adding to it: which colour means what, what a red stamp means versus an amber one, which section is evidence and which is a hypothesis still to test. FigJam gives every contributor their own colour automatically, which is useful for seeing who added what, but it will not stop five people inventing five different private colour codes for emotion or priority unless you agree one first.</p>
+        <p>The genuine advantage of building this in FigJam rather than a static document is the live, multiplayer session itself. Run it as a working session with the people who hold the evidence, support, sales, a handful of actual customers if you can get them in the room, rather than building it alone from notes and sending it round for comments afterwards. Our guide to <a href="/blog/how-to-run-a-journey-mapping-workshop.html">running a journey mapping workshop</a> covers that session in detail; this piece is specifically about the canvas you build it on, not the agenda for the room.</p>
+        <p>Attach evidence to the board as you go rather than after. FigJam's comment threads and sticky notes both support this: a pain point on the map should link, even informally, to the support ticket, the quote, or the data point that justified putting it there. A journey map built entirely from assumption looks identical to one built on evidence until someone asks where a claim came from, and by then the file has usually already been shared with a client or a leadership team.</p>
+        <p>Name the file properly and keep it in a findable project from the start: "Customer journey map, onboarding, v2, March 2026" beats "Untitled" or a generic "Journey mapping" title buried in someone's personal drafts within a week. Teams that skip this step end up with three half-finished boards scattered across different people's files, each slightly out of date, because nobody could find the original to keep working on it. Use FigJam's version history to mark the point a map was last reviewed with stakeholders, rather than relying on memory for which version is current.</p>
+        <p>Not everyone who needs to see the map has, or wants, a Figma seat, and that is fine. Share a view-only link for stakeholders outside the working session rather than asking them to create an account, and flatten the finished board to an image for a slide deck or a client pack once it has stabilised. Keep the live FigJam file as the working version that actually gets updated, and treat any exported copy as a snapshot dated the day it was taken, not the current source of truth; a PDF pasted into a deck six months ago is the single most common reason a team argues from an outdated version of its own map.</p>
+
+        <h2>What good looks like. <em>A map someone outside the room can still read.</em></h2>
+        <p>The test of a good Figma journey map is not whether it looks finished. It is whether someone who was not in the room can read across a single stage, in order, and understand what the customer is doing, feeling, and running into, without asking you to talk them through it. That means consistent lane order across every stage, short sticky notes rather than paragraphs (if a note needs three sentences, it belongs in a linked document, not on the board), and emotional state shown as a simple line or face icon rather than another block of text. A dip in that line does more to get a stakeholder's attention in a review than a sticky note saying "customer is frustrated here" ever will.</p>
+        <p>Our worked <a href="/blog/customer-journey-map-example-b2b.html">B2B customer journey map example</a> shows this structure applied to a committee sale; the lane structure holds regardless of whether you are mapping one customer or a buying group, because the discipline is the same: fewer lanes, consistent order, evidence attached, and a line for emotion that a glance can read.</p>
+        <p>Resist the temptation to make the board look finished before it is accurate. A visually polished FigJam map with rounded frames, a consistent colour palette and neatly aligned stickies can hide the fact that half the content is still a guess, and a tidy board tends to get challenged less in review than a messy one, which is exactly the wrong outcome. Leave the hypothesis stickies visibly rough, grey and unstyled is fine, until the evidence to support them actually exists, so a reviewer can tell at a glance what is proven and what still needs testing. Polish the board's formatting only once the content behind it has actually been checked, not before, whatever deadline is pushing the other way.</p>
+
+        <h2>A worked scenario. <em>Where five colour codes nearly derailed a map.</em></h2>
+        <p>A hospitality technology team's FigJam session I sat in on opened a board to five contributors at once with no legend agreed first. Each one had their own idea of what a yellow sticky meant: one used it for "needs more research," another for "customer quote," a third for "disagree with this." By the second working session, the board had become unreadable, not because the mapping was bad, but because nobody could tell the difference between an evidence-backed pain point and someone's unverified hunch. We stopped, agreed a four-colour legend on a single frame pinned to the top-left of the board (pink for a customer quote, amber for a pain point, grey for a hypothesis to test, green for an agreed action), and re-tagged everything in under fifteen minutes. The map was usable again by the end of that session.</p>
+        <p>This is an illustrative pattern I've seen across several teams' first FigJam sessions, not one named client, but the fifteen-minute fix works regardless of which team or industry is doing the mapping. The decision rule that came out of it: pin the legend before the first sticky goes down, not after the board already needs cleaning up.</p>
+
+        <h2>Pitfalls to avoid. <em>Where Figma journey maps go wrong.</em></h2>
+        <p>Filling the template literally rather than stripping it is the most common failure. Stage names, lane labels and even sample sticky notes that nobody edited stay in the final board, because nobody wanted to be the one to delete someone else's placeholder text.</p>
+        <p>Building it solo is the second. The whole point of FigJam is the live, multiplayer session; a map built alone from notes and shared afterwards for comments gets comments, not the argument-it-out-loud that actually improves a map.</p>
+        <p>Letting the board sprawl is the third. Boards that keep growing sideways because "we'll just add another stage" lose the one-pass readability that makes a whiteboard better than a document in the first place.</p>
+        <p>Treating it as a one-off build is the fourth. A map built once for a launch and never opened again goes stale within two quarters. Name an owner who revisits it, the same person named in the opportunity column, not a shared folder nobody checks.</p>
+        <p>And picking Figma because it is fashionable rather than because the team already uses it is the one that costs the most time. If nobody on the team has ever opened Figma, the learning curve costs more than the multiplayer canvas saves, and a shared document or our <a href="/blog/customer-journey-map-template-excel.html">Excel template</a> will get finished faster.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>Does Figma have a built-in customer journey mapping feature?</summary><p>No. Figma itself is interface design software. The journey mapping work happens in FigJam, Figma's separate whiteboard product, using a frame styled with lanes and stages rather than a purpose-built mapping feature. Figma's own resource library offers a free FigJam template to start from, which is useful scaffolding rather than a finished tool.</p></details>
+        <details><summary>Should I use Figma's own journey map template or build from a blank board?</summary><p>Start from the template if your team is new to FigJam; it saves time setting up lanes and stages. Strip every example sticky note and stage name that does not match your own research before the first working session, and agree a colour legend with contributors first, otherwise the template's placeholder content and inconsistent colour use are what end up in the final board.</p></details>
+        <details><summary>Is Figma or FigJam better for mapping a customer journey?</summary><p>FigJam. Figma is built for interface design; FigJam is the whiteboard product built for exactly this kind of collaborative mapping, with sticky notes, stamps and comment threads a journey map actually needs. If your team already has a component library in Figma, it can be copied into FigJam, but the mapping itself happens on the whiteboard.</p></details>
+        <details><summary>How do I stop a Figma journey map turning into clutter?</summary><p>Fix the lane structure to five or six categories before anyone adds content, agree a colour legend on a pinned frame first, and keep each sticky note to a short phrase rather than a paragraph. Anything that needs more explanation belongs in a linked document, not on the board itself.</p></details>
+        <details><summary>Can a journey map built in FigJam be updated after launch, or is it a one-off?</summary><p>It should be a living document with a named owner, not a one-off. Boards left untouched after the initial workshop go stale within a couple of quarters as the product, pricing or support process moves on. Revisit it on a fixed cadence, quarterly is reasonable for most teams, rather than waiting for a new initiative to force a rebuild.</p></details>
+        <details><summary>What's the difference between a journey map built in a workshop and one built solo in Figma?</summary><p>A solo-built map reflects one person's assumptions, however well researched. A workshop-built map, even when the output still lives in a FigJam board afterwards, forces evidence to be argued out loud by the people who actually hold it, support, sales, real customers, which is where most of a map's accuracy actually comes from.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based commercial growth, CRM and RevOps consultant.</p>
+
+      <div class="article-cta">
+        <h2>Got a FigJam board that's turned into clutter?</h2>
+        <p>Send me the link and I'll help you cut it back to a structure someone outside the room can actually read.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/customer-journey-mapping.html">Customer journey mapping services</a></li>
+          <li><a href="/services/growth-consulting.html">Growth consulting</a></li>
+          <li><a href="/blog/free-customer-journey-mapping-tools.html">Free customer journey mapping tools</a></li>
+          <li><a href="/blog/customer-journey-map-template-excel.html">A customer journey map template in Excel</a></li>
+          <li><a href="/blog/how-to-run-a-journey-mapping-workshop.html">How to run a journey mapping workshop</a></li>
+          <li><a href="/blog/customer-journey-map-example-b2b.html">A B2B customer journey map example</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RevOps Integration: Connect Your Systems | The Pearson Co.</title>
+  <meta name="description" content="RevOps systems integration, explained: what to connect first, one-way vs two-way syncs, who owns the map, and the mistakes that make it rot over time.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/revops-systems-integration.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="RevOps Integration: Connect Your Systems | The Pearson Co.">
+  <meta property="og:description" content="RevOps systems integration, explained: what to connect first, one-way vs two-way syncs, who owns the map, and the mistakes that make it rot over time.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/revops-systems-integration.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/revops-systems-integration.html#article",
+      "headline": "RevOps integration",
+      "description": "RevOps systems integration explained: what to connect first, one-way vs two-way syncs, who should own the map, and the mistakes that make it rot.",
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.svg"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/revops-systems-integration.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/revops-systems-integration.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/revops-systems-integration.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "RevOps integration", "item": "https://thepearsonco.com/blog/revops-systems-integration.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/revops-systems-integration.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does RevOps systems integration actually mean?",
+          "acceptedAnswer": { "@type": "Answer", "text": "It means connecting the systems a revenue team runs on, usually the CRM, marketing automation, billing and a reporting tool, so data moves between them automatically and one system is treated as the source of truth for each type of record. It is a data-ownership exercise first, a technical build second." }
+        },
+        {
+          "@type": "Question",
+          "name": "Which tools usually need to be integrated in a RevOps stack?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Most commonly the CRM, a marketing automation or email tool, a billing or subscription platform, a support or success tool, and a BI or dashboarding layer. Zapier's 2025 State of RevOps Automation report found 86% of surveyed RevOps professionals use Salesforce, yet 22% also run HubSpot and 5% run Pipedrive, which shows how often more than one system sits in the same stack even before marketing, billing and support are counted." }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I use an iPaaS tool like Zapier or Workato, or build native integrations?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Native integrations are usually more reliable for the two or three systems you will never replace, such as the CRM and billing platform. An iPaaS layer earns its cost once you are maintaining more than four or five connections, because it centralises the logic in one place instead of scattering it across each tool's own settings." }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a RevOps integration project usually take?",
+          "acceptedAnswer": { "@type": "Answer", "text": "A single, well-scoped connection, such as marketing automation to CRM, typically takes two to four weeks including testing. A full stack of four or five systems usually takes a quarter if it is sequenced properly, starting with the highest-friction gap rather than attempting everything at once." }
+        },
+        {
+          "@type": "Question",
+          "name": "Who should own integrations once they are live?",
+          "acceptedAnswer": { "@type": "Answer", "text": "One named person, usually in RevOps, who maintains a current map of every connection, gets notified when one breaks, and reviews it whenever a system is added, removed or changes its data model. Integrations built with no owner tend to quietly stop working within a year and nobody notices until a report looks wrong." }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the first system to integrate if I can only start with one?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Connect the CRM to whichever system creates the most leads or deals that currently get entered by hand, usually marketing automation or a lead form. That single connection removes the most manual data entry and the most common source of duplicate or stale records." }
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.svg" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
+            <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Let's talk</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>RevOps integration</span></nav>
+      <p class="article-eyebrow">Revenue Operations (RevOps)</p>
+      <h1>RevOps integration. <em>Making the systems actually talk to each other.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>30 October 2026<span class="dot"></span>7 min read</p>
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson</a>, Founder of The Pearson Co., a CRM and RevOps consultant for founder-led teams. More on her background at <a href="/#about">the about section</a>.</p>
+
+      <div class="answer-box">RevOps systems integration means connecting the CRM, marketing automation, billing and reporting tools so data moves between them without manual exports, and one system is agreed as the source of truth for each type of record. It is a data-ownership decision first, a technical build second.</div>
+
+      <div class="prose">
+        <h2>The short answer on RevOps integration. <em>It is a data-ownership problem first.</em></h2>
+        <p>RevOps integration gets treated as a software problem, pick the right connector, map the right fields, and the rest follows. In practice, the technical part is the easy part. The decision that actually determines whether an integration works a year from now is which system owns each piece of data and what happens when two systems disagree about it. A CRM and a billing platform will eventually show a different number for the same customer. The integration either has a rule for which one wins, or it quietly produces two versions of the truth that nobody notices until a board report does not add up.</p>
+        <p>Zapier's 2025 State of RevOps Automation report, based on a survey of more than 450 US-based RevOps professionals, found that 86% use Salesforce, yet 22% also run HubSpot and 5% run Pipedrive inside the same organisations. Multiple CRMs in the same company is more common than most founders assume, and that is before marketing automation, billing, support and a BI layer are added to the picture. The report also found that most respondents solve operational problems by combining several types of automation tools rather than relying on one system to do everything, which is the reality any integration plan has to work with rather than wish away.</p>
+        <p>This matters commercially, not just operationally. Our <a href="/services/revenue-operations.html">revenue operations</a> work exists because a growing company's systems stop talking to each other well before anyone decides to fix it on purpose, usually once there are enough tools that no single person set all of them up. By the time a founder notices the problem, it typically shows up as a trust issue rather than a technical one: the board stops believing the pipeline number, a new hire gets a different answer depending which system they check, and marketing and sales argue about which list of leads is current. Integration is the unglamorous fix underneath most of those arguments.</p>
+
+        <h2>How it works in practice. <em>Three layers, and where teams get stuck.</em></h2>
+        <h3>The system of record</h3>
+        <p>One system is authoritative for each entity: the CRM for deal and contact data, the billing platform for revenue and subscription status, the support tool for ticket history. Our <a href="/blog/revops-and-crm.html">guide to RevOps and your CRM</a> covers how the CRM specifically earns that role for customer data, but the same logic has to extend to every other system before integration can start, otherwise there is nothing for the connections to agree on.</p>
+        <h3>The connective layer</h3>
+        <p>This is where most teams get stuck, choosing between point-to-point connections built inside each tool's own settings, or a dedicated iPaaS layer such as Zapier, Workato or Make that centralises the logic in one place. Point-to-point is cheap and quick for one or two connections. Past four or five, it becomes a tangle nobody can map, because the logic for what triggers what lives in a different tool each time, and a single field rename can break three connections silently.</p>
+        <table>
+          <thead><tr><th>Approach</th><th>Best for</th><th>Where it breaks</th></tr></thead>
+          <tbody>
+            <tr><td>Point-to-point, built inside each tool</td><td>One or two connections, a small stack, a tight budget</td><td>Logic scattered across tools; nobody can see the whole map in one place</td></tr>
+            <tr><td>iPaaS layer (Zapier, Workato, Make)</td><td>Four or more connections, or logic that needs conditions and branching</td><td>Ongoing subscription cost; still needs a named owner or it drifts</td></tr>
+            <tr><td>Native, vendor-built integration</td><td>The two or three systems you will never replace, like the CRM and billing platform</td><td>Limited to whatever fields the vendor chose to support</td></tr>
+          </tbody>
+        </table>
+        <h3>The reporting layer</h3>
+        <p>A dashboard or BI tool should pull from the agreed system of record, not recalculate its own version of a number the CRM already owns. The second a spreadsheet or BI tool starts applying its own adjustment to a figure like ARR "to make it more accurate," you have two truths again, and whichever one a given stakeholder saw first is the one they will defend in the next meeting.</p>
+
+        <h2>What it costs. <em>Time matters more than the invoice.</em></h2>
+        <p>The tools themselves are rarely the expensive part. A mid-market iPaaS subscription runs a few hundred dollars a month, and most CRM and billing platforms include a native integration with at least one other common tool at no extra cost. The real cost is the time spent agreeing data ownership before anything gets built, and the ongoing time spent maintaining the connection once it is live. Teams that budget for the build and skip budgeting for the maintenance are the ones whose integrations quietly stop working a year in, usually after a field gets renamed or a plan gets upgraded and nobody checks whether the old mapping still holds.</p>
+        <p>A realistic rule of thumb: for every week spent building a connection, plan for roughly the same amount of time, spread across the following year, keeping it working. That is not a reason to avoid integration. It is a reason to integrate the highest-friction gap properly rather than every gap cheaply, and to say no to a connection that saves ten minutes a week if nobody is going to own it.</p>
+
+        <h2>What good integration looks like. <em>Four signs it is actually working.</em></h2>
+        <ul>
+          <li><strong>One named owner per data type.</strong> Not a team, a person, who can say in one sentence which system wins when two disagree, and who is the first call when a number looks wrong.</li>
+          <li><strong>Near real-time, one-direction flow for anything that matters operationally.</strong> A new lead should land in the CRM within minutes, not overnight via a manual CSV export that someone has to remember to run.</li>
+          <li><strong>A written map of every connection.</strong> What triggers it, what it updates, and who to call when it breaks, kept somewhere other than one person's memory or an old onboarding document nobody has opened since.</li>
+          <li><strong>Someone reviews it when anything changes.</strong> A new tool, a renamed field, a plan upgrade, or a departing employee who built the original Zap should trigger a review, not a surprise six months later when a report quietly stops updating.</li>
+        </ul>
+        <p>None of these four signs require a dedicated integrations engineer. On a founder-led team, this is usually one person's part-time responsibility, often the same person who owns the CRM, and the job is less about writing code than about noticing when a connection has gone quiet and knowing who to ask.</p>
+
+        <h2>Where this goes wrong in practice. <em>A stack that technically worked and still misled the board.</em></h2>
+        <p>A founder-led SaaS company I worked with, illustrative rather than a named result, had three systems reporting monthly recurring revenue: the CRM, the billing platform and a finance spreadsheet that the finance lead quietly adjusted by hand each month "to true it up." Each number was defensible on its own. None of them matched, and the gap between the CRM's view and the finance spreadsheet's view ran as high as 18% depending on which week of the month someone pulled the figure. The fix was not a better integration tool. It was a decision: billing became the single source of truth for recognised revenue, the CRM's own revenue field was set to pull from billing rather than being entered separately by reps, and the finance spreadsheet's manual adjustment process was retired entirely. The sync itself took an afternoon. Agreeing which system got to be right took three meetings, which is the more usual ratio for this kind of project than most teams expect going in.</p>
+
+        <h2>Pitfalls to avoid. <em>Where integration projects usually go wrong.</em></h2>
+        <ul>
+          <li><strong>Integrating everything at once instead of the highest-friction gap first.</strong> The lead-to-CRM gap is almost always worth fixing before anything else, because it is the one manual step every rep feels daily, and fixing it first builds the case for funding the rest.</li>
+          <li><strong>Building the connection before agreeing which system wins on conflict.</strong> Skipping this step is why two-way syncs so often end up in update loops, where each system keeps "correcting" the other and a field value flips back and forth until someone notices.</li>
+          <li><strong>No owner once the initial build is finished.</strong> An integration with nobody responsible for it tends to survive the first system upgrade and fail quietly on the second, usually discovered only when a quarterly report does not match what the sales team already knew.</li>
+          <li><strong>Choosing two-way sync where one-way would do.</strong> Two-way sync is more fragile and only worth the added complexity when both systems genuinely need to write to the same field; most integrations do not.</li>
+          <li><strong>Treating the integration as a one-off project rather than a standing part of the RevOps function.</strong> Tools get added, upgraded and retired constantly on a growing team, and an integration map that is never revisited falls out of date faster than most founders expect.</li>
+        </ul>
+        <p>None of this requires an enterprise budget. It requires sequencing: agree ownership, fix the highest-friction manual step first, document what you built, and name who maintains it. Teams that skip straight to tool selection usually end up rebuilding the same integration eighteen months later, for the same reason it failed the first time, having spent the time in between wondering why the dashboard and the sales team never seem to agree on the pipeline number.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>What does RevOps systems integration actually mean?</summary><p>It means connecting the systems a revenue team runs on, usually the CRM, marketing automation, billing and a reporting tool, so data moves between them automatically and one system is treated as the source of truth for each type of record. It is a data-ownership exercise first, a technical build second.</p></details>
+        <details><summary>Which tools usually need to be integrated in a RevOps stack?</summary><p>Most commonly the CRM, a marketing automation or email tool, a billing or subscription platform, a support or success tool, and a BI or dashboarding layer. Zapier's 2025 State of RevOps Automation report found 86% of surveyed RevOps professionals use Salesforce, yet 22% also run HubSpot and 5% run Pipedrive, which shows how often more than one system sits in the same stack even before marketing, billing and support are counted.</p></details>
+        <details><summary>Should I use an iPaaS tool like Zapier or Workato, or build native integrations?</summary><p>Native integrations are usually more reliable for the two or three systems you will never replace, such as the CRM and billing platform. An iPaaS layer earns its cost once you are maintaining more than four or five connections, because it centralises the logic in one place instead of scattering it across each tool's own settings.</p></details>
+        <details><summary>How long does a RevOps integration project usually take?</summary><p>A single, well-scoped connection, such as marketing automation to CRM, typically takes two to four weeks including testing. A full stack of four or five systems usually takes a quarter if it is sequenced properly, starting with the highest-friction gap rather than attempting everything at once.</p></details>
+        <details><summary>Who should own integrations once they are live?</summary><p>One named person, usually in RevOps, who maintains a current map of every connection, gets notified when one breaks, and reviews it whenever a system is added, removed or changes its data model. Integrations built with no owner tend to quietly stop working within a year and nobody notices until a report looks wrong.</p></details>
+        <details><summary>What is the first system to integrate if I can only start with one?</summary><p>Connect the CRM to whichever system creates the most leads or deals that currently get entered by hand, usually marketing automation or a lead form. That single connection removes the most manual data entry and the most common source of duplicate or stale records.</p></details>
+      </section>
+
+      <div class="article-cta">
+        <h2>Not sure which system should win when yours disagree?</h2>
+        <p>Send me your current stack and I'll tell you where the first integration should go, and which system needs to become the source of truth before anything gets connected.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/revenue-operations.html">Revenue operations</a></li>
+          <li><a href="/services/revops-consulting.html">RevOps consulting</a></li>
+          <li><a href="/blog/revops-and-crm.html">RevOps and your CRM</a></li>
+          <li><a href="/blog/revops-data-management.html">RevOps data management</a></li>
+          <li><a href="/blog/revops-framework.html">A RevOps framework, explained</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

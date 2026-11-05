@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 90" role="img" aria-labelledby="title">
-  <title id="title">The Pearson Co.</title>
-  <text x="230" y="52" text-anchor="middle" fill="#B784A7" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="3">THE PEARSON CO.</text>
-  <line x1="32" y1="66" x2="428" y2="66" stroke="#d9b5c6" stroke-width="1"/>
-  <text x="230" y="84" text-anchor="middle" fill="#B784A7" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="4">COMMERCIAL GROWTH &amp; EXPANSION</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 112" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">The Pearson Co. Consultancy</title>
+  <text x="6" y="60" text-anchor="start" fill="#B784A7" font-family="'Playfair Display', Georgia, serif" font-size="44" letter-spacing="1.5">THE PEARSON CO.</text>
+  <line x1="250" y1="82" x2="464" y2="82" stroke="#B784A7" stroke-width="1.4"/>
+  <text x="464" y="104" text-anchor="end" fill="#B784A7" font-family="'DM Sans', Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="5">CONSULTANCY</text>
 </svg>

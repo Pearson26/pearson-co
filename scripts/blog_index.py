@@ -9,13 +9,32 @@ import json, os, glob, re, html
 
 PLAN = "content-plan/plan.json"
 
+# Display priority for the Knowledge Hub, led by the core sales offer.
+# Pillars not listed fall to the end, alphabetically.
+PILLAR_ORDER = [
+    "Fractional Sales Leadership",
+    "Go-to-Market Strategy",
+    "Hospitality Tech & Middle East Expansion",
+    "Sales Pipeline Management",
+    "Revenue Operations (RevOps)",
+    "Sales Reporting, Dashboards & Forecasting",
+    "Growth Consulting & Strategy",
+    "Conversion & Funnel Optimisation",
+    "CRM Consulting & Selection",
+    "CRM Implementation & Selection",
+    "CRM Automation & Workflow",
+    "CRM Adoption",
+    "Customer Journey Mapping",
+    "Process Mapping & SOP Creation",
+]
+
 SHELL_HEAD = """<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Knowledge Hub: CRM, RevOps and growth guides | The Pearson Co.</title>
-  <meta name="description" content="The Pearson Co. Knowledge Hub: practical guides on CRM, revenue operations, process mapping, forecasting, conversion and hospitality tech market entry, from Lauren Pearson.">
+  <title>Knowledge Hub: SaaS sales, RevOps and growth guides | The Pearson Co.</title>
+  <meta name="description" content="The Pearson Co. Knowledge Hub: practical guides on SaaS sales, GCC market entry, revenue operations, forecasting, conversion, CRM and process, from Lauren Pearson.">
   <meta name="robots" content="index, follow">
   <meta name="theme-color" content="#B784A7">
   <link rel="canonical" href="https://thepearsonco.com/blog/">
@@ -29,33 +48,33 @@ SHELL_HEAD = """<!doctype html>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header"><div class="container nav-wrap">
-    <a class="logo" href="/" aria-label="The Pearson Co. home"><img src="/logo-the-pearson-co.svg" alt="The Pearson Co."></a>
+    <a class="logo" href="/" aria-label="The Pearson Co. home"><img src="/logo-the-pearson-co.png" alt="The Pearson Co."></a>
     <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
     <nav id="site-nav" aria-label="Main navigation">
       <div class="has-dropdown">
         <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
         <div class="dropdown" id="services-menu">
+          <a href="/services/fractional-sales.html">Fractional sales</a>
+          <a href="/services/gcc-market-entry-diagnostic.html">GCC market entry diagnostic</a>
+          <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
           <a href="/services/revenue-operations.html">Revenue operations</a>
           <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
-          <a href="/services/process-mapping.html">Process mapping &amp; SOPs</a>
-          <a href="/services/conversion-rate-optimisation.html">Conversion &amp; funnel optimisation</a>
-          <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
           <a class="dropdown-all" href="/services/">View all services &#8594;</a>
         </div>
       </div>
       <a href="/blog/">Knowledge Hub</a>
       <a href="/#about">About</a>
-      <a href="/#contact" class="nav-cta">Let's talk</a>
+      <a href="/#contact" class="nav-cta">Book a GCC chat</a>
     </nav>
   </div></header>
   <main id="main" class="blog-hub"><div class="container">
     <p class="eyebrow">Knowledge Hub</p>
-    <h2>Practical guides on CRM, RevOps and <em>sustainable growth.</em></h2>
-    <p style="max-width:60ch;color:var(--muted);margin-top:-6px">Straightforward, founder-friendly guides and articles across every part of the work, from CRM and process to forecasting, conversion and market entry.</p>
+    <h2>Practical guides on SaaS sales, RevOps and <em>GCC growth.</em></h2>
+    <p style="max-width:60ch;color:var(--muted);margin-top:-6px">Straightforward, founder-friendly guides across the commercial side, from fractional sales and GCC market entry to revenue operations, forecasting, conversion, CRM and process.</p>
 """
 
 SHELL_FOOT = """  </div></main>
-  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.svg" alt="The Pearson Co."><p>Smarter systems. Stronger pipelines. Sustainable growth.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.png" alt="The Pearson Co."><p>Real meetings, real pipeline, real customers.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Across the GCC</span><a href="/privacy.html">Privacy</a></div></footer>
   <script src="/tracking-config.js"></script>
   <script src="/script.js"></script>
 </body>
@@ -110,7 +129,8 @@ def main():
     for slug, meta in items.items():
         by_pillar.setdefault(meta["pillar"], []).append((slug, meta))
     out = []
-    for pillar in sorted(by_pillar):
+    order = {p: i for i, p in enumerate(PILLAR_ORDER)}
+    for pillar in sorted(by_pillar, key=lambda p: (order.get(p, len(order)), p)):
         out.append(f'    <h3 style="font-family:var(--serif);margin:50px 0 0">{html.escape(pillar)}</h3>')
         out.append('    <div class="post-grid">')
         for slug, meta in sorted(by_pillar[pillar], key=lambda x: x[1]["title"]):

@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pipeline Analytics: Ask the Right Question | The Pearson Co.</title>
+  <meta name="description" content="Pipeline analytics explained: the three techniques worth knowing, why a blended win rate hides the real problem, and how to tell analysis from a dashboard.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/pipeline-analytics.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Pipeline Analytics: Ask the Right Question | The Pearson Co.">
+  <meta property="og:description" content="Pipeline analytics explained: the three techniques worth knowing, why a blended win rate hides the real problem, and how to tell analysis from a dashboard.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/pipeline-analytics.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/pipeline-analytics.html#article",
+      "headline": "Pipeline analytics: the discipline of asking the right question",
+      "description": "Pipeline analytics explained: the three techniques worth knowing, why a blended win rate hides the real problem, and how to tell analysis from a dashboard.",
+      "datePublished": "2026-11-16",
+      "dateModified": "2026-11-16",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.png"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/pipeline-analytics.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/pipeline-analytics.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/pipeline-analytics.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "Pipeline analytics: the discipline of asking the right question", "item": "https://thepearsonco.com/blog/pipeline-analytics.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/pipeline-analytics.html#faq",
+      "mainEntity": [
+        { "@type": "Question", "name": "What is pipeline analytics?", "acceptedAnswer": { "@type": "Answer", "text": "Pipeline analytics is the practice of cutting CRM data to answer a specific question about the pipeline, such as where deals actually drop off or whether a source is bringing in pipeline that genuinely converts. It is an active question-and-answer process, not a dashboard someone glances at." } },
+        { "@type": "Question", "name": "How is pipeline analytics different from a sales dashboard?", "acceptedAnswer": { "@type": "Answer", "text": "A dashboard displays a fixed set of numbers on a schedule; pipeline analytics starts with a question and cuts the data however that question requires, which often means segmenting by deal size, source or rep rather than looking at one blended figure. A dashboard can support analytics, but it is not a substitute for it." } },
+        { "@type": "Question", "name": "What is the most useful pipeline analytics technique for a small sales team?", "acceptedAnswer": { "@type": "Answer", "text": "Stage-conversion analysis, tracked by the cohort of deals that entered a stage in a given period rather than by a snapshot of whatever is sitting there today. It needs no specialist tooling, works from data most CRMs already hold, and reliably shows where deals are actually being lost." } },
+        { "@type": "Question", "name": "How much pipeline coverage do I actually need?", "acceptedAnswer": { "@type": "Answer", "text": "Required coverage is 1 divided by your historical win rate, not a fixed multiple such as 3x. A team closing 25% of qualified opportunities needs roughly 4x coverage; a team closing 40% needs 2.5x. Calculate it per segment, because win rate rarely stays the same across deal size or source." } },
+        { "@type": "Question", "name": "Why does a blended win rate hide problems?", "acceptedAnswer": { "@type": "Answer", "text": "A single win rate averages together segments that can behave very differently, so a strong-performing source can mask a weak one, or vice versa. HubSpot's 2025 State of Sales report found fewer than 5% of sales professionals say they prioritise pipeline coverage, lead scoring or sales linearity, which is exactly the kind of segmented view a blended number never forces anyone to look at." } },
+        { "@type": "Question", "name": "How often should pipeline analytics be reviewed?", "acceptedAnswer": { "@type": "Answer", "text": "Monthly for stage-conversion and velocity analysis, since a sample large enough to mean anything usually takes that long to build up. Source and cohort analysis holds up better reviewed quarterly, because it needs a full sales cycle to show whether a source's deals actually convert, not just whether they arrived." } }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.png" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/fractional-sales.html">Fractional sales</a>
+            <a href="/services/gcc-market-entry-diagnostic.html">GCC market entry diagnostic</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Book a GCC chat</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>Pipeline analytics: the discipline of asking the right question</span></nav>
+      <p class="article-eyebrow">Sales reporting, dashboards &amp; forecasting</p>
+      <h1>Pipeline analytics. <em>Asking the right question.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>16 November 2026<span class="dot"></span>8 min read</p>
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson</a>, Founder of The Pearson Co., a revenue operations and sales reporting consultant for founder-led teams. More on her background at <a href="/#about">the about section</a>.</p>
+
+      <div class="answer-box">Pipeline analytics is the practice of cutting CRM data to answer a specific question about the pipeline, not a dashboard that answers none in particular. The three techniques worth knowing are stage-conversion analysis, segmented velocity analysis and source analysis, and which one to use depends entirely on the question, not on which number is on screen.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>A question first, then the data.</em></h2>
+        <p>Pipeline analytics gets confused with two things it isn't. It isn't a dashboard: a dashboard displays a fixed set of numbers on a schedule, which is useful, but passive. And it isn't forecasting: forecasting takes the pipeline as it stands and produces one number for what will close. Analytics sits before both. It starts with a specific question, where are we actually losing deals, is this source worth the budget, why did this segment's numbers move, and cuts the data however that question requires.</p>
+        <p>Most teams never get past the dashboard stage, and not through any particular failure. HubSpot's 2025 State of Sales report, based on a survey of over 1,000 sales professionals, found that fewer than 5% said they prioritise pipeline coverage, lead scoring or sales linearity, the exact metrics that require someone to sit down and cut the data on purpose rather than read it off a screen. Pipeline analytics has to be a deliberate habit, because it is specifically the kind of work that nobody does by accident.</p>
+        <p>The good news is that it doesn't require new tooling. Almost everything below runs on data a <a href="/services/sales-dashboards.html">sales dashboard</a> already holds. What changes is the discipline of asking a sharper question before pulling the number, instead of pulling the number and hoping a question falls out of it.</p>
+        <p>The habit that separates a team that does pipeline analytics from one that just has a dashboard is a standing list of open questions, not a report. A report gets built once and then updated on a schedule. A question such as "is our paid channel's pipeline actually converting at the same rate as the rest" stays open until it has a real answer, however many cuts of the data it takes to get there, and it gets retired and replaced once it's answered rather than left sitting on a dashboard indefinitely.</p>
+
+        <h2>How it works in practice. <em>Three techniques, three different questions.</em></h2>
+        <table>
+          <thead><tr><th>Technique</th><th>The question it answers</th><th>What blending the data hides</th></tr></thead>
+          <tbody>
+            <tr><td>Stage-conversion analysis</td><td>Where in the process are deals actually lost, and has that moved recently?</td><td>A current snapshot of "deals in each stage" shows volume, not loss; it needs a cohort that entered a stage together, tracked through to where it ended up</td></tr>
+            <tr><td>Segmented velocity analysis</td><td>Is time-in-stage normal, or is one segment quietly dragging the average?</td><td>A single average days-in-stage figure can look healthy while one deal size or region sits well outside it</td></tr>
+            <tr><td>Source and cohort analysis</td><td>Which channels bring in pipeline that actually converts, not just pipeline that arrives?</td><td>Volume by source looks good right up until the deals it generated finish their sales cycle and the win rate tells a different story</td></tr>
+          </tbody>
+        </table>
+        <p>Stage-conversion analysis needs the least setup and tends to pay back fastest. Take every deal that entered a given stage in a set period, then follow that exact cohort through to its outcome rather than looking at whatever happens to be sitting in the stage today. A stage that looks busy in a snapshot can still be where most deals quietly die, and a cohort view is the only way to see that clearly.</p>
+        <p>Segmented velocity analysis matters because required pipeline coverage isn't one number. The standard formula is coverage equals one divided by win rate: a team closing 25% of qualified opportunities needs roughly 4x coverage, a team closing 40% needs 2.5x. Win rate rarely holds steady across deal size, source or region, so a single blended coverage target usually means one segment is carrying a ratio nobody has actually calculated for it, while another is over-resourced against a target that was never really theirs.</p>
+        <p>Source and cohort analysis is the one most founder-led teams skip entirely, because it needs patience: you have to wait for a full sales cycle before a source's deals have had time to convert or die, not just arrive. A channel that generates volume cheaply but converts at half the average win rate is still underperforming, however good its cost-per-lead looks on a marketing dashboard.</p>
+        <p>Each technique also answers a different kind of question about timing. Stage-conversion analysis is the one to run when something feels wrong right now and you need an answer within the week. Segmented velocity analysis is better suited to a monthly or quarterly review, because a single day's snapshot of time-in-stage swings too much to mean anything on its own. Source and cohort analysis is the slowest by design: running it monthly on a channel whose deals take four months to close just measures noise, so it needs to be tied to the actual length of the sales cycle it's judging, not to the reporting calendar everything else runs on.</p>
+
+        <h2>What good looks like. <em>A worked scenario on an average that hid the problem.</em></h2>
+        <p>A B2B services team I worked with, illustrative rather than a named client, had a blended win rate sitting at a comfortable 25% for most of a year, and nobody had a reason to look closer. The pipeline dashboard showed healthy volume, the forecast had been reasonably accurate for two straight quarters, and the number everyone watched looked fine.</p>
+        <p>Splitting that same win rate by lead source told a different story. Inbound content leads were converting at 34%, well above the blended figure, while a paid channel the team had been scaling for six months was converting at 14%, less than half. The blended average had been doing exactly what averages do: quietly cancelling out a strong result and a weak one until neither showed up as a problem.</p>
+        <p>Once the paid channel's own coverage requirement was recalculated properly (1 divided by 14%, a touch over 7x, not the 4x the blended figure implied), it became clear the channel needed roughly seventy percent more volume than it was generating just to hit the same pipeline target the rest of the business was working to. Budget shifted toward the inbound channel generating fewer but far more convertible leads, and overall win rate across the business moved from 25% to 29% within two quarters, without a single rep changing how they sold.</p>
+        <p>What made the analysis convincing, rather than just a hunch dressed up in percentages, was going one layer further and checking deal size and sales cycle length for both channels before recommending the shift. The paid channel's deals were, on average, slightly larger, which is exactly the kind of fact that could have been used to argue the lower win rate was worth it. It wasn't, once the longer sales cycle on those same deals was factored in: the extra size didn't come close to covering the extra months of sales effort each one absorbed on its way to a lower chance of closing at all.</p>
+        <p>The decision rule that came out of it: never trust a single pipeline metric until it has been cut at least two ways, and never act on the first cut without checking whether a second variable, deal size or cycle length, explains away the difference you think you've found. If a number looks the same after splitting it, that's useful confirmation. If it doesn't, and a second cut still points the same way, the average was hiding the real answer the whole time.</p>
+
+        <h2>Pitfalls to avoid. <em>Where pipeline analytics quietly goes wrong.</em></h2>
+        <p>The first pitfall is confusing volume with conversion. Counting how many deals entered the pipeline this month feels productive, but it says nothing about whether those deals are any good. A rising pipeline value sitting alongside a falling win rate is a warning sign, not a reason for confidence.</p>
+        <p>The second is over-segmenting until every slice is too thin to mean anything. Splitting a twelve-deal monthly pipeline six different ways produces segments of one or two deals each, which is noise dressed up as insight. Segment only as far as the sample size still supports a real conclusion, and widen the time window before adding another cut.</p>
+        <p>The third is analysing the pipeline in isolation from win rate and deal quality. A source generating large volume at a low win rate can still look like the top performer on a report that only counts leads or opportunities created, which is exactly the kind of vanity metric a genuine analytics habit is meant to catch, not produce.</p>
+        <p>The fourth is treating analysis as a one-off exercise rather than a cadence. A single deep dive that uncovers a real problem and then never gets repeated catches one issue and misses the next one. Stage-conversion and velocity checks hold up well reviewed monthly; source and cohort analysis needs a full sales cycle, so quarterly is usually the right rhythm, not an arbitrary one.</p>
+        <p>The fifth is stopping at the first explanation a cut of the data offers. A lower win rate on one segment is a finding, not yet an answer, until a second variable has been checked against it. Deal size, rep tenure and sales cycle length all move win rate on their own, and skipping that check is how a real insight turns into a confident but wrong recommendation, the kind that costs more to unwind later than the extra ten minutes it would have taken to verify first.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>What is pipeline analytics?</summary><p>Pipeline analytics is the practice of cutting CRM data to answer a specific question about the pipeline, such as where deals actually drop off or whether a source is bringing in pipeline that genuinely converts. It is an active question-and-answer process, not a dashboard someone glances at.</p></details>
+        <details><summary>How is pipeline analytics different from a sales dashboard?</summary><p>A dashboard displays a fixed set of numbers on a schedule; pipeline analytics starts with a question and cuts the data however that question requires, which often means segmenting by deal size, source or rep rather than looking at one blended figure. A dashboard can support analytics, but it is not a substitute for it.</p></details>
+        <details><summary>What is the most useful pipeline analytics technique for a small sales team?</summary><p>Stage-conversion analysis, tracked by the cohort of deals that entered a stage in a given period rather than by a snapshot of whatever is sitting there today. It needs no specialist tooling, works from data most CRMs already hold, and reliably shows where deals are actually being lost.</p></details>
+        <details><summary>How much pipeline coverage do I actually need?</summary><p>Required coverage is 1 divided by your historical win rate, not a fixed multiple such as 3x. A team closing 25% of qualified opportunities needs roughly 4x coverage; a team closing 40% needs 2.5x. Calculate it per segment, because win rate rarely stays the same across deal size or source.</p></details>
+        <details><summary>Why does a blended win rate hide problems?</summary><p>A single win rate averages together segments that can behave very differently, so a strong-performing source can mask a weak one, or vice versa. HubSpot's 2025 State of Sales report found fewer than 5% of sales professionals say they prioritise pipeline coverage, lead scoring or sales linearity, which is exactly the kind of segmented view a blended number never forces anyone to look at.</p></details>
+        <details><summary>How often should pipeline analytics be reviewed?</summary><p>Monthly for stage-conversion and velocity analysis, since a sample large enough to mean anything usually takes that long to build up. Source and cohort analysis holds up better reviewed quarterly, because it needs a full sales cycle to show whether a source's deals actually convert, not just whether they arrived.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based fractional SaaS sales and GCC market entry consultant.</p>
+
+      <div class="article-cta">
+        <h2>Staring at a pipeline dashboard that never quite tells you why?</h2>
+        <p>Send me your win rate split by source or segment, and I'll tell you whether the blended number is hiding something worth chasing.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/sales-dashboards.html">Sales dashboard, reporting &amp; forecasting</a></li>
+          <li><a href="/services/sales-pipeline-management.html">Sales pipeline management</a></li>
+          <li><a href="/blog/healthy-sales-pipeline.html">What a healthy sales pipeline looks like</a></li>
+          <li><a href="/blog/pipeline-forecasting.html">Pipeline forecasting, the number explained</a></li>
+          <li><a href="/blog/defining-pipeline-stages.html">How to define your pipeline stages</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.png" alt="The Pearson Co."><p>Real meetings, real pipeline, real customers.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A RevOps Implementation Roadmap, in Order | The Pearson Co.</title>
+  <meta name="description" content="A RevOps implementation roadmap: the four phases in order, a worked ninety-day rollout example, and the common mistakes that stall it before it starts.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/revops-implementation-roadmap.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="A RevOps Implementation Roadmap, in Order | The Pearson Co.">
+  <meta property="og:description" content="A RevOps implementation roadmap: the four phases in order, a worked ninety-day rollout example, and the common mistakes that stall it before it starts.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/revops-implementation-roadmap.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/revops-implementation-roadmap.html#article",
+      "headline": "A RevOps implementation roadmap: four phases, in order",
+      "description": "A RevOps implementation roadmap: the four phases in order, a worked ninety-day rollout example, and the common mistakes that stall it before it starts.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.png"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/revops-implementation-roadmap.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/revops-implementation-roadmap.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/revops-implementation-roadmap.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "A RevOps implementation roadmap: four phases, in order", "item": "https://thepearsonco.com/blog/revops-implementation-roadmap.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/revops-implementation-roadmap.html#faq",
+      "mainEntity": [
+        { "@type": "Question", "name": "What are the phases of a RevOps implementation roadmap?", "acceptedAnswer": { "@type": "Answer", "text": "Four, in order: audit the current state of sales, marketing and customer success data and process; align the three functions on shared definitions and metrics; consolidate the systems and workflows that enforce those definitions; and report on one shared set of numbers. Skipping ahead to systems work before definitions are agreed is the most common way a rollout stalls." } },
+        { "@type": "Question", "name": "How long does a RevOps implementation take?", "acceptedAnswer": { "@type": "Answer", "text": "For a mid-size team, a realistic roadmap runs three to six months from audit to a reporting cadence everyone trusts, though the audit and alignment phases can often be compressed into a focused ninety-day sprint for a smaller, founder-led business with fewer systems to untangle." } },
+        { "@type": "Question", "name": "Do we need a dedicated RevOps hire before we start?", "acceptedAnswer": { "@type": "Answer", "text": "No. The roadmap can start with one person, often a founder or operations lead, owning the audit and alignment phases part-time. A dedicated RevOps hire or fractional consultant earns its cost once the consolidation phase requires sustained system and process work alongside the day job." } },
+        { "@type": "Question", "name": "What should the first thirty days of a RevOps rollout focus on?", "acceptedAnswer": { "@type": "Answer", "text": "The audit, almost exclusively. Map every system that touches revenue data, list where the same metric is defined or calculated differently across sales, marketing and customer success, and resist the urge to start fixing anything until that map is complete. Fixing before auditing tends to solve the wrong problem first." } },
+        { "@type": "Question", "name": "What is the biggest risk to a RevOps implementation?", "acceptedAnswer": { "@type": "Answer", "text": "Treating it as a systems project rather than an alignment project. A 2021 Forrester Consulting study commissioned by Salesforce, surveying 927 revenue decision-makers, found that most organisations planning a RevOps investment were doing so to fix cross-functional misalignment, not to buy new software; teams that skip straight to tooling without agreeing definitions first tend to automate the disagreement rather than resolve it." } },
+        { "@type": "Question", "name": "How do we know the RevOps implementation has actually worked?", "acceptedAnswer": { "@type": "Answer", "text": "When sales, marketing and customer success leaders can look at the same report in a leadership meeting and agree on what the numbers mean, without a side conversation afterwards reconciling three different versions of the same metric. That shared trust in one report is the real milestone, not the system go-live date." } }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://thepearsonco.com/blog/revops-implementation-roadmap.html#howto",
+      "name": "How to build a RevOps implementation roadmap",
+      "description": "The four-phase sequence for rolling out revenue operations across sales, marketing and customer success.",
+      "step": [
+        { "@type": "HowToStep", "name": "Audit", "text": "Map every system that touches revenue data and list every place sales, marketing and customer success define or calculate the same metric differently." },
+        { "@type": "HowToStep", "name": "Align", "text": "Agree one shared definition for each core metric (a qualified lead, a stage, an active customer) across all three functions before changing any system." },
+        { "@type": "HowToStep", "name": "Consolidate", "text": "Rebuild the workflows and system configuration that let the agreed definitions hold automatically, rather than relying on manual discipline." },
+        { "@type": "HowToStep", "name": "Report", "text": "Stand up one shared report, built on the consolidated data, that becomes the single number every function is measured against." }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.png" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/fractional-sales.html">Fractional sales</a>
+            <a href="/services/gcc-market-entry-diagnostic.html">GCC market entry diagnostic</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Book a GCC chat</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>A RevOps implementation roadmap: four phases, in order</span></nav>
+      <p class="article-eyebrow">Revenue operations (RevOps)</p>
+      <h1>A RevOps implementation roadmap. <em>Four phases, in order.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>18 November 2026<span class="dot"></span>9 min read</p>
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson</a>, Founder of The Pearson Co., a revenue operations consultant for founder-led and SaaS teams. More on her background at <a href="/#about">the about section</a>.</p>
+
+      <div class="answer-box">A RevOps implementation roadmap runs in four phases, in order: audit the current state of revenue data and process, align sales, marketing and customer success on shared metric definitions, consolidate the systems that enforce those definitions, and report on one shared number. Skipping the align phase to jump straight into new tooling is the single most common reason a rollout stalls.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>Audit, align, consolidate, report.</em></h2>
+        <p>A RevOps implementation roadmap goes wrong most often because teams start with the part that feels most like progress: buying or reconfiguring software. A new RevOps platform or dashboard is visible, demoable and easy to put a date on. Alignment between sales, marketing and customer success on what the core metrics actually mean is none of those things, which is exactly why it gets skipped, and exactly why skipping it is the single biggest reason rollouts stall.</p>
+        <p>The roadmap that actually works runs in a fixed order: audit, align, consolidate, report. Audit means mapping every system that touches revenue data and finding every place the same word, a qualified lead, an active customer, a closed deal, means something different depending on who you ask. Align means agreeing one definition for each of those terms before anything else changes. Consolidate means rebuilding the systems and workflows so the agreed definitions hold automatically, rather than depending on everyone remembering the new rule. Report means standing up the one shared view that becomes the number leadership actually looks at.</p>
+        <p>This sequence matters because each phase depends on the one before it. Consolidating systems before alignment just encodes the disagreement into software, making it harder to fix later rather than easier. Reporting before consolidation produces a dashboard nobody trusts, because the underlying data still has three different versions of the same metric feeding into it.</p>
+        <p>A 2021 Forrester Consulting study commissioned by Salesforce, based on a global survey of 927 director-level or higher decision-makers with cross-functional revenue visibility, found that 57% of organisations were planning to invest in a dedicated RevOps function within the next twelve months, and 89% expected a single role accountable for revenue growth across channels within two years. The figures are a few years old now, but they are still among the few named, large-sample data points on how seriously organisations were taking this shift, and the direction of travel they describe has only continued.</p>
+        <p>The same study built a maturity index across six dimensions of revenue operations, including collaboration and whether teams worked from a single source of truth, and found that organisations scoring highly on that index were roughly twice as likely to report higher win rates than low-maturity organisations. That gap matters for how a roadmap gets prioritised: a single source of truth, the outcome of the consolidate and report phases, is not a nice-to-have layered on top of RevOps. It's one of the few things the data actually ties to win rate, which is a stronger argument for sequencing it properly than most internal pitches for a roadmap manage to make.</p>
+
+        <h2>Step by step. <em>What each phase actually involves.</em></h2>
+        <table>
+          <thead><tr><th>Phase</th><th>What happens</th><th>Typical duration (mid-size team)</th></tr></thead>
+          <tbody>
+            <tr><td>1. Audit</td><td>Map every revenue-touching system and every conflicting metric definition across sales, marketing and customer success</td><td>2 to 4 weeks</td></tr>
+            <tr><td>2. Align</td><td>Agree one definition per core metric; get sign-off from a leader in each function, not just the RevOps owner</td><td>2 to 3 weeks</td></tr>
+            <tr><td>3. Consolidate</td><td>Rebuild CRM fields, automation rules and reporting logic so the agreed definitions hold without manual enforcement</td><td>4 to 10 weeks, depending on system complexity</td></tr>
+            <tr><td>4. Report</td><td>Launch one shared report, replace the old function-specific versions, and run it in the next leadership meeting</td><td>1 to 2 weeks to build, ongoing to maintain</td></tr>
+          </tbody>
+        </table>
+        <p>The audit phase should produce a written list, not a vague sense of where the problems are. For each core metric, the audit records every place it's calculated, by whom, and what the actual formula or filter is. It's common to find three CRM-adjacent definitions of "qualified lead" living in three different dashboards, none of them wrong exactly, but none of them the same, and nobody had previously had a reason to compare them side by side.</p>
+        <p>Alignment is a negotiation, not a memo. The RevOps owner proposes a definition, but it needs active sign-off from a sales leader, a marketing leader and a customer success leader, each of whom will have a reason the proposed definition doesn't quite fit their function. Working through those objections before moving on is slower than issuing a definition by decree, but a decreed definition that one function silently ignores achieves nothing.</p>
+        <p>Consolidation is where the technical work actually happens, and it should touch as few systems as the audit allows. The goal isn't a single unified platform, which is rarely realistic for a smaller team, but a set of systems where the agreed definitions are enforced by field structure and automation rather than by someone remembering the rule. If a stage name can still be typed freely into a text field, the definition isn't actually enforced yet.</p>
+        <p>The reporting phase should feel anticlimactic if the first three were done properly. By this point, the data is already consistent across functions; the report is just the first place everyone sees that consistency together. A reporting launch that surfaces new disagreements is a sign the align phase wasn't actually finished.</p>
+        <p>Sizing the roadmap to the business matters as much as the sequence itself. A ten-person founder-led team with one CRM and no separate marketing platform can often compress audit and align into a single focused week, because there are fewer systems to map and fewer leaders to get sign-off from. A hundred-person organisation running five regional CRMs inherited through acquisition needs the full multi-month version, and trying to force that roadmap into a ninety-day sprint usually just produces an audit that was never actually finished before consolidation began.</p>
+
+        <h2>A worked example. <em>A ninety-day rollout for a twenty-person SaaS team.</em></h2>
+        <p>A SaaS company I worked with, illustrative rather than a named client, had three systems feeding revenue reporting: a CRM for sales, a separate marketing automation platform, and a spreadsheet customer success maintained by hand. Each had its own definition of an active account, and the three numbers disagreed by a wide enough margin that the leadership team had stopped trusting any of them in planning meetings.</p>
+        <p>Weeks one to three were pure audit: every field across the three systems that fed the active-account figure got documented, along with who owned it and why it had been set up that way. It turned out marketing counted an account active based on product login in the last ninety days, sales counted it based on contract status regardless of usage, and customer success had its own manually updated health score that didn't match either.</p>
+        <p>Weeks four to six were alignment. The three functions agreed a single definition, contract active and at least one login in the last sixty days, after a genuinely difficult conversation about why marketing's ninety-day window was too generous for the business's actual usage patterns. That definition got written down and signed off by all three function leads, not just assumed.</p>
+        <p>Weeks seven to twelve were consolidation and reporting: the CRM became the system of record for the new definition, with an automated field pulling login data from the product rather than relying on the spreadsheet, and the marketing platform and customer success tracker were both reconfigured to pull from that same field instead of calculating their own versions. By day ninety, one shared active-account number appeared in the leadership deck, and for the first time in over a year, nobody questioned it in the meeting.</p>
+        <p>The lesson that generalises: the technical consolidation work in weeks seven to twelve was almost mechanical once the definition had been properly agreed in weeks four to six. The alignment conversation was the hard part, and it was also the part with no software deliverable to show for it, which is exactly why it's the phase most roadmaps are tempted to shorten.</p>
+
+        <h2>Common mistakes. <em>Where roadmaps go wrong.</em></h2>
+        <p>The first mistake is starting with a platform purchase before the audit is even finished. A new RevOps tool configured against unclear or conflicting definitions just gives the disagreement a more expensive home, and migrating off the wrong configuration later costs more than the delay of doing the audit first would have.</p>
+        <p>The second is letting the RevOps owner define metrics alone and present them as settled. Without active sign-off from a leader in each function, an imposed definition gets quietly worked around the moment it's inconvenient, and the roadmap ends up right back where it started within two quarters.</p>
+        <p>The third is treating the roadmap as a one-off project with an end date rather than an ongoing discipline. Definitions drift as the business changes, a new product line, a new customer segment, and a roadmap with no review cadence lets that drift accumulate silently until the same disagreement resurfaces.</p>
+        <p>The fourth is sizing the roadmap for the business you'll be in a year, not the one you're in today. A twenty-person team attempting to consolidate five systems in parallel, because that's the scale the RevOps hire previously worked at, will stall on complexity the current business doesn't actually have yet.</p>
+        <p>The fifth is skipping the audit's documentation step because the problems feel obvious. They rarely are, in full. The written audit routinely surfaces at least one conflicting definition nobody in the room knew existed, and that's usually the one causing the most damage in planning meetings.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>What are the phases of a RevOps implementation roadmap?</summary><p>Four, in order: audit the current state of sales, marketing and customer success data and process; align the three functions on shared definitions and metrics; consolidate the systems and workflows that enforce those definitions; and report on one shared set of numbers. Skipping ahead to systems work before definitions are agreed is the most common way a rollout stalls.</p></details>
+        <details><summary>How long does a RevOps implementation take?</summary><p>For a mid-size team, a realistic roadmap runs three to six months from audit to a reporting cadence everyone trusts, though the audit and alignment phases can often be compressed into a focused ninety-day sprint for a smaller, founder-led business with fewer systems to untangle.</p></details>
+        <details><summary>Do we need a dedicated RevOps hire before we start?</summary><p>No. The roadmap can start with one person, often a founder or operations lead, owning the audit and alignment phases part-time. A dedicated RevOps hire or fractional consultant earns its cost once the consolidation phase requires sustained system and process work alongside the day job.</p></details>
+        <details><summary>What should the first thirty days of a RevOps rollout focus on?</summary><p>The audit, almost exclusively. Map every system that touches revenue data, list where the same metric is defined or calculated differently across sales, marketing and customer success, and resist the urge to start fixing anything until that map is complete. Fixing before auditing tends to solve the wrong problem first.</p></details>
+        <details><summary>What is the biggest risk to a RevOps implementation?</summary><p>Treating it as a systems project rather than an alignment project. A 2021 Forrester Consulting study commissioned by Salesforce, surveying 927 revenue decision-makers, found that most organisations planning a RevOps investment were doing so to fix cross-functional misalignment, not to buy new software; teams that skip straight to tooling without agreeing definitions first tend to automate the disagreement rather than resolve it.</p></details>
+        <details><summary>How do we know the RevOps implementation has actually worked?</summary><p>When sales, marketing and customer success leaders can look at the same report in a leadership meeting and agree on what the numbers mean, without a side conversation afterwards reconciling three different versions of the same metric. That shared trust in one report is the real milestone, not the system go-live date.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based fractional SaaS sales and GCC market entry consultant.</p>
+
+      <div class="article-cta">
+        <h2>Three systems, three different numbers, one leadership meeting?</h2>
+        <p>Send me the metric your functions disagree on most, and I'll tell you where the audit should start.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/revenue-operations.html">Revenue operations consulting</a></li>
+          <li><a href="/services/revops-consulting.html">RevOps consulting and set-up</a></li>
+          <li><a href="/blog/revops-framework.html">The RevOps framework behind this roadmap</a></li>
+          <li><a href="/blog/revops-strategy-guide.html">A RevOps strategy guide</a></li>
+          <li><a href="/blog/revops-systems-integration.html">RevOps systems integration, done properly</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.png" alt="The Pearson Co."><p>Real meetings, real pipeline, real customers.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

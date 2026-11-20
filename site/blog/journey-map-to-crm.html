@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Customer Journey CRM: From Map to Workflow | The Pearson Co.</title>
+  <meta name="description" content="How to connect a customer journey map to your CRM so stages, triggers and ownership actually match what the map shows, with a worked field-by-field example.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/journey-map-to-crm.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Customer Journey CRM: From Map to Workflow | The Pearson Co.">
+  <meta property="og:description" content="How to connect a customer journey map to your CRM so stages, triggers and ownership actually match what the map shows, with a worked field-by-field example.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/journey-map-to-crm.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/journey-map-to-crm.html#article",
+      "headline": "Connecting your journey map to your CRM: from diagram to daily workflow",
+      "description": "How to connect a customer journey map to your CRM so stages, triggers and ownership actually match what the map shows, with a worked field-by-field example.",
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.png"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/journey-map-to-crm.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/journey-map-to-crm.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/journey-map-to-crm.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "Connecting your journey map to your CRM: from diagram to daily workflow", "item": "https://thepearsonco.com/blog/journey-map-to-crm.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/journey-map-to-crm.html#faq",
+      "mainEntity": [
+        { "@type": "Question", "name": "What does it mean to connect a customer journey map to a CRM?", "acceptedAnswer": { "@type": "Answer", "text": "It means every stage, touchpoint and pain point on the map has a matching field, lifecycle stage or automation trigger inside the CRM that your team actually uses day to day. Without that link, the map stays a workshop artefact and the CRM keeps running on its own separate logic." } },
+        { "@type": "Question", "name": "Do journey map stages and CRM lifecycle stages need to be the same thing?", "acceptedAnswer": { "@type": "Answer", "text": "Not identical, but they need an explicit, written mapping between them. A journey map is usually customer-centred (aware, considering, decided, onboarded, loyal) while a CRM stage is often sales-centred (lead, qualified, proposal, closed). The translation between the two is the actual piece of work most teams skip." } },
+        { "@type": "Question", "name": "Which CRM fields should a journey map actually drive?", "acceptedAnswer": { "@type": "Answer", "text": "Start with lifecycle stage, next-action owner, and the trigger date for any automated follow-up. Those three fields cover most of what a journey map is trying to show: where the customer is, who should act, and when. Add more only once those three are reliably correct." } },
+        { "@type": "Question", "name": "Who should own the link between the journey map and the CRM?", "acceptedAnswer": { "@type": "Answer", "text": "One named person, usually whoever owns revenue operations or the CRM itself, not the person who ran the mapping workshop. The workshop produces the map; a different, ongoing job keeps the CRM's stages and triggers matching it as the business changes." } },
+        { "@type": "Question", "name": "How often should the CRM be checked against the journey map?", "acceptedAnswer": { "@type": "Answer", "text": "Quarterly, at minimum, and after any change to pricing, onboarding or the product itself. A map and a CRM drift apart gradually, not all at once, so a fixed review cadence catches the gap before a client experience quietly stops matching what the map says should happen." } }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.png" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/fractional-sales.html">Fractional sales</a>
+            <a href="/services/gcc-market-entry-diagnostic.html">GCC market entry diagnostic</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Book a GCC chat</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>Connecting your journey map to your CRM</span></nav>
+      <p class="article-eyebrow">Customer journey mapping</p>
+      <h1>Connecting your journey map to your CRM. <em>From diagram to daily workflow.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>20 November 2026<span class="dot"></span>8 min read</p>
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson</a>, Founder of The Pearson Co., a CRM and revenue operations consultant for founder-led and SaaS teams. More on her background at <a href="/#about">the about section</a>.</p>
+
+      <div class="answer-box">A customer journey map only earns its place once every stage, touchpoint and pain point on it maps to a real field, lifecycle stage or automation trigger inside the CRM your team actually opens each day. Translate each journey stage into a CRM stage before building anything else, or the map and the system will keep telling two different stories.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>A map that doesn't touch a field changes nothing.</em></h2>
+        <p>I run into the same gap on a customer journey CRM project more often than any other: a business has a genuinely good journey map, built properly in a workshop, printed out or pinned to a wall somewhere, and a CRM running on completely separate logic that was set up years before the map existed. The two don't talk to each other. The map says a customer who's gone quiet for ten days after onboarding is at risk; the CRM has no field that tracks "days since last engagement" and no rule that fires when it crosses a threshold. The insight is real. It just has nowhere to live.</p>
+        <p>The fix isn't a bigger CRM or a flashier mapping tool. It's a direct, written translation: for every stage on the journey map, which CRM field or lifecycle stage represents it, who owns the next action at that stage, and what, if anything, should trigger automatically when a customer moves (or fails to move) from one stage to the next. Do that translation properly and the map stops being a workshop artefact and starts being the thing the CRM is actually built around.</p>
+        <p>A 2019 Salesforce State of the Connected Customer report, based on a global survey of over 6,700 consumers and business buyers, found that 73% of customers expect companies to understand their unique needs and expectations, while 52% said companies generally treat them like a number rather than an individual. That gap sits almost exactly where a journey map and a CRM fail to connect: the map is usually where a business first writes down what "understanding the customer" should look like stage by stage, and the CRM is where that understanding either gets acted on or quietly dropped.</p>
+        <p>The disconnect usually has an organisational root, not a technical one. The journey map tends to come out of a workshop run by marketing or customer experience, often with sticky notes and a facilitator, while the CRM configuration belongs to sales operations or whoever administers the system day to day. Those are frequently different people, working from different briefs, on different timelines, and nobody is explicitly tasked with reconciling the two once the workshop ends and everyone goes back to their usual job. The map gets presented once, gets a round of nodding, and then sits in a shared drive while the CRM carries on exactly as it was configured before the workshop happened.</p>
+
+        <h2>How it works in practice. <em>Translate stages before you touch automation.</em></h2>
+        <p>Start with the journey map's stages as written, not as you wish they were. A typical customer-facing map runs through something like aware, considering, decided, onboarded, active and at risk of leaving. A typical CRM, especially one set up by a sales team first, runs through lead, qualified, proposal, closed-won and customer. Those two lists overlap for the first half of the journey and diverge completely after the sale, which is exactly where most CRM configuration stops paying attention and most journey maps are trying to say the most.</p>
+        <table>
+          <thead><tr><th>Journey map stage</th><th>What the customer is doing</th><th>Matching CRM stage or field</th><th>Owner of the next action</th></tr></thead>
+          <tbody>
+            <tr><td>Aware</td><td>First contact with the brand, no intent signal yet</td><td>Lead source field populated, no stage change</td><td>Marketing</td></tr>
+            <tr><td>Considering</td><td>Comparing options, asking specific questions</td><td>Lifecycle stage: Qualified</td><td>Sales</td></tr>
+            <tr><td>Decided</td><td>Agreed terms, signature pending or done</td><td>Lifecycle stage: Closed-won; handoff field set</td><td>Sales to onboarding (named handoff)</td></tr>
+            <tr><td>Onboarded</td><td>Account set up, first value not yet reached</td><td>Custom field: Onboarding status; days-since-signup trigger</td><td>Onboarding or customer success</td></tr>
+            <tr><td>Active</td><td>Using the product or service as intended</td><td>Engagement score field, refreshed on a schedule</td><td>Customer success</td></tr>
+            <tr><td>At risk</td><td>Engagement dropped below a defined threshold</td><td>Automated flag when engagement score crosses the line</td><td>Named account owner, alerted automatically</td></tr>
+          </tbody>
+        </table>
+        <p>Build the automation last, not first. The table above only works once every "matching CRM stage or field" column is real and populated correctly for your actual records, which usually surfaces a data quality problem before it surfaces an automation opportunity. I've seen teams jump straight to building the "at risk" alert before the engagement score field even existed reliably in the CRM, which produces an alert that fires on empty data and gets ignored within a fortnight.</p>
+        <p>The "owner of the next action" column matters as much as the stage itself. A journey map that identifies six stages but assigns a clear owner to only two of them isn't finished; it's just the easy half of the work. Every stage needs a name attached to what happens next, even if the answer for an early stage is simply "marketing, no action needed yet."</p>
+        <p>Field naming matters more than it sounds like it should. If the journey map calls a stage "considering" and the CRM calls the nearest equivalent "MQL", anyone reading the CRM without the map in front of them loses the thread immediately. Where possible, rename the CRM's internal labels to match the map's language, or at minimum keep a visible key that ties the two vocabularies together. A CRM that uses its own internal jargon for a stage the rest of the business knows by a plainer name becomes a system only the CRM administrator can really read, which defeats the point of connecting it to a map everyone else helped build.</p>
+        <p>Where a business runs more than one real journey, a self-serve signup alongside an enterprise sales process, for instance, resist the urge to force both into a single CRM stage list. Build a second, parallel stage set or a journey-type field instead, and map each journey to its own version of the table above. Collapsing two genuinely different journeys into one shared stage list is a common shortcut, and it produces a CRM that's technically connected to a map but practically useless, because neither journey's logic fits the fields cleanly.</p>
+
+        <h2>What good looks like. <em>The map and the CRM agree, without anyone checking by hand.</em></h2>
+        <p>A hospitality-tech client I worked with, illustrative rather than a named result, had a journey map that correctly identified "first thirty days post-go-live" as the highest-risk stage for a new property adopting their platform, but their CRM only tracked "contract signed" and "support ticket opened", with nothing in between. The map's most important insight, that risk peaks in that specific window, had no corresponding field to make it visible to the account team in real time.</p>
+        <p>Once we added a single custom field, days since go-live, and a lifecycle sub-stage for that thirty-day window, the account team could see at a glance which properties were inside the risk period without opening the journey map at all. That's the actual test of a good connection between the two: a team member working only inside the CRM, who has never seen the journey map, still ends up taking the right action at the right stage because the system reflects what the map found. If someone needs to cross-reference a wall chart to know what to do next, the connection hasn't actually been built yet.</p>
+        <p>Good also means the link survives staff turnover. A map that lives in one person's head, translated into CRM logic only that person understands, breaks the moment they leave. Writing the stage-to-field mapping down, in the same document the CRM administrator uses, is what makes the connection something the business owns rather than something one person happened to remember.</p>
+        <p>It also means you can measure the connection itself, not just trust that it exists. A simple health check works well: pull a sample of records at each stage and check what share actually has the matching field populated correctly. If "onboarding status" is meant to drive the at-risk flag but sits empty on a third of accounts, the connection between map and CRM is weaker than the diagram suggests, whatever the table says it should be doing. That field-completion check, run quarterly alongside the stage review, is the single most useful habit for keeping the map and the system honest with each other over time.</p>
+
+        <h2>Pitfalls to avoid. <em>Where this usually goes wrong.</em></h2>
+        <p>The first pitfall is mapping the journey once and never touching the CRM configuration again. Journey maps age. A pricing change, a new onboarding flow or a new product tier shifts where the real risk points sit, and a CRM still built around last year's map will keep flagging the wrong moments as important.</p>
+        <p>The second is building automation around stages that don't actually exist in clean data yet. If "qualified" means three different things depending on which rep is using the field, automating anything downstream of that stage just automates the disagreement, faster and with more confidence than it deserves.</p>
+        <p>The third is treating the post-sale half of the journey as an afterthought. Most CRMs are configured in detail for the stages before a deal closes and left almost bare afterwards, even though that's usually where the journey map is trying hardest to say something useful about retention and expansion.</p>
+        <p>The fourth is skipping the explicit ownership column. A stage with a field but no named owner for the next action tends to sit there, technically tracked, practically ignored, until someone finally notices the gap during a client complaint rather than before one.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>What does it mean to connect a customer journey map to a CRM?</summary><p>It means every stage, touchpoint and pain point on the map has a matching field, lifecycle stage or automation trigger inside the CRM that your team actually uses day to day. Without that link, the map stays a workshop artefact and the CRM keeps running on its own separate logic.</p></details>
+        <details><summary>Do journey map stages and CRM lifecycle stages need to be the same thing?</summary><p>Not identical, but they need an explicit, written mapping between them. A journey map is usually customer-centred (aware, considering, decided, onboarded, loyal) while a CRM stage is often sales-centred (lead, qualified, proposal, closed). The translation between the two is the actual piece of work most teams skip.</p></details>
+        <details><summary>Which CRM fields should a journey map actually drive?</summary><p>Start with lifecycle stage, next-action owner, and the trigger date for any automated follow-up. Those three fields cover most of what a journey map is trying to show: where the customer is, who should act, and when. Add more only once those three are reliably correct.</p></details>
+        <details><summary>Who should own the link between the journey map and the CRM?</summary><p>One named person, usually whoever owns revenue operations or the CRM itself, not the person who ran the mapping workshop. The workshop produces the map; a different, ongoing job keeps the CRM's stages and triggers matching it as the business changes.</p></details>
+        <details><summary>How often should the CRM be checked against the journey map?</summary><p>Quarterly, at minimum, and after any change to pricing, onboarding or the product itself. A map and a CRM drift apart gradually, not all at once, so a fixed review cadence catches the gap before a client experience quietly stops matching what the map says should happen.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based fractional SaaS sales and GCC market entry consultant.</p>
+
+      <div class="article-cta">
+        <h2>Got a journey map that your CRM has never heard of?</h2>
+        <p>Send me your current stages on both sides, map and CRM, and I'll tell you where the gap actually is.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/customer-journey-mapping.html">Customer journey mapping</a></li>
+          <li><a href="/services/crm-implementation-services.html">CRM implementation services</a></li>
+          <li><a href="/blog/customer-journey-pain-points.html">Finding the real pain points in a customer journey</a></li>
+          <li><a href="/blog/customer-journey-phases.html">The phases of a customer journey, explained</a></li>
+          <li><a href="/blog/how-to-run-a-journey-mapping-workshop.html">How to run a journey mapping workshop</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.png" alt="The Pearson Co."><p>Real meetings, real pipeline, real customers.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

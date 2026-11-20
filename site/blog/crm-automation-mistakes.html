@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CRM Automation Mistakes to Avoid | The Pearson Co.</title>
+  <meta name="description" content="Six CRM automation mistakes founder-led teams keep making, how each one actually plays out in practice, and a specific fix for each, from a CRM auditor.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/crm-automation-mistakes.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="CRM Automation Mistakes to Avoid | The Pearson Co.">
+  <meta property="og:description" content="Six CRM automation mistakes founder-led teams keep making, how each one actually plays out in practice, and a specific fix for each, from a CRM auditor.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/crm-automation-mistakes.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/crm-automation-mistakes.html#article",
+      "headline": "CRM automation mistakes to avoid, and what to do instead",
+      "description": "Six CRM automation mistakes founder-led teams make, how each one actually plays out, and the fix, from a consultant who audits CRMs for a living.",
+      "datePublished": "2026-11-20",
+      "dateModified": "2026-11-20",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.png"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/crm-automation-mistakes.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/crm-automation-mistakes.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/crm-automation-mistakes.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "CRM automation mistakes to avoid, and what to do instead", "item": "https://thepearsonco.com/blog/crm-automation-mistakes.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/crm-automation-mistakes.html#faq",
+      "mainEntity": [
+        { "@type": "Question", "name": "What's the most common CRM automation mistake?", "acceptedAnswer": { "@type": "Answer", "text": "Copying someone else's automation template without adapting it to your own stage names and fields first. A rule built for a different CRM's structure often fires on the wrong trigger or skips a step that only exists in your setup, and the fault usually isn't found until it's already misrouted several records." } },
+        { "@type": "Question", "name": "Can CRM automation fix bad data?", "acceptedAnswer": { "@type": "Answer", "text": "No. Automation built on top of a messy source field just applies the same error faster and more consistently than a person would. Fix the field the automation reads from first; automating around a known data problem usually hides it rather than solving it, and makes it harder to find later." } },
+        { "@type": "Question", "name": "Should client-facing emails ever be fully automated with no review?", "acceptedAnswer": { "@type": "Answer", "text": "Only for low-stakes, easily reversible messages. For anything that would be awkward or costly to send wrongly, a discount confirmation, a cancellation notice, keep a person approving the send, or at minimum a working way to pause the automation mid-sequence if something looks wrong." } },
+        { "@type": "Question", "name": "How do I test a CRM automation before it touches real client records?", "acceptedAnswer": { "@type": "Answer", "text": "Build a small set of test records that deliberately include your messiest real cases, duplicate names, missing fields, unusual time zones, and run the new rule against those first. A rule that only gets tested against clean data will usually fail on the first genuinely awkward real record it meets." } },
+        { "@type": "Question", "name": "Why does CRM automation sometimes fail across time zones?", "acceptedAnswer": { "@type": "Answer", "text": "Because many rules default to the CRM's own time zone setting rather than the client's local hours, so an automated message meant to land during business hours can go out at 3am for a client in a different region. Any client-facing send should route through the contact's own time zone field, not a single default." } }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.png" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/fractional-sales.html">Fractional sales</a>
+            <a href="/services/gcc-market-entry-diagnostic.html">GCC market entry diagnostic</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Book a GCC chat</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>CRM automation mistakes to avoid</span></nav>
+      <p class="article-eyebrow">CRM automation &amp; workflow</p>
+      <h1>CRM automation mistakes to avoid. <em>And what to do instead.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>20 November 2026<span class="dot"></span>7 min read</p>
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson</a>, Founder of The Pearson Co., a CRM and revenue operations consultant for founder-led and SaaS teams. More on her background at <a href="/#about">the about section</a>.</p>
+
+      <div class="answer-box">The CRM automation mistakes that cause the most damage aren't about automating too little. They're copying someone else's rule without adapting it, automating around a data problem instead of fixing it, skipping a test on messy records, and sending client-facing messages with no way to pause them. Each one is avoidable with a specific, small change before the rule goes live.</div>
+
+      <div class="prose">
+        <h2>Why this matters. <em>Automation that fails quietly costs more than automation that never shipped.</em></h2>
+        <p>I'm Lauren Pearson, and when I audit a CRM, the automations that worry me most aren't the missing ones. They're the ones quietly running in the background, built in good faith, that have been doing something slightly wrong for months without anyone noticing, because the output looked plausible enough that nobody checked. A missing automation is an obvious gap. A broken one that still produces output just looks like normal CRM activity until someone finally compares it against what should have happened.</p>
+        <p>Salesforce's State of Sales report, seventh edition, published in 2026, found that sales reps still spend only around 40% of an average workweek actually selling, with the rest consumed by administrative and non-selling work, despite years of CRM vendors selling automation as the fix for exactly that problem. That gap is worth sitting with. A huge amount of CRM automation gets built, and reps are still spending most of their week on everything except selling. The mistakes below are a large part of why: automation gets pointed at the wrong task, or built in a way that creates new admin work cleaning up after it.</p>
+        <p>Each mistake on this list has the same shape. It saves time in the first week and costs more than that back within a few months, usually in a form nobody connects to the automation itself, a routing error blamed on "the campaign underperforming", a client complaint blamed on "the rep missing a step" that was actually the rule's fault. The common thread isn't that these teams automated too much or too little. It's that the rule went live before anyone checked the handful of things below.</p>
+
+        <h2>The list, with how to apply each. <em>Six mistakes, and the fix for each.</em></h2>
+        <ol>
+          <li><strong>Copying someone else's automation template without adapting it first.</strong> A rule shared in a forum or built by a previous consultant was written for a different CRM structure, different stage names, different fields. Installed wholesale, it often fires on a trigger that doesn't mean the same thing in your setup, or silently skips a step your process actually needs. Before activating any borrowed template, map every field and stage it references against your own and change anything that doesn't match exactly.</li>
+          <li><strong>Letting automation mask a data quality problem instead of fixing the source.</strong> If a lead-routing rule reads from a "region" field that's inconsistently filled in, automating the routing just applies the inconsistency faster and with more confidence than a person would have. Fix the field, and how it gets populated, before building logic on top of it.</li>
+          <li><strong>Treating automation and predictive scoring as the same decision.</strong> A simple, deterministic rule, if a form is submitted, create a task, is reliable and easy to audit. A predictive lead score that nobody on the team can explain is a different kind of tool entirely, and leaning on an unproven score to drive automated prioritisation before it's been validated against real outcomes tends to misroute attention rather than focus it.</li>
+          <li><strong>Skipping the test against messy real records.</strong> A rule that works perfectly against ten clean test contacts will meet a duplicate name, a missing email, or a contact with two open deals within its first week live. Build a small test set deliberately full of your ugliest real-world cases and run every new rule against that set before it ever touches a live client record.</li>
+          <li><strong>Ignoring time zones on client-facing sends.</strong> A rule that fires on the CRM's own default time zone rather than the contact's can send a client in one region a message at three in the morning their time, while reading as perfectly timed in the CRM's activity log. Any automated message a client sees should route through the contact's own time zone field, not a single default setting.</li>
+          <li><strong>Encoding one person's manual workaround as permanent logic.</strong> A rule built to replicate exactly how one experienced rep currently handles an edge case can quietly become the permanent system behaviour long after that rep has moved to a different role or left the business, with nobody left who remembers why the rule exists or what judgement it was standing in for. Document the reasoning behind the rule, not just the mechanics, so the next owner can tell whether it still applies.</li>
+        </ol>
+
+        <h2>Where teams go wrong. <em>The pattern underneath all six.</em></h2>
+        <p>Every mistake on this list shares the same root cause: automation gets built to look finished rather than to be checked. A rule that runs without errors looks finished. A rule that was actually tested against edge cases, documented with its reasoning, and reviewed against real output, is a different, slower thing to build, and it's the one that still works correctly a year later.</p>
+        <p>The fastest way to catch most of these mistakes before they cost anything is a short pre-launch checklist run against every new rule: has it been tested against messy records, does it read from a field you trust, does a client-facing send respect the contact's own time zone, and is there a written note explaining why the rule exists in case the person who built it isn't around to answer later. None of that takes long. Skipping it is what turns a reasonable automation idea into six months of quietly wrong data nobody noticed until a client pointed it out first.</p>
+        <p>A founder-led SaaS team I worked with, illustrative rather than a named result, had a lead-scoring automation built by a previous contractor that weighted "company size" using a free-text field reps filled in inconsistently, some wrote "50", others wrote "50 employees", a few left it blank. The scoring rule treated blank and zero identically, which meant a meaningful share of genuinely mid-size prospects were scored as the lowest priority simply because the field had never been filled in, not because the company was actually small. Nobody had looked closely enough to notice, because the scored list still looked plausible at a glance. Fixing it meant converting the field to a fixed dropdown first, then rebuilding the scoring rule on top of the now-reliable data, in that order, not the reverse.</p>
+        <p>That ordering, fix the data, then build the rule, is worth repeating on its own, because it's the single habit that prevents most of the six mistakes above from happening in the first place. A rule built on a field you haven't personally checked for accuracy is a rule you're trusting blind, and blind trust is exactly what turns a well-intentioned automation into the kind of quiet, months-long problem that's far more expensive to unwind than it would have been to build correctly from the outset.</p>
+        <p>If you want the fuller picture of what good CRM automation looks like once these mistakes are avoided, our <a href="/blog/crm-automation-best-practices.html">CRM automation best practices guide</a> covers the habits worth building in from the start, and if you're still deciding whether your CRM's current setup can support automation at all, that's usually a question worth answering with a proper <a href="/services/crm-implementation-services.html">CRM implementation review</a> before adding another rule on top of an already shaky foundation.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>What's the most common CRM automation mistake?</summary><p>Copying someone else's automation template without adapting it to your own stage names and fields first. A rule built for a different CRM's structure often fires on the wrong trigger or skips a step that only exists in your setup, and the fault usually isn't found until it's already misrouted several records.</p></details>
+        <details><summary>Can CRM automation fix bad data?</summary><p>No. Automation built on top of a messy source field just applies the same error faster and more consistently than a person would. Fix the field the automation reads from first; automating around a known data problem usually hides it rather than solving it, and makes it harder to find later.</p></details>
+        <details><summary>Should client-facing emails ever be fully automated with no review?</summary><p>Only for low-stakes, easily reversible messages. For anything that would be awkward or costly to send wrongly, a discount confirmation, a cancellation notice, keep a person approving the send, or at minimum a working way to pause the automation mid-sequence if something looks wrong.</p></details>
+        <details><summary>How do I test a CRM automation before it touches real client records?</summary><p>Build a small set of test records that deliberately include your messiest real cases, duplicate names, missing fields, unusual time zones, and run the new rule against those first. A rule that only gets tested against clean data will usually fail on the first genuinely awkward real record it meets.</p></details>
+        <details><summary>Why does CRM automation sometimes fail across time zones?</summary><p>Because many rules default to the CRM's own time zone setting rather than the client's local hours, so an automated message meant to land during business hours can go out at 3am for a client in a different region. Any client-facing send should route through the contact's own time zone field, not a single default.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based fractional SaaS sales and GCC market entry consultant.</p>
+
+      <div class="article-cta">
+        <h2>Not sure which of your CRM's automations are quietly costing you more than they save?</h2>
+        <p>Send me a list of what's currently running and I'll flag which ones are worth a closer look first.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/crm-automation.html">CRM automation</a></li>
+          <li><a href="/services/crm-implementation-services.html">CRM implementation services</a></li>
+          <li><a href="/blog/crm-automation-best-practices.html">CRM automation best practices</a></li>
+          <li><a href="/blog/what-is-crm-automation.html">What is CRM automation?</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.png" alt="The Pearson Co."><p>Real meetings, real pipeline, real customers.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>

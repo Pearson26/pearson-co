@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How to Prioritise CRO Experiments | The Pearson Co.</title>
+  <meta name="description" content="How to prioritise CRO experiments: a simple scoring method, a worked example ranking a real test backlog, and the mistakes that waste a testing programme.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#B784A7">
+  <link rel="canonical" href="https://thepearsonco.com/blog/how-to-prioritise-cro-experiments.html">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="How to Prioritise CRO Experiments | The Pearson Co.">
+  <meta property="og:description" content="How to prioritise CRO experiments: a simple scoring method, a worked example ranking a real test backlog, and the mistakes that waste a testing programme.">
+  <meta property="og:url" content="https://thepearsonco.com/blog/how-to-prioritise-cro-experiments.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/blog.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://thepearsonco.com/blog/how-to-prioritise-cro-experiments.html#article",
+      "headline": "How to prioritise CRO experiments, without the backlog arguments",
+      "description": "How to prioritise CRO experiments: a simple scoring method, a worked example ranking a real test backlog, and the mistakes that waste a testing programme.",
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "author": {
+        "@type": "Person",
+        "name": "Lauren Pearson",
+        "url": "https://thepearsonco.com/",
+        "sameAs": ["https://www.linkedin.com/in/lpearsonn", "https://www.instagram.com/thepearsonco.dxb"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Pearson Co.",
+        "url": "https://thepearsonco.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://thepearsonco.com/logo-the-pearson-co.png"
+        }
+      },
+      "url": "https://thepearsonco.com/blog/how-to-prioritise-cro-experiments.html",
+      "mainEntityOfPage": "https://thepearsonco.com/blog/how-to-prioritise-cro-experiments.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://thepearsonco.com/blog/how-to-prioritise-cro-experiments.html#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thepearsonco.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Knowledge Hub", "item": "https://thepearsonco.com/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "How to prioritise CRO experiments, without the backlog arguments", "item": "https://thepearsonco.com/blog/how-to-prioritise-cro-experiments.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://thepearsonco.com/blog/how-to-prioritise-cro-experiments.html#faq",
+      "mainEntity": [
+        { "@type": "Question", "name": "What is the simplest way to prioritise CRO experiments?", "acceptedAnswer": { "@type": "Answer", "text": "Score every idea on the same three factors, how much it could move the metric, how confident you genuinely are it will work, and how easy it is to build, then rank the backlog by the combined score. The method matters less than everyone scoring against the same written definitions, which is what stops prioritisation turning into whoever argues loudest." } },
+        { "@type": "Question", "name": "Should the person who proposed a test also score its confidence?", "acceptedAnswer": { "@type": "Answer", "text": "Not alone. Confidence scores inflate badly when the person scoring also came up with the idea, because they are rating their own judgement rather than the evidence behind it. Have at least one other person sanity-check the confidence score before it goes into the ranked list." } },
+        { "@type": "Question", "name": "How often should a CRO backlog be re-scored?", "acceptedAnswer": { "@type": "Answer", "text": "Every time a test finishes and after any major change to the page or funnel being tested, at minimum monthly for an active programme. Scores based on stale assumptions about traffic or page performance quietly distort the ranking until someone notices the backlog is prioritising ideas that no longer make sense." } },
+        { "@type": "Question", "name": "What is a good sample size of ideas to score at once?", "acceptedAnswer": { "@type": "Answer", "text": "Enough to force real trade-offs, usually eight to fifteen live ideas. Scoring only two or three removes the actual benefit of a ranking method, since there is barely a decision to make, while scoring dozens at once tends to produce rushed, low-quality confidence estimates." } },
+        { "@type": "Question", "name": "Does a high-scoring test always win over a smaller one?", "acceptedAnswer": { "@type": "Answer", "text": "Not automatically. A scoring method ranks, it does not dictate, and a smaller, faster test that clears up a genuine unknown, like whether an audience segment behaves the way you assume, can be worth running out of order if its result unlocks confidence on several bigger ideas behind it." } }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://thepearsonco.com/blog/how-to-prioritise-cro-experiments.html#howto",
+      "name": "How to prioritise a CRO experiment backlog",
+      "description": "A scoring method for ranking a backlog of conversion rate optimisation test ideas by impact, confidence and effort.",
+      "step": [
+        { "@type": "HowToStep", "name": "Collect every idea in one place", "text": "Gather every proposed test, from every source, team request, support ticket, heatmap finding, into one single backlog before scoring anything." },
+        { "@type": "HowToStep", "name": "Agree the scoring scale in writing", "text": "Write down what a 1 to 5 score means for impact, confidence and ease before anyone scores a single idea, so scores are comparable across people and over time." },
+        { "@type": "HowToStep", "name": "Score impact, confidence and ease separately", "text": "Score each idea on how much it could move the target metric, how much real evidence supports it working, and how easy it is to build and ship, using the agreed scale." },
+        { "@type": "HowToStep", "name": "Sanity-check confidence with a second person", "text": "Have someone other than the idea's author review the confidence score, since confidence inflates when the scorer and the proposer are the same person." },
+        { "@type": "HowToStep", "name": "Rank by the combined score and sequence the calendar", "text": "Multiply or sum the three scores depending on your chosen method, rank the backlog, and schedule tests in that order while allowing one smaller test to jump the queue if its result would unlock confidence on several others." }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="logo" href="/" aria-label="The Pearson Co. home">
+        <img src="/logo-the-pearson-co.png" alt="The Pearson Co.">
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><b class="sr-only">Open menu</b></button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <div class="has-dropdown">
+          <button type="button" class="nav-drop-toggle" aria-expanded="false" aria-controls="services-menu">Services <span class="caret" aria-hidden="true">&#9662;</span></button>
+          <div class="dropdown" id="services-menu">
+            <a href="/services/fractional-sales.html">Fractional sales</a>
+            <a href="/services/gcc-market-entry-diagnostic.html">GCC market entry diagnostic</a>
+            <a href="/services/hospitality-tech-market-entry.html">Hospitality tech &amp; market entry</a>
+            <a href="/services/revenue-operations.html">Revenue operations</a>
+            <a href="/services/crm-consulting.html">CRM consulting &amp; implementation</a>
+            <a class="dropdown-all" href="/services/">View all services &#8594;</a>
+          </div>
+        </div>
+        <a href="/blog/">Knowledge Hub</a>
+        <a href="/#about">About</a>
+        <a href="/#contact" class="nav-cta">Book a GCC chat</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="article-main">
+    <article class="article-wrap">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rarr; <a href="/blog/">Knowledge Hub</a> &rarr; <span>How to prioritise CRO experiments</span></nav>
+      <p class="article-eyebrow">Conversion &amp; funnel optimisation</p>
+      <h1>How to prioritise CRO experiments. <em>Without the backlog arguments.</em></h1>
+      <p class="article-byline"><a href="/#about"><b>Lauren Pearson</b></a><span class="dot"></span>Founder, The Pearson Co.<span class="dot"></span>25 November 2026<span class="dot"></span>8 min read</p>
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson</a>, Founder of The Pearson Co., a growth and conversion consultant for founder-led and SaaS teams. More on her background at <a href="/#about">the about section</a>.</p>
+
+      <div class="answer-box">CRO prioritisation means scoring every test idea on the same three factors, impact, confidence and ease, against a written scale everyone uses the same way, then ranking the backlog by the combined score. The method matters less than the discipline of scoring every idea the same way, with at least one person other than the proposer checking the confidence number.</div>
+
+      <div class="prose">
+        <h2>The short answer. <em>Pick one scoring method and apply it consistently.</em></h2>
+        <p>I'm Lauren Pearson, and most CRO programmes I've looked into do not have a prioritisation problem so much as a consistency problem, and that distinction matters more than it sounds like it should, because the fix for each is completely different. There is usually a list of test ideas somewhere, a spreadsheet, a project board, a few sticky notes from the last planning session, and a running argument about which one should go live next that gets settled by whoever is most persuasive in the room that week. A scoring framework does not remove judgement from that conversation. It makes the judgement explicit and comparable, which is a different thing entirely.</p>
+        <p>The method most teams reach for first is ICE, impact, confidence, ease, usually credited to Sean Ellis. Score each idea from one to five or one to ten on each factor, multiply the three together, and rank the backlog by the result. WiderFunnel's PIE framework, potential, importance, ease, is a close cousin aimed more specifically at page-level work, where potential asks how much room a given page actually has to improve, a low-performing page scores higher than one that is already converting well. Either works. What matters far more than which one you pick is writing down what each number on the scale actually means before anyone scores a single idea, so a 4 for one person means the same thing as a 4 for someone else.</p>
+        <p>Two other frameworks come up often enough to mention. RICE adds a fourth factor, reach, how many people the test will actually touch, which matters once you are comparing a change to a high-traffic page against one on a page almost nobody visits. PXL replaces subjective one-to-five ratings with a set of mostly yes or no questions, which takes longer to score properly but tends to produce far more consistent rankings between two people scoring the same idea than ICE or PIE do, since there is less room for one person's optimism to inflate a number. For a small, founder-led team running a handful of tests a quarter, ICE or PIE is usually the better trade-off between speed and rigour; RICE and PXL earn their extra scoring time once a programme is running several tests at once across multiple pages.</p>
+
+        <h2>Step by step. <em>Five steps from a messy list to a ranked backlog.</em></h2>
+        <ol>
+          <li><strong>Collect every idea in one place.</strong> Pull every proposed test, from every source, a support ticket pattern, a heatmap finding, a stakeholder's hunch, into a single backlog before scoring anything. A prioritisation method applied to only half the ideas floating around the team is not actually prioritising.</li>
+          <li><strong>Agree the scoring scale in writing.</strong> Write down, in a sentence each, what a 1, a 3 and a 5 mean for impact, for confidence and for ease. Without this, two people scoring the same idea will land on different numbers for reasons that have nothing to do with the idea itself.</li>
+          <li><strong>Score impact, confidence and ease separately.</strong> Resist the urge to let a strong gut feeling about one factor bleed into another. An idea can have high potential impact and genuinely low confidence at the same time, and collapsing the two into one vague "how good is this" score is where most informal prioritisation breaks down.</li>
+          <li><strong>Sanity-check confidence with a second person.</strong> Confidence is the factor that inflates fastest, because the person proposing a test is usually also its biggest believer. Have someone who did not propose the idea review the confidence score specifically, and adjust it down where the supporting evidence is thinner than the proposer's enthusiasm suggests.</li>
+          <li><strong>Rank by the combined score and sequence the calendar.</strong> Multiply or sum the three scores depending on your chosen method, sort the backlog, and build your testing calendar in that order. Leave room for one smaller, faster test to jump the queue if its result would meaningfully change the confidence score on several bigger ideas sitting behind it.</li>
+          <li><strong>Revisit the scores on a fixed schedule, not only when someone complains.</strong> Set a recurring monthly checkpoint to re-score anything that has not yet run, especially after a test finishes or the page it concerns changes. A backlog scored once at the start of a quarter and never revisited is prioritising against assumptions that may no longer hold by the time a test actually gets built, which quietly wastes the exercise of scoring it in the first place.</li>
+        </ol>
+
+        <h2>A worked example. <em>Ranking five competing ideas for a UK subscription signup page.</em></h2>
+        <p>Picture a UK-based subscription business with a backlog of five live test ideas competing for the same quarter's testing capacity, each proposed by a different stakeholder convinced theirs should go first. Scored on a 1-to-5 scale for impact, confidence and ease, and multiplied for an ICE score out of 125, the ranking looked like this once the team sat down and scored properly rather than arguing from instinct: simplifying the signup form from seven fields to three (impact 4, confidence 4, ease 4, score 64) ranked above a full homepage redesign (impact 5, confidence 2, ease 1, score 10), a new pricing page layout (impact 4, confidence 3, ease 3, score 36), adding social proof near the signup button (impact 3, confidence 4, ease 5, score 60), and a video explainer on the landing page (impact 3, confidence 2, ease 2, score 12).</p>
+        <p>The homepage redesign had the highest raw impact guess in the room, and before scoring, it was the idea most people assumed would go first simply because it was the biggest, most visible piece of work on the list. Once confidence and ease were scored honestly, rather than assumed, it dropped to the bottom of the list: nobody had strong evidence the redesign would move signups specifically, and it would take weeks to build and test properly. The form simplification and the social proof addition, both smaller and faster, scored highest and both shipped within the same month, while the redesign stayed in the backlog pending a smaller test first to validate whether the homepage was actually where buyers were dropping off at all.</p>
+        <p>Worth noting what the scoring did not do: it did not tell the team the form simplification would definitely win, only that it was the most sensible place to spend the next slot of testing capacity given what was actually known at the time. It won within three weeks, a meaningful lift in completed signups against the existing seven-field form, but the pricing page test that ranked third ran afterwards and underperformed its confidence score, a reminder that even a reasonably scored test can still return a flat or negative result. The value of the ranking was in the sequencing decision it forced, not in guaranteeing any single outcome.</p>
+
+        <h2>Common mistakes. <em>Where CRO prioritisation quietly breaks down.</em></h2>
+        <p>The most common mistake is letting the proposer score their own confidence unchecked, which almost always inflates the number and skews the whole ranking toward whoever is most enthusiastic rather than whoever has the best evidence. The second is treating the score as a forecast rather than a ranking tool: a high ICE score tells you an idea is worth testing before others in the backlog, not that it will definitely win. The third is letting the backlog go stale, scoring once at the start of a quarter and never revisiting as tests finish and traffic or page performance shifts underneath the original assumptions.</p>
+        <p>The fourth, and the one that costs the most testing capacity over a year, is scoring too many ideas as "high impact, high confidence" because nobody wants to be the person who rates a colleague's idea poorly. A scoring method only works if the scores genuinely spread across the scale; a backlog where everything scores a 4 or 5 has not actually been prioritised, it has just been approved. A fifth mistake worth naming is forgetting to write down why an idea scored the way it did, not just the final number. Six months later, when a new team member or a founder asks why a particular test was skipped, "it scored low" is not an answer anyone can learn from, while "we had no evidence this audience segment behaves that way yet" is something the next scoring session can actually act on.</p>
+        <p>None of this needs a bigger testing tool or more traffic than you currently have. It needs a written scale, a backlog in one place instead of scattered across tickets and sticky notes, and someone other than the proposer checking the confidence number before it goes into the ranking. That discipline is what turns a list of competing opinions into a programme that ships the right test next, every time, rather than whichever one won the argument in the room.</p>
+        <p>Our <a href="/services/conversion-rate-optimisation-services.html">conversion rate optimisation work</a> builds exactly this kind of scored, sequenced testing programme before the first test goes live, so the backlog argument never gets the chance to start in the first place.</p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Common <em>questions.</em></h2>
+        <details><summary>What is the simplest way to prioritise CRO experiments?</summary><p>Score every idea on the same three factors, how much it could move the metric, how confident you genuinely are it will work, and how easy it is to build, then rank the backlog by the combined score. The method matters less than everyone scoring against the same written definitions, which is what stops prioritisation turning into whoever argues loudest.</p></details>
+        <details><summary>Should the person who proposed a test also score its confidence?</summary><p>Not alone. Confidence scores inflate badly when the person scoring also came up with the idea, because they are rating their own judgement rather than the evidence behind it. Have at least one other person sanity-check the confidence score before it goes into the ranked list.</p></details>
+        <details><summary>How often should a CRO backlog be re-scored?</summary><p>Every time a test finishes and after any major change to the page or funnel being tested, at minimum monthly for an active programme. Scores based on stale assumptions about traffic or page performance quietly distort the ranking until someone notices the backlog is prioritising ideas that no longer make sense.</p></details>
+        <details><summary>What is a good sample size of ideas to score at once?</summary><p>Enough to force real trade-offs, usually eight to fifteen live ideas. Scoring only two or three removes the actual benefit of a ranking method, since there is barely a decision to make, while scoring dozens at once tends to produce rushed, low-quality confidence estimates.</p></details>
+        <details><summary>Does a high-scoring test always win over a smaller one?</summary><p>Not automatically. A scoring method ranks, it does not dictate, and a smaller, faster test that clears up a genuine unknown, like whether an audience segment behaves the way you assume, can be worth running out of order if its result unlocks confidence on several bigger ideas behind it.</p></details>
+      </section>
+
+      <p class="article-author-note">Written by <a href="/#about">Lauren Pearson, Founder of The Pearson Co.</a>, a Dubai-based fractional SaaS sales and GCC market entry consultant.</p>
+
+      <div class="article-cta">
+        <h2>Got a backlog of test ideas and no agreed way to rank them?</h2>
+        <p>Send me the list and I'll show you how it scores, and what I'd actually run first.</p>
+        <a class="button" data-track="article_cta_click" href="/#contact">Let's talk <span>&#8593;</span></a>
+      </div>
+
+      <div class="related">
+        <p class="related-label">Related reading</p>
+        <ul>
+          <li><a href="/services/conversion-rate-optimisation.html">Conversion rate optimisation</a></li>
+          <li><a href="/services/conversion-rate-optimisation-services.html">Conversion rate optimisation services</a></li>
+          <li><a href="/blog/cro-goals-and-kpis.html">CRO goals and KPIs</a></li>
+          <li><a href="/blog/macro-vs-micro-conversions.html">Macro vs micro conversions</a></li>
+          <li><a href="/blog/what-is-cro-in-marketing.html">What is CRO in marketing?</a></li>
+        </ul>
+      </div>
+    </article>
+  </main>
+
+  <footer><div class="container footer-main"><img src="/logo-the-pearson-co-light.png" alt="The Pearson Co."><p>Real meetings, real pipeline, real customers.</p><div><a href="/services/">Services</a><a href="/blog/">Knowledge Hub</a><a href="/#about">About</a><a href="/#contact">Contact</a></div></div><div class="container footer-bottom"><span>&copy; <span id="year"></span> The Pearson Co.</span><span>Dubai, UAE &middot; Global reach</span><a href="/privacy.html">Privacy</a></div></footer>
+  <a class="whatsapp-float" data-track="whatsapp_click" href="https://wa.me/971585265835?text=Hi%20Lauren%2C%20I%27d%20like%20to%20speak%20about%20working%20with%20The%20Pearson%20Co." target="_blank" rel="noopener" aria-label="Message Lauren on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.6 4.1 1.6 5.9L.2 24l6.5-1.7c1.7.9 3.6 1.4 5.5 1.4 6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4ZM12.2 21.7c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.9 1 1-3.8-.2-.4a9.8 9.8 0 1 1 8.5 4.8Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.7-.3-.5.3-.5.9-1.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2 2.2.9 3.1 1 4.2.8.7-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.2-.3-.4-.4-.7-.5Z"/></svg></a>
+  <aside class="cookie-banner" id="cookie-banner" aria-label="Cookie choices" hidden>
+    <p><strong>Your privacy matters.</strong> With your permission, this site uses analytics and advertising tools to understand what is useful and improve marketing.</p>
+    <div><button class="cookie-secondary" id="cookie-reject" type="button">Essential only</button><button class="button" id="cookie-accept" type="button">Accept analytics</button></div>
+  </aside>
+  <script src="/tracking-config.js"></script>
+  <script src="/script.js"></script>
+</body>
+</html>
